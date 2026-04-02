@@ -4,3 +4,10 @@ __pycache__/
 venv/
 .env
 .ipynb_checkpoints/
+*.pdf
+*.html
+*.pptx
+*.png
+Materials/
+Class Notes/
+Practice/
