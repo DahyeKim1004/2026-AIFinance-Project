@@ -11,3 +11,5 @@ venv/
 Materials/
 Class Notes/
 Practice/
+*.txt
+*.docx
