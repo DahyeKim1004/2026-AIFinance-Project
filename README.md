@@ -9,13 +9,13 @@ Our system leverages the following **5-Phase Pipeline**:
 
 #### Phase 1: Preparation & Macro Context
 - **Goal:** Define the economic weather (Macro State) and gather raw data.
-- **Data:** GDP, Inflation, and VIX data grouped into economic labels (e.g., "Recession", "Expansion").
+- **Data:** GDP, Inflation, and VIX data grouped into economic labels (e.g., "Recession", "Expansion"). Create simple embedding vector using quantiles. 
 - **Text:** Collect shareholder letters, public speeches, and book excerpts from 6-8 target investors (e.g., Buffett, Soros, Dalio).
 - **Financials:** Gather historical portfolio returns to map against.
 
 #### Phase 2: Building the GRU Persona (What they SAY)
 - **Goal:** Analyze how their language choices change depending on the economy.
-- **Process:** Extract risk-attitude keywords using NLP. Feed those sentiment features alongside the Macro State into a GRU sequence model.
+- **Process:** Extract risk-attitude keywords using NLP and LLMs. Feed those sentiment features alongside the Macro State into a GRU sequence model.
 - **Output:** The **"True Persona Score"** (a mathematical baseline of their risk personality across varying economic weathers).
 
 #### Phase 3: Factor Fingerprinting (What they HELD)
