@@ -40,10 +40,13 @@ Our system leverages the following **5-Phase Pipeline**:
 ---
 
 ### Team Roles & Branches
-This repository separates the 5 phases into 4 targeted execution branches:
+This repository separates the work into 4 role-based branches:
 
-- `main` : Stable production branch and finalized documentation.
-- `data-pipeline` : Phase 1 web scraping, portfolio pulling, and macroeconomic labels.
-- `gru-persona` : Phase 2 NLP processing and GRU sequential modeling.
-- `factor-mapping` : Phases 3 & 4 Fama-French baseline regressions and persona-to-factor matching logic.
-- `app-integration` : Phase 5 Streamlit frontend development and user gap-analysis.
+| Branch | Role | Description |
+| :--- | :--- | :--- |
+| `main` | — | Stable production branch and finalized documentation |
+| `text-data-processing` | Role 1 | Annual letter 수집, 정리, tagging. 투자자 목록 & Time Period 최종 확정 |
+| `macro-data-processing` | Role 2 | Macro 변수 정리. 거시 경제 데이터 수집 및 Macro State 라벨링 |
+| `portfolio-data-processing` | Role 3 | Fama-French factor 추출. Role 1 확정 기준에 맞춘 포트폴리오 회귀분석 |
+| `model-architecture` | Role 4 | Personality 축 정의, GRU/PLS 모델 틀 준비, 데이터 스키마 & 코드북 관리 |
+| `app-integration` | — | Phase 5 Streamlit frontend development and user gap-analysis (TBD) |
