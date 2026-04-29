@@ -634,13 +634,155 @@ def scrape_baron(out_dir: Path) -> dict[str, int]:
 
 
 # ---------------------------------------------------------------------------
-# Yacktman (CIK 0000885980 — YACKTMAN FUND INC)
+# Yacktman:
+#   - CIK 0000885980 = YACKTMAN FUND INC (1995-2011 standalone)
+#   - CIK 0001089951 = AMG FUNDS (post-2012, Yacktman is one of many funds.
+#                     N-CSR 본문에 Yacktman-specific letter 섹션 포함)
 # ---------------------------------------------------------------------------
-YACKTMAN_CIK = "0000885980"
+YACKTMAN_CIKS = ("0000885980", "0001089951")
 
 
 def scrape_yacktman(out_dir: Path) -> dict[str, int]:
-    return scrape_edgar_funds("Yacktman", YACKTMAN_CIK, out_dir)
+    counts = {"ok": 0, "skip": 0, "404": 0, "err": 0}
+    # 첫 번째: 본인 entity (1995-2011)
+    c1 = scrape_edgar_funds("Yacktman", YACKTMAN_CIKS[0], out_dir)
+    for k in counts:
+        counts[k] += c1[k]
+    # 두 번째: AMG (2012-) — N-CSR 본문에 Yacktman 섹션 포함
+    # 파일이 다른 fund 와 합본이라 'amg' 태그로 별도 표시.
+    # min_filing_year=2012 — AMG 가 Yacktman 을 인수한 시점, 그 이전 N-CSR
+    # 은 무관한 다른 fund 만 포함하므로 노이즈
+    c2 = scrape_edgar_funds_tagged(
+        "Yacktman", YACKTMAN_CIKS[1], out_dir, tag="amg", min_filing_year=2012
+    )
+    for k in counts:
+        counts[k] += c2[k]
+    return counts
+
+
+def scrape_edgar_funds_tagged(
+    investor_name: str,
+    cik: str,
+    out_dir: Path,
+    *,
+    tag: str,
+    forms: Iterable[str] = LETTER_FORMS_DEFAULT,
+    min_filing_year: int | None = None,
+) -> dict[str, int]:
+    """scrape_edgar_funds 와 동일하되 모든 출력 파일명에 추가 태그를 prepend.
+
+    min_filing_year 가 지정되면 그 해 이전 필링은 스킵 (예: AMG fund 가
+    Yacktman 을 인수하기 전 시기의 무관한 N-CSR 제외).
+    """
+    forms_set = set(forms)
+    counts = {"ok": 0, "skip": 0, "404": 0, "err": 0}
+    cik_padded = cik.lstrip("0").rjust(10, "0")
+    sub_url = f"https://data.sec.gov/submissions/CIK{cik_padded}.json"
+
+    try:
+        r = requests.get(sub_url, headers=EDGAR_HEADERS, timeout=TIMEOUT)
+        r.raise_for_status()
+    except requests.RequestException as e:
+        print(f"  ERR    submissions fetch: {e}")
+        counts["err"] += 1
+        return counts
+
+    data = r.json()
+    print(f"  EDGAR  {data.get('name','?')} (CIK {cik_padded}) tag={tag}")
+
+    recent = data["filings"]["recent"]
+    rows = list(zip(
+        recent["form"],
+        recent["filingDate"],
+        recent["accessionNumber"],
+        recent["primaryDocument"],
+    ))
+    older_files = data["filings"].get("files", [])
+    for older in older_files:
+        oname = older.get("name")
+        if not oname:
+            continue
+        try:
+            rr = requests.get(
+                f"https://data.sec.gov/submissions/{oname}",
+                headers=EDGAR_HEADERS, timeout=TIMEOUT
+            )
+            time.sleep(REQUEST_DELAY_SEC)
+            if rr.status_code != 200:
+                continue
+            od = rr.json()
+            rows.extend(list(zip(
+                od.get("form", []),
+                od.get("filingDate", []),
+                od.get("accessionNumber", []),
+                od.get("primaryDocument", []),
+            )))
+        except (requests.RequestException, ValueError):
+            continue
+
+    rows = [r for r in rows if r[0] in forms_set]
+    # filing date 가 min_filing_year 이전이면 제외
+    if min_filing_year is not None:
+        rows = [
+            r for r in rows
+            if int(r[1].split("-")[0]) >= min_filing_year
+        ]
+    if not rows:
+        print(f"  WARN   no matching forms found for CIK {cik_padded}")
+        return counts
+
+    parsed = []
+    for form, date, acc, primary in rows:
+        acc_nodash = acc.replace("-", "")
+        if not primary:
+            primary = _resolve_primary_doc(cik_padded, acc_nodash)
+            if not primary:
+                continue
+        ext = (Path(primary).suffix or ".htm").lstrip(".").lower()
+        if ext == "html":
+            ext = "htm"
+        year, period = edgar_period_from_filing(date, form)
+        parsed.append((date, form, acc_nodash, primary, year, period, ext))
+
+    # 동일 (year, period, ext) 그룹 → 인덱스로 disambiguate
+    target_groups: dict[tuple[int, str | None, str], list] = {}
+    for item in parsed:
+        date, form, acc, primary, year, period, ext = item
+        target_groups.setdefault((year, period, ext), []).append(item)
+
+    for key, items in target_groups.items():
+        year, period, ext = key
+        items.sort(key=lambda x: x[0])
+        by_date: dict[str, list] = {}
+        for item in items:
+            by_date.setdefault(item[0], []).append(item)
+        dates_sorted = sorted(by_date.keys())
+        is_multi_date = len(dates_sorted) > 1
+        for date_idx, date in enumerate(dates_sorted):
+            grp = by_date[date]
+            for sub_idx, item in enumerate(grp):
+                date, form, acc, primary, year_, period_, ext_ = item
+                tags = [tag]
+                if is_multi_date and date_idx > 0:
+                    fm = int(date.split("-")[1])
+                    tags.append(_MONTHS[fm - 1])
+                if len(grp) > 1 and sub_idx > 0:
+                    tags.append(f"a{acc[-6:]}")
+                if ext_ in ("xml", "json", "xsd"):
+                    continue
+                dest = out_dir / fname(
+                    investor_name,
+                    year_,
+                    semi=1 if period_ == "S1" else (2 if period_ == "S2" else None),
+                    tags=tags,
+                    ext=ext_,
+                )
+                url = (
+                    f"https://www.sec.gov/Archives/edgar/data/"
+                    f"{int(cik_padded)}/{acc}/{primary}"
+                )
+                counts[download(url, dest, headers=EDGAR_HEADERS)] += 1
+    return counts
 
 
 # ---------------------------------------------------------------------------

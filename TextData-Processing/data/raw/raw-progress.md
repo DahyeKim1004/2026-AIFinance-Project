@@ -13,13 +13,17 @@
 |---|---|---|---|---|---|---|---|
 | 1 | **Buffett** | ✅ 수집 완료 | 1977~2024 (48y) | 연간 | HTML(1977-1997) + PDF(1998-2024) | 54 | 8.9 MB |
 | 2 | **Hawkins** | ✅ 수집 완료 | 1995~2026 (32y) | 1995-2021 반기 → 2022~ 분기 | PDF(site) + HTML/TXT(EDGAR) | 125 | 82 MB |
-| 3 | **Grantham** | ⚠️ 부분 수집 | 2008~2026 (sparse) | 분기 letter (sitemap 한정) | PDF(gmo.com) | 26 | 8.6 MB |
+| 3 | **Grantham** | ⚠️ 부분 수집 | 2008~2026 (sparse 다수) | 분기 letter (정형 + 시그니처) | PDF(gmo.com) | 38 | 17 MB |
 | 4 | **Driehaus** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 65 | 142 MB |
 | 5 | **Einhorn** | ❌ 사실상 부재 | 2020-2021 (2건) | 비정형 (GLRE 8-K best-effort) | HTML(EDGAR) | 2 | 16 KB |
 | 6 | **Baron** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 76 | 125 MB |
-| 7 | **Yacktman** | ⚠️ 2011 cutoff | 1995~2011 (17y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 31 | 17 MB |
+| 7 | **Yacktman** | ✅ 수집 완료 | 1995~2025 (30y) | 1995-2011 standalone + 2012- AMG | HTML/TXT(EDGAR) | 127 | 266 MB |
 
-**Aggregate**: 379 파일 / ~381 MB (전체 7명 1차 수집 완료)
+**Aggregate**: 487 파일 / ~641 MB (전체 7명 1차 수집 완료)
+
+> **확장 이력**: 1차 379 → 487 파일
+> - Grantham 26 → 38 (gmo.com PDF URL 패턴 brute-force)
+> - Yacktman 31 → 127 (AMG FUNDS CIK 1089951 추가, 2012+ filings 만)
 
 ---
 
@@ -112,36 +116,38 @@ Longleaf Partners Funds (Partners / Small-Cap / International / Global) 의 shar
 ## INV_GRANTHAM — Jeremy Grantham (GMO)  ⚠️ 부분 수집
 
 ### 수집된 자료
-GMO research-library 의 분기 letter PDF. **gmo.com sitemap.xml 에 등재된 letter 만 자동 수집 가능**.
+GMO research-library 의 분기 letter PDF. 두 가지 출처 결합:
+1. **sitemap.xml 등재 landing page** → landing 에서 PDF 추출 (시그니처 essay 포함)
+2. **PDF URL 패턴 brute-force** ([scripts/_grantham_brute.py](../../scripts/_grantham_brute.py)) — `gmo-quarterly-letter_{q}q{yy}.pdf` 패턴으로 직접 시도
 
 ### 파일 형식 / 출처
-- **GMO 분기 letter** (`https://www.gmo.com/americas/research-library/{slug}_gmoquarterlyletter/`) — landing page 에서 PDF 링크 추출 후 다운로드
-- 2개 패턴:
-  - 정형: `{q}q-{yyyy}-gmo-quarterly-letter` (e.g. 1q-2010, 1q-2023)
-  - 자유 slug (시그니처 essay): `race-of-our-lives`, `up-at-night`, `tariffs-...` 등 — 본 스크래퍼는 slug 에서 year/quarter 추출 못 하면 SKIP
+- **GMO 분기 letter** PDF — `https://www.gmo.com/globalassets/articles/quarterly-letter/{YYYY}/{slug}.pdf`
+- 두 패턴:
+  - 정형: `gmo-quarterly-letter_{q}q{yy}` → `Grantham_17_Q1.pdf` 등
+  - 자유 slug (시그니처 essay): `up-at-night`, `tariffs-...`, `race-of-our-lives` 등 → `Grantham_24_Q2_bargain.pdf` 같이 라벨 보존
 
 ### Cadence + 커버리지
-**분기 native, 단 sitemap 등재 분량만**:
+**분기 native, 단 sitemap 등재 분량 + brute-force 가능 분량 만**:
 
 | 연도 | 수집 분기 | 비고 |
 |---|---|---|
-| 2008 | (named: globalbubble) | 이름 기반 |
-| 2009 | (named: purgatory) | 이름 기반 |
-| 2010 | Q2 only | 정형 slug 다수 누락 |
-| 2011-2016 | 없음 | sitemap 미등재 |
-| 2017 | (named: stalin) | 이름 기반 |
-| 2018 | Q1, Q2 | Q3, Q4 누락 |
+| 2008 | _globalbubble | 시그니처 essay |
+| 2009 | _purgatory | 시그니처 essay |
+| 2010 | Q2 | Q1, Q3, Q4 누락 |
+| 2011-2016 | 없음 | URL 패턴이 다른 시기 — Wayback Machine 조사 필요 |
+| 2017 | Q1, Q2, Q3, Q4 + _stalin | full + 시그니처 |
+| 2018 | Q1, Q2, Q4 | Q3 누락 |
 | 2019 | Q1, Q2, Q3 | Q4 누락 |
 | 2020 | Q1, Q2, Q3 | Q4 누락 |
 | 2021 | Q1-Q4 | full |
 | 2022 | Q1-Q4 | full |
-| 2023 | Q1 only | 나머지 누락 |
-| 2024 | Q2 (bargain), Q3 (trade) | 시그니처 명만 |
-| 2025 | Q1 (tariffs), Q2 (unexcept) | 시그니처 명만 |
-| 2026 | Q1 (bubble) | |
+| 2023 | Q1, Q3, Q4 | Q2 누락 |
+| 2024 | Q1, Q2 (+_bargain), Q4 (+_trade Q3 시그니처) | |
+| 2025 | Q1 (+_tariffs 별도), Q2 (+_unexcept 별도), Q3, Q4 | |
+| 2026 | Q1 + _bubble | |
 
 ### 저장 위치
-[data/raw/grantham/](grantham/) — 26 PDF, 8.6 MB
+[data/raw/grantham/](grantham/) — 38 PDF, 17 MB
 
 ### 분기 데이터 확보를 위한 추가 단계 (gap 보완)
 1. **Wayback Machine archive**: 2011-2016 letter 들이 archive.org 에 보존되어 있을 가능성 → `wayback_machine_downloader` 또는 직접 API 호출
@@ -231,29 +237,38 @@ Baron Investment Funds Trust (CIK 0000810902, formerly Baron Asset Fund) + Baron
 
 ---
 
-## INV_YACKTMAN — Don Yacktman ⚠️ 2011 cutoff
+## INV_YACKTMAN — Don Yacktman ✅ 1995-2025 (full coverage)
 
 ### 수집된 자료
-Yacktman Fund Inc (CIK 0000885980) 의 N-CSR / N-CSRS / N-30D 시계열 — **1995년 ~ 2011년 (17년)**.
+두 entity 결합:
+1. **Yacktman Fund Inc (CIK 0000885980)** — 1995년 ~ 2011년 (17년 standalone)
+2. **AMG FUNDS (CIK 0001089951)** — 2012년 ~ 2025년 (AMG 인수 후, 다른 fund 와 합본 N-CSR)
 
 ### 파일 형식 / 출처
-- **EDGAR Yacktman Fund Inc (CIK 0000885980)** — N-CSR/N-CSRS/N-30D
-- 1995-2011 연도별 반기
+- **EDGAR Yacktman Fund Inc (1995-2011)**:
+  - 파일명: `Yacktman_95.txt`, `Yacktman_95_S1.txt` (annual + semi-annual)
+- **EDGAR AMG FUNDS (2012-2025)**:
+  - 파일명: `Yacktman_22_amg.htm`, `Yacktman_22_S1_amg.htm` 등 — `_amg` 태그 로 출처 구분
+  - **N-CSR 본문은 AMG fund family 합본**이라 Yacktman 섹션을 별도로 추출 필요 (text_cleaner.py 단계)
+
+### Filter 정책
+스크래퍼는 `min_filing_year=2012` 로 AMG entity 의 pre-2012 N-CSR 제외 (Yacktman 인수 전 무관 fund 만 포함). **AMG 인수 시점 검증**: 2012년 3월 이전 AMG N-CSR 에 "yacktman" 문자열 0건 → cutoff 합당.
 
 ### Cadence
-**반기**
+**반기** (annual + semi-annual)
 
 ### 저장 위치
-[data/raw/yacktman/](yacktman/) — 31 HTML/TXT, 17 MB
+[data/raw/yacktman/](yacktman/) — 127 HTML/TXT, 266 MB
+- 31 standalone (1995-2011, 2 docs/year)
+- 96 AMG-era (2012-2025, 다중 N-CSR — 각 series 별로)
 
-### Note: 2012 이후 cutoff
-Yacktman Fund Inc (CIK 885980) 는 **2012년 3월 이후 N-CSR 필링 중단**. AMG (Affiliated Managers Group) 가 운용사를 인수하면서 fund 가 AMG family 의 다른 trust 로 reorganize 된 것으로 추정 (현재 AMG Funds I/III/IV 후보 중 하나에 통합되었을 가능성).
-
-PLAN.md §2 의 "1992~ (30y) 13F" 와 모순되지 않음 (asset management firm 수준 13F 는 별도 entity = CIK 0000874118 에서 계속). 다만 **mutual fund letter** 는 2011 cutoff. 이 시기 이후 Yacktman 의 voice 는 Stephen Yacktman (아들) / Jason Subotky 공동 운용 시기로 들어감.
+### Note: Don Yacktman 본인 vs AMG era
+PLAN.md §2 의 "Don Yacktman 은 2016년 은퇴" — AMG 시기 중 2012-2016 은 Don Yacktman 직접 운용, 2016 이후는 Stephen Yacktman / Jason Subotky 공동 운용. Persona 분석 시 **2016 cutoff** 권장.
 
 ### 분기 데이터 확보를 위한 추가 단계
-1. **AMG fund family 후속 entity 식별** (TODO): AMG Funds Yacktman Focused Fund (현재) 의 정확한 CIK 추적 → 2012-2025 letter 보충
-2. **2025-04-30 시점에는 1995-2011 만으로 진행** — Don Yacktman 본인 shareholder letter signature 시기에 부합
+1. **반기 → 분기 carry-forward** (Hawkins 와 동일)
+2. **AMG N-CSR 에서 Yacktman-specific 섹션만 추출** — text_cleaner.py 가 "Yacktman Focused Fund" 또는 "Yacktman Fund" 헤더 기반으로 Slice
+3. **2016 cutoff 적용 결정**: Role 4 합의 후 본인-only 모드와 후임 포함 모드 분리
 
 ---
 
@@ -262,13 +277,13 @@ PLAN.md §2 의 "1992~ (30y) 13F" 와 모순되지 않음 (asset management firm
 ```
 Buffett                  54 files (48 letters + 6 stubs)         8.9  MB  1977-2024
 Hawkins                 125 files (57 site PDF + 68 EDGAR)      82    MB  1995-2026
-Grantham                 26 files (PDF, sparse)                  8.6  MB  2008-2026
+Grantham                 38 files (PDF — 26 sitemap + 12 brute)  17    MB  2008-2026
 Driehaus                 65 files (HTML/TXT EDGAR)             142    MB  1996-2025
 Einhorn                   2 files (GLRE 8-K best-effort)         0.02 MB  2020-2021
 Baron                    76 files (HTML/TXT EDGAR)             125    MB  1996-2025
-Yacktman                 31 files (HTML/TXT EDGAR)              17    MB  1995-2011
+Yacktman                127 files (31 own + 96 AMG-era)        266    MB  1995-2025
                          ──────────────────────────────────────────────────
-                        379 files                              381    MB
+                        487 files                              641    MB
 ```
 
 `.gitignore` 처리되어 commit 안됨. 본 `raw-progress.md` 만 화이트리스트 (`data/raw/raw-progress.md`) 로 commit.
@@ -279,26 +294,33 @@ Yacktman                 31 files (HTML/TXT EDGAR)              17    MB  1995-2
 
 1. **Role 4 와 메타데이터 스키마 합의** (PLAN §9 step 3, 블로킹) — 특히 cadence 가 mixed (annual / semiannual / quarterly / 비정형) 인 점 반영해 `source_type` 어휘 + `chunk_id` 의미 + 펀드별 분리 정책 확정
 2. **text_cleaner.py 파일럿** — N-CSR HTML 에서 "To Our Shareholders" / manager letter 섹션 추출. PDF→텍스트, 헤더/푸터 제거 → `data/interim/{investor}_{quarter}.xlsx`
-3. **Grantham gap 보완** (HIGH) — Wayback Machine 또는 Playwright 로 2011-2016 + 일부 누락 분기 letter 보충
+3. **Grantham gap 보완** (MEDIUM) — 2011-2016 letter 들 Wayback Machine 또는 Playwright 로 추가. 현재 38 letter 로도 2017-2026 + 2008-2010 부분 커버
 4. **Einhorn 우회 수집** (BLOCKING) — Playwright + Cloudflare 우회로 hedgefundalpha 또는 valuewalk archive 접근 시도. 실패 시 PLAN.md 카테고리 재논의
-5. **Yacktman AMG era 통합** (LOW) — 2012-2024 letter 가 정말 필요한지 결정 후 AMG fund CIK 추적
+5. **AMG N-CSR 에서 Yacktman 섹션 추출** — 2012-2025 의 96 AMG 합본 N-CSR 에서 Yacktman-specific 부분만 slice (text_cleaner.py 단계)
 6. **분기 cadence alignment 정책 확정** — 반기 → 분기 mapping 규칙을 text_tagger.py 단계에서 일괄 적용
 
 ---
 
 ## Reproducibility
 
-수집은 [scripts/text_scraper.py](../../scripts/text_scraper.py) 단일 스크립트 + [scripts/_naming.py](../../scripts/_naming.py) 명명 helper + [scripts/_rename_existing.py](../../scripts/_rename_existing.py) 마이그레이션 (1회용) 로 idempotent.
+수집은 다음 스크립트 조합으로 idempotent:
+- [scripts/text_scraper.py](../../scripts/text_scraper.py) — 7명 통합 스크래퍼
+- [scripts/_naming.py](../../scripts/_naming.py) — 명명 helper
+- [scripts/_rename_existing.py](../../scripts/_rename_existing.py) — 마이그레이션 (1회용)
+- [scripts/_grantham_brute.py](../../scripts/_grantham_brute.py) — Grantham PDF URL brute-force 보강
 
 ```bash
 cd 2026-AIFinance-Project/TextData-Processing
 
 # 신규 수집 (인자 없으면 7명 모두)
-python scripts/text_scraper.py
-python scripts/text_scraper.py buffett hawkins
-python scripts/text_scraper.py grantham                # GMO sitemap-driven
-python scripts/text_scraper.py driehaus baron yacktman # EDGAR
-python scripts/text_scraper.py einhorn                 # GLRE 8-K best-effort
+PYTHONIOENCODING=utf-8 python scripts/text_scraper.py
+PYTHONIOENCODING=utf-8 python scripts/text_scraper.py buffett hawkins
+PYTHONIOENCODING=utf-8 python scripts/text_scraper.py grantham         # GMO sitemap-driven
+PYTHONIOENCODING=utf-8 python scripts/text_scraper.py driehaus baron yacktman  # EDGAR
+PYTHONIOENCODING=utf-8 python scripts/text_scraper.py einhorn          # GLRE 8-K best-effort
+
+# Grantham brute-force 추가 수집 (PDF URL 직접 패턴 매칭)
+PYTHONIOENCODING=utf-8 python scripts/_grantham_brute.py
 
 # 명명규칙 마이그레이션 (1회 실행 후 끝)
 python scripts/_rename_existing.py --dry-run  # 미리보기
@@ -306,3 +328,5 @@ python scripts/_rename_existing.py            # 실제 rename
 ```
 
 이미 다운로드된 파일은 자동 skip. SEC EDGAR 호출은 정책 준수 UA + 0.3s rate-limit 적용 (10 req/s 제한 안에서 운용).
+
+Windows 환경에서는 `PYTHONIOENCODING=utf-8` 필요 (cp949 콘솔 인코딩 회피).
