@@ -6,18 +6,17 @@
 
 ---
 
-## TL;DR — 8명 진행률
+## TL;DR — 7명 진행률
 
 | # | Investor | 상태 | 시계열 커버 | Native cadence | 파일 형식 | 파일 수 | 디스크 |
 |---|---|---|---|---|---|---|---|
 | 1 | **Buffett** | ✅ 수집 완료 | 1977~2024 (48y) | 연간 | HTML(1977-1997) + PDF(1998-2024) | 48 + 6 stub | 8.9 MB |
 | 2 | **Hawkins** | ✅ 수집 완료 | 1996~2026 (30y) | 1996-2021 반기 → 2022~ 분기 | PDF(site) + HTML/TXT(EDGAR) | 125 | 82 MB |
-| 3 | Dalio | ⏳ 미착수 | — | 비정형 (LinkedIn) | — | — | — |
-| 4 | Druckenmiller | ⏳ 미착수 | — | 비정형 (인터뷰) | — | — | — |
-| 5 | Driehaus | ⏳ 미착수 | — | 분기 (예상) | — | — | — |
-| 6 | Einhorn | ⏳ 미착수 | — | 분기 (예상) | — | — | — |
-| 7 | Baron | ⏳ 미착수 | — | 분기 (예상) | — | — | — |
-| 8 | Yacktman | ⏳ 미착수 | — | 반기 (예상) | — | — | — |
+| 3 | Grantham | ⏳ 미착수 | — | 분기 letter (2010~) + 시그니처 essay | — | — | — |
+| 4 | Driehaus | ⏳ 미착수 | — | 분기 (예상) | — | — | — |
+| 5 | Einhorn | ⏳ 미착수 | — | 분기 (예상) | — | — | — |
+| 6 | Baron | ⏳ 미착수 | — | 분기 (예상) | — | — | — |
+| 7 | Yacktman | ⏳ 미착수 | — | 반기 (예상) | — | — | — |
 
 **Aggregate**: 173 파일 / ~91 MB (Phase 1 파일럿 2명 완료)
 
@@ -97,33 +96,29 @@ Longleaf Partners Funds (Partners / Small-Cap / International / Global) 의 shar
 
 ---
 
-## INV_DALIO — Ray Dalio  ⏳
+## INV_GRANTHAM — Jeremy Grantham (GMO)  ⏳
 
 ### 예상 cadence / 출처
-- **LinkedIn 포스트** ([raydalio profile](https://www.linkedin.com/in/raydalio)) — 비정형, 주~월 단위 발행
-- **저서** Principles, Big Debt Crises 등 (정적, 인용용)
-- **인터뷰 transcript** (Bloomberg, CNBC, Davos 등)
+- **GMO 분기 letter** (`https://www.gmo.com/americas/research-library/`) — 2010~ 무료 PDF archive 직접 접근. 저자는 Grantham 본인 시그니처 essay + Ben Inker / James Montier 등 GMO 파트너 분기 letter
+- **GMO 7-Year Asset Class Forecast** — 분기 단위 발행, gmo.com 별도 페이지
+- **Grantham 시그니처 에세이**: 여름 essay, "Race of Our Lives", 주요 Bubble call (2000 dotcom, 2007 housing, 2021 SPAC/superbubble) 등 — gmo.com PDF로 보존
+
+### PDF URL 패턴
+`https://www.gmo.com/globalassets/articles/quarterly-letter/{YYYY}/{slug}_{author}_{q}{yyyy}.pdf`
+예시:
+- `quarterly-letter/2010/jeremygrantham_summeressays_2q2010.pdf`
+- `quarterly-letter/2013/the-race-of-our-lives_jeremy-grantham_2013.pdf`
+- `quarterly-letter/2023/gmo-quarterly-letter_1q-2023.pdf`
 
 ### 분기 데이터 확보를 위한 추가 단계
-1. **LinkedIn 스크래핑** (가장 까다로움): LinkedIn 은 로그인월/JS 렌더 → 일반 `requests` 불가. 옵션:
-   - (a) `insane-search` Claude Code 플러그인의 Phase 2-3 (curl_cffi + Playwright)
-   - (b) Bridgewater 공식 archive (`https://www.bridgewater.com/research-and-insights`) — Dalio 글이 종종 cross-post 됨, 공개 PDF 다수
-2. **인터뷰 transcript**: YouTube 자막 (`yt-dlp --write-auto-sub`) + Bloomberg/CNBC archive
-3. **분기 시간창 그룹핑**: 비정형 cadence 라 chunk_id 로 분기 내 다중 텍스트 표현 가능 (PLAN §7 chunk_id 컬럼)
-4. **저서 발췌**: Principles 챕터 분할 → static 컨텍스트로만 사용 (분기 정렬 X)
+1. **Research library 인덱싱**: gmo.com/americas/research-library/ 에서 분기 letter 슬러그 수집 (Cloudflare 보호 있으나 PDF 엔드포인트는 표준 UA 로 접근 가능)
+2. **시그니처 essay 별도 태깅**: source_type 을 `quarterly_letter` 와 `signature_essay` 로 분리. 시그니처 essay 는 분기 letter 에 carry-forward 또는 별도 row
+3. **저자 필터링**: Grantham 본인 작성분 vs GMO 파트너 작성분을 메타데이터(`author` 컬럼 또는 `source_type` suffix)로 구분
+4. **EDGAR 폴백**: GMO Trust (CIK 0000772129) N-CSR/N-CSRS — 펀드 commentary 보충용 (Hawkins 와 동일 전략)
+5. **2010 이전 letter**: Wayback Machine 으로 gmo.com archive 시도, 2000~2009 분기 letter 일부 복원 가능성 (`Required Reading` 섹션에서 1Q2000, 1Q2007 등 일부 surface 됨)
 
----
-
-## INV_DRUCKENMILLER — Stanley Druckenmiller  ⏳
-
-### 예상 cadence / 출처
-- **YouTube/CNBC/Sohn/Bloomberg 인터뷰 transcript** — 분기당 1-2건 정도
-
-### 분기 데이터 확보를 위한 추가 단계
-1. **YouTube transcript** (`yt-dlp --write-auto-sub --skip-download`): "Druckenmiller interview" 검색 결과 다운로드. `insane-search` 플러그인의 yt-dlp 빌트인 핸들러 활용 가능
-2. **CNBC transcript archive**: `cnbc.com/2024/03/05/...druckenmiller...` 류 페이지 스크래핑
-3. **Sohn Conference**: 매년 5월 Sohn Investment Conference, Druckenmiller 정기 출연. 2010년대 transcript archive 검색
-4. **분기 그룹핑 + carry-forward**: 인터뷰 발생 분기에 전체 텍스트 할당, 인터뷰 없는 분기는 직전 분기 carry-forward (또는 빈 row)
+### 13F 시계열과의 정렬
+GMO LLC 의 13F-HR 은 2006-02-08 부터 (CIK 1352662, 81 filings, equity 100%). 분기 letter 가 2010~ 이라 2006-2009 의 4년 갭은 EDGAR N-CSR 또는 Wayback 으로 보충 시도.
 
 ---
 
@@ -196,7 +191,7 @@ Hawkins (EDGAR)           68 HTML/TXT (1996-2026)       57  MB
 
 1. **Role 4 와 메타데이터 스키마 합의** (PLAN §9 step 3, 블로킹) — 특히 cadence 가 mixed (annual / semiannual / quarterly / 비정형) 인 점 반영해 `source_type` 어휘 + `chunk_id` 의미 + 펀드별 분리 정책 확정
 2. **text_cleaner.py 파일럿** (Buffett + Hawkins 만 우선) — N-CSR HTML 에서 "To Our Shareholders" 섹션 추출, PDF→텍스트, 헤더/푸터 제거 → `data/interim/{investor}_{quarter}.xlsx`
-3. **나머지 6명 수집**: 우선순위 — 사이트 정적인 Driehaus/Baron/Yacktman → EDGAR 활용 가능한 Einhorn → 비정형 Dalio/Druckenmiller (가장 어렵)
+3. **나머지 5명 수집**: 우선순위 — 사이트 정적인 Driehaus/Baron/Yacktman → EDGAR 활용 가능한 Einhorn → GMO Grantham (gmo.com PDF 정적 패턴, Buffett/Hawkins 스크래퍼 재사용)
 4. **분기 cadence alignment 정책 확정**: §6 의 cadence 노트 표 기반으로 carry-forward / chunk 분할 / 다중 fund 처리 규칙을 text_tagger.py 단계에서 일괄 적용
 
 ---
