@@ -6,3 +6,9 @@ venv/
 .ipynb_checkpoints/
 Meetings/
 Research Design/
+
+# Role 1 (TextData-Processing) — 무거운 원본/중간 산출물 제외
+TextData-Processing/data/raw/
+TextData-Processing/data/interim/
+TextData-Processing/notebooks/
+*.ipynb

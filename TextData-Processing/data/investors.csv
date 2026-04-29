@@ -1,0 +1,9 @@
+investor_id,name,firm,cik,category,style_short,thirteen_f_start,text_source_primary,text_source_url,recognition_score,etf_mapping
+INV_BUFFETT,Warren Buffett,Berkshire Hathaway,1067983,Quality Compounder Value,quality_value,1998,annual_letter,https://www.berkshirehathaway.com/letters/letters.html,5,"MOAT;QUAL;VLUE"
+INV_HAWKINS,Mason Hawkins,Southeastern Asset Management,807985,Deep Value Contrarian,deep_value,1996,quarterly_letter,https://southeasternasset.com/commentary/,4,"RPV;IUSV"
+INV_DALIO,Ray Dalio,Bridgewater Associates,1350694,Macro Systematic,macro_systematic,2006,social_post,https://www.linkedin.com/in/raydalio,5,"RPAR;AOA"
+INV_DRUCKENMILLER,Stanley Druckenmiller,Duquesne Family Office,1536411,Macro Discretionary,macro_discretionary,2012,interview,https://www.youtube.com/results?search_query=druckenmiller+interview,5,"DBMF;KMLM"
+INV_DRIEHAUS,Richard Driehaus,Driehaus Capital Management,938206,Momentum / Trend,momentum,1999,market_commentary,https://www.driehaus.com/insights,3,"MTUM;PDP"
+INV_EINHORN,David Einhorn,Greenlight Capital,1079114,Long/Short Fundamental,long_short_fundamental,2000,quarterly_letter,https://hedgefundalpha.com,4,"BTAL;QLS"
+INV_BARON,Ron Baron,Baron Capital (BAMCO),1017918,Disruptive Growth,disruptive_growth,2000,quarterly_letter,https://www.baronfunds.com/insights/quarterly-reports,5,"ARKK;QQQ"
+INV_YACKTMAN,Don Yacktman,Yacktman Asset Management,874118,Dividend Growth,dividend_growth,1992,interim_letter,https://www.yacktman.com,3,"SCHD;VIG;NOBL"
