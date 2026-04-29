@@ -13,3 +13,6 @@ TextData-Processing/data/raw/*
 TextData-Processing/data/interim/
 TextData-Processing/notebooks/
 *.ipynb
+
+# 스크래퍼 임시 로그
+TextData-Processing/scripts/_*.log
