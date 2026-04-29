@@ -1,0 +1,185 @@
+{
+  "project": {
+    "name": "InvestorDNA",
+    "description": "AI-powered investor persona mapping to factor-based portfolio recommendations",
+    "version": "1.0.0",
+    "last_updated": "2026-04-29",
+    "maintained_by": "Role 4 (Model Architecture & Data Schema)"
+  },
+
+  "investors": {
+    "total_count": 8,
+    "id_format": "INV_{SURNAME_UPPERCASE}",
+    "list": [
+      "INV_BUFFETT",
+      "INV_HAWKINS",
+      "INV_DALIO",
+      "INV_DRUCKENMILLER",
+      "INV_DRIEHAUS",
+      "INV_EINHORN",
+      "INV_BARON",
+      "INV_YACKTMAN"
+    ],
+    "selection_criteria": {
+      "min_13f_years": 15,
+      "text_cadence_required": true,
+      "equity_pure_13f": true,
+      "min_recognition_score": 3
+    },
+    "source_file": "data/processed/investors.csv",
+    "source_role": "Role 1 (Text Data Processing)"
+  },
+
+  "time_period": {
+    "policy": "per_investor_activity_window",
+    "description": "각 투자자의 13F + 텍스트 공존 분기를 개별 사용. 공통 교집합 강제하지 않음.",
+    "earliest_possible": "1992-Q1",
+    "latest_possible": "latest_completed_quarter",
+    "cadence": "quarterly",
+    "quarter_format": "YYYY-QN",
+    "quarter_definition": {
+      "Q1": "Jan-Mar",
+      "Q2": "Apr-Jun",
+      "Q3": "Jul-Sep",
+      "Q4": "Oct-Dec"
+    }
+  },
+
+  "datasets": {
+    "investor_text": {
+      "file": "data/processed/investor_text.csv",
+      "source_role": "Role 1 (Text Data Processing)",
+      "description": "정제된 투자자 텍스트 코퍼스. FinBERT embedding 추출의 입력.",
+      "primary_keys": ["investor_id", "year_quarter", "chunk_id"],
+      "columns": {
+        "investor_id": { "type": "string", "nullable": false, "foreign_key": "investors.investor_id" },
+        "year_quarter": { "type": "string", "nullable": false, "format": "YYYY-QN" },
+        "source_type": { "type": "string", "nullable": false, "enum": "source_type_vocabulary" },
+        "chunk_id": { "type": "integer", "nullable": false, "min": 1 },
+        "text_content": { "type": "string", "nullable": false },
+        "word_count": { "type": "integer", "nullable": false, "min": 1 },
+        "source_url": { "type": "string", "nullable": true }
+      },
+      "cadence_alignment": {
+        "annual_to_quarterly": "carry-forward (same text replicated to 4 quarters)",
+        "semiannual_to_quarterly": "carry-forward (same text replicated to 2 quarters)",
+        "irregular_to_quarterly": "grouped by quarter time window"
+      }
+    },
+
+    "macro_state": {
+      "file": "data/processed/macro_state.csv",
+      "source_role": "Role 2 (Macro Data Processing)",
+      "description": "거시 경제 상태 벡터. 5차원 quantile로 표현된 분기별 경제 상황.",
+      "primary_keys": ["year_quarter"],
+      "columns": {
+        "year_quarter": { "type": "string", "nullable": false, "format": "YYYY-QN" },
+        "cycle":     { "type": "float", "nullable": false, "min": 0.0, "max": 1.0, "fred_series": "GDPC1",    "transform": "YoY_pct_change" },
+        "inflation": { "type": "float", "nullable": false, "min": 0.0, "max": 1.0, "fred_series": "CPIAUCSL", "transform": "YoY_pct_change" },
+        "monetary":  { "type": "float", "nullable": false, "min": 0.0, "max": 1.0, "fred_series": "FEDFUNDS", "transform": "level" },
+        "stress":    { "type": "float", "nullable": false, "min": 0.0, "max": 1.0, "fred_series": "VIXCLS",   "transform": "level" },
+        "sentiment": { "type": "float", "nullable": false, "min": 0.0, "max": 1.0, "fred_series": "UNRATE",   "transform": "inverted_level" },
+        "label":     { "type": "string", "nullable": false, "enum": ["Recession", "Expansion", "Neutral", "Stagflation Risk", "Inflationary Tightening"] }
+      },
+      "quantile_method": "continuous quantile (0-1) over full historical window",
+      "quantile_labels": {
+        "0.0": "historical minimum",
+        "1.0": "historical maximum"
+      }
+    },
+
+    "factor_fingerprint": {
+      "file": "data/processed/factor_fingerprint.csv",
+      "source_role": "Role 3 (Portfolio Data Processing)",
+      "description": "Fama-French 5-Factor 회귀 결과. 투자자별 분기별 팩터 노출도.",
+      "primary_keys": ["year_quarter", "investor_id"],
+      "columns": {
+        "year_quarter": { "type": "string", "nullable": false, "format": "YYYY-QN" },
+        "investor_id": { "type": "string", "nullable": false, "foreign_key": "investors.investor_id" },
+        "mkt_rf": { "type": "float", "nullable": false, "description": "Market factor exposure (beta)" },
+        "smb":    { "type": "float", "nullable": false, "description": "Size factor (Small Minus Big)" },
+        "hml":    { "type": "float", "nullable": false, "description": "Value factor (High Minus Low)" },
+        "rmw":    { "type": "float", "nullable": false, "description": "Profitability factor (Robust Minus Weak)" },
+        "cma":    { "type": "float", "nullable": false, "description": "Investment factor (Conservative Minus Aggressive)" },
+        "alpha":  { "type": "float", "nullable": false, "description": "Jensen's Alpha (intercept)" }
+      },
+      "regression": {
+        "model": "OLS",
+        "factors": "Fama-French 5-Factor",
+        "data_source": "Kenneth French Data Library",
+        "data_url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html",
+        "portfolio_source": "SEC EDGAR 13F Holdings",
+        "rolling_window_quarters": 12
+      }
+    },
+
+    "unified_dataset": {
+      "file": "data/processed/unified_dataset.csv",
+      "source_role": "Role 4 (Model Architecture)",
+      "description": "GRU/PLS 모델 학습용 최종 통합 데이터셋. 텍스트 기반 Persona + Macro + Factor 통합.",
+      "primary_keys": ["year_quarter", "investor_id"],
+      "columns": {
+        "year_quarter":      { "type": "string", "nullable": false, "format": "YYYY-QN" },
+        "investor_id":       { "type": "string", "nullable": false, "foreign_key": "investors.investor_id" },
+        "macro_state":       { "type": "string", "nullable": false, "format": "JSON array [cycle, inflation, monetary, stress, sentiment]" },
+        "macro_label":       { "type": "string", "nullable": false, "source": "Role 2 macro_state.label" },
+        "risk_attitude":     { "type": "float", "nullable": true, "min": 0.0, "max": 1.0, "source": "GRU output" },
+        "time_horizon":      { "type": "float", "nullable": true, "min": 0.0, "max": 1.0, "source": "GRU output" },
+        "loss_aversion":     { "type": "float", "nullable": true, "min": 0.0, "max": 1.0, "source": "GRU output" },
+        "macro_sensitivity": { "type": "float", "nullable": true, "min": 0.0, "max": 1.0, "source": "GRU output" },
+        "mkt_rf":            { "type": "float", "nullable": false, "source": "Role 3 factor_fingerprint" },
+        "smb":               { "type": "float", "nullable": false, "source": "Role 3 factor_fingerprint" },
+        "hml":               { "type": "float", "nullable": false, "source": "Role 3 factor_fingerprint" },
+        "rmw":               { "type": "float", "nullable": false, "source": "Role 3 factor_fingerprint" },
+        "cma":               { "type": "float", "nullable": false, "source": "Role 3 factor_fingerprint" },
+        "alpha":             { "type": "float", "nullable": false, "source": "Role 3 factor_fingerprint" }
+      }
+    }
+  },
+
+  "models": {
+    "gru": {
+      "directory": "models/gru/",
+      "description": "분기별 Personality 점수 시계열을 학습하는 GRU 모델",
+      "input": ["investor_text (FinBERT embeddings)", "macro_state"],
+      "output": ["risk_attitude", "time_horizon", "loss_aversion", "macro_sensitivity"],
+      "personality_dimensions": {
+        "risk_attitude":     { "label": "Risk Tolerance",     "range": [0.0, 1.0] },
+        "time_horizon":      { "label": "Time Horizon",       "range": [0.0, 1.0] },
+        "loss_aversion":     { "label": "Loss Aversion",      "range": [0.0, 1.0] },
+        "macro_sensitivity": { "label": "Macro Sensitivity",  "range": [0.0, 1.0] }
+      },
+      "embedding_model": "FinBERT"
+    },
+    "pls": {
+      "directory": "models/pls/",
+      "description": "Persona Output과 Factor Fingerprint 간 매핑 회귀 모델",
+      "input": ["risk_attitude", "time_horizon", "loss_aversion", "macro_sensitivity"],
+      "output": ["mkt_rf", "smb", "hml", "rmw", "cma", "alpha"],
+      "method": "Partial Least Squares Regression"
+    }
+  },
+
+  "source_type_vocabulary": [
+    "annual_letter",
+    "quarterly_letter",
+    "interim_letter",
+    "memo",
+    "market_commentary",
+    "agm_transcript",
+    "interview",
+    "speech",
+    "social_post",
+    "book_excerpt"
+  ],
+
+  "csv_encoding": {
+    "encoding": "UTF-8",
+    "bom": false,
+    "delimiter": ",",
+    "quote_char": "\"",
+    "line_ending": "LF",
+    "header": true,
+    "missing_value": ""
+  }
+}
