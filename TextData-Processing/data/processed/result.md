@@ -99,22 +99,20 @@
 
 ---
 
-### 2.5 INV_EINHORN — David Einhorn
+### ~~2.5 INV_EINHORN~~ — ❌ 카테고리 제외 (2026-04-30, 팀 합의)
 
-**❌ 제외 결정**: Einhorn 코퍼스 28개는 **분기 LP partner letter 가 아니라 stock pitch / activist proxy / sales speech**. project goal (분기 cadence persona analysis) 에 본질적으로 부적합.
+**제외 사유**: Einhorn 코퍼스 29개 (27 PDF + 2 EDGAR 8-K HTM) 모두 분기 LP partner letter 가 아니라 **외부 컨퍼런스 stock pitch / activist proxy / sales speech**. project goal (분기 cadence persona analysis) 에 본질적으로 부적합 → **GRU 분기 cadence 입력 부적합**.
 
-| 파일 | 실제 형식 | 추출 결과 | 본질 | 등급 |
-|---|---|---|---|---|
-| [Einhorn_13_applevoting.pdf](../raw/einhorn/Einhorn_13_applevoting.pdf) | 5 pages, 14K chars | "GREENLIGHT CAPITAL URGES APPLE SHAREHOLDERS TO OPPOSE COMPANY'S PROPOSAL" + Sincerely David Einhorn | **Activist proxy 보도자료** — 단발 종목 (Apple) 액션 호소 | **D** |
-| [Einhorn_18_sohn.pdf](../raw/einhorn/Einhorn_18_sohn.pdf) | 63 pages, 30K chars | "Our idea today is Assured Guarantee, or AGO. It is a melting ice cube..." — AGO 공매도 thesis 63장 | **Sohn 2018 stock pitch** — 단발 종목 (AGO) 공매도 발표 | **D** |
-| [Einhorn_24_robinhood.pdf](../raw/einhorn/Einhorn_24_robinhood.pdf) | 30 pages, 38K chars | "ROBIN HOOD INVESTORS CONFERENCE 15 Minute 'Stock Pitch' Ride... I'm going to talk about Peloton Interactive" | **Robin Hood 2024 stock pitch** — 단발 종목 (PTON) 매수 발표 | **D** |
+샘플 검증 결과 (인용은 archived):
+- `Einhorn_13_applevoting.pdf` — Apple proxy contest 보도자료 (단발 종목 액션 호소)
+- `Einhorn_18_sohn.pdf` — Sohn 2018 stock pitch (AGO 공매도 thesis 63장)
+- `Einhorn_24_robinhood.pdf` — Robin Hood 2024 stock pitch (PTON 매수 발표, Peloton 운동 메타포)
 
-**전체 판정**:
-- 27개 Wayback PDF 모두 비슷한 패턴: **Sohn / Robin Hood / GO!UPs / Grant's 등 외부 컨퍼런스 발표** + activist proxy 자료. Einhorn 의 voice 는 분명 존재하지만 **분기 LP에게 보내는 risk attitude commentary 가 아니라 특정 종목 매매 thesis**.
-- 2 EDGAR 8-K HTM 도 letter 가 아니라 GLRE press release / BDO 외부 auditor 통지서.
-- **분기 cadence 기반 GRU 학습 입력 부적합** — 발표 시점이 비정기이고 (Sohn 매년 5월, Robin Hood 10월, 그 외 산발), 내용이 일관된 commentary 가 아니라 그날 발표한 종목 thesis.
+**삭제된 자원**:
+- `data/raw/einhorn/` (29 파일, 248 MB) — 전체 폴더 삭제
+- `scripts/_einhorn_wayback.py` — Einhorn 전용 Wayback 스크립트 삭제
 
-→ **카테고리 (Long/Short Fundamental) 제외 결정**. Long/Short 결을 다른 후보 (Bill Miller / Cliff Asness 등) 로 대체 가능 여부는 Role 4 합의 단계에서 별도 검토.
+**Long/Short Fundamental 카테고리 대체 후보**: Bill Miller / Bill Ackman / Cliff Asness 등 — Role 4 합의 단계에서 별도 검토.
 
 ---
 
@@ -195,11 +193,10 @@
 | 형식 | 출처 | 적합성 | 권장 처리 |
 |---|---|---|---|
 | **`.html` (Berkshire 사이트)** | Buffett 1977-1997 | ✅ A | 최소 처리 (header/footer trim) |
-| **`.pdf` (회사 사이트)** | Buffett, Hawkins (2007-2025), Grantham (전체), Einhorn (시그니처 발표) | ✅ A 대부분 | pypdf 추출 → 정상. 단 Einhorn 발표 PDF 는 OCR 필요 |
+| **`.pdf` (회사 사이트)** | Buffett, Hawkins (2007-2025), Grantham (전체) | ✅ A 대부분 | pypdf 추출 → 정상 |
 | **`.txt` (EDGAR pre-2003)** | Hawkins 1995-2002, Driehaus 1996-2001, Baron 1996-2002, Yacktman 1995-2005 | ⚠️ B | SGML stripping + section regex |
 | **`.htm` (EDGAR 2003-2023)** | 모두 (Hawkins, Driehaus, Baron, Yacktman) | ⚠️ C | DOM 파싱 + multi-fund 섹션 slicing |
 | **`.htm` (EDGAR 2024+ iXBRL)** | Driehaus 2024+, Baron 2024+, Yacktman 2024+ | ❌ C/D | iXBRL namespace-aware 파싱 필수. text_cleaner.py 에서 ix:* 태그를 stripping 후 letter section 식별 |
-| **`.htm` (EDGAR 8-K)** | Einhorn 2건 | ❌ D | 폐기 |
 
 ---
 
@@ -211,13 +208,12 @@
 | 2 | **Hawkins** | **B+** | **A** (Longleaf team, "60-cent dollars" framework) | **즉시 사용** (EDGAR 만 deep slicing) |
 | 3 | **Grantham** | **A−** | **A** (GMO Inker/Pease + Grantham essay) | **즉시 사용** (author 메타 분리) |
 | 4 | **Driehaus** | **C** | **A−** (Driehaus team, 종목 thesis + EM macro) | **deep slicing 필요** + 2021 cutoff |
-| 5 | ~~Einhorn~~ | ~~F~~ | ~~F~~ (sales speech, partner letter 부재) | **제외** |
-| 6 | **Baron** | **C** | **A** (Ron Baron team, "competitive advantages" + macro QE view) | **deep slicing 필요** + 5펀드 분리 |
-| 7 | **Yacktman** | **C−** | **A** (전체, anchor 기반 추출 시) | **noise 필터링 + anchor-based deep slicing** — 유효 ~73-86/129 |
+| 5 | **Baron** | **C** | **A** (Ron Baron team, "competitive advantages" + macro QE view) | **deep slicing 필요** + 5펀드 분리 |
+| 6 | **Yacktman** | **C−** | **A** (전체, anchor 기반 추출 시) | **noise 필터링 + anchor-based deep slicing** — 유효 ~73-86/129 |
 
 **총평**:
 - **6명 (Buffett, Hawkins, Grantham, Driehaus, Baron, Yacktman)**: letter 본문 존재 ✓ Content quality 측면에서 substantive 한 4-시그널 (투자철학 / 시장view / 종목thesis / risk attitude) 모두 보유 — Phase 2/3 학습 입력 적합.
-- **1명 (Einhorn)**: 본질적으로 분기 LP letter 가 코퍼스에 없음 — 외부 컨퍼런스 발표 + activist proxy materials. GRU 분기 cadence 입력 부적합. **제외**.
+- **Einhorn 카테고리 제외 (2026-04-30, 팀 합의)**: 분기 LP letter 부재. data/raw/einhorn/ + 전용 스크립트 삭제 완료. Long/Short Fundamental 대체 후보는 Role 4 단계 별도 검토.
 
 ---
 
@@ -299,7 +295,7 @@ LETTER_MARKERS = {
 
 2. **6명 (Buffett, Hawkins, Grantham, Driehaus, Baron, Yacktman)**: letter 본문 확실히 존재 + Phase 2/3 학습 가능. Yacktman 의 AMG era 96 파일 중 ~42개는 다른 AMG sub-adv 보고서로 폐기, **나머지 ~54개는 anchor 기반 deep slicing 시 substantive content 추출 가능** → **유효 ~73-86 / 129 파일**.
 
-3. **Einhorn 제외**: 27개 PDF 가 분기 LP partner letter 가 아니라 외부 컨퍼런스 stock pitch + activist proxy + sales speech. 분기 cadence 의 risk-attitude commentary 가 아니라 단발 종목 thesis. → **GRU 입력 본질적 부적합, 카테고리 제외**.
+3. **Einhorn 카테고리 제외 (2026-04-30, 팀 합의)**: 27개 PDF + 2 EDGAR 8-K 가 분기 LP partner letter 가 아니라 외부 컨퍼런스 stock pitch + activist proxy + sales speech. data/raw/einhorn/ + scripts/_einhorn_wayback.py 삭제 완료. Long/Short Fundamental 대체 후보 Role 4 단계 별도 검토.
 
 4. **2024+ EDGAR iXBRL 신양식**: 처리 비용 큼이지만 letter narrative 자체는 보존됨 → text_cleaner.py namespace-aware 파싱 + AMG 합본 fund-section slicing 동시 필요.
 
@@ -393,11 +389,10 @@ LETTER_MARKERS = {
 | 2 | **Hawkins** | A | Longleaf team (Hawkins + 후임) | ✓✓✓✓ | 125 / 125 (100%, deep slicing 후) |
 | 3 | **Grantham** | A | GMO team (Inker/Pease 분기 + Grantham essay) | ✓✓✓✓ | 77 / 77 (100%) |
 | 4 | **Driehaus** | A− | Driehaus team (~2021 본인, 이후 후임) | ✓✓✓✓ | 65 / 65 (deep slicing 후, cutoff 정책 별도) |
-| 5 | ~~Einhorn~~ | ~~F~~ | ~~Einhorn 본인 발표 (단발 thesis)~~ | ~~제외~~ | ~~0 / 29~~ |
-| 6 | **Baron** | A | Baron team (Ron 주도) | ✓✓✓✓ | 75 / 75 (deep slicing 후) |
-| 7 | **Yacktman** | A | Don 본인 (1995-2011) / Yacktman team (AMG era 2012+) | ✓✓✓✓ | **~73-86 / 129** (~60%) |
+| 5 | **Baron** | A | Baron team (Ron 주도) | ✓✓✓✓ | 75 / 75 (deep slicing 후) |
+| 6 | **Yacktman** | A | Don 본인 (1995-2011) / Yacktman team (AMG era 2012+) | ✓✓✓✓ | **~73-86 / 129** (~60%) |
 
-→ **6명 모두 (Einhorn 제외)** content quality 측면에서 substantive team voice 보유. 4가지 시그널 모두 명시. **GRU + FinBERT embedding + LLM persona scoring 입력으로 사용 가능**.
+→ **6명 모두** content quality 측면에서 substantive team voice 보유. 4가지 시그널 모두 명시. **GRU + FinBERT embedding + LLM persona scoring 입력으로 사용 가능**. (Einhorn 카테고리는 2026-04-30 팀 합의로 제외 — 분기 LP letter 부재)
 
 > **단, 처리 비용 차이 큼**:
 > - Buffett, Grantham (사이트 PDF 위주): **즉시 사용 가능**
@@ -438,6 +433,5 @@ PYTHONIOENCODING=utf-8 python -c "
 - hawkins: `Hawkins_98.txt`, `Hawkins_07_Q1.pdf`, `Hawkins_15.htm`, `Hawkins_24_Q2_01.pdf`
 - grantham: `Grantham_10_Q2.pdf`, `Grantham_18_raceofourlives_revisited.pdf`, `Grantham_25_Q3.pdf`
 - driehaus: `Driehaus_00.txt`, `Driehaus_10_S1.htm`, `Driehaus_20.htm`, `Driehaus_24.htm`
-- einhorn: `Einhorn_13_applevoting.pdf`, `Einhorn_18_sohn.pdf`, `Einhorn_24_robinhood.pdf`
 - baron: `Baron_98.txt`, `Baron_10.htm`, `Baron_24.htm`
 - yacktman: `Yacktman_98.txt`, `Yacktman_05.txt`, `Yacktman_14_S1_02.htm`, `Yacktman_17_S1_02.htm`, `Yacktman_24.htm`

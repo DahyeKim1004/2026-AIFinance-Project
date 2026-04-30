@@ -1,13 +1,13 @@
 # Role 1 — Raw Data Collection Progress
 
-> **Last updated**: 2026-04-30 (Phase 2 — 시계열 누락 검증 완료)
-> **Scope**: PLAN.md §2 의 7명 투자자 텍스트 코퍼스 수집 진행 현황 + 분기 정렬을 위한 추가 작업 정의.
+> **Last updated**: 2026-04-30 (Einhorn 카테고리 제외 결정 — 팀 합의)
+> **Scope**: PLAN.md §2 의 6명 투자자 텍스트 코퍼스 수집 진행 현황 + 분기 정렬을 위한 추가 작업 정의.
 > **Storage policy**: 본 파일을 제외한 `data/raw/` 하위 모든 파일은 `.gitignore` 처리. 무거운 원본은 commit 되지 않음.
 > **Naming**: PLAN §7 규칙 — `{Investor}_{YY}` (annual), `{Investor}_{YY}_Q{n}` (quarterly), `{Investor}_{YY}_S{n}` (semi-annual), `{Investor}_{YY}_Q{n}_{tag}` (per-fund/세부 태그).
 
 ---
 
-## TL;DR — 7명 진행률
+## TL;DR — 6명 진행률 (Einhorn 제외 후)
 
 | # | Investor | 상태 | 시계열 커버 | Native cadence | 주요 파일 형식 | 파일 수 | 디스크 |
 |---|---|---|---|---|---|---|---|
@@ -15,20 +15,19 @@
 | 2 | **Hawkins** | ✅ 수집 완료 | 1995~2026 (32y) | 1995-2021 반기 → 2022~ 분기 | PDF(site) + HTML/TXT(EDGAR) | 125 | 81 MB |
 | 3 | **Grantham** | ✅ 수집 완료 | 2007~2026 (20y, gap 2016만) | 분기 letter + 시그니처 essay | PDF(gmo.com + Wayback) | 77 | 38 MB |
 | 4 | **Driehaus** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 65 | 141 MB |
-| 5 | **Einhorn** | ⚠️ 부분 수집 | 2012-2024 (시그니처/proxy 위주) | 비정형 (Sohn/Robin Hood 발표 + activist letter) | HTML(EDGAR) + PDF(Wayback) | 29 | 124 MB |
-| 6 | **Baron** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 75 | 123 MB |
-| 7 | **Yacktman** | ✅ 수집 완료 | 1995~2025 (30y) | 1995-2011 + 2012-2025 (운용사 변경) | HTML/TXT(EDGAR) | 129 | 265 MB |
+| 5 | **Baron** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 75 | 123 MB |
+| 6 | **Yacktman** | ✅ 수집 완료 | 1995~2025 (30y) | 1995-2011 + 2012-2025 (운용사 변경) | HTML/TXT(EDGAR) | 129 | 265 MB |
 
-**Aggregate**: 548 파일 / ~781 MB (전체 7명 수집 완료, Phase 2 시계열 누락 검증 + 보강 완료)
+**Aggregate**: 519 파일 / ~657 MB (Einhorn 카테고리 제외 후)
 
-> **확장 이력**: 1차 379 → 487 → 526 → 520 → 518 → 544 → 548 파일
-> - Grantham 26 → 38 → 75 → 77 (gmo.com brute-force + Wayback Machine + 2026-04-30 시그니처 essay 보강)
-> - Einhorn 2 → 28 → 29 (greenlightcapital.com 자체 도메인 Wayback fallback)
-> - Yacktman 31 → 127 → 129 (AMG FUNDS CIK 1089951 추가 + 2026-04-30 1차 1995-2011 standalone gap 보완)
-> - Baron 76 → 75 (2026-04-30 Phase 2: 5 internal duplicate 제거 + 4 truly new + 13 cross-bucket dup 제거 + 3 bucket misclassification 수정)
+> **확장 이력**: 1차 379 → 487 → 526 → 520 → 518 → 544 → 548 → 519 파일
+> - Grantham 26 → 38 → 75 → 77 (gmo.com brute-force + Wayback Machine + 시그니처 essay 보강)
+> - Yacktman 31 → 127 → 129 (AMG FUNDS CIK 1089951 추가 + 1995-2011 standalone gap 보완)
+> - Baron 76 → 75 (5 internal duplicate 제거 + 4 truly new + 13 cross-bucket dup 제거 + 3 bucket misclassification 수정)
 > - 2026-04-30: Baron/Driehaus/Yacktman/Hawkins 의 month/accession/per-fund collision suffix → 시점 bucket + sequence 번호 로 정규화
 > - 2026-04-30: Buffett stub HTML 6개 삭제 (PDF redirect 페이지, 텍스트 내용 0); Yacktman `_amg` 태그 제거 (포트폴리오 본질 동일)
-> - 2026-04-30 **Phase 2** (시계열 누락 검증): Grantham +2 시그니처 essay (Race of Our Lives Revisited 2018-08, Waiting for the Last Dance 2021-01); Yacktman +2 (FY2000 + H1 2000 N-30D, 1차 누락); Baron net -1 (renormalize 단계 의 5 internal duplicate + 13 cross-bucket dup 제거 + 4 truly new 추가); GMO 비발행 분기 4건 (2018 Q3 / 2019 Q4 / 2020 Q4 / 2023 Q2) 직접 URL 404 검증 완료
+> - 2026-04-30 **Phase 2 (시계열 누락 검증)**: Grantham +2 시그니처 essay (Race of Our Lives Revisited 2018-08, Waiting for the Last Dance 2021-01); Yacktman +2 (FY2000 + H1 2000 N-30D, 1차 누락); Baron net -1; GMO 비발행 분기 4건 (2018 Q3 / 2019 Q4 / 2020 Q4 / 2023 Q2) 직접 URL 404 검증 완료
+> - 2026-04-30 **Einhorn 카테고리 제외 (팀 합의)**: 27개 PDF + 2 EDGAR 8-K 가 분기 LP partner letter 가 아니라 외부 컨퍼런스 stock pitch + activist proxy + sales speech 로 GRU 분기 cadence 입력 부적합 — Long/Short Fundamental 카테고리 제거. data/raw/einhorn/ + scripts/_einhorn_wayback.py 삭제. 548 → 519 파일 (-29)
 
 ---
 
@@ -274,73 +273,15 @@ Richard Driehaus 본인은 **2021년 사망**. 사후 letter 는 Jeff James 등 
 
 ---
 
-## INV_EINHORN — David Einhorn (Greenlight Capital)  ⚠️ 부분 수집 (분기 letter 부재)
+## ~~INV_EINHORN — David Einhorn (Greenlight Capital)~~ ❌ 카테고리 제외 (2026-04-30, 팀 합의)
 
-### 수집된 자료
+**제외 사유**: 수집된 27 PDF + 2 EDGAR 8-K HTM 모두 분기 LP partner letter 가 아니라 **외부 컨퍼런스 stock pitch / activist proxy / sales speech** 였음 (Sohn / Robin Hood / GO!UPs / Grant's 발표 + Apple/GM activist proxy + GLRE press release + BDO auditor 통지). Einhorn voice 는 분명 존재하지만 분기 cadence 의 risk-attitude commentary 가 아니라 단발 종목 thesis. → **GRU 분기 cadence 입력 본질적 부적합**.
 
-**채널 1 — EDGAR GLRE 8-K EX-99** (best-effort, 2 건)
-- `Einhorn_20_exhibit991glrexpress.htm` (10 KB) / `Einhorn_21_bdoletteroct42021.htm` (2 KB)
-- 167건 8-K 중 letter-style 문서 2건만 발견
+**삭제된 자원**:
+- `data/raw/einhorn/` (29 파일, 248 MB) — 전체 폴더 삭제
+- `scripts/_einhorn_wayback.py` — Einhorn 전용 Wayback 스크립트 삭제
 
-**채널 2 — `greenlightcapital.com` 자체 도메인 Wayback Machine fallback** (26 PDF)
-- Greenlight Capital 자체 사이트가 robots/auth wall 로 직접 접근 불가하나 archive.org 에 보존됨. CDX 발굴 → Wayback `id_/` raw proxy 다운로드 → PDF 첫 4 페이지 텍스트 + metadata + Wayback timestamp 로 자동 분류
-- URL 패턴 2종: `greenlightcapital.com/{6digit}.pdf` (2013-2018 numbered ID, 12개) + `greenlightcapital.com/Download.aspx?ID={uuid}&Inline=1` (2021-2024 UUID, 7 unique URL × 다중 timestamp)
-
-### 자동 분류 결과 (15 identified, 11 unidentified)
-
-| # | 파일명 | 카테고리 | 시기 |
-|---|---|---|---|
-| 1 | `Einhorn_12_goups.pdf` | GO!UPs presentation | 2012-05 |
-| 2 | `Einhorn_13_applevoting.pdf` | Apple proxy contest letter | 2013 Q1 |
-| 3 | `Einhorn_14_sohn.pdf` (×2) | 19th Annual Sohn Investment Conference | 2014 |
-| 4 | `Einhorn_15_grants.pdf` | Grant's Conference 발표 | 2015 |
-| 5 | `Einhorn_15_sohn.pdf` | Sohn 발표 | 2015 |
-| 6 | `Einhorn_17_gmproxy.pdf` | "Unlocking Value at GM: Two Classes of Common Shares" | 2017-03 |
-| 7 | `Einhorn_18_sohn.pdf` | Sohn 발표 (April 23, 2018) | 2018 |
-| 8 | `Einhorn_21_pillar3.pdf` (×2) | FCA Pillar 3 regulatory disclosure | 2021 |
-| 9 | `Einhorn_21_sohn.pdf` (×2) | Sohn 발표 (May 12, 2021) | 2021 |
-| 10 | `Einhorn_23_sohn.pdf` (×2) | Sohn 2021 archived 2023 | 2021 |
-| 11 | `Einhorn_24_robinhood.pdf` | Robin Hood Investors Conference (10/23/24) | 2024 |
-
-**Unidentified 11개** — 주로 image-only PDF (텍스트 추출 빈) 또는 시그니처 발표인데 키워드 미매칭. wayback timestamp 기반 연도 + sha 로 임시 명명 (`Einhorn_unidentified_{YYYY}_{sha}.pdf`). 사용자 수동 검수 시 분류 가능.
-
-### Cadence — Greenlight LP partner letter 부재
-
-**Greenlight Capital LP 의 정식 분기 letter 는 자체 archive 에 거의 없음**. 우리가 받은 26개는 letter 가 아닌:
-- 시그니처 발표 (Sohn 2014/2015/2018/2021, Robin Hood 2024, GO!UPs 2012, Grant's 2015)
-- Activist proxy contest letters (Apple 2013, GM 2017)
-- Regulatory disclosure (FCA Pillar 3 2021)
-
-**시도했으나 실패한 채널**:
-- `hedgefundalpha.com` PDF: Wayback 0건 (robots.txt 차단으로 archive 자체 부재)
-- `valuewalk.com/wp-content/uploads/`: Wayback 0건
-- `tilsonfunds.com` 라이브: 301 redirect (PDF 부재)
-- `csinvesting.org` Einhorn: 1 PDF (2005 March) — 단일 historical
-- archive.org direct collection: 0건
-- SEC EDGAR full-text (Greenlight Capital, partner letter): 0건
-
-### 저장 위치
-[data/raw/einhorn/](einhorn/) — 2 HTML + 26 PDF (15 identified + 11 unidentified) ≈ 248 MB
-- staging: `_wayback_staging/` 26 PDF (재실행 idempotency 용 raw 사본, gitignored)
-
-### 분기 데이터 확보를 위한 추가 단계
-1. **Image-only PDF OCR** — 빈 텍스트 6개 PDF 는 image/scan 기반. Tesseract / pdf2image 로 OCR 후 분기 식별 가능
-2. **남은 unidentified 5개 수동 검수** — `_wayback_staging/` 의 첫 페이지 texted 발췌 와 wayback timestamp 로 사용자가 직접 분류
-3. **Playwright로 hedgefundalpha/valuewalk live Cloudflare 우회** — 단 Greenlight LP partner letter 가 거기에 publish 됐을 가능성 낮음 (자체 archive 에도 없음). 우선순위 ↓
-4. **GLRE earnings call transcript** — Einhorn 본인 발언 추출 (Q&A 부분)
-5. **Robin Hood / Sohn YouTube transcript** — Einhorn 발표 영상 transcript
-
-**Long/Short Fundamental 카테고리 가능성 평가**: 이전 "사실상 부재" → "**시그니처/proxy/regulatory 위주, 분기 letter 없음**" 으로 갱신. 시계열 cadence 가 일정하지 않지만 (불규칙 시그니처 발표) Einhorn voice 가 담긴 텍스트 15개 확보 → 분기 GRU 입력 어렵지만 LLM persona 분석에는 활용 가능. 카테고리 유지 가부 결정은 Role 4 단계.
-
-### Wayback 발굴 재현 명령
-
-```bash
-cd 2026-AIFinance-Project/TextData-Processing
-PYTHONIOENCODING=utf-8 python scripts/_einhorn_wayback.py
-# 1) staging dir 에 27 URL × Wayback raw download
-# 2) PDF 첫 4 페이지 텍스트 + metadata + Wayback ts → signature/doctype/quarter 자동 분류 + rename
-# 3) idempotent — staging 사본은 skip, OUT_DIR Einhorn_*.pdf 는 매 실행마다 재분류
-```
+**Long/Short Fundamental 카테고리 대체 후보**: Bill Miller / Bill Ackman / Cliff Asness 등 — Role 4 합의 단계에서 별도 검토 (각 후보 단점 — Miller 본인 letter 2021 Q3 종료, Ackman activist 카테고리, Asness multi-factor 단일 페르소나 매핑 모호 — PLAN.md §5 참조).
 
 ---
 
@@ -454,7 +395,6 @@ Buffett                  48 files (HTML 1977-1997 + PDF 1998-2024)              
 Hawkins                 125 files (57 site PDF + 68 EDGAR)                     81    MB  1995-2026
 Grantham                 77 files (sitemap+brute + Wayback + Phase 2 essay 2건) 38    MB  2007-2026
 Driehaus                 65 files (HTML/TXT EDGAR)                            141    MB  1996-2025
-Einhorn                  29 files (2 GLRE 8-K + 27 greenlightcapital Wayback) 124    MB  2012-2024
 Baron                    75 files (HTML/TXT EDGAR, Phase 2 cleanup+gap 보완)  123    MB  1996-2025
 Yacktman                129 files (33 own + 96 AMG-era, Phase 2 +2)           265    MB  1995-2025
                          ─────────────────────────────────────────────────────────────
@@ -470,7 +410,7 @@ Yacktman                129 files (33 own + 96 AMG-era, Phase 2 +2)           26
 1. **Role 4 와 메타데이터 스키마 합의** (PLAN §9 step 3, 블로킹) — 특히 cadence 가 mixed (annual / semiannual / quarterly / 비정형) 인 점 반영해 `source_type` 어휘 + `chunk_id` 의미 + 펀드별 분리 정책 확정
 2. **text_cleaner.py 파일럿** — N-CSR HTML 에서 "To Our Shareholders" / manager letter 섹션 추출. PDF→텍스트, 헤더/푸터 제거 → `data/interim/{investor}_{quarter}.xlsx`
 3. ~~**Grantham gap 보완**~~ ✅ Wayback Machine + Phase 2 시그니처 essay 2건 추가 (38 → 75 → 77 PDF). 잔여 갭: 2016 Q1-Q2 (Wayback truncated, 영구 손실) / 2019 Q4 / 2023 Q2 (GMO 진짜 침묵 — 시그니처 substitute 부재)
-4. ~~**Einhorn 우회 수집**~~ ✅ greenlightcapital.com 자체 도메인 Wayback fallback 으로 2 → 28 파일 확보 (시그니처 발표 / proxy / regulatory 위주). 진짜 분기 letter 는 여전히 부재 — 별도 cadence 정책 필요. Long/Short Fundamental 카테고리 유지 가부는 Role 4 단계에서 결정
+4. ~~**Einhorn 카테고리**~~ ❌ **제외 결정 (2026-04-30, 팀 합의)** — 수집 자료가 stock pitch / activist proxy / sales speech 위주로 분기 LP letter 부재. data/raw/einhorn/ + 전용 스크립트 삭제. Long/Short Fundamental 카테고리 대체 후보는 Role 4 단계 별도 검토
 5. ~~**Yacktman 1차 standalone 갭 (2000)**~~ ✅ Phase 2: EDGAR 직접 다운로드 2건 추가 (127 → 129 파일)
 6. ~~**Baron 양 trust gap 보완**~~ ✅ Phase 2: 1050084 Baron Capital Funds Trust 단독 보고분 4건 추가 + renormalize bucket 미스 5건 정리 (76 → 75 파일, 모든 1996-2025 연도 _S1+_annual cover)
 7. **AMG N-CSR 에서 Yacktman 섹션 추출** — 2012-2025 의 96 AMG 합본 N-CSR 에서 Yacktman-specific 부분만 slice (text_cleaner.py 단계)
@@ -482,32 +422,27 @@ Yacktman                129 files (33 own + 96 AMG-era, Phase 2 +2)           26
 ## Reproducibility
 
 수집은 다음 스크립트 조합으로 idempotent:
-- [scripts/text_scraper.py](../../scripts/text_scraper.py) — 7명 통합 스크래퍼
+- [scripts/text_scraper.py](../../scripts/text_scraper.py) — 6명 통합 스크래퍼
 - [scripts/_naming.py](../../scripts/_naming.py) — 명명 helper
 - [scripts/_rename_existing.py](../../scripts/_rename_existing.py) — 마이그레이션 (1회용)
 - [scripts/_grantham_brute.py](../../scripts/_grantham_brute.py) — Grantham PDF URL brute-force 보강
 - [scripts/_grantham_wayback.py](../../scripts/_grantham_wayback.py) — Grantham Wayback Machine fallback (2007-2017 옛 GMO URL)
-- [scripts/_einhorn_wayback.py](../../scripts/_einhorn_wayback.py) — Einhorn Wayback fallback (greenlightcapital.com 자체 archive + 자동 분류)
 - [scripts/_renormalize_edgar.py](../../scripts/_renormalize_edgar.py) — collision suffix → sequence 번호 정규화
 
 ```bash
 cd 2026-AIFinance-Project/TextData-Processing
 
-# 신규 수집 (인자 없으면 7명 모두)
+# 신규 수집 (인자 없으면 6명 모두)
 PYTHONIOENCODING=utf-8 python scripts/text_scraper.py
 PYTHONIOENCODING=utf-8 python scripts/text_scraper.py buffett hawkins
 PYTHONIOENCODING=utf-8 python scripts/text_scraper.py grantham         # GMO sitemap-driven
 PYTHONIOENCODING=utf-8 python scripts/text_scraper.py driehaus baron yacktman  # EDGAR
-PYTHONIOENCODING=utf-8 python scripts/text_scraper.py einhorn          # GLRE 8-K best-effort
 
 # Grantham brute-force 추가 수집 (현행 사이트 PDF URL 패턴)
 PYTHONIOENCODING=utf-8 python scripts/_grantham_brute.py
 
 # Grantham Wayback fallback (2007-2017 옛 GMO URL — 사이트에서 사라진 letter)
 PYTHONIOENCODING=utf-8 python scripts/_grantham_wayback.py
-
-# Einhorn Wayback fallback (greenlightcapital.com 자체 archive + 자동 분류)
-PYTHONIOENCODING=utf-8 python scripts/_einhorn_wayback.py
 
 # 명명규칙 마이그레이션 (1회 실행 후 끝)
 python scripts/_rename_existing.py --dry-run  # 미리보기
