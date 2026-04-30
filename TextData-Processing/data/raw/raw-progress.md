@@ -13,37 +13,62 @@
 |---|---|---|---|---|---|---|---|
 | 1 | **Buffett** | ✅ 수집 완료 | 1977~2024 (48y) | 연간 | HTML(1977-1997) + PDF(1998-2024) | 54 | 8.9 MB |
 | 2 | **Hawkins** | ✅ 수집 완료 | 1995~2026 (32y) | 1995-2021 반기 → 2022~ 분기 | PDF(site) + HTML/TXT(EDGAR) | 125 | 82 MB |
-| 3 | **Grantham** | ⚠️ 부분 수집 | 2008~2026 (sparse 다수) | 분기 letter (정형 + 시그니처) | PDF(gmo.com) | 38 | 17 MB |
+| 3 | **Grantham** | ✅ 수집 완료 | 2007~2026 (20y, gap 2016만) | 분기 letter + 시그니처 essay | PDF(gmo.com + Wayback) | 77 | 30 MB |
 | 4 | **Driehaus** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 65 | 142 MB |
 | 5 | **Einhorn** | ❌ 사실상 부재 | 2020-2021 (2건) | 비정형 (GLRE 8-K best-effort) | HTML(EDGAR) | 2 | 16 KB |
 | 6 | **Baron** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 76 | 125 MB |
 | 7 | **Yacktman** | ✅ 수집 완료 | 1995~2025 (30y) | 1995-2011 standalone + 2012- AMG | HTML/TXT(EDGAR) | 127 | 266 MB |
 
-**Aggregate**: 487 파일 / ~641 MB (전체 7명 1차 수집 완료)
+**Aggregate**: 526 파일 / ~671 MB (전체 7명 수집 완료, collision suffix → sequence 정규화 완료)
 
-> **확장 이력**: 1차 379 → 487 파일
-> - Grantham 26 → 38 (gmo.com PDF URL 패턴 brute-force)
+> **확장 이력**: 1차 379 → 487 → 526 파일
+> - Grantham 26 → 38 → 77 (gmo.com brute-force + Wayback Machine archive)
 > - Yacktman 31 → 127 (AMG FUNDS CIK 1089951 추가, 2012+ filings 만)
+> - 2026-04-30: Baron/Driehaus/Yacktman/Hawkins 의 month/accession/per-fund collision suffix → 시점 bucket + sequence 번호 로 정규화
 
 ---
 
-## 명명규칙 (전체 공통)
+## 명명규칙 (전체 공통, 2026-04-30 정규화 완료)
+
+### 기본 패턴
 
 ```
-{Investor}_{YY}                       # 연간                 (Buffett_77.html)
-{Investor}_{YY}_Q{n}                  # 분기                 (Hawkins_22_Q1.pdf)
-{Investor}_{YY}_S{n}                  # 반기                 (Hawkins_96_S1.txt)
-{Investor}_{YY}_Q{n}_{tag1}_{tag2}    # 분기 + 펀드/세부태그  (Hawkins_22_Q4_partners.pdf)
-{Investor}_{YY}_{tag}                 # 연간 + 라벨           (Grantham_08_globalbubble.pdf)
-{Investor}_{YY}_{month}               # collision 회피용      (Hawkins_07_feb.htm)
-{Investor}_{YY}_a{accession}          # 동일 date 다중 필링   (Hawkins_95_a000298.txt)
+{Investor}_{YY}                       # 단일 연간 letter        (Buffett_77.html)
+{Investor}_{YY}_Q{n}                  # 단일 분기 letter        (Hawkins_07_Q1.pdf)
+{Investor}_{YY}_S{n}                  # 단일 반기 letter        (Driehaus_22_S1.htm)
+{Investor}_{YY}_NN                    # 다중 letter, 동일 bucket (Baron_06_S1_01.txt ... _09.txt)
+{Investor}_{YY}_Q{n}_NN               # 다중 펀드 분기 letter   (Hawkins_23_Q1_01.pdf, _02, _03)
 ```
 
-연도는 **컨텐츠 연도** (보고 대상 fiscal period).
-- N-CSR 2023-02 발간 → FY2022 보고 → `Hawkins_22.htm`
-- N-CSRS 2023-08 발간 → H1 2023 → `Hawkins_23_S1.htm`
+### 시기 (period) 결정 규칙
+
+같은 `(Investor, YY, period)` bucket 안의 파일이 2개 이상일 때 sequence 번호 (`_01`, `_02`, ...) 부여. 단일이면 canonical (sequence 없음).
+
+**Period 분류**:
+- 분기 letter (Q1-Q4): 사이트 PDF (예: Hawkins, Grantham) — 명시적
+- 반기 (S1): EDGAR 보고에서 **filing month 1-6월**
+- 연간 (no period): EDGAR 보고에서 **filing month 7-12월**
+
+> ⚠️ **주의**: Period 는 "filing 시점" 기반 분류이지 "content 의 fiscal period" 와 1:1 매핑은 아님. 예: N-CSR (annual content) 가 Feb 발간되면 → S1 bucket; N-CSRS (semi-annual content) 가 Aug 발간되면 → annual bucket. 의미적으로는 inversion 처럼 보이지만 — naming 의 목적은 **deterministic 한 시점 분류** 이고, fiscal semantics 는 text_cleaner.py 단계에서 N-CSR vs N-CSRS form 정보를 토대로 별도 추출.
+
+### 연도 = content 연도 (fiscal period)
+
+- N-CSR 2023-02 발간 → FY2022 보고 → year = 22, filed Feb (1-6월) → `Hawkins_22_S1.htm` (S1 bucket of 2022)
+- N-CSRS 2023-08 발간 → H1 2023 → year = 23, filed Aug (7-12월) → `Hawkins_23.htm` (annual bucket of 2023)
 - N-30D 1996-02 발간 → FY1995 → `Hawkins_95.txt`
 - N-30D 1996-07 발간 → H1 1996 → `Hawkins_96_S1.txt`
+
+### 보존되는 의미 태그
+
+- **`_amg`** (Yacktman): AMG trust 시기 (vs original Yacktman Fund Inc) — entity source 구분
+- **`_stub`** (Buffett): HTML stub vs PDF 본문 — file kind 구분
+- **Essay 라벨** (Grantham): `_purgatory`, `_stalin`, `_bargain` 등 본인이 명명한 시그니처 letter — 의미 있는 라벨
+
+### Consolidate 되는 collision 마커 (제거 후 sequence 번호)
+
+- 펀드 종류 태그: `_partners`, `_smallcap`, `_global` (Hawkins) — 같은 firm 다른 mandate
+- Filing month: `_jan`, `_feb`, `_mar`, ..., `_dec` — 다중 펀드 / amendment
+- Accession suffix: `_a000074` 등 — SEC 등록 번호 끝자리
 
 ---
 
@@ -308,6 +333,7 @@ Yacktman                127 files (31 own + 96 AMG-era)        266    MB  1995-2
 - [scripts/_naming.py](../../scripts/_naming.py) — 명명 helper
 - [scripts/_rename_existing.py](../../scripts/_rename_existing.py) — 마이그레이션 (1회용)
 - [scripts/_grantham_brute.py](../../scripts/_grantham_brute.py) — Grantham PDF URL brute-force 보강
+- [scripts/_renormalize_edgar.py](../../scripts/_renormalize_edgar.py) — collision suffix → sequence 번호 정규화
 
 ```bash
 cd 2026-AIFinance-Project/TextData-Processing
@@ -325,6 +351,10 @@ PYTHONIOENCODING=utf-8 python scripts/_grantham_brute.py
 # 명명규칙 마이그레이션 (1회 실행 후 끝)
 python scripts/_rename_existing.py --dry-run  # 미리보기
 python scripts/_rename_existing.py            # 실제 rename
+
+# Collision suffix → sequence 번호 정규화 (Baron/Driehaus/Yacktman/Hawkins)
+python scripts/_renormalize_edgar.py --dry-run
+python scripts/_renormalize_edgar.py
 ```
 
 이미 다운로드된 파일은 자동 skip. SEC EDGAR 호출은 정책 준수 UA + 0.3s rate-limit 적용 (10 req/s 제한 안에서 운용).
