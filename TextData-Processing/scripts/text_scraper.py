@@ -134,16 +134,29 @@ def scrape_buffett(out_dir: Path) -> dict[str, int]:
         dest = out_dir / fname("Buffett", year, ext="html")
         counts[download(url, dest)] += 1
     for year in BUFFETT_STUB_RANGE:
+        # stub 은 PDF 링크 추출용 임시 파일 — 영구 저장하지 않음 (텍스트 내용 0)
+        pdf_dest = out_dir / fname("Buffett", year, ext="pdf")
+        if pdf_dest.exists() and pdf_dest.stat().st_size > 0:
+            print(f"  skip   {pdf_dest.name}")
+            counts["skip"] += 1
+            continue
         stub_url = f"{BUFFETT_BASE}/{year}.html"
-        stub_dest = out_dir / fname("Buffett", year, extra="stub", ext="html")
-        counts[download(stub_url, stub_dest)] += 1
-        pdf_href = _parse_first_pdf_href(stub_dest)
-        if not pdf_href:
-            print(f"  WARN   no pdf link in {stub_dest.name}")
+        try:
+            r = requests.get(stub_url, headers=HEADERS, timeout=TIMEOUT)
+        except requests.RequestException as e:
+            print(f"  ERR    stub fetch {stub_url} -- {e}")
             counts["err"] += 1
             continue
-        pdf_url = f"{BUFFETT_BASE}/{pdf_href}"
-        pdf_dest = out_dir / fname("Buffett", year, ext="pdf")
+        if r.status_code != 200:
+            print(f"  HTTP{r.status_code}  {stub_url}")
+            counts["err"] += 1
+            continue
+        m = _PDF_HREF_RE.search(r.text)
+        if not m:
+            print(f"  WARN   no pdf link in {year}.html stub")
+            counts["err"] += 1
+            continue
+        pdf_url = f"{BUFFETT_BASE}/{m.group(1)}"
         counts[download(pdf_url, pdf_dest, expect_pdf=True)] += 1
     for year in BUFFETT_PDF_RANGE:
         url = f"{BUFFETT_BASE}/{year}ltr.pdf"

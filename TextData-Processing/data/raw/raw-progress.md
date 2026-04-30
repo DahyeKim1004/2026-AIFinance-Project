@@ -11,7 +11,7 @@
 
 | # | Investor | 상태 | 시계열 커버 | Native cadence | 주요 파일 형식 | 파일 수 | 디스크 |
 |---|---|---|---|---|---|---|---|
-| 1 | **Buffett** | ✅ 수집 완료 | 1977~2024 (48y) | 연간 | HTML(1977-1997) + PDF(1998-2024) | 54 | 8.9 MB |
+| 1 | **Buffett** | ✅ 수집 완료 | 1977~2024 (48y) | 연간 | HTML(1977-1997) + PDF(1998-2024) | 48 | 8.9 MB |
 | 2 | **Hawkins** | ✅ 수집 완료 | 1995~2026 (32y) | 1995-2021 반기 → 2022~ 분기 | PDF(site) + HTML/TXT(EDGAR) | 125 | 82 MB |
 | 3 | **Grantham** | ✅ 수집 완료 | 2007~2026 (20y, gap 2016만) | 분기 letter + 시그니처 essay | PDF(gmo.com + Wayback) | 77 | 30 MB |
 | 4 | **Driehaus** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 65 | 142 MB |
@@ -19,12 +19,13 @@
 | 6 | **Baron** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 76 | 125 MB |
 | 7 | **Yacktman** | ✅ 수집 완료 | 1995~2025 (30y) | 1995-2011 + 2012-2025 (운용사 변경) | HTML/TXT(EDGAR) | 127 | 266 MB |
 
-**Aggregate**: 526 파일 / ~671 MB (전체 7명 수집 완료, collision suffix → sequence 정규화 완료)
+**Aggregate**: 520 파일 / ~671 MB (전체 7명 수집 완료, collision suffix → sequence 정규화 완료)
 
-> **확장 이력**: 1차 379 → 487 → 526 파일
+> **확장 이력**: 1차 379 → 487 → 526 → 520 파일
 > - Grantham 26 → 38 → 77 (gmo.com brute-force + Wayback Machine archive)
 > - Yacktman 31 → 127 (AMG FUNDS CIK 1089951 추가, 2012+ filings 만)
 > - 2026-04-30: Baron/Driehaus/Yacktman/Hawkins 의 month/accession/per-fund collision suffix → 시점 bucket + sequence 번호 로 정규화
+> - 2026-04-30: Buffett stub HTML 6개 삭제 (PDF redirect 페이지, 텍스트 내용 0); Yacktman `_amg` 태그 제거 (포트폴리오 본질 동일)
 
 ---
 
@@ -60,7 +61,6 @@
 
 ### 보존되는 의미 태그
 
-- **`_stub`** (Buffett): HTML stub vs PDF 본문 — file kind 구분 (다른 형식)
 - **Essay 라벨** (Grantham): `_purgatory`, `_stalin`, `_bargain` 등 본인이 명명한 시그니처 letter — 의미 있는 라벨
 
 ### Consolidate 되는 collision 마커 (제거 후 sequence 번호)
