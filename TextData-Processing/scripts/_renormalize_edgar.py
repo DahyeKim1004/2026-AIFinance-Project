@@ -87,16 +87,18 @@ def _has_meaningful_tag(extras: list[str]) -> str | None:
       - **File kind** 태그 (stub) 는 보존 — 다른 파일 형식
       - **Essay 라벨** (Grantham purgatory, stalin, bargain 등 본인 명명 letter) 은 보존
     """
-    # 보존할 태그 (소스/형식/의미 있는 라벨)
+    # 보존할 태그 (파일 형식 / 의미 있는 라벨만)
     preserve = {
-        "amg",       # Yacktman: AMG trust source (vs original Yacktman Fund Inc)
         "stub",      # Buffett: HTML stub vs PDF body
         "annual",    # 명시적 annual 표시
     }
-    # consolidate 할 펀드 태그 (의미 없는 collision marker 로 취급)
+    # consolidate 할 collision 태그 (펀드/엔티티/운용사 변경은 모두 collision 으로 처리)
     fund_tags_to_drop = {
+        # 펀드 종류
         "partners", "smallcap", "global", "international",
         "growth", "opportunity", "focused",
+        # 운용사/entity 변경 (Yacktman: AMG 인수 전후) — 포트폴리오 본질은 같음
+        "amg",
     }
     for token in extras:
         low = token.lower()

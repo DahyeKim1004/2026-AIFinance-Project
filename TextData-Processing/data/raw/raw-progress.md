@@ -17,7 +17,7 @@
 | 4 | **Driehaus** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 65 | 142 MB |
 | 5 | **Einhorn** | ❌ 사실상 부재 | 2020-2021 (2건) | 비정형 (GLRE 8-K best-effort) | HTML(EDGAR) | 2 | 16 KB |
 | 6 | **Baron** | ✅ 수집 완료 | 1996~2025 (30y) | 반기 (N-CSR/N-CSRS) | HTML/TXT(EDGAR) | 76 | 125 MB |
-| 7 | **Yacktman** | ✅ 수집 완료 | 1995~2025 (30y) | 1995-2011 standalone + 2012- AMG | HTML/TXT(EDGAR) | 127 | 266 MB |
+| 7 | **Yacktman** | ✅ 수집 완료 | 1995~2025 (30y) | 1995-2011 + 2012-2025 (운용사 변경) | HTML/TXT(EDGAR) | 127 | 266 MB |
 
 **Aggregate**: 526 파일 / ~671 MB (전체 7명 수집 완료, collision suffix → sequence 정규화 완료)
 
@@ -60,13 +60,15 @@
 
 ### 보존되는 의미 태그
 
-- **`_amg`** (Yacktman): AMG trust 시기 (vs original Yacktman Fund Inc) — entity source 구분
-- **`_stub`** (Buffett): HTML stub vs PDF 본문 — file kind 구분
+- **`_stub`** (Buffett): HTML stub vs PDF 본문 — file kind 구분 (다른 형식)
 - **Essay 라벨** (Grantham): `_purgatory`, `_stalin`, `_bargain` 등 본인이 명명한 시그니처 letter — 의미 있는 라벨
 
 ### Consolidate 되는 collision 마커 (제거 후 sequence 번호)
 
+원칙: **포트폴리오 본질이 같으면 묶는다**. 운용사·펀드 종류 차이는 같은 투자자의 portfolio 임에는 변함 없으므로 collision 으로 처리.
+
 - 펀드 종류 태그: `_partners`, `_smallcap`, `_global` (Hawkins) — 같은 firm 다른 mandate
+- 운용사/Entity 변경: `_amg` (Yacktman: AMG 인수 전후) — 포트폴리오 본질은 같음
 - Filing month: `_jan`, `_feb`, `_mar`, ..., `_dec` — 다중 펀드 / amendment
 - Accession suffix: `_a000074` 등 — SEC 등록 번호 끝자리
 
