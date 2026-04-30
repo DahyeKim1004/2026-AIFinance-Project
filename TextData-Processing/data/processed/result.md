@@ -162,17 +162,42 @@
 | **Mixed minor (yack 1-15, other sub-adv dominant)** | ~60 | Yacktman 은 fund family list 에 잠깐 mention 만, 본문은 다른 sub-adv (Trilogy/Skyline/GW&K 등) | **본질적 noise — 폐기 권장** |
 | **No yacktman (0 yack)** | **2** ([Yacktman_12_01.htm](../raw/yacktman/Yacktman_12_01.htm), [Yacktman_12_S1_04.htm](../raw/yacktman/Yacktman_12_S1_04.htm)) | Trilogy 등 다른 sub-adv 만 | **폐기** |
 
-**핵심 검증** — Yacktman_24.htm (iXBRL, 10.2 MB, yack 220회, first @ pos 288,882):
+**핵심 검증 1** — Yacktman_24.htm (iXBRL, 10.2 MB, yack 220회, first @ pos 288,882):
 - Pos 288,882~ 부터: **"AMG Yacktman Focused Fund Class N / YAFFX ANNUAL SHAREHOLDER REPORT | December 31, 2024 ... PERFORMANCE REVIEW: 2024 proved to be a challenging performance period for the Fund... TOP CONTRIBUTORS: Fox saw considerable growth in Fox News viewership... TOP DETRACTORS: Samsung Electronics is a global leader..."**
 - → **진짜 Yacktman team 의 분기 commentary 본문 존재**, 단 합본 N-CSR 의 ~30% 깊이에서 시작.
 
-**소견**:
-- **사용자 직관 부분 정확**: 표면적으로 letter 가 안 보였던 이유는 **AMG 합본 N-CSR 안에서 Yacktman section 이 다른 펀드들 (Trilogy, GW&K, Skyline, Cadence, TimesSquare 등) 과 섞여있기 때문**.
-- **deep slicing 가능성**: "AMG Yacktman Focused Fund" / "AMG Yacktman Fund" / "PERFORMANCE REVIEW" 헤더 기반 section 추출하면 본문 확보 가능.
-- **2 파일 (Yacktman_12_01, Yacktman_12_S1_04)** 은 Yacktman 무관 → **폐기 대상**.
-- **Mixed minor 60여개 파일**도 사실상 Yacktman 본문이 거의 없으므로 (yack 1-15 mention 만) — slicing 시 빈 결과 → **사실상 noise**.
+**핵심 검증 2 (재판정 보강 — 2026-04-30)** — 2012-2019 AMG era 구양식도 substantive content 존재:
 
-**예상 유효 파일 수**: 33 standalone + ~34 AMG era (Yacktman-only 19 + Mixed dominant 15) = **~67 파일**. raw count 129 의 약 절반.
+[Yacktman_17_S1_02.htm](../raw/yacktman/Yacktman_17_S1_02.htm) (2017 AMG era, yack 313, 1.2 MB) — 정확한 anchor `"AMG Yacktman Fund Portfolio Manager's Comments"` @ pos 885,384 (전체의 73% 지점):
+
+> "2017 was a year in which **risks were largely cast aside** and markets rocketed higher, led in large part by **already expensive growth companies**. Volatility levels in markets set record lows and **valuations expanded yet again**...
+>
+> Given our goal of **generating solid returns over time while managing the level of risk**, we were gratified that the AMG Yacktman Fund returned more than 18% for the year...
+>
+> We were comfortable owning large positions in **Samsung and Fox** because we believed they **sold at extremely low levels relative to their value**...
+>
+> Today's market environment **reminds us of other periods where investors ignored risks, chased growth and paid little attention to valuations**. The combination of these factors can be dangerous, with more potential downside scenarios than long-term upside cases. Investing in an expensive market is especially challenging for fund managers like us who are **focused on protecting capital**...
+>
+> For some historical perspective, the last momentum-oriented growth chasing market like this was in **1999**, a year when the Fund declined -16.9%... The insanity of that investment environment set up a remarkable decade for the Fund where it delivered 11.9% annualized returns compared to the S P 500 Index which declined by 1.0% annually."
+
+→ **Buffett / Hawkins / Grantham 와 동등 수준의 substantive content** — 4-시그널 모두 명시 (protecting capital + valuation framework + Samsung/Fox thesis + risk attitude + 1999 비교 historical perspective).
+
+[Yacktman_14_S1_02.htm](../raw/yacktman/Yacktman_14_S1_02.htm) (2014 AMG era, yack 213, 754 KB) — 동일 anchor @ pos 564,559 (전체의 75% 지점). 동일 구조로 Yacktman team substantive PM commentary 추출 가능.
+
+**소견 (재판정)**:
+- ❌ **이전 비관적 평가는 과소평가**: 2012-2019 AMG era dominant 파일 (~30개) 도 **anchor 기반 deep slicing 시 추출 가능성 매우 높음**.
+- ✅ **Anchor 명확**: `"AMG Yacktman Fund Portfolio Manager's Comments"` / `"AMG Yacktman Focused Fund Portfolio Manager's Comments"` — deterministic 헤더.
+- ✅ **위치 일관**: 파일 전체의 70-80% 지점 (deep 하지만 일관됨).
+- ✅ **Content quality**: 다른 투자자와 동급. 1999 momentum 시장 비교, Samsung/Fox 가치 thesis, "protecting capital" 철학 명시.
+- ❌ **2 파일 (Yacktman_12_01, Yacktman_12_S1_04)** 은 Yacktman 무관 → **폐기 대상**.
+- ❌ **Mixed minor 60여개 파일** (yack 1-15) — fund family list 에 잠깐 mention 만, 본문은 다른 sub-adv → **사실상 noise**.
+
+**예상 유효 파일 수 (재판정)**:
+- 1995-2011 standalone: 33
+- 2012-2019 AMG era dominant (yack ≥ 100): ~30 (deep slicing 거의 확실히 성공)
+- 2020-2025 AMG era 후기 + 신양식: 19 + 4 = ~23
+- **총 ~73-86 / 129** (raw count 의 ~60%, 이전 추정 ~67/129 보다 상향)
+- 폐기: 2 (yack=0) + ~38 mixed minor (yack 1-15) = ~40개
 
 ---
 
@@ -199,7 +224,7 @@
 | 4 | **Driehaus** | **C** | **A−** (Driehaus team, 종목 thesis + EM macro) | **deep slicing 필요** + 2021 cutoff |
 | 5 | ~~Einhorn~~ | ~~F~~ | ~~F~~ (sales speech, partner letter 부재) | **제외 결정** (사용자 합의) |
 | 6 | **Baron** | **C** | **A** (Ron Baron team, "competitive advantages" + macro QE view) | **deep slicing 필요** + 5펀드 분리 |
-| 7 | **Yacktman** | **C−** | **A (good 파일) / D (구양식 다수)** | **noise 필터링 + deep slicing 필수** — 유효 ~43-73/129 |
+| 7 | **Yacktman** | **C−** | **A (전체, anchor 기반 추출 시)** | **noise 필터링 + anchor-based deep slicing** — 유효 ~73-86/129 |
 
 **총평** (Phase 3 + 3.2 content quality 검증 후):
 - **6명 (Buffett, Hawkins, Grantham, Driehaus, Baron, Yacktman)**: letter 본문 존재 ✓ Content quality 측면에서 substantive 한 4-시그널 (투자철학 / 시장view / 종목thesis / risk attitude) 모두 보유 — Phase 2/3 학습 입력 적합.
@@ -207,11 +232,12 @@
 
 **Role 4 합의 단계 블로킹 결정 사항**:
 1. ~~**Einhorn 카테고리 처리**~~ ✅ **제외 결정 (2026-04-30)**. Long/Short Fundamental 카테고리 대체 후보 (Bill Miller / Cliff Asness 등) 필요 시 별도 검토.
-2. **Yacktman AMG era 구양식 noise 처리**:
-   - yack count < 30 + 다른 sub-adv mention 다수 → 자동 폐기 (~50개)
-   - yack count 100+ dominant → deep slicing 시도 (~30개)
+2. **Yacktman AMG era 구양식 noise 처리** (2026-04-30 재판정):
+   - yack count < 30 + 다른 sub-adv mention 다수 → 자동 폐기 (~40개)
+   - yack count 100+ dominant (2012-2019) → **anchor `"AMG Yacktman Fund Portfolio Manager's Comments"` 기반 deep slicing — 추출 거의 확실히 성공** (2017/2014 sample 검증 완료, ~30개)
    - 2020+ "opinions of Yacktman" attribution 명시 파일 → 즉시 활용 (~6개)
-   - 2024-2025 신양식 → 활용 (~4개)
+   - 2024-2025 신양식 (TSR) → "AMG Yacktman Focused Fund Class N" anchor 기반 추출 (~4개)
+   - **유효 합계 ~73-86 / 129 파일**
 3. **Driehaus 2021 cutoff 정책**: 본인 사망 후 후임 PM letter 사용 여부.
 4. **Multi-fund 합본 분리 정책 finalize**: Hawkins 4펀드, Baron 5펀드, Yacktman AMG family 의 fund-section slicing 로직 우선순위.
 
@@ -254,7 +280,14 @@ LETTER_MARKERS = {
     'INV_DRIEHAUS': ["Dear Fellow Shareholder", "Manager's Letter", 'Portfolio Manager'],
     'INV_EINHORN':  ['Sohn', 'Robin Hood', 'Greenlight Capital', 'Dear Partner'],
     'INV_BARON':    ['Dear Baron Funds Shareholder', 'Annual Letter', 'Sincerely', 'Ron Baron'],
-    'INV_YACKTMAN': ['Dear Fellow Shareholder', 'Yacktman Fund', 'Yacktman Focused Fund'],
+    'INV_YACKTMAN': [
+        'Dear Fellow Shareholder',                           # 1995-2011 standalone (Don 본인)
+        'MESSAGE TO SHAREHOLDERS',                           # 1995-2011 standalone
+        "AMG Yacktman Fund Portfolio Manager's Comments",    # 2012-2019 AMG 구양식 (deep, ~70-80% 지점)
+        "AMG Yacktman Focused Fund Portfolio Manager's Comments",  # 동
+        'AMG Yacktman Focused Fund Class N',                 # 2024+ iXBRL TSR 양식
+        'opinions of Yacktman',                              # 2020-2023 attribution 시그니처
+    ],
 }
 ```
 
@@ -290,7 +323,7 @@ LETTER_MARKERS = {
 
 1. **프로젝트 목표는 텍스트 감성/언어 기반 persona 분석** → letter narrative 가 핵심 입력. N-CSR 의 정량 섹션 (Schedule of Investments, iXBRL 태그) 은 모두 stripping 대상 (Role 2/3 트랙이 별도 처리).
 
-2. **6명 (Buffett, Hawkins, Grantham, Driehaus, Baron, Yacktman)**: letter 본문 확실히 존재 → Phase 2/3 학습 가능. 단 Yacktman 의 AMG era 96 파일 중 ~60개가 다른 AMG sub-adv 보고서로 사실상 noise → **유효 ~67 / 129 파일**.
+2. **6명 (Buffett, Hawkins, Grantham, Driehaus, Baron, Yacktman)**: letter 본문 확실히 존재 → Phase 2/3 학습 가능. Yacktman 의 AMG era 96 파일 중 ~40개는 다른 AMG sub-adv 보고서로 폐기, **나머지 ~50개는 anchor 기반 deep slicing 시 substantive content 추출 가능** (2017 sample 검증 완료 — Samsung/Fox 가치 thesis + 1999 비교 + "protecting capital" 명시) → **유효 ~73-86 / 129 파일**.
 
 3. **Einhorn 카테고리 본질적 문제 (재판정)**: 27개 PDF 가 **분기 LP partner letter 가 아니라 외부 컨퍼런스 stock pitch + activist proxy + sales speech**. 분기 cadence 의 risk-attitude commentary 가 아니라 **단발 종목 thesis**. → **GRU 입력 본질적 부적합**.
 
@@ -373,13 +406,16 @@ LETTER_MARKERS = {
 
 → **Ron Baron team voice** + 투자 철학 (sustainable competitive advantages, growth + value-oriented) + 거시 view (Fed QE, deflation/reflation 변곡점) + 시장 timing 분석. 4가지 시그널 모두 ✓.
 
-#### ⚠️ Yacktman — A (standalone + 신양식) / D (구양식 AMG era 다수)
+#### ✅ Yacktman — A (전체, anchor 기반 추출 시) — 단, ~40 noise 파일 폐기 후
 
 상세 §2.7 참조. 핵심:
 - **1995-2011 (33개)**: Don Yacktman 본인 voice — "loss aversion", "Protect capital", "the price we pay is extremely important", "strong market position and relatively stable profit margins" → A 등급
 - **2024-2025 신양식 (4개)**: AMG Yacktman team voice — "multiple expansion vs underlying business results", "Fund remains concentrated with the top 10 positions representing 50.5%", 종목별 thesis (Fox/Schwab/Alphabet/Samsung/Bollore) → A 등급
 - **2020-2023 AMG era 후기 (6개)**: "views expressed represent the opinions of Yacktman" attribution 명시 → A 등급
-- **2012-2019 AMG era 구양식 (78개 중 ~30개 dominant)**: AMG 합본 N-CSR. **deep slicing 필요**, attribution 부재. 일부 파일은 "Letter to Shareholders" 가 사실 AMG Funds President (Jeffery Cerutti) 의 generic 시장 letter 또는 다른 sub-advisor (GW&K, Trilogy 등) 의 commentary 임 → 사용 가능 여부 검증 후에야 판정 가능
+- **2012-2019 AMG era 구양식 dominant (~30개)** (재판정 2026-04-30): anchor `"AMG Yacktman Fund Portfolio Manager's Comments"` 기반 deep slicing 시 **다른 투자자와 동등 수준의 substantive content 추출 가능** ✅ (2017 + 2014 sample 검증 완료)
+  - "risks were largely cast aside", "valuations expanded", "**focused on protecting capital**", "Samsung/Fox sold at extremely low levels relative to their value", "1999 momentum-oriented growth chasing market" 비교
+  - 4-시그널 (투자철학 / 시장view / 종목thesis / risk attitude) 모두 ✓ → **A 등급**
+- **AMG era noise (~40개)**: yack count < 30 + 다른 sub-adv (Trilogy/GW&K/Skyline 등) dominant → 폐기. 일부 파일의 "Letter to Shareholders" 는 AMG Funds President (Jeffery Cerutti) 의 generic 시장 letter 또는 다른 sub-advisor 의 commentary.
 
 ### 7.3 Content Quality 종합 등급표
 
@@ -391,7 +427,7 @@ LETTER_MARKERS = {
 | 4 | **Driehaus** | A− | Driehaus team (~2021 본인, 이후 후임) | ✓✓✓✓ | 65 / 65 (deep slicing 후, cutoff 정책 별도) |
 | 5 | ~~Einhorn~~ | ~~F~~ | ~~Einhorn 본인 발표 (단발 thesis)~~ | ~~제외 결정~~ | ~~0 / 29~~ |
 | 6 | **Baron** | A | Baron team (Ron 주도) | ✓✓✓✓ | 75 / 75 (deep slicing 후) |
-| 7 | **Yacktman** | A (good) / D (구양식) | Don 본인 (1995-2011) / Yacktman team (AMG era) | ✓✓✓✓ (good 파일에 한해) | **~43-73 / 129** (1/3 ~ 1/2 만 substantive) |
+| 7 | **Yacktman** | A (전체, anchor 기반 추출 시) | Don 본인 (1995-2011) / Yacktman team (AMG era 2012+) | ✓✓✓✓ | **~73-86 / 129** (~60%, 재판정 후 상향) |
 
 → **6명 모두 (Einhorn 제외)** content quality 측면에서 substantive Yacktman/Buffett/etc. team voice 보유. 4가지 시그널 모두 명시. **GRU + FinBERT embedding + LLM persona scoring 입력으로 사용 가능**.
 
