@@ -38,7 +38,7 @@ Role 1, 2, 3의 산출물이 이 코드북에 맞추어 정제·통합되어야 
 | 4 | `INV_DRIEHAUS` | Driehaus Capital Management | 938206 | Momentum / Trend | `momentum` | Quarterly commentary |
 | 5 | `INV_EINHORN` | Greenlight Capital | 1079114 | Long/Short Fundamental | `long_short_fundamental` | Quarterly letter |
 | 6 | `INV_BARON` | Baron Capital (BAMCO) | 1017918 | Disruptive Growth | `disruptive_growth` | Quarterly letter |
-| 8 | `INV_YACKTMAN` | Yacktman Asset Management | 874118 | Dividend Growth | `dividend_growth` | Semi-annual letter |
+| 7 | `INV_YACKTMAN` | Yacktman Asset Management | 874118 | Dividend Growth | `dividend_growth` | Semi-annual letter |
 
 ---
 
