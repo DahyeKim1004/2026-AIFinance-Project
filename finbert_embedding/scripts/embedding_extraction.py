@@ -2,12 +2,12 @@
 Investor의 Text 데이터를 FinBERT 모델을 이용하여 임베딩을 추출하는 스크립트
 
 Usage-User:
-    python finbert_embedding/scripts/embedding_extraction.py --model_type ProsusAI/finbert --input_file TextData-Processing/data/raw/{investor_name} --output_file finbert_embedding/results
+    python finbert_embedding/scripts/embedding_extraction.py --model_type ProsusAI/finbert --input_file TextData-Processing/data/raw/{investor_name} --output_file results
 
     Args:
         --model_type: 모델 타입 (default: 'ProsusAI/finbert')
         --input_file: 입력 디렉토리 경로 (default: 'TextData-Processing/data/raw')
-        --output_file: 결과 저장 디렉토리 경로 (default: 'finbert_embedding/results')
+        --output_file: 결과 저장 디렉토리 경로 (default: 'results')
     
     Returns:
         Processed csv file with embedding extracted from each investor's text data
@@ -79,17 +79,17 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu")
     print(f"Using device: {device}")
     
-    # Load model and tokenizer
-    print("Loading model and tokenizer...")
-    tokenizer = AutoTokenizer.from_pretrained(args.model_type)
-    model = AutoModel.from_pretrained(args.model_type).to(device)
-    model.eval()
-    
     input_path = Path(args.input_file)
     output_path = Path(args.output_file)
     output_path.mkdir(parents=True, exist_ok=True)
     
+    # Check if input directory exists
+    if not input_path.exists():
+        print(f"Error: Input path '{input_path}' does not exist.")
+        return
+
     # open raw pdf files in input_file path recursively
+    print(f"Searching for PDF files in {input_path}...")
     all_pdf_files = list(input_path.rglob("*.pdf"))
     if not all_pdf_files:
         print(f"No PDF files found in {input_path}")
@@ -103,7 +103,13 @@ def main():
             investor_files[investor_name] = []
         investor_files[investor_name].append(pdf_file)
         
-    print(f"Found {len(investor_files)} investors to process.")
+    print(f"Found {len(all_pdf_files)} PDF files across {len(investor_files)} investors.")
+
+    # Load model and tokenizer only after confirming files exist
+    print(f"Loading model and tokenizer ({args.model_type})...")
+    tokenizer = AutoTokenizer.from_pretrained(args.model_type)
+    model = AutoModel.from_pretrained(args.model_type).to(device)
+    model.eval()
 
     # Main progress bar for investors
     investor_pbar = tqdm(sorted(investor_files.items()), desc="[Investors]")
