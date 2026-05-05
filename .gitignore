@@ -19,3 +19,7 @@ data/raw/*
 
 # Generated caches
 finbert_embedding/scripts/__pycache__/
+models/GRU/.mplconfig/
+models/GRU/.cache/
+models/PLS/.mplconfig/
+models/PLS/.cache/
