@@ -10,3 +10,14 @@ venv/
 *.png
 Research Design/
 Meetings/
+
+# Raw / bulky data handoffs should stay local.
+TextData-Processing/data/raw/
+TextData-Processing/data/interim/
+TextData-Processing/notebooks/
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated model artifacts.
+finbert_embedding/results/
+finbert_embedding/scripts/__pycache__/
