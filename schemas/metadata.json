@@ -1,0 +1,272 @@
+{
+  "project": {
+    "name": "InvestorDNA",
+    "description": "AI-powered investor persona mapping to factor-based portfolio recommendations",
+    "schema_version": "1.1.0",
+    "last_updated": "2026-05-05",
+    "maintained_by": "Role 4 (Model Architecture & Data Schema)"
+  },
+  "investors": {
+    "active_count": 6,
+    "excluded_from_current_corpus": [
+      {
+        "investor_id": "INV_EINHORN",
+        "reason": "Collected files were not recurring quarterly LP letters and were excluded from the current model-ready text corpus."
+      }
+    ],
+    "id_format": "INV_{SURNAME_UPPERCASE}",
+    "active_list": [
+      "INV_BUFFETT",
+      "INV_HAWKINS",
+      "INV_GRANTHAM",
+      "INV_DRIEHAUS",
+      "INV_BARON",
+      "INV_YACKTMAN"
+    ],
+    "raw_file_counts": {
+      "INV_BUFFETT": 48,
+      "INV_HAWKINS": 125,
+      "INV_GRANTHAM": 77,
+      "INV_DRIEHAUS": 65,
+      "INV_BARON": 75,
+      "INV_YACKTMAN": 129
+    },
+    "source_role": "Role 1 raw data handoff; Role 4 maintains active corpus metadata"
+  },
+  "raw_text_corpus": {
+    "directory": "TextData-Processing/data/raw",
+    "total_files": 519,
+    "supported_extensions": {
+      "pdf": {
+        "count": 161,
+        "processor": "PDF text extraction"
+      },
+      "html": {
+        "count": 21,
+        "processor": "HTML visible-text extraction"
+      },
+      "htm": {
+        "count": 244,
+        "processor": "EDGAR HTML/iXBRL visible-text extraction plus section slicing"
+      },
+      "txt": {
+        "count": 93,
+        "processor": "EDGAR TXT/SGML <TEXT> extraction plus section slicing"
+      }
+    },
+    "filename_patterns": [
+      "{Investor}_{YY}.{ext}",
+      "{Investor}_{YY}_S1.{ext}",
+      "{Investor}_{YY}_Q{n}.{ext}",
+      "{Investor}_{YY}_Q{n}_{sequence}.{ext}",
+      "{Investor}_{YY}_S1_{sequence}.{ext}",
+      "{Investor}_{YY}_{tag}.{ext}"
+    ],
+    "native_timestamp_formats": {
+      "annual": "YYYY",
+      "half": "YYYY-Hn",
+      "quarter": "YYYY-Qn",
+      "unknown": "UNKNOWN"
+    }
+  },
+  "time_period": {
+    "policy": "per_investor_activity_window",
+    "description": "Each investor uses the period where text and portfolio data coexist. A common overlapping window is not required.",
+    "native_cadence_preserved_in": "timestamp",
+    "model_cadence": "quarterly",
+    "model_quarter_key": {
+      "field": "Date",
+      "format": "NQYY",
+      "examples": ["1Q19", "4Q24"]
+    },
+    "native_timestamp_examples": {
+      "annual": "2015",
+      "half": "2022-H1",
+      "quarter": "2019-Q1"
+    },
+    "quarter_definition": {
+      "Q1": "Jan-Mar",
+      "Q2": "Apr-Jun",
+      "Q3": "Jul-Sep",
+      "Q4": "Oct-Dec"
+    },
+    "cadence_alignment": {
+      "annual_to_quarterly": "carry-forward to four quarters when building quarterly model inputs",
+      "semiannual_to_quarterly": "carry-forward to two quarters or approved fiscal mapping",
+      "quarterly": "use same quarter",
+      "irregular": "assign to publication quarter when known"
+    }
+  },
+  "datasets": {
+    "investor_registry": {
+      "files": [
+        "TextData-Processing/data/investors.csv",
+        "data/processed/investors.csv"
+      ],
+      "primary_keys": ["investor_id"],
+      "columns": {
+        "investor_id": { "type": "string", "nullable": false },
+        "name": { "type": "string", "nullable": false },
+        "firm": { "type": "string", "nullable": false },
+        "cik": { "type": "integer", "nullable": true },
+        "category": { "type": "string", "nullable": false },
+        "style_short": { "type": "string", "nullable": false },
+        "thirteen_f_start": { "type": "integer", "nullable": true },
+        "text_source_primary": { "type": "string", "nullable": false, "enum": "source_type_vocabulary" },
+        "text_source_url": { "type": "string", "nullable": true },
+        "recognition_score": { "type": "integer", "nullable": true, "min": 1, "max": 5 },
+        "etf_mapping": { "type": "string", "nullable": true }
+      }
+    },
+    "investor_text": {
+      "file": "TextData-Processing/data/processed/investor_text.csv",
+      "source_role": "Role 4 (Text Cleaning and Model Architecture)",
+      "input_source": "Role 1 raw corpus at TextData-Processing/data/raw",
+      "description": "Cleaned investor narrative corpus produced by Role 4. Preferred input for FinBERT embedding extraction.",
+      "primary_keys": ["investor_id", "Date", "chunk_id"],
+      "columns": {
+        "investor_id": { "type": "string", "nullable": false, "foreign_key": "investor_registry.investor_id" },
+        "timestamp": { "type": "string", "nullable": false, "format": "YYYY | YYYY-Hn | YYYY-Qn | UNKNOWN" },
+        "Date": { "type": "string", "nullable": false, "format": "NQYY after quarterly alignment" },
+        "year": { "type": "integer", "nullable": true },
+        "quarter": { "type": "integer", "nullable": true, "min": 1, "max": 4 },
+        "half": { "type": "integer", "nullable": true, "min": 1, "max": 2 },
+        "period_type": { "type": "string", "nullable": false, "enum": ["year", "half", "quarter", "unknown"] },
+        "source_type": { "type": "string", "nullable": false, "enum": "source_type_vocabulary" },
+        "chunk_id": { "type": "integer", "nullable": false, "min": 1 },
+        "text_content": { "type": "string", "nullable": false },
+        "word_count": { "type": "integer", "nullable": false, "min": 1 },
+        "filename": { "type": "string", "nullable": false },
+        "source_ext": { "type": "string", "nullable": false, "enum": ["pdf", "txt", "htm", "html"] },
+        "source_url": { "type": "string", "nullable": true },
+        "processing_status": { "type": "string", "nullable": false, "enum": ["ok", "skipped_empty", "skipped_noise", "error"] }
+      }
+    },
+    "finbert_embeddings": {
+      "directory": "finbert_embedding/results",
+      "source_role": "Role 4 / FinBERT Embedding",
+      "description": "Document-level FinBERT embeddings produced by Role 4 from cleaned investor_text.csv, with raw-file embedding available as a fallback.",
+      "primary_keys": ["investor_id", "filename"],
+      "columns": {
+        "investor_id": { "type": "string", "nullable": false },
+        "timestamp": { "type": "string", "nullable": false, "format": "YYYY | YYYY-Hn | YYYY-Qn | UNKNOWN" },
+        "Date": { "type": "string", "nullable": false, "description": "Backward-compatible date column; downstream integration should standardize to NQYY." },
+        "year": { "type": "integer", "nullable": true },
+        "quarter": { "type": "integer", "nullable": true, "min": 1, "max": 4 },
+        "half": { "type": "integer", "nullable": true, "min": 1, "max": 2 },
+        "period_type": { "type": "string", "nullable": false, "enum": ["year", "half", "quarter", "unknown"] },
+        "filename": { "type": "string", "nullable": false },
+        "source_ext": { "type": "string", "nullable": false, "enum": ["pdf", "txt", "htm", "html"] },
+        "word_count": { "type": "integer", "nullable": false, "min": 1 },
+        "dim_0_to_dim_767": { "type": "float", "nullable": false, "description": "BERT hidden-size embedding columns for ProsusAI/finbert-like models" }
+      },
+      "processing_parameters": {
+        "default_model_type": "ProsusAI/finbert",
+        "chunk_size_tokens": 510,
+        "pooling": "mean pooling over token embeddings, then mean over chunks",
+        "supported_raw_extensions": ["pdf", "txt", "htm", "html"]
+      }
+    },
+    "macro_state": {
+      "file": "data/processed/macro_state.csv",
+      "source_role": "Role 2 (Macro Data Processing)",
+      "primary_keys": ["Date"],
+      "columns": {
+        "Date": { "type": "string", "nullable": false, "format": "NQYY" },
+        "inflation": { "type": "float", "nullable": false, "min": 0.0, "max": 1.0 },
+        "cycle": { "type": "float", "nullable": false, "min": 0.0, "max": 1.0 },
+        "unemployment": { "type": "float", "nullable": false, "min": 0.0, "max": 1.0 },
+        "monetary": { "type": "float", "nullable": false, "min": 0.0, "max": 1.0 },
+        "stress": { "type": "float", "nullable": false, "min": 0.0, "max": 1.0 },
+        "macro_state_label": {
+          "type": "string",
+          "nullable": false,
+          "enum": ["Recession", "Expansion", "Neutral", "Stagflation Risk", "Inflationary Tightening"]
+        }
+      }
+    },
+    "factor_fingerprint": {
+      "file": "data/processed/factor_fingerprint.csv",
+      "source_role": "Role 3 (Portfolio Data Processing)",
+      "primary_keys": ["Date", "investor_id"],
+      "columns": {
+        "Date": { "type": "string", "nullable": false, "format": "NQYY" },
+        "investor_id": { "type": "string", "nullable": false },
+        "mkt_rf": { "type": "float", "nullable": false },
+        "smb": { "type": "float", "nullable": false },
+        "hml": { "type": "float", "nullable": false },
+        "rmw": { "type": "float", "nullable": false },
+        "cma": { "type": "float", "nullable": false },
+        "alpha": { "type": "float", "nullable": false }
+      },
+      "regression": {
+        "model": "OLS",
+        "factors": "Fama-French 5-Factor",
+        "data_source": "Kenneth French Data Library",
+        "portfolio_source": "SEC EDGAR 13F Holdings",
+        "rolling_window_quarters": 12
+      }
+    },
+    "unified_dataset": {
+      "file": "data/processed/unified_dataset.csv",
+      "source_role": "Role 4 (Model Architecture)",
+      "primary_keys": ["Date", "investor_id"],
+      "columns": {
+        "Date": { "type": "string", "nullable": false, "format": "NQYY" },
+        "investor_id": { "type": "string", "nullable": false },
+        "macro_state": { "type": "string", "nullable": false, "format": "JSON array [inflation, cycle, unemployment, monetary, stress]" },
+        "macro_state_label": { "type": "string", "nullable": false },
+        "risk_attitude": { "type": "float", "nullable": true, "min": 0.0, "max": 1.0 },
+        "time_horizon": { "type": "float", "nullable": true, "min": 0.0, "max": 1.0 },
+        "loss_aversion": { "type": "float", "nullable": true, "min": 0.0, "max": 1.0 },
+        "macro_sensitivity": { "type": "float", "nullable": true, "min": 0.0, "max": 1.0 },
+        "mkt_rf": { "type": "float", "nullable": false },
+        "smb": { "type": "float", "nullable": false },
+        "hml": { "type": "float", "nullable": false },
+        "rmw": { "type": "float", "nullable": false },
+        "cma": { "type": "float", "nullable": false },
+        "alpha": { "type": "float", "nullable": false }
+      }
+    }
+  },
+  "models": {
+    "gru": {
+      "directory": "models/gru/",
+      "input": ["finbert_embeddings", "macro_state"],
+      "output": ["risk_attitude", "time_horizon", "loss_aversion", "macro_sensitivity"],
+      "personality_dimensions": {
+        "risk_attitude": { "label": "Risk Tolerance", "range": [0.0, 1.0] },
+        "time_horizon": { "label": "Time Horizon", "range": [0.0, 1.0] },
+        "loss_aversion": { "label": "Loss Aversion", "range": [0.0, 1.0] },
+        "macro_sensitivity": { "label": "Macro Sensitivity", "range": [0.0, 1.0] }
+      }
+    },
+    "pls": {
+      "directory": "models/pls mapping/",
+      "input": ["risk_attitude", "time_horizon", "loss_aversion", "macro_sensitivity"],
+      "output": ["mkt_rf", "smb", "hml", "rmw", "cma", "alpha"],
+      "method": "Partial Least Squares Regression"
+    }
+  },
+  "source_type_vocabulary": [
+    "annual_letter",
+    "quarterly_letter",
+    "interim_letter",
+    "market_commentary",
+    "signature_essay",
+    "agm_transcript",
+    "interview",
+    "speech",
+    "memo",
+    "book_excerpt"
+  ],
+  "csv_encoding": {
+    "encoding": "UTF-8",
+    "bom": false,
+    "delimiter": ",",
+    "quote_char": "\"",
+    "line_ending": "LF",
+    "header": true,
+    "missing_value": ""
+  }
+}

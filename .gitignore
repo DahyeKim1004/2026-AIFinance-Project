@@ -9,3 +9,13 @@ venv/
 *.pptx
 *.png
 Research Design/
+
+# Raw / bulky local data handoffs
+TextData-Processing/data/raw/
+TextData-Processing/data/interim/
+TextData-Processing/notebooks/
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated caches
+finbert_embedding/scripts/__pycache__/
