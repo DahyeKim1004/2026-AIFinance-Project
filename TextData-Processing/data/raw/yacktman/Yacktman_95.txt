@@ -1,0 +1,906 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ R25Z5MayXmX8YIw92W1BIHaxEXUyniY0MFocUdj3lXRRdlCSGL3AC2Q6jqS2Fph3
+ Jrj/jSQ/J0RQS7+iY1it8w==
+
+<SEC-DOCUMENT>0000948221-96-000064.txt : 19960220
+<SEC-HEADER>0000948221-96-000064.hdr.sgml : 19960220
+ACCESSION NUMBER:		0000948221-96-000064
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19951231
+FILED AS OF DATE:		19960216
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YACKTMAN FUND INC
+		CENTRAL INDEX KEY:			0000885980
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-06628
+		FILM NUMBER:		96522305
+
+	BUSINESS ADDRESS:	
+		STREET 1:		303 W MADISON ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3126412400
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+
+February 13, 1996
+
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Judiciary Plaza
+Washington, D.C. 20549
+
+Re:  The Yacktman Fund, Inc. Annual Report
+     Filing Pursuant to Rule 30b2-1
+     SEC File No. 811-6628, 33-47044
+
+Gentlemen:
+
+On behalf of The Yacktman Fund, Inc. (the "Fund"), transmitted herewith for
+filing pursuant to Rule 30b2-1 and Section 24(b) under the Investment Company
+Act of 1940, as amended, is the Fund's Annual Report to the Shareholders for the
+fiscal year ended December 31, 1995.
+
+Questions regarding this filing should be directed to the undersigned.
+
+Sincerely,
+
+/s/ Jon Kiekhofer
+Jon Kiekhofer
+Financial Analyst
+
+JK/kg
+
+Encl.
+
+
+
+THE YACKTMAN FUND, INC.
+ANNUAL REPORT
+December 31, 1995
+
+
+MESSAGE TO SHAREHOLDERS
+Dear Shareholder:
+
+ Even though the performance of the Fund was below that of the S&P 500 for the
+past quarter, the Fund has a cumulative return of 60.0% compared to 46.1% for
+the S&P 500 since the low price for the Fund on August 12, 1993.  Moreover, for
+investors who purchased shares at the Fund's inception in July, 1992 at $10.00
+per share, their initial investment, adjusted for dividends and capital gains,
+would have grown to $13.88 by the end of the fourth quarter.
+
+                    TOTAL RETURNS FOR PERIODS ENDED 12/31/95
+                                                               Annualized
+                      Fourth Quarter          1 Year         Since Inception
+                    10/1/95 - 12/31/95  1/1/95 - 12/31/95   7/6/92 - 12/31/95
+                    ------------------  -----------------   -----------------
+
+The Yacktman Fund          5.2%                30.4%               9.9%
+S&P 500 Stock Index        6.0%                37.6%              15.2%
+
+The S&P 500 Stock Index is an unmanaged but commonly used measure of common
+stock total return performance.
+
+                      7/6/92     12/92       12/93       12/94        12/95
+                      ------     -----       -----       -----        -----
+
+The Yacktman Fund     10,000     10,472      9,783       10,644       13,881
+S&P 500 Stock Index   10,000     10,679      11,756      11,911       16,387
+
+This chart assumes an initial gross investment of $10,000 made on 7/6/92
+(inception). Returns shown include the reinvestment of all dividends. The above
+past performance is not predictive of future results. The investment return and
+principal value of the Fund will fluctuate so that your shares, when redeemed,
+may be worth more or less than their original cost.
+
+ 1995 was an unusually strong year for the Fund and the stock market in
+general, which was propelled by a tail wind from a steep decline in interest
+rates coupled with a healthy economy.  The Fund's investment philosophy, as
+described below, worked well even without holding any market leading technology
+stocks.
+
+ In the last 50 years, the stock market, as represented by the S&P 500, has
+produced an 11.9% annualized total return.  The total return during this period
+has exceeded 30% in only eight years.  In the year following each of these 30+%
+years, the returns were lower, and in most cases, substantially lower, but still
+positive.
+
+ We view predicting the direction or level of the market as a rather fruitless
+exercise.  Instead, our objective is to buy shares of good businesses at
+relatively low prices and to execute this strategy regardless of the level of
+the overall market.  When the market goes to loftier levels with fewer
+attractive equity opportunities available for purchase, our cash equivalent
+investment position increases and our portfolio tends to be more concentrated.
+
+ As a result, 77% of the Fund is now in either very modestly priced stocks or
+cash equivalent investments.  This 77% can be broken down as follows:
+
+  (1)  58% is in our twelve largest holdings, which continue to sell at big
+       discounts to their private market values.
+  (2)  10% is in smaller companies, which earn less than $100 million a year
+       and sell at very low valuations.
+  (3)  9% is in cash equivalent investments.
+
+ The companies we have purchased each have marvelous economics and in most
+cases are very well managed.  In addition, most of the companies we own generate
+significant amounts of excess cash and have share repurchase plans in place.
+They are in a position, therefore, to enhance shareholder value through
+repurchase of their own stock at attractive prices.
+
+ Just as we look for efficiently run companies, we have attempted to run your
+Fund the same way by "outsourcing" many of the administrative functions to cost
+efficient operators and focusing our time and expertise solely on investing.
+Consequently, this year we were able to bring the expense ratio (the total cost
+to shareholders to run the Fund) down to 91 basis points, or 0.91% versus an
+average of almost 1.40% for similar growth funds.  Our goal is to keep the
+expense ratio under 1%.
+
+ In 1995, we had the good fortune of seeing our assets double for the third
+year in a row to almost $600 million.  The net asset total of $566.7 million
+shown on page 11 in the Statement of Assets and Liabilities includes a payable
+of $38.7 million for the December 29, 1995 dividend and capital gains
+distribution to shareholders.  This $38.7 million liability decreased the net
+assets for one business day, or until January 2, 1996, when the dividend and
+capital gains distribution was reinvested in additional Fund shares.  Since the
+owners of most of the shares reinvest their distribution in the Fund, the net
+asset total of the Fund on January 2, 1996 was $604.3 million.
+
+ We welcome our new shareholders and assure you we will continue to work
+diligently in 1996 to realize our longer term goal of achieving higher returns
+with relatively minimal risk of the permanent loss of capital.
+
+Sincerely,
+
+/S/ Donald A. Yacktman
+Donald A. Yacktman
+THE YACKTMAN FUND, INC.
+TOP TWELVE EQUITY HOLDINGS
+
+
+
+                                                       % of
+                                                 Investment Value
+                                                 ----------------
+
+
+Philip Morris Cos., Inc.                                8.3%
+Reebok International Ltd.                               5.8%
+United Asset Management Corp.                           5.0%
+RJR Nabisco Holdings Corp.                              4.9%
+Clorox Co.                                              4.9%
+UST, Inc.                                               4.8%
+Fruit of the Loom, Inc.                                 4.8%
+Bristol-Myers Squibb Co.                                4.7%
+Salomon, Inc.                                           3.9%
+Torchmark Corp.                                         3.8%
+Dow Jones & Co., Inc.                                   3.5%
+Toys 'R' Us, Inc.                                       3.4%
+                                                       -----
+
+Total                                                  57.8%
+
+
+
+
+
+PURCHASES & SALES
+For the Quarter Ended December 31, 1995
+
+                                         Net Shares           Current
+NEW PURCHASES                             Purchased         Shares Held
+                                          ---------         -----------
+Bandag, Inc., Class A
+The world's largest manufacturer
+of precured tread rubber and
+equipment used by franchise
+dealers for the retreading of
+tires, principally for trucks and
+buses.                                     179,300             179,300
+
+OTHER PURCHASES
+
+Barefoot, Inc.                             417,900             775,000
+
+Clorox Co.                                  30,500             405,000
+
+Franklin Quest Co.                         340,000             630,000
+
+Reebok International Ltd.                  490,000           1,230,000
+
+
+Rollins, Inc.                               90,000             300,000
+
+Salomon, Inc.                              175,000             650,000
+
+Toys 'R' Us, Inc.                          520,000             920,000
+
+United Asset Management Corp.               90,000             780,000
+
+
+                                         Net Shares            Current
+SALES                                       Sold             Shares Held
+                                            ----             -----------
+
+
+Bristol-Myers Squibb Co.                    50,000             330,000
+
+First Brands Corp.                          50,000              50,000
+
+Fruit of the Loom, Inc.                     77,000           1,168,000
+
+General Mills, Inc.                         30,000
+                                                                     -
+
+Johnson & Johnson                          100,200              39,800
+
+Merck & Co., Inc.                          120,000             210,000
+
+NIKE, Inc., Class B                        200,000
+                                                                     -
+
+Pfizer, Inc.                               100,000             230,000
+
+Quaker Oats Co.                             31,000             444,000
+
+RJR Nabisco Holdings Corp.                 164,000             950,000
+
+Student Loan Marketing Assn.               186,000             158,000
+
+Tambrands, Inc.                             10,000             160,000
+
+Torchmark Corp.                             50,400             500,000
+
+UST, Inc.                                   90,000             860,000
+
+Valassis Communications, Inc.               60,000             840,500
+
+
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+TO THE BOARD OF DIRECTORS AND SHAREHOLDERS OF THE YACKTMAN FUND, INC.
+
+In our opinion, the accompanying statement of assets and liabilities, including
+the portfolio of investments, and the related statements of operations and of
+changes in net assets and the financial highlights present fairly, in all
+material respects, the financial position of The Yacktman Fund, Inc.  (the
+"Fund") at December 31, 1995, the results of its operations for the year then
+ended, the changes in its net assets for each of the two years in the period
+then ended and the financial highlights for each of the three years in the
+period then ended and for the period from July 6, 1992 (commencement of
+operations) through December 31, 1992, in conformity with generally accepted
+accounting principles.  These financial statements and financial highlights
+(hereafter referred to as "financial statements") are the responsibility of the
+Fund's management; our responsibility is to express an opinion on these
+financial statements based on our audits.  We conducted our audits of these
+financial statements in accordance with generally accepted auditing standards
+which require that we plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, and evaluating the overall
+financial statement presentation.  We believe that our audits, which included
+confirmation of securities at December 31, 1995 by correspondence with the
+custodian, provide a reasonable basis for the opinion expressed above.
+
+/s/ Price Waterhouse
+Milwaukee, Wisconsin
+January 19, 1996
+
+
+
+
+PORTFOLIO OF INVESTMENTS
+December 31, 1995
+
+                                           Number
+                                         of Shares                Value
+                                         ---------                -----
+
+
+COMMON STOCKS - 95.8%
+
+Apparel/Shoes - 14.5%
+Fruit of the Loom, Inc.<F1>              1,168,000            $  28,470,000
+Liz Claiborne, Inc.                        600,000               16,650,000
+Reebok International Ltd.                1,230,000               34,747,500
+Stride Rite Corp.                          300,000                2,250,000
+                                                                 ----------
+
+                                                                 82,117,500
+                                                                 ----------
+
+
+Conglomerates - 2.4%
+Whitman Corp.                              600,000               13,950,000
+                                                                 ----------
+
+
+Consumer Goods - 2.6%
+Franklin Quest Co.<F1>                     630,000               12,285,000
+Topps Co. (The)                            500,000                2,562,500
+                                                                 ----------
+
+                                                                 14,847,500
+                                                                 ----------
+
+
+Drugs and Medical - 10.0%
+Bristol-Myers Squibb Co.                   330,000               28,338,750
+Merck & Co., Inc.                          210,000               13,807,500
+Pfizer, Inc.                               230,000               14,490,000
+                                                                 ----------
+
+                                                                 56,636,250
+                                                                 ----------
+Financial Services - 11.2%
+Salomon, Inc.                              650,000               23,075,000
+Student Loan Marketing Assn.               158,000               10,408,250
+United Asset Management Corp.              780,000               29,932,500
+                                                                 ----------
+
+                                                                 63,415,750
+                                                                 ----------
+
+
+Food/Beverage - 4.9%
+Quaker Oats Co.                            444,000               15,318,000
+Ralston Purina Group                       200,000               12,475,000
+                                                                 ----------
+
+                                                                 27,793,000
+                                                                 ----------
+
+
+Food/Tobacco - 19.0%
+Philip Morris Cos., Inc.                   550,000               49,775,000
+RJR Nabisco Holdings Corp.                 950,000               29,331,250
+UST, Inc.                                  860,000               28,702,500
+                                                                -----------
+
+                                                                107,808,750
+                                                                -----------
+
+
+
+Household Products - 8.7%
+Avon Products, Inc.                        100,000                7,537,500
+Clorox Co.                                 405,000               29,008,125
+First Brands Corp.                          50,000                2,381,250
+Newell Co.                                 100,000                2,587,500
+Tambrands, Inc.                            160,000                7,640,000
+                                                                 ----------
+
+                                                                 49,154,375
+                                                                 ----------
+
+
+Insurance - 4.0%
+Torchmark Corp.                            500,000               22,625,000
+                                                                 ----------
+
+Media - 4.5%
+American Media, Inc., Class A            1,159,000                4,925,750
+Dow Jones & Co., Inc.                      520,000               20,735,000
+                                                                 ----------
+
+                                                                 25,660,750
+                                                                 ----------
+
+
+Medical Supplies - 0.6%
+Johnson & Johnson                           39,800                3,407,875
+                                                                 ----------
+
+
+Retailing - 4.5%
+International Dairy Queen, Inc.<F1>        240,000                5,460,000
+Toys 'R' Us, Inc.<F1>                      920,000               20,010,000
+                                                                 ----------
+
+                                                                 25,470,000
+                                                                 ----------
+
+
+Services - 7.2%
+Barefoot, Inc.                             775,000                8,137,500
+Interpublic Group of Cos., Inc.            190,000                8,241,250
+Jenny Craig, Inc.<F1>                      290,000                2,863,750
+Rollins, Inc.                              300,000                6,637,500
+Valassis Communications, Inc.<F1>          840,500               14,708,750
+                                                                 ----------
+
+                                                                 40,588,750
+                                                                 ----------
+
+
+Tires and Rubber - 1.7%
+Bandag, Inc., Class A                      179,300                9,502,900
+                                                                -----------
+
+
+Total Common Stocks
+  (cost $453,994,779)                                           542,978,400
+                                                                -----------
+
+
+                                         Principal
+                                          Amount                   Value
+                                          ------                   -----
+SHORT-TERM INVESTMENTS - 9.4%
+
+Commercial Paper - 8.8%
+Barton Industries, Inc.,
+5.85%, 1/8/96                         $  5,000,000             $  4,994,313
+Blue Hawk Funding Corp.,
+5.77%, 1/2/96                            8,000,000                7,998,718
+Chubb Life America Group,
+5.85%, 1/10/96                           1,500,000                1,497,806
+Dynamic Funding Corp.,
+5.82%, 1/2/96                           22,000,000               21,996,443
+Goldman Sachs & Co.,
+5.86%, 1/11/96                           1,000,000                  998,372
+Heller Financial Corp.,
+5.72%, 1/4/96                            1,400,000                1,400,000
+Jet Funding Corp.,
+5.78%, 1/10/96                           6,731,000                6,722,200
+Southland Corp.,
+5.80%, 1/2/96                            4,348,000                4,347,300
+                                                                 ----------
+
+
+Total Commercial Paper
+   (cost $49,955,152)                                            49,955,152
+                                                                 ----------
+
+
+Demand Notes
+(variable rate) - 0.6%
+American Family Financial Services         509,627                  509,627
+General Mills Corp.                        491,053                  491,053
+Pitney Bowes Corp.                         101,031                  101,031
+Sara Lee Corp.                             348,565                  348,565
+Southwestern Bell Corp.                    165,691                  165,691
+Warner-Lambert Co.                       1,550,454                1,550,454
+Wisconsin Electric Corp.                   366,702                  366,702
+                                                                  ---------
+
+
+Total Demand Notes
+   (cost $3,533,123)                                              3,533,123
+                                                                  ---------
+
+
+
+
+                                                                      Value
+                                                                      -----
+Total Short-Term Investments
+ (cost $53,488,275)                                           $  53,488,275
+
+Total Investments - 105.2%
+ (cost $507,483,054)                                            596,466,675
+
+Liabilities, less Other Assets - (5.2)%                        (29,743,535)
+
+Net Assets - 100% (equivalent
+ to $12.09 per share based on
+ 46,893,249 shares outstanding)                                $566,723,140
+
+<F1>Non-income producing
+
+See notes to financial statements
+
+
+
+
+STATEMENT OF ASSETS & LIABILITIES
+December 31, 1995
+
+ASSETS:
+ Investments at value (cost $507,483,054)                      $596,466,675
+ Receivable for securities sold                                   8,329,774
+ Dividends and interest receivable                                1,661,373
+ Receivable for fund shares issued                                  132,028
+ Prepaid expenses                                                    77,881
+ Organization costs, net of accumulated
+  amortization                                                       23,375
+                                                                -----------
+
+        Total Assets                                            606,691,106
+                                                                -----------
+
+
+LIABILITIES:
+ Payable for securities purchased                                   437,450
+ Shareholder distributions payable                               38,731,892
+ Accrued investment advisory fees                                   340,028
+ Payable for fund shares redeemed                                   230,817
+ Accrued expenses                                                   227,779
+                                                                 ----------
+
+        Total Liabilities                                        39,967,966
+                                                                 ----------
+
+
+NET ASSETS                                                     $566,723,140
+                                                                ===========
+
+NET ASSETS CONSIST OF:
+ Capital stock
+                                                               $478,336,896
+ Undistributed net realized gains                                 (597,377)
+ Unrealized net appreciation on investments                      88,983,621
+                                                                -----------
+        Total Net Assets                                       $566,723,140
+                                                                ===========
+
+CAPITAL STOCK, $.0001 par value
+ Authorized                                                     500,000,000
+ Issued and outstanding                                          46,893,249
+
+NET ASSET VALUE, REDEMPTION PRICE
+AND OFFERING PRICE PER SHARE                                         $12.09
+                                                                     ======
+
+See notes to financial statements
+
+
+
+
+
+STATEMENT OF OPERATIONS
+For the Year Ended December 31, 1995
+
+INVESTMENT INCOME:
+ Dividend income                                               $ 13,013,962
+ Interest income                                                  2,332,128
+                                                                 ----------
+
+                                                                 15,346,090
+                                                                 ----------
+
+
+EXPENSES:
+ Investment advisory fees                                         3,400,202
+ Shareholder servicing fees                                         605,610
+ 12b-1 plan distribution fees                                       413,088
+ Administration and accounting fees                                 252,510
+ Federal and state registration fees                                176,285
+ Custody fees                                                       120,281
+ Reports to shareholders                                            107,104
+ Miscellaneous costs                                                 42,623
+ Professional fees                                                   42,521
+ Amortization of organization costs                                  15,497
+ Directors' fees and expenses                                        15,421
+                                                                -----------
+
+
+ Total expenses before reductions                                 5,191,142
+ Expense reductions (See Note 7)                                  (422,748)
+                                                                -----------
+
+
+ Net expenses                                                     4,768,394
+                                                                -----------
+
+
+
+NET INVESTMENT INCOME                                            10,577,696
+                                                                -----------
+
+
+REALIZED AND UNREALIZED GAIN:
+ Net realized gain on investments                                36,025,535
+ Change in unrealized appreciation
+  on investments                                                 87,228,864
+                                                                -----------
+
+
+ Net gain on investments                                        123,254,399
+                                                                -----------
+
+
+NET INCREASE IN NET ASSETS
+RESULTING FROM OPERATIONS                                      $133,832,095
+                                                                ===========
+
+See notes to financial statements
+
+STATEMENT OF CHANGES IN NET ASSETS
+
+                                           Year                     Year
+                                          Ended                     Ended
+                                      Dec. 31, 1995            Dec. 31, 1994
+                                      -------------            -------------
+
+OPERATIONS:
+ Net investment income               $  10,577,696            $   4,634,976
+ Net realized gain on
+  investments                           36,025,535                5,797,578
+ Change in unrealized
+  appreciation on investments           87,228,864                3,905,940
+                                       -----------               ----------
+
+ Net increase in net assets
+  resulting from operations            133,832,095               14,338,494
+                                       -----------               ----------
+
+
+CAPITAL SHARE TRANSACTIONS:
+ Shares sold                           474,370,590              206,219,554
+ Shares issued to holders in
+  reinvestment of dividends             12,284,222                2,839,473
+                                       -----------              -----------
+
+                                       486,654,812              209,059,027
+ Shares redeemed                     (302,132,299)             (63,124,240)
+                                      ------------              -----------
+
+ Net increase                          184,522,513              145,934,787
+                                      ------------              -----------
+
+
+DIVIDENDS PAID FROM:
+ Net investment income                (10,614,512)              (4,635,644)
+ Net realized gains                   (36,150,442)              (3,528,345)
+                                       -----------              -----------
+
+                                      (46,764,954)              (8,163,989)
+                                       -----------              -----------
+
+
+TOTAL INCREASE IN NET
+ ASSETS                                271,589,654              152,109,292
+
+NET ASSETS:
+ Beginning of period                   295,133,486              143,024,194
+                                       -----------              -----------
+
+
+ End of period                        $566,723,140             $295,133,486
+                                       ===========              ===========
+
+See notes to financial statements
+
+
+
+
+
+FINANCIAL HIGHLIGHTS
+December 31, 1995
+
+                                                   Year Ended  July 6, 1992<F2>
+                            Year Ended Dec. 31,     Dec. 31,       through
+                               1995    1994           1993        Dec. 31, 1992
+                               ----    ----           ----        -------------
+
+
+Net asset value, beginning
+ of period                    $10.05    $9.56        $10.39           $10.00
+
+Income from investment
+ operations:
+ Net investment income          0.22     0.22          0.14             0.05
+ Net realized and unrealized
+  gains (losses) on
+    investments                 2.81     0.61        (0.83)             0.42
+ Total from investment
+  operations                    3.03     0.83        (0.69)             0.47
+
+Less distributions:
+ Dividends from net
+  investment income           (0.22)   (0.22)        (0.14)           (0.05)
+ Distributions from net
+  realized gains              (0.77)   (0.12)           --            (0.03)
+ Total distributions          (0.99)   (0.34)        (0.14)           (0.08)
+ Net asset value, end of
+  period                      $12.09   $10.05         $9.56           $10.39
+
+Total Return<F3>              30.42%    8.80%       (6.58)%            4.72%
+
+Supplemental data and ratios:
+ Net assets, end of
+   period (000s)            $566,723 $295,133      $143,024          $74,666
+ Ratio of expenses to
+  average net assets
+    (See Note 7)               0.99%    1.07%         1.18%        1.18%<F4>
+ Ratio of expenses to
+    average net
+  assets after expense
+    reductions                 0.91%    1.07%         1.18%        1.18%<F4>
+ Ratio of net income to
+  average net assets           2.02%    2.49%         1.61%        1.49%<F4>
+
+ Portfolio turnover rate      55.37%   49.44%        61.14%           30.94%
+
+
+<F2>Commencement of operations
+<F3>Not annualized for the period July 6, 1992 through December 31, 1992
+<F4>Annualized
+
+See notes to financial statements
+
+
+
+NOTES TO THE FINANCIAL STATEMENTS
+December 31, 1995
+
+1. ORGANIZATION
+The Yacktman Fund, Inc. (the "Fund") was incorporated on April 8, 1992 and is
+registered as an open-end, diversified management investment company under the
+Investment Company Act of 1940.  The objective of the Fund is to produce long-
+term growth of capital.  The Fund issued and sold 10,000 shares ("initial
+shares") of its common stock at $10 per share to Yacktman Asset Management Co.
+Yacktman Asset Management Co. is the Fund's investment adviser (the "Adviser").
+The Fund commenced operations on July 6, 1992.  The costs incurred in connection
+with the organization, initial registration and public offering of shares of the
+Fund aggregating $69,850 have been paid by the Fund.  These costs are being
+amortized over the period of benefit, reflecting anticipated future asset levels
+of the Fund, but not to exceed 60 months from the Fund's commencement of
+operations.
+
+2. SIGNIFICANT ACCOUNTING POLICIES
+The following is a summary of significant accounting policies consistently
+followed by the Fund in the preparation of its financial statements.  These
+policies are in conformity with generally accepted accounting principles
+("GAAP").   The presentation of financial statements in conformity with GAAP
+requires management to make estimates and assumptions that effect the reported
+amounts of assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates.
+
+a) Investment Valuation - Securities traded over-the-counter or on a national
+securities exchange are valued on the basis of market value in their principal
+and most representative market.  Securities where the principal and most
+representative market is a national securities exchange are valued at the latest
+reported sale price on such exchange.  If there is no such sale price reported
+for the valuation date, then such securities are valued at the latest reported
+bid price on such exchange.  Securities, other than debt securities, where the
+over-the-counter market is the principal and most representative market are
+valued at the mean between the latest bid and asked price quotations.  Debt
+securities (other than short-term instruments) are valued at prices furnished by
+a national brokerage firm's pricing service, subject to review by the Adviser
+and determination of the appropriate price whenever a furnished price is
+significantly different from the previous day's furnished price.  Debt
+instruments maturing within 60 days are valued by the amortized cost method.
+Variable rate demand notes are valued at cost which approximates market value.
+Any securities for which market quotations are not readily available are valued
+at their fair value as determined in good faith by the Board of Directors.
+
+b) Federal Income Taxes - No provision for federal income taxes has been made
+since the Fund has complied to date with the provisions of the Internal Revenue
+Code available to regulated investment companies and intends to continue to so
+comply in future years.
+
+c) Distributions to Shareholders - Dividends from net investment income are
+declared and paid quarterly.   Dividends differ from book net investment income
+due to the nondeductible tax treatment of organization costs.  Distributions of
+net realized capital gains, if any, will be declared at least annually.
+Distributions to shareholders are recorded on the ex-dividend date.  The Fund
+may periodically make reclassifications among certain of its capital accounts as
+a result of the recognition and characterization of certain income and capital
+gain distributions determined annually in accordance with federal tax
+regulations which may differ from generally accepted accounting principles.
+Accordingly, at December 31, 1995 reclassifications were recorded to
+undistributed net investment income to reduce capital stock by $14,810 and
+reduce undistributed net realized gain by $687.
+
+d) Other - Investment transactions are accounted for on the trade date plus
+one.  The Fund determines the gain or loss realized from the investment
+transactions by comparing the original cost of the security lot sold with the
+net sale proceeds.  Dividend income is recognized on the ex-dividend date and
+interest income is recognized on an accrual basis.
+
+3. CAPITAL SHARE TRANSACTIONS
+Transactions in shares of the Fund were as follows:
+
+                                           Year                 Year
+                                           Ended               Ended
+                                       Dec. 31, 1995       Dec. 31, 1994
+                                       -------------       -------------
+
+
+Shares sold                             42,529,240          20,567,776
+Shares issued to holders in
+ reinvestment of dividends               1,129,634             295,741
+Shares redeemed                       (26,144,022)         (6,439,126)
+                                      ------------         -----------
+
+
+ Net increase                           17,514,852          14,424,391
+                                       ===========         ===========
+
+4. INVESTMENT TRANSACTIONS
+The aggregate purchases and sales of securities for the Fund for the year ended
+December 31, 1995 were $399,910,559 and $265,953,284, respectively.  For the
+year ended December 31, 1995 there were no purchases and sales of U.S.
+obligations.  At December 31, 1995 gross unrealized appreciation and
+depreciation of investments on a tax basis were as follows:
+
+Appreciation                                    $107,179,429
+(Depreciation)                                  (18,793,191)
+                                                ------------
+ Net appreciation on investments                $ 88,386,238
+                                                ============
+
+The cost of securities for federal income tax purposes is $508,080,436.  For the
+year ended December 31, 1995, 100% of dividends paid from net investment income,
+excluding short-term capital gains, qualifies for the dividend received
+deduction available to corporate shareholders.
+
+5. INVESTMENT ADVISORY AGREEMENT
+The Fund has an agreement with the Adviser, with whom certain officers and
+directors of the Fund are affiliated, to furnish investment advisory services to
+the Fund.  Under the terms of this agreement, the Fund will pay the Adviser a
+monthly fee at the annual rate of 0.65% of the first $500,000,000 of average net
+assets, 0.60% on the next  $500,000,000 of average net assets and 0.55% on
+average net assets in excess of $1,000,000,000.  Under the investment advisory
+agreement, if the aggregate annual operating expenses (excluding interest,
+taxes, brokerage commissions and other costs incurred in connection with the
+purchase or sale of portfolio securities, and extraordinary items) exceed the
+lowest limitations imposed by state securities administrators, the Adviser will
+reimburse the Fund for the amount of such excess.
+
+6. DISTRIBUTION PLAN
+The Fund has adopted a Distribution Plan (the "Plan") pursuant to Rule 12b-1
+under the Investment Company Act of 1940.  For the year ended December 31, 1995,
+payments under the Plan represented 0.08% per annum of the Fund's total average
+net assets.  The Plan permits the Fund to employ one or more distributors of its
+shares.  Payments under the Plan may be made only to distributors so employed by
+the Fund.  The Fund paid to each distributor a monthly fee for distribution of
+the Fund's shares at the rate of 0.65% per annum of the aggregate daily net
+asset value of the Fund shares beneficially owned by each distributor's existing
+brokerage clients who established their Fund accounts prior to December 31,
+1992.
+
+7. EXPENSE REDUCTIONS
+The Adviser has directed certain Fund portfolio trades to a broker at best price
+and execution and has generated soft dollar credits to be used against sub-
+transfer agency fees.  Shareholders benefited under this arrangement as the net
+expenses of the Fund do not include such sub-transfer agency fees.  For the
+year, the Fund's expenses were reduced $422,748 by utilizing soft dollar credits
+resulting in an expense ratio of 0.91% being charged to shareholders.  In
+accordance with the SEC's new rule amendments, such amount is required to be
+shown as an expense and has been included in shareholder servicing fees in the
+Statement of Operations.
+
+
+For Fund information and
+shareholder services, call
+1-800/525-8258
+
+The Yacktman Fund, Inc.
+Shareholder Services Center
+615 East Michigan Street
+P.O. Box 701
+Milwaukee, Wisconsin 53201-0701
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

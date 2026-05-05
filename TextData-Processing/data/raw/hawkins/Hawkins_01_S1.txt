@@ -1,0 +1,2432 @@
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<FILENAME>g70116n-30d.txt
+<DESCRIPTION>LONGLEAF PARTNERS FUNDS
+<TEXT>
+
+<PAGE>   1
+
+                                      LOGO
+
+                           LONGLEAF PARTNERS FUNDS SM
+
+                               SEMI-ANNUAL REPORT
+                                at June 30, 2001
+
+                                 PARTNERS FUND
+
+                               INTERNATIONAL FUND
+
+                                  REALTY FUND
+
+                                 SMALL-CAP FUND
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                  MANAGED BY:
+
+                      SOUTHEASTERN ASSET MANAGEMENT, INC.
+
+                                  Memphis, TN
+<PAGE>   2
+
+                                    CONTENTS
+
+<TABLE>
+<S>                                                          <C>
+Letter to Shareholders.....................................    1
+
+Longleaf Partners Fund (Partners Fund)
+  Management Discussion....................................    5
+  Performance History* and Portfolio Summary...............    7
+  Portfolio of Investments.................................    8
+
+Longleaf Partners International Fund (International Fund)
+  Management Discussion....................................   10
+  Performance History* and Portfolio Summary...............   12
+  Portfolio of Investments.................................   14
+
+Longleaf Partners Realty Fund (Realty Fund)
+  Management Discussion....................................   17
+  Performance History* and Portfolio Summary...............   19
+  Portfolio of Investments.................................   20
+
+Longleaf Partners Small-Cap Fund (Small-Cap Fund)
+  Management Discussion....................................   23
+  Performance History* and Portfolio Summary...............   25
+  Portfolio of Investments.................................   26
+
+Financial Statements and Footnotes.........................   28
+Financial Highlights.......................................   42
+Service Directory..........................................   44
+Trustees and Service Providers.............................   45
+</TABLE>
+
+* Average annual returns for all Funds and all indices except the Value-Line
+  Index are shown with all dividends and distributions reinvested; the
+  Value-Line Index is not available with reinvested dividends. The indices shown
+  are unmanaged and are not hedged for foreign currency risk. The U.S. Bureau of
+  Labor Statistics compiles the monthly CPI-U values used to calculate
+  inflation. Past performance is no guarantee of future performance, and the
+  value of an investment when redeemed may be more or less than the purchase
+  price.
+<PAGE>   3
+
+                            LONGLEAF PARTNERS FUNDS
+                             LETTER TO SHAREHOLDERS
+
+TO OUR SHAREHOLDERS:
+
+Your managers and co-investors at Southeastern Asset Management, Inc. are
+pleased to report that each of the four Longleaf Partners Funds delivered
+exceptionally strong absolute and relative performance for the quarter, six
+months, and year ended June 30, 2001. The table below summarizes your recent
+results.
+
+                            RETURNS THROUGH 6/30/01
+
+<TABLE>
+<CAPTION>
+                                     THREE        SIX        TWELVE
+                                     MONTHS      MONTHS      MONTHS
+                                     ------      ------      ------
+<S>                                  <C>         <C>         <C>
+PARTNERS FUND......................   11.3%       10.9%       30.4%
+S&P 500............................    5.8        (6.7)      (14.9)
+
+INTERNATIONAL FUND.................    6.0        15.7        29.6
+EAFE...............................   (1.7)      (15.5)      (24.9)
+
+REALTY FUND........................   14.6        15.6        26.4
+Wilshire RE Securities.............   10.9         9.8        24.6
+
+SMALL-CAP FUND.....................    9.2         9.6        21.8
+Russell 2000.......................   14.4         7.0         0.7
+</TABLE>
+
+For those who had equal amounts invested in the four Funds, the Longleaf family
+earned an average annual return of 27.0% over the last year, more than doubling
+our long-term baseline objective of inflation plus 10%. Our partners gained
+significant economic advantage as most other U.S. and international equity
+owners experienced erosion in their portfolios. We are grateful that the decline
+in the world's major market indices did not affect Longleaf shareholders.
+
+Immediate Past Unlikely to be Prologue
+This is the 57th consecutive quarterly letter we have written to our partners
+and the returns included in this report are some of the best we have produced.
+We have cautioned shareholders many times not to expect future performance to
+equal our past results. We do so again with greater emphasis because:
+
+- Equity markets are NOT cheap and most superior businesses are richly priced.
+
+- The price-to-value ratios for Longleaf's four Funds have risen close to their
+  historic averages.
+
+- Our analysts are having difficulty finding qualifying investments.
+
+- Cash reserves at the Funds are building primarily from the sale of fully
+  valued holdings and from positive cash flows.
+
+                                        1
+<PAGE>   4
+
+                            LONGLEAF PARTNERS FUNDS
+                             LETTER TO SHAREHOLDERS
+
+- Individual security selection is paramount - we do not anticipate bull market
+  tailwinds in the foreseeable years.
+
+Long-Term Partners Likely to be Successful
+Against the above overview we want you to know:
+
+- Southeastern Asset Management's research talent and efforts have never been
+  stronger.
+
+- No mutual fund management team is more dedicated and properly incented than
+  Longleaf's. We are the Funds' largest shareholder group and we will continue
+  to increase our stake.
+
+- We will act opportunistically in our global search for competitively
+  entrenched, growing businesses when we can purchase such companies at the
+  required discount from our appraisals.
+
+- We realize holding Treasury Bills will not meet our long-term absolute return
+  objective.
+
+- If we exercise patience, wonderful individual investment opportunities will
+  "show up"; we plan to capture our fair share.
+
+- Our recent success has included several disappointments. We intend to learn
+  from these and further improve the execution of our disciplines.
+
+Upcoming Shareholder Meeting
+All Fund shareholders will soon receive a proxy to elect the Funds' trustees and
+approve several pre-existing relationships. This slate of trustees will give
+Longleaf five outside or "independent" directors and three board members who are
+affiliated with Southeastern or the Funds. The proxy also asks for approval of
+PricewaterhouseCoopers LLP, which through a predecessor has been the Funds'
+auditor since inception. Third, the proxy gives International Fund shareholders
+the chance to formally approve Southeastern Asset Management as the Fund's
+manager and administrator. Technology has made voting simple - you can vote via
+mail, telephone, or Internet. TO MINIMIZE THE COST OF THE PROXY WE URGE OUR
+PARTNERS TO VOTE THEIR PROXY UPON RECEIPT.
+
+We greatly appreciate the terrific attendance in May at Southeastern's
+presentation in Memphis for Longleaf shareholders. Over 400 partners joined us.
+For those who could not be there, we posted our comments on
+www.longleafpartners.com and hope that you find this useful.
+
+                                        2
+<PAGE>   5
+
+                            LONGLEAF PARTNERS FUNDS
+                             LETTER TO SHAREHOLDERS
+
+We wish our fellow shareholders a wonderful summer. We thank you for your
+support and your partnership.
+
+Sincerely,
+
+<TABLE>
+<S>                                         <C>
+
+/s/ O. Mason Hawkins, CFA                   /s/ G. Staley Cates, CFA
+O. Mason Hawkins, CFA                       G. Staley Cates, CFA
+Chairman & CEO                              President
+</TABLE>
+
+                                        3
+<PAGE>   6
+
+                           (Intentionally Left Blank)
+
+                                     (LOGO)
+
+                                        4
+<PAGE>   7
+
+                     PARTNERS FUND - MANAGEMENT DISCUSSION
+                by Mason Hawkins, Staley Cates, and John Buford
+
+Longleaf Partners Fund rose 11.3% in the second quarter, contributing to the
+twelve month return of 30.4%, and far surpassing our annual inflation plus 10%
+target. By contrast the S&P 500 Index grew 5.8% over the last three months,
+bringing its loss to 14.8% over one year. We are pleased that our partners have
+been greatly rewarded, but caution shareholders to lower both absolute and
+relative return expectations.
+
+Our top holdings contributed significantly to the Fund's second quarter
+performance. GM is pursuing a sale of Hughes, which owns the valuable DirecTV
+business. While auto sales have slowed from peak levels, GM has increased share
+in its more profitable truck and SUV lines. With focus from Rick Wagoner and
+John Devine the company continues to report progress in reducing auto costs and
+increasing productivity. GM's stock rose 25% over the quarter but remains the
+cheapest company in the Partners Fund portfolio.
+
+At Waste Management, Maury Myers is achieving the steady progress he predicted
+by implementing new information systems, streamlining operations, improving
+employee morale, and providing better customer service. His initiatives have
+produced strong and growing free cash flow that is building corporate value and
+driving the stock price north. In the quarter Waste Management gained 25%, and
+over the last fifteen months the stock has risen from its $13 low to almost $31.
+We have reduced Waste's weighting in the portfolio from as much as 18% to 8% as
+the price has appreciated closer to appraisal.
+
+Marriott's stock increased 15% over the last three months as the market outlook
+for the hotel industry past 2001 improved. Marriott's superior fee stream
+business model, its dominant brands, and its capable management have continued
+to reward shareholders.
+
+Georgia-Pacific Corporation - Timber Group rose 25% this quarter as its
+acquisition by Plum Creek neared completion. After the August shareholder vote
+The Timber Group will change from a corporate structure that pays taxes on
+profits at corporate rates and distributes dividends taxable to shareholders at
+high personal rates to a REIT structure that incurs no corporate taxes and pays
+distributions which are taxed at primarily long-term capital gains rates. Pete
+Correll and Don Glass have done a tremendous job building value, allocating our
+capital, getting some of that value recognized, and merging into a much more tax
+efficient vehicle. We thank them.
+
+At Aetna, Jack Rowe and Ron Williams are focused on improving margins which are
+well below industry averages, but the market is skeptical and the stock declined
+28% in the quarter. As the company improves its pricing and underwrit-
+
+                                        5
+<PAGE>   8
+
+                     PARTNERS FUND - MANAGEMENT DISCUSSION
+                by Mason Hawkins, Staley Cates, and John Buford
+
+ing as well as its patient management system, we should begin to see improved
+results.
+
+The companies that comprise the Fund's top holdings remained the same during the
+quarter. We sold our position in De Beers. Management's final bid with Anglo
+American was a victory for De Beers shareholders and a tremendous outcome for
+Longleaf owners.
+
+With the portfolio selling close to its historic average price-to-value ratio,
+our long-term return opportunity should be comparable to our historic results.
+We will use the cash in the portfolio to reduce the P/V when we find qualifying
+opportunities.
+
+                                        6
+<PAGE>   9
+
+                    PARTNERS FUND - PERFORMANCE HISTORY AND
+                               PORTFOLIO SUMMARY
+
+                             AVERAGE ANNUAL RETURNS
+                      FOR THE PERIODS ENDED JUNE 30, 2001
+
+<TABLE>
+<CAPTION>
+                                                      Value-Line
+                                 PARTNERS   S&P 500   (Geometric)   Inflation
+                                   FUND      Index       Index      Plus 10%*
+                                 --------   -------   -----------   ---------
+<S>                              <C>        <C>       <C>           <C>
+Year-to-Date                      10.88%     (6.72)%      1.64%        7.13%
+One Year                          30.35     (14.85)      (1.94)       13.07
+Five Years                        17.00      14.46        2.45        12.55
+Ten Years                         18.46      15.09        5.49        12.71
+</TABLE>
+
+                             FIVE LARGEST HOLDINGS
+                        (REPRESENT 37.4% OF NET ASSETS)
+
+MARRIOTT INTERNATIONAL, INC. (MAR)                                         10.8%
+Owner of many of the strongest brand names in the lodging industry. Operates and
+franchises over 300,000 rooms in hotels and resorts under the Marriott, Ritz-
+Carlton, Renaissance, Courtyard, Fairfield and Residence Inn names.
+
+WASTE MANAGEMENT, INC. (WMI)                                                8.2%
+The world's largest solid waste collection and disposal company with
+residential, commercial, and industrial customers throughout North America.
+
+GENERAL MOTORS CORPORATION (GM)                                             7.4%
+Conglomerate that owns a controlling stake in Hughes Electronics, GMAC, and the
+international truck and car business.
+
+TRICON GLOBAL RESTAURANTS, INC. (YUM)                                       5.8%
+Franchisor and owner of the Taco Bell, KFC, and Pizza Hut restaurant chains.
+
+FEDEX CORPORATION. (FDX)                                                    5.2%
+Integrated air-ground transportation company providing time-definite delivery of
+packages and documents worldwide.
+
+                               PORTFOLIO CHANGES
+                     JANUARY 1, 2001 THROUGH JUNE 30, 2001
+
+<TABLE>
+<CAPTION>
+               NEW HOLDINGS                           ELIMINATIONS
+               ------------                           ------------
+<S>                                        <C>
+General Motors -- Class H                  Canadian Pacific Limited
+Telephone and Data Systems, Inc.           De Beers Consolidated Mines Ltd.
+</TABLE>
+
+                                        7
+<PAGE>   10
+
+                    PARTNERS FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+      SHARES                                                             VALUE
+    ----------                                                       --------------
+<S> <C>          <C> <C>                                    <C>      <C>
+Common Stock 88.6%
+                     Beverages 5.8%
+     4,000,000       Coca-Cola Enterprises Inc....................   $   65,400,000
+    14,579,600       Diageo plc (Foreign).........................      159,937,046
+       620,100       Diageo plc ADR (Foreign).....................       27,253,395
+                                                                     --------------
+                                                                        252,590,441
+                                                                     --------------
+                     Environmental Services 9.4%
+     2,890,900   *   Allied Waste Industries, Inc.................       54,002,012
+    11,525,000       Waste Management, Inc........................      355,200,500
+                                                                     --------------
+                                                                        409,202,512
+                                                                     --------------
+                     Health Insurance 1.0%
+     1,611,000   *   Aetna Inc....................................       41,676,570
+
+                     Lodging 18.2%
+    15,070,000       Hilton Hotels Corporation....................      174,812,000
+    11,700,250       Host Marriott Corporation....................      146,487,130
+     9,901,000       Marriott International, Inc..................      468,713,340
+                                                                     --------------
+                                                                        790,012,470
+                                                                     --------------
+                     Manufacturing 1.2%
+     4,450,000   *   UCAR International, Inc.(b)..................       53,177,500
+
+                     Multi-Industry 7.4%
+     5,000,000       General Motors Corporation...................      321,750,000
+
+                     Natural Resources 12.7%
+     6,263,200       Georgia-Pacific Corporation - Timber Group...      223,909,400
+    11,201,032   *   Pioneer Natural Resources Company(b).........      190,977,595
+     2,900,000       Rayonier Inc.(b).............................      134,705,000
+                                                                     --------------
+                                                                        549,591,995
+                                                                     --------------
+                     Property & Casualty Insurance 4.3%
+    49,785,000       The NipponKoa Insurance Company, Ltd.
+                       (Foreign)(b)...............................      186,813,497
+
+                     Publishing 4.1%
+     2,973,300       Knight Ridder, Inc...........................      176,316,690
+
+                     Real Estate 3.8%
+     9,122,700       TrizecHahn Corporation (Foreign).............      165,941,913
+
+                     Restaurants 5.8%
+     5,690,000   *   Tricon Global Restaurants, Inc...............      249,791,000
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        8
+<PAGE>   11
+
+                    PARTNERS FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+      SHARES                                                             VALUE
+    ----------                                                       --------------
+<S> <C>          <C> <C>                                    <C>      <C>
+                     Satellite 0.8%
+     1,747,000   *   General Motors -- Class H....................   $   35,376,750
+
+                     Telecommunications 8.9%
+     8,930,000       AT&T Corp....................................      196,460,000
+     1,723,000       Telephone and Data Systems, Inc..............      187,376,250
+                                                                     --------------
+                                                                        383,836,250
+                                                                     --------------
+                     Transportation 5.2%
+     5,615,000   *   FedEx Corporation(c).........................      225,723,000
+                                                                     --------------
+                     TOTAL COMMON STOCKS (COST $3,253,121,624)....    3,841,800,588
+                                                                     --------------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+       PAR
+    ----------
+<S> <C>          <C> <C>                                    <C>      <C>
+    Short-Term Obligations 13.6%
+    189,391,000      Repurchase Agreement with State Street Bank,
+                       2.75% due 7-2-01 (Collateralized by U.S.
+                       government agency securities)..............      189,391,000
+    400,000,000      U.S. Treasury Bills, 3.35% - 3.57% due 7-5-01
+                       to 7-26-01.................................      399,463,056
+                                                                     --------------
+                                                                        588,854,056
+                                                                     --------------
+TOTAL INVESTMENTS (COST $3,841,975,680)(a)................  102.2%    4,430,654,644
+OTHER ASSETS AND LIABILITIES, NET.........................   (2.2)      (95,979,318)
+                                                            -----    --------------
+NET ASSETS................................................  100.0%   $4,334,675,326
+                                                            =====    ==============
+NET ASSET VALUE PER SHARE.........................................           $25.18
+                                                                     ==============
+</TABLE>
+
+* Non-income producing security
+(a) Also represents aggregate cost for federal income tax purposes. Aggregate
+    unrealized appreciation and depreciation are $847,595,250 and
+    $(258,916,287).
+(b) Affiliated company. See Note 7.
+(c) A portion designated as collateral. See Note 10.
+Note: Companies designated as "Foreign" are headquartered outside the U.S. and
+      represent 12% of net assets.
+
+                        OPEN FORWARD CURRENCY CONTRACTS
+
+<TABLE>
+<CAPTION>
+  Currency              Currency Sold and            Currency     Unrealized
+ Units Sold              Settlement Date           Market Value      Gain
+-------------   ---------------------------------  ------------   -----------
+<C>             <S>                                <C>            <C>
+4,800,000,000   Japanese Yen 9-28-01.............  $38,860,800    $ 7,650,203
+3,500,000,000   Japanese Yen 12-28-01............   28,619,461      3,834,524
+8,700,000,000   Japanese Yen 3-28-02.............   71,914,104      1,522,607
+5,700,000,000   Japanese Yen 6-27-02.............   47,617,800         13,185
+                                                   ------------   -----------
+                                                   $187,012,165   $13,020,519
+                                                   ============   ===========
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        9
+<PAGE>   12
+
+                   INTERNATIONAL FUND - MANAGEMENT DISCUSSION
+              by Mason Hawkins, Staley Cates, and Andrew McDermott
+
+Longleaf Partners International Fund remains near the top of most international
+fund rankings after ending the second quarter up 6% versus a 1.7% decline in the
+EAFE Index. Year-to-date the Fund is up 15.7% against a 15.5% decline for the
+EAFE, and for the twelve months ended June 30 the International Fund rose 29.6%
+while the EAFE fell 24.9%. These results far exceed our absolute annual return
+objective of 10% plus inflation, and we advise our partners that this level of
+absolute and relative performance is not sustainable.
+
+De Beers contributed the most to our performance in both the second quarter and
+the year. The De Beers experience illustrates the market's long-term tendency to
+properly weigh value in sometimes surprising methods. De Beers had traded at a
+substantial, clearly identifiable discount to its liquidation value for decades.
+When we initiated our position at $14 per share nearly two years ago, we had no
+idea that management would eventually offer us over three times our initial cost
+in a buyout. We simply knew that we were buying a world-leading diamond business
+combined with a portfolio of public securities for much less than half of our
+appraisal. We knew that management had its own money in the business and that
+the value was growing as diamond inventories turned into cash and as Anglo
+American, the largest of De Beers' public securities, appreciated in value. Some
+investors are perplexed that we have no idea how or when value will be
+recognized. De Beers exemplifies that the best buys are often made when a
+catalyst is unclear but margin of safety, value growth, and management
+incentives favor us.
+
+Our De Beers return exceeded the proceeds made on the stock because we sold
+short De Beers' holding in Anglo American each time Anglo traded at or above
+fair value. This technique reduced our capital commitment to the De Beers
+position, increased our exposure to the diamond business at an even cheaper
+price, and reduced our risk by selling the fully valued Anglo. We have used the
+same strategy with our new Renault position and its huge holding in Nissan
+Motor.
+
+The remainder of the International Fund's portfolio provided broadly based solid
+returns. Two of our Canadian investments, Fairfax and TrizecHahn, made
+meaningful performance contributions. Fairfax sold shares in Odyssey Re, its
+reinsurance subsidiary, at 1.5 times book value during the quarter. This sale
+provided Fairfax with additional liquidity while demonstrating the company's
+extreme undervaluation. Despite its recent rise Fairfax continues to trade for
+less than its hard book value. The Odyssey Re sale also demonstrated the capital
+allocation skills of Fairfax's CEO, Prem Watsa. Watsa is the best positioned of
+any of our CEO partners for a broad economic downturn, and we are delighted
+
+                                        10
+<PAGE>   13
+
+                   INTERNATIONAL FUND - MANAGEMENT DISCUSSION
+              by Mason Hawkins, Staley Cates, and Andrew McDermott
+
+that Fairfax remains one of the Fund's largest positions. No specific events
+drove performance at our other holdings; good businesses with stable cash flows
+seem to attract more attention now than they did at this time last year.
+
+This recognition of value over the last twelve months partially explains the
+Fund's large cash position. The sale of De Beers along with consistent inflows
+has given us larger cash resources than we normally hold. We have identified new
+qualifying investments, primarily in the very depressed Japanese markets. Many
+of our new ideas have appreciated faster than we could build full positions
+while others will take more trading time to complete. We view our cash position
+as an asset because we are confident that investment opportunities will come our
+way in the near future, particularly with Jim Thompson now in Europe full time.
+
+Last quarter we mentioned operating problems at Sea Containers. These problems
+worsened during the second quarter while financial leverage increased. A similar
+story unfolded at United Global Communications. We suspect that both these
+companies will ultimately succeed, but we sold both positions after financial
+leverage eroded our margin of safety.
+
+We welcome the many new partners who have joined us this year. If this is your
+first quarterly letter, we encourage you to visit our website at
+www.longleafpartners.com and familiarize yourself with our operating principles,
+particularly our focus on long-term, absolute returns.
+
+                                        11
+<PAGE>   14
+
+                  INTERNATIONAL FUND - PERFORMANCE HISTORY AND
+                               PORTFOLIO SUMMARY
+
+                             AVERAGE ANNUAL RETURNS
+                      FOR THE PERIODS ENDED JUNE 30, 2001
+
+<TABLE>
+<CAPTION>
+                                       INTERNATIONAL    EAFE    Inflation
+                                           FUND        Index    Plus 10%
+                                       -------------   ------   ---------
+<S>                                    <C>             <C>      <C>
+Year-to-Date                               15.67%      (15.47)%    7.13%
+One Year                                   29.60       (24.85)    13.07
+Since Public Offering 10/26/98             28.92        (0.18)    13.47
+</TABLE>
+
+                             FIVE LARGEST HOLDINGS
+                        (REPRESENT 32.3% OF NET ASSETS)
+
+THE NIPPONKOA INSURANCE COMPANY, LTD.                                       9.8%
+Japanese provider of both non-life (property/casualty) and life insurance
+services.
+
+FAIRFAX FINANCIAL HOLDINGS LIMITED (FFH)                                    6.2%
+Canadian based property/casualty insurer offering both primary insurance and
+reinsurance across North America.
+
+TRIZECHAHN CORPORATION (TZH)                                                5.6%
+A Canadian headquartered real estate operator and developer of primarily U.S.
+commercial office properties.
+
+HOLLINGER INTERNATIONAL INC. (HLR)                                          5.5%
+Publisher of newspapers and magazines in the U.K., the U.S. and Israel. Papers
+include the London Daily Telegraph and the Chicago Sun-Times.
+
+TRICON GLOBAL RESTAURANTS, INC. (YUM)                                       5.2%
+Franchisor and owner of the Taco Bell, KFC, and Pizza Hut international
+restaurant chains, with substantial, high-return growth from overseas store
+expansion.
+
+                               PORTFOLIO CHANGES
+                     JANUARY 1, 2001 THROUGH JUNE 30, 2001
+
+<TABLE>
+<CAPTION>
+           NEW HOLDINGS                        ELIMINATIONS
+           ------------                        ------------
+<S>                                 <C>
+Chofu Seisakusho Co., Ltd.          Canadian Pacific Limited
+Ezaki Glico Co., Ltd.               De Beers Consolidated Mines Ltd.
+Nippon Broadcasting System, Inc.    Sea Containers Limited
+Renault SA                          United International Holdings
+Taisho Pharmaceutical Co., Ltd.     Corporate Bonds
+Tokyo Style Co., Ltd.               Wisconsin Central Transportation
+                                    Corporation
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        12
+<PAGE>   15
+
+                  INTERNATIONAL FUND - PERFORMANCE HISTORY AND
+                               PORTFOLIO SUMMARY
+
+                         COUNTRY WEIGHTING OF PORTFOLIO
+
+<TABLE>
+<S>                                         <C>
+Japan.....................................   38.7%
+Canada....................................   37.4
+United States.............................    6.9
+United Kingdom............................    5.9
+Singapore.................................    5.7
+France....................................    5.4
+                                            -----
+                                            100.0%
+                                            =====
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        13
+<PAGE>   16
+
+                 INTERNATIONAL FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+      SHARES                                                                VALUE
+    ----------                                                           ------------
+<S> <C>          <C> <C>                                         <C>     <C>
+Common Stock 75.2%
+
+                     Apparel 0.6%
+       372,000       Tokyo Style Co., Ltd. (Japan)(d).................   $  4,145,927
+
+                     Automobiles 4.3%
+       650,000       Renault SA (France)..............................     29,330,457
+
+                     Beverages 7.2%
+       909,200       Diageo plc (United Kingdom)(d)...................      9,973,851
+       328,100       Diageo plc ADR (United Kingdom)..................     14,419,995
+       797,000       Molson Inc. -- Class A (Canada)..................     25,208,223
+                                                                         ------------
+                                                                           49,602,069
+                                                                         ------------
+                     Broadcasting 3.8%
+       750,000       Nippon Broadcasting System, Inc. (Japan)(d)......     26,459,268
+
+                     Food 4.8%
+     5,704,000       Ezaki Glico Co., Ltd. (Japan)(d).................     32,837,331
+
+                     Hot Water Boilers 0.1%
+        24,200       Chofu Seisakusho Co., Ltd. (Japan)...............        290,664
+
+                     Multi-Industry 8.4%
+     1,285,000       Brascan Corporation (Canada).....................     22,031,958
+    103,353,000  *   Brierley Investments Limited (Singapore)(b)(d)...     28,929,764
+     9,947,745       Guinness Peat Group plc (United Kingdom).........      6,575,539
+                                                                         ------------
+                                                                           57,537,261
+                                                                         ------------
+                     Natural Resources 1.5%
+     3,349,996       Gendis Inc. (Canada)(b)(c).......................     10,595,665
+
+                     Pharmaceuticals 2.7%
+       977,000       Taisho Pharmaceutical Co., Ltd. (Japan)..........     18,369,668
+
+                     Plastics 0.8%
+       433,000       Tenma Corporation (Japan)(d).....................      5,634,694
+
+                     Property & Casualty Insurance 20.8%
+       285,800   *   Fairfax Financial Holdings Limited (Canada)(d)...     42,918,964
+    17,878,000       The NipponKoa Insurance Company, Ltd.
+                       (Japan)(d).....................................     67,085,502
+     7,887,000       The Nissan Fire & Marine Insurance Company, Ltd.
+                       (Japan)(d).....................................     33,263,004
+                                                                         ------------
+                                                                          143,267,470
+                                                                         ------------
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        14
+<PAGE>   17
+
+                 INTERNATIONAL FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+      SHARES                                                                VALUE
+    ----------                                                           ------------
+<S> <C>          <C> <C>                                         <C>     <C>
+                     Publishing 5.5%
+     2,770,000       Hollinger International Inc. (Canada)............   $ 38,087,500
+
+                     Real Estate 8.5%
+     4,671,600   *   O&Y Properties Corporation (Canada)(b)(c)(d).....     19,547,087
+     2,118,000       TrizecHahn Corporation (Canada)(d)...............     38,526,420
+                                                                         ------------
+                                                                           58,073,507
+                                                                         ------------
+                     Restaurants 6.2%
+       803,000       MOS Food Service, Inc. (Japan)(d)................      6,277,461
+       820,000   *   Tricon Global Restaurants, Inc. (United
+                       States)(d).....................................     35,998,000
+                                                                         ------------
+                                                                           42,275,461
+                                                                         ------------
+                     TOTAL COMMON STOCKS (COST $473,646,910)..........    516,506,942
+                                                                         ------------
+Common Stock Sold Short (4.7)%
+                     Automobiles (4.7)%
+    (4,634,000)      Nissan Motor Co., Ltd. (Japan) (Proceeds
+                       $31,377,078)...................................    (31,990,650)
+                                                                         ------------
+</TABLE>
+
+<TABLE>
+<S> <C>           <C> <C>                                        <C>     <C>
+        PAR
+    -----------
+Short-Term Obligations 30.2%
+     23,196,000       Repurchase Agreement with State Street Bank,
+                        2.75% due 7-2-01 (Collateralized by U.S.
+                        government agency securities).................     23,196,000
+    185,000,000       U.S. Treasury Bills, 3.38% - 3.80% due 7-5-01 to
+                        8-23-01.......................................    184,519,490
+                                                                         ------------
+                                                                          207,715,490
+                                                                         ------------
+TOTAL INVESTMENTS (COST $649,985,322)(a).......................  100.7%   692,231,782
+OTHER ASSETS AND LIABILITIES, NET..............................   (0.7)    (4,865,237)
+                                                                 -----   ------------
+NET ASSETS.....................................................  100.0%  $687,366,545
+                                                                 =====   ============
+NET ASSET VALUE PER SHARE.............................................         $13.95
+</TABLE>
+
+*  Non-income producing security
+(a) Aggregate cost for federal income tax purposes is $651,169,901. Aggregate
+    unrealized appreciation and depreciation are $65,953,401 and $(23,706,942),
+    respectively.
+(b) Affiliated security. See Note 7.
+(c) Illiquid security. See Note 8.
+(d) Designated as collateral. See Note 10.
+Note: Country listed in parenthesis after each company indicates location of
+      headquarters/primary operations.
+
+                       See Notes to Financial Statements.
+
+                                        15
+<PAGE>   18
+
+                 INTERNATIONAL FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+                        OPEN FORWARD CURRENCY CONTRACTS
+
+<TABLE>
+<CAPTION>
+   Currency             Currency Sold and            Currency     Unrealized
+  Units Sold             Settlement Date           Market Value   Gain/(Loss)
+--------------   --------------------------------  ------------   -----------
+<C>              <S>                               <C>            <C>
+     4,000,000   Australian Dollar 9-28-01.......  $ 2,026,880    $   38,240
+     2,500,000   British Pound 9-28-01...........    3,503,938         8,063
+    10,000,000   Canadian Dollar 9-28-01.........    6,578,950       155,964
+    40,000,000   Canadian Dollar 12-28-01........   26,279,226      (116,626)
+    30,000,000   Canadian Dollar 3-28-02.........   19,692,290      (510,581)
+ 3,500,000,000   Japanese Yen 9-28-01............   28,336,000        92,705
+ 3,000,000,000   Japanese Yen 10-25-01...........   24,360,000     5,167,559
+ 4,400,000,000   Japanese Yen 12-28-01...........   35,978,751       738,931
+10,850,000,000   Japanese Yen 3-28-02............   89,685,979     2,636,782
+    14,000,000   New Zealand Dollar 9-28-01......    5,599,370       180,230
+    33,500,000   New Zealand Dollar 10-25-01.....   13,381,558       114,792
+    19,200,000   New Zealand Dollar 12-28-01.....    7,646,462       239,638
+                                                   ------------   ----------
+                                                   $263,069,404   $8,745,697
+                                                   ============   ==========
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        16
+<PAGE>   19
+
+                      REALTY FUND - MANAGEMENT DISCUSSION
+              by C.T. Fitzpatrick, Mason Hawkins, and Staley Cates
+
+In the second quarter, the Longleaf Partners Realty Fund returned 14.6%,
+contributing significantly to a return of 15.6% for the six months ended June
+30th. This compares favorably to Wilshire Real Estate Securities Index returns
+of 10.9% and 9.8%, respectively. We are very pleased with the quarter and
+year-to-date absolute and relative results. However, we caution all of our
+investment partners to focus, as we do, on long-term results. Our own
+expectation is that prospective long-term returns are quite compelling,
+especially compared to the broader stock market.
+
+Longleaf Partners Realty Fund and the Economy
+We believe the economy is weaker than most economists say. We base our opinion
+on talking to companies in a broad range of industries - almost all are
+experiencing weak demand for their products and services. Many of these
+companies have declining earnings and low or negative value growth.
+
+In this environment demand for commercial real estate space is weak as well.
+Nationally, we are seeing moderate declines in occupancy levels and flat or
+declining market rental rates. On the other hand, supply and demand remain well
+balanced and, importantly, supply growth is declining.
+
+The vast majority of the companies in the Realty Fund are well positioned to
+continue to grow their earnings and values during an economic downturn. The
+lower market rents remain substantially higher than in place rents and most of
+our companies enjoy the benefit of long-term leases. Moreover, they own quality
+properties in supply constrained markets where fundamentals are better than the
+national averages. This means they will continue to generate a steadily growing
+free cash flow coupon, which provides the basis for their value growth.
+
+Until the economy inevitably rebounds, overall value growth for companies in the
+Realty Fund should be below average (our minimum hurdle rate is 10% to 12%) but
+should remain positive at a time when most businesses are moving backwards. With
+declining supply growth, the stage is set for above average compounding over the
+next few years.
+
+Longleaf Partners Realty Fund and the Market
+We have no control whatsoever over Mr. Market. We can and do, however, take
+advantage of his mood swings. The Realty Fund has benefited as investors have
+rediscovered the importance of stability and free cash flow. Our companies have
+plenty of both. In addition, they sell at enormous discounts to intrinsic worth
+at a time when many companies remain over-valued. If the speculative excesses of
+the 1990's continue to unwind, we should enjoy above average absolute and
+relative
+
+                                        17
+<PAGE>   20
+
+                      REALTY FUND - MANAGEMENT DISCUSSION
+              by C.T. Fitzpatrick, Mason Hawkins, and Staley Cates
+
+returns. If speculation again becomes the norm, we may have to be patient, but
+we are confident our patience will be rewarded as it has been over the last
+twelve months.
+
+Highlights During the Second Quarter
+Forest City was, once again, the largest capital contributor to the Realty
+Fund's performance in the second quarter with a 21% total return for the A
+shares. Hilton Hotels and IHOP tied for second place with 11% and 34% total
+returns, respectively. Hilton's larger weight in the portfolio generated a
+higher contribution to the Fund's performance. Bay View and Getty Realty rounded
+out the top five with 75% and 36% total returns in the quarter.
+
+Only two companies had negative returns in the second quarter. Prime Group had a
+negative total return of 0.9%. We are continuing our efforts to protect
+shareholders' interests in this disappointing investment under the guidelines of
+our 13D filing. While we do not have any tangible news to report, our efforts
+and those of other shareholders appear to be bearing fruit. Excel Legacy
+declined 13% during the quarter. The company is moving forward with its merger
+into Price Enterprises and its conversion to a REIT. We are optimistic the
+restructured company will be more successful in capturing investor attention.
+
+We eliminated our exposure to Newhall Land. It remains a wonderfully managed,
+under-valued company with outstanding real estate assets. We unwound our
+position because it became less discounted and because its value growth was
+below our threshold.
+
+Patient capital is a powerful asset that has materially benefited all
+shareholders in the Fund, including us. We greatly appreciate our intelligent
+investment partners.
+
+                                        18
+<PAGE>   21
+
+                     REALTY FUND - PERFORMANCE HISTORY AND
+                               PORTFOLIO SUMMARY
+
+                             AVERAGE ANNUAL RETURNS
+                      FOR THE PERIODS ENDED JUNE 30, 2001
+
+<TABLE>
+<CAPTION>
+                                              Wilshire
+                                             Real Estate
+                                    REALTY   Securities    NAREIT   Inflation
+                                     FUND       Index      Index    Plus 10%*
+                                    ------   -----------   ------   ---------
+<S>                                 <C>      <C>           <C>      <C>
+Year-to-Date                        15.57%       9.80%     12.55%      7.13%
+One Year                            26.36       24.58      25.35      13.07
+Five Years                          10.04       11.51      10.13      12.55
+Since Public Offering 1/2/96        12.24       12.12      10.56      12.75
+</TABLE>
+
+                             FIVE LARGEST HOLDINGS
+                        (REPRESENT 46.4% OF NET ASSETS)
+
+FOREST CITY ENTERPRISES, INC. (FCE)                                        16.7%
+A diversified, national real estate owner and operator of retail and office
+properties as well as residential units. Forest City is developing several high
+profile urban in-fill projects including the Denver Stapleton Airport
+redevelopment, and mixed-use projects in both New York's Times Square and San
+Francisco.
+
+HILTON HOTELS CORPORATION (HLT)                                            14.7%
+Worldwide hotel owner, operator, and franchiser. Owns trophy properties
+including the Waldorf Astoria, Palmer House and Hawaiian Village. Manages and/or
+franchises the Hilton, Hampton Inn, Embassy Suites, Doubletree, and Homewood
+Suites brands.
+
+PRIME GROUP REALTY TRUST (PGE)                                              5.4%
+A REIT that owns 8 million square feet of central business district and suburban
+office space predominantly in the Chicago area. Also owns 4 million square feet
+of industrial properties and is developing the 1.5 million square foot Dearborn
+Center in downtown Chicago.
+
+MARRIOTT INTERNATIONAL, INC. (MAR)                                          4.8%
+Owner of many of the strongest brand names in the lodging industry. Operates and
+franchises over 300,000 rooms in hotels and resorts under the Marriott,
+Ritz-Carlton, Renaissance, Courtyard, Fairfield and Residence Inn names.
+
+TIMBERWEST FOREST CORP. (TWF)                                               4.8%
+Largest private land owner in Western Canada with 334,000 hectacres of private
+timberlands located on Vancouver Island in British Columbia.
+
+                               PORTFOLIO CHANGES
+                     JANUARY 1, 2001 THROUGH JUNE 30, 2001
+
+<TABLE>
+<CAPTION>
+             NEW HOLDINGS                         ELIMINATIONS
+             ------------                         ------------
+       <S>                      <C>
+
+       The Macerich Company           Newhall Land and Farming Company Options
+
+                                        (See Note 11)
+</TABLE>
+
+                                        19
+<PAGE>   22
+
+                     REALTY FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+      SHARES                                                                VALUE
+    ----------                                                           ------------
+<S> <C>          <C> <C>                                         <C>     <C>
+Common Stock 92.5%
+                     Diversified Realty 25.6%
+     1,712,400   *   Catellus Development Corporation.................   $ 29,881,380
+    15,605,900   *   Excel Legacy Corporation(b)(c)...................     29,073,792
+     1,864,050       Forest City Enterprises, Inc. - Class A..........    102,522,750
+       148,600       Forest City Enterprises, Inc. - Class B..........      7,905,520
+                                                                         ------------
+                                                                          169,383,442
+                                                                         ------------
+                     Lodging 24.0%
+     8,365,000       Hilton Hotels Corporation........................     97,034,000
+     2,368,000       Host Marriott Corporation (REIT).................     29,647,360
+       666,300       Marriott International, Inc......................     31,542,642
+                                                                         ------------
+                                                                          158,224,002
+                                                                         ------------
+                     Mortgage Financing 2.1%
+     1,826,447   *   Bay View Capital Corp.(b)........................     13,661,823
+
+                     Natural Resources/Land 12.3%
+       650,000       Deltic Timber Corporation(b).....................     18,720,000
+     3,904,000       TimberWest Forest Corp. (Foreign)(b).............     31,384,291
+     1,018,000       Waste Management, Inc............................     31,374,760
+                                                                         ------------
+                                                                           81,479,051
+                                                                         ------------
+                     Office 15.6%
+     1,885,000       Beacon Capital Partners, Inc. (REIT)(b)(c).......     10,179,000
+       679,000       Boston Properties Inc. (REIT)....................     27,771,100
+     2,637,600       Prime Group Realty Trust (REIT)(b)...............     35,607,600
+     1,640,000       TrizecHahn Corporation (Foreign).................     29,831,600
+                                                                         ------------
+                                                                          103,389,300
+                                                                         ------------
+                     Retail 12.9%
+     1,201,300       Getty Realty Corp.(b)............................     23,016,908
+     1,153,000   *   IHOP Corp.(b)....................................     30,958,050
+     1,251,200       The Macerich Company (REIT)......................     31,029,760
+                                                                         ------------
+                                                                           85,004,718
+                                                                         ------------
+                     TOTAL COMMON STOCKS (COST $551,814,042)..........    611,142,336
+                                                                         ------------
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        20
+<PAGE>   23
+
+                     REALTY FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+      UNITS                                                                 VALUE
+    ----------                                                           ------------
+<S> <C>          <C> <C>                                         <C>     <C>
+Trust Units 1.9%
+                     Lodging 1.9%
+       157,079       Wyndham International, Inc. Voting Trust (Cost
+                     $14,133,930)(b)(c)...............................   $ 12,566,320
+                                                                         ------------
+       PAR
+    ----------
+Short-Term Obligations 5.0%
+    22,844,000       Repurchase Agreement with State Street Bank,
+                     2.75% due 7-2-01 (Collateralized by U.S.
+                     government agency securities)....................     22,844,000
+    10,000,000       U.S. Treasury Bill, 2.94% due 7-5-01.............      9,996,778
+                                                                         ------------
+                                                                           32,840,778
+                                                                         ------------
+TOTAL INVESTMENTS (COST $598,788,750)(a).......................   99.4%   656,549,434
+OTHER ASSETS AND LIABILITIES, NET..............................    0.6      3,792,100
+                                                                 -----   ------------
+NET ASSETS.....................................................  100.0%  $660,341,534
+                                                                 =====   ============
+NET ASSET VALUE PER SHARE.............................................         $16.33
+</TABLE>
+
+*  Non-income producing security
+(a) Also represents aggregate cost for federal income tax purposes. Aggregate
+    unrealized appreciation and depreciation are $162,539,718 and
+    $(104,779,034), respectively.
+(b) Affiliated company. See Note 7.
+(c) Illiquid or restricted security. See Note 8.
+
+Note: REITs comprise 20% of net assets. Companies designated as "Foreign" are
+      headquartered outside the U.S. and represent 9% of net assets.
+
+                       See Notes to Financial Statements.
+
+                                        21
+<PAGE>   24
+
+                           (Intentionally Left Blank)
+
+                                     (LOGO)
+
+                                        22
+<PAGE>   25
+
+                     SMALL-CAP FUND - MANAGEMENT DISCUSSION
+                by Mason Hawkins, Staley Cates, and John Buford
+
+For the year ended June 30 Longleaf Partners Small-Cap Fund is up 21.8% after
+adding 9.2% during the second quarter. In spite of the Russell 2000's 14.4% gain
+in the quarter, this small-cap index is flat for the last year with a 0.7%
+return. We are pleased with Longleaf Small-Cap's recent results, but caution our
+partners to temper their future expectations: 20+% annualized returns are not
+likely to be sustained over the next few years.
+
+During the second quarter the Small-Cap Fund's composition changed because of a
+combination of portfolio sales and individual stock returns. The Fund's holdings
+decreased from 25 to 22. We sold our second largest holding, Gulf Canada.
+Conoco's bid for the company confirmed our appraisal. We made a 70% return over
+the two-and-a-half years we owned the company. Although Tyco purchased Scott
+Technologies for less than our value, we gained 35% on our investment. We also
+sold Pediatrix as its price reached our appraisal due to renewed faith in the
+doctors' billing integrity and better controls which improved cash flow.
+
+Fleming remains our largest holding although we scaled the position back as the
+stock rose 40% during the quarter. The company has tripled this year. Mark
+Hansen and his team continue to demonstrate the value that disciplined,
+motivated, vested management can bring to an otherwise challenging business.
+
+Thomas Industries also contributed to the Small-Cap Fund's successful quarter.
+This maker of pumps and compressors continues to do relatively well in a tough
+manufacturing environment.
+
+The Fund's three insurance companies increased during the quarter. Both MONY and
+Fairfax were helped by falling interest rates, while Fairfax benefited from the
+IPO of subsidiary Odyssey Re. Fairfax and Hilb, Rogal and Hamilton continued to
+experience stronger pricing in their insurance underwriting and brokerage
+businesses.
+
+Two of Longleaf Partners Small-Cap Fund's holdings lost substantial ground in
+the quarter. In our March report we discussed the value of USG "even in a
+worst-case scenario for the wallboard division." That scenario materialized in
+June as the company filed for Chapter 11 and the stock fell over 70%. The
+asbestos liabilities of other companies that have been recently bankrupted
+increasingly saddled USG. The company previously had paid its share of claims,
+but lawyers in multiple states had begun filing against USG under joint and
+several liability. Bill Foote saw Chapter 11 as the only way to salvage value
+for equity holders before the company had to weaken its balance sheet to cover
+more legal bills and unwarranted claims. Bankruptcy will meaningfully dilute
+equity holders and our
+
+                                        23
+<PAGE>   26
+
+                     SMALL-CAP FUND - MANAGEMENT DISCUSSION
+                by Mason Hawkins, Staley Cates, and John Buford
+
+appraisal has fallen accordingly. USG's value, however, is still multiples of
+its price because Chapter 11 (1) consolidates all claims from individual
+somewhat plaintiff-oriented state courts into a single and more fair federal
+court; (2) relieves USG of any responsibility other than for its own product
+which is a minimal piece of the asbestos exposure claims; and (3) allows the
+company to quantify its total liability and then focus on continuing to make
+money from its successful wallboard, ceiling, and building parts distribution
+businesses.
+
+U.S. Industries' stock fell 30% during the quarter as the company's cash flow
+was lower than expected and questions arose about USI's ability to refinance its
+debt later this year. The building products and hardware businesses are
+suffering at a time when the company is faced with this large refinancing. We do
+not know how the attempted refinancing will be resolved, but asset values at
+just the Jacuzzi and Zurn divisions are materially greater than total company
+liabilities.
+
+Our portfolio sales added to Small-Cap's liquidity. Because we are having
+difficulty finding companies that qualify, the Fund's cash position is 24.6%.
+These reserves will allow us to go on offense when we find new investment
+opportunities. New qualifying investments will also help lower the Fund's
+price-to-value ratio, which has moved close to its historic average in the wake
+of increased prices and a few stagnant or lower values.
+
+                                        24
+<PAGE>   27
+
+                    SMALL-CAP FUND - PERFORMANCE HISTORY AND
+                               PORTFOLIO SUMMARY
+
+                             AVERAGE ANNUAL RETURNS
+                      FOR THE PERIODS ENDED JUNE 30, 2001
+
+<TABLE>
+<CAPTION>
+                                                 Value-Line
+                      SMALL-CAP   Russell 2000   (Geometric)   Inflation
+                        FUND         Index          Index      Plus 10%*
+                      ---------   ------------   -----------   ---------
+<S>                   <C>         <C>            <C>           <C>
+Year-to-Date             9.55%        6.94%          1.64%        7.13%
+One Year                21.76         0.66          (1.94)       13.07
+Five Years              16.50         9.62           2.45        12.55
+Ten Years               15.07        13.50           5.49        12.71
+</TABLE>
+
+                             FIVE LARGEST HOLDINGS
+                        (REPRESENT 27.9% OF NET ASSETS)
+
+FLEMING COMPANIES, INC. (FLM)                                               8.6%
+A leading food wholesaler which also has Food 4 Less retail stores.
+
+THE MONY GROUP INC (MNY)                                                    5.0%
+Financial services company that offers life insurance, annuity and investment
+products to higher income individuals.
+
+FAIRFAX FINANCIAL HOLDINGS LIMITED (FFH)                                    5.0%
+Canadian based property/casualty insurer offering both primary insurance and
+reinsurance across North America.
+
+HOLLINGER INTERNATIONAL INC. (HLR)                                          4.7%
+Publisher of newspapers and magazines in the U.K., the U.S. and Israel. Papers
+include the London Daily Telegraph and the Chicago Sun-Times.
+
+ALLEGHANY CORPORATION (Y)                                                   4.6%
+Holding company that operates primarily in the insurance business but also has
+opportunistic holdings outside of financial services.
+
+                               PORTFOLIO CHANGES
+                     JANUARY 1, 2001 THROUGH JUNE 30, 2001
+
+<TABLE>
+<CAPTION>
+    NEW HOLDINGS                ELIMINATIONS
+    ------------                ------------
+<S>                   <C>
+Brascan Corporation   The Carbide/Graphite Group, Inc.
+Texas Industries,     Gulf Canada Resources Limited
+Inc.                  Pediatrix Medical Group, Inc.
+                      Scott Technologies, Inc.
+                      VICORP Restaurants, Inc.
+                      Wisconsin Central Transportation
+                      Corporation
+</TABLE>
+
+                                        25
+<PAGE>   28
+
+                   SMALL-CAP FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+      SHARES                                                               VALUE
+    ----------                                                         --------------
+<S> <C>          <C> <C>                                       <C>     <C>
+Common Stock 74.6%
+                     Beverages 2.4%
+     3,052,900       PepsiAmericas, Inc. (formerly Whitman
+                       Corporation).................................   $   40,603,570
+
+                     Commercial Lighting 4.5%
+     2,407,500   *   Genlyte Group Incorporated(b)..................       74,415,825
+
+                     Construction Materials 2.1%
+     1,036,300       Texas Industries, Inc..........................       35,638,357
+
+                     Financial Services 4.6%
+       373,000   *   Alleghany Corporation(b).......................       75,719,000
+
+                     Food 3.4%
+     2,972,000   *   Ralcorp Holdings, Inc.(b)......................       55,695,280
+
+                     Food -- Wholesale 8.6%
+     4,030,700       Fleming Companies, Inc.(b).....................      143,895,990
+
+                     Life Insurance 5.0%
+     2,089,600       The MONY Group Inc.............................       83,855,648
+
+                     Lodging 4.3%
+     2,829,653       Hilton Hotels Corporation......................       32,823,975
+    15,450,400   *   Wyndham International, Inc. - Class A(b).......       38,626,000
+                                                                       --------------
+                                                                           71,449,975
+                                                                       --------------
+                     Manufacturing 5.8%
+     1,692,850       Thomas Industries, Inc.(b).....................       49,939,075
+     3,061,900   *   USG Corporation(b).............................       12,921,218
+     8,140,000   *   U.S. Industries, Inc.(b).......................       33,374,000
+                                                                       --------------
+                                                                           96,234,293
+                                                                       --------------
+                     Mortgage Financing 1.4%
+     3,114,700   *   Bay View Capital Corp..........................       23,297,956
+
+                     Multi-Industry 3.1%
+     3,000,000       Brascan Corporation (Foreign)..................       51,436,479
+
+                     Natural Resources 4.8%
+       845,000       Deltic Timber Corporation(b)...................       24,336,000
+     6,950,000       TimberWest Forest Corp. (Foreign)(b)...........       55,871,112
+                                                                       --------------
+                                                                           80,207,112
+                                                                       --------------
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        26
+<PAGE>   29
+
+                   SMALL-CAP FUND - PORTFOLIO OF INVESTMENTS
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+      SHARES                                                               VALUE
+    ----------                                                         --------------
+<S> <C>          <C> <C>                                       <C>     <C>
+                     Property & Casualty Insurance 9.3%
+       556,500   *   Fairfax Financial Holdings Limited (Foreign)...   $   83,570,341
+     1,605,100       Hilb, Rogal and Hamilton Company(b)............       70,223,125
+                                                                       --------------
+                                                                          153,793,466
+                                                                       --------------
+                     Publishing 4.7%
+     5,724,300       Hollinger International Inc. (Foreign).........       78,709,125
+
+                     Real Estate 6.5%
+     3,393,600   *   Catellus Development Corporation(c)............       59,218,320
+     1,825,100   *   IHOP Corp.(b)..................................       49,003,935
+                                                                       --------------
+                                                                          108,222,255
+                                                                       --------------
+                     Retail 4.1%
+     2,333,700   *   The Neiman Marcus Group, Inc. -- Class B.......       68,844,150
+                                                                       --------------
+         TOTAL COMMON STOCKS (COST $1,069,101,460)..................    1,242,018,481
+                                                                       --------------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+        PAR
+    -----------
+<S> <C>           <C> <C>                                      <C>     <C>
+Short-Term Obligation 24.6%
+     49,436,000       Repurchase Agreement with State Street Bank,
+                        2.75% due 7-2-01 (Collateralized by U.S.
+                        government agency securities)...............       49,436,000
+    360,000,000       U.S. Treasury Bills, 3.30% - 3.64% due 7-5-01
+                        to 8-9-01...................................      359,339,473
+                                                                       --------------
+                                                                          408,775,473
+                                                                       --------------
+TOTAL INVESTMENTS (COST $1,477,876,933)(a)...................   99.2%   1,650,793,954
+OTHER ASSETS AND LIABILITIES, NET............................    0.8       14,075,260
+                                                               -----   --------------
+NET ASSETS...................................................  100.0%  $1,664,869,214
+                                                               =====   ==============
+NET ASSET VALUE PER SHARE...........................................           $24.78
+                                                                       ==============
+</TABLE>
+
+*  Non-income producing security
+(a) Also represents aggregate cost for federal income tax purposes. Aggregate
+    unrealized appreciation and depreciation are $360,743,571 and
+    $(187,826,550), respectively.
+(b) Affiliated company. See Note 7.
+(c) A portion designated as collateral. See Note 10.
+Note: Companies designated as "Foreign" represent 16% of net assets.
+
+                        OPEN FORWARD CURRENCY CONTRACTS
+
+<TABLE>
+<CAPTION>
+ Currency              Currency Sold and              Currency     Unrealized
+Units Sold              Settlement Date             Market Value      Gain
+----------   -------------------------------------  ------------   ----------
+<C>          <S>                                    <C>            <C>
+
+40,000,000   Canadian Dollar 10-25-01               $26,304,904     $327,437
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                        27
+<PAGE>   30
+
+                            LONGLEAF PARTNERS FUNDS
+                      STATEMENTS OF ASSETS AND LIABILITIES
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+
+<S>                                                          <C>
+ASSETS:
+Investments:
+  Affiliated securities, at market value (cost $481,745,450,
+    $70,617,888, $232,449,396, and $555,150,343,
+    respectively) (Note 2 and 7)............................
+  Other securities, at market value (cost $3,360,230,230,
+    $579,367,434, $366,339,354, and $922,726,590,
+    respectively) (Note 2)..................................
+         TOTAL INVESTMENTS
+Cash........................................................
+Receivable for:
+  Dividends and interest....................................
+  Fund shares sold..........................................
+  Securities sold...........................................
+  Forward currency contracts (Note 2).......................
+Prepaid assets..............................................
+         TOTAL ASSETS
+LIABILITIES:
+Payable for:
+  Fund shares redeemed......................................
+  Securities purchased......................................
+  Investment counsel fee (Note 3)...........................
+  Administration fee (Note 4)...............................
+Other accrued expenses......................................
+         TOTAL LIABILITIES
+NET ASSETS:
+Net assets consist of:
+  Paid-in capital...........................................
+  Undistributed net investment income.......................
+  Accumulated net realized gain(loss) on investments and
+    foreign currency........................................
+  Unrealized gain on investments and foreign currency.......
+         Net Assets
+NET ASSET VALUE PER SHARE...................................
+FUND SHARES ISSUED AND OUTSTANDING..........................
+</TABLE>
+
+                       See Notes to Financial Statements.
+                                        28
+<PAGE>   31
+
+                            LONGLEAF PARTNERS FUNDS
+                      STATEMENTS OF ASSETS AND LIABILITIES
+                          AT JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+PARTNERS FUND    INTERNATIONAL FUND   REALTY FUND    SMALL-CAP FUND
+--------------   ------------------   ------------   --------------
+<S>              <C>                  <C>            <C>
+
+
+
+
+
+$ 378,860,096       $ 59,072,516      $191,505,961   $  684,020,560
+
+
+4,051,794,548        633,159,266       465,043,473      966,773,394
+
+--------------      ------------      ------------   --------------
+
+4,430,654,644        692,231,782       656,549,434    1,650,793,954
+
+
+          808                152               928              251
+
+
+    6,672,341          1,598,806         2,639,414        2,093,048
+
+    4,257,140          2,074,470         1,629,028        1,893,851
+
+    2,103,740                  -           236,419       19,431,267
+
+   13,020,519          8,745,697                 -          327,437
+
+      173,452             36,613            36,059           67,630
+
+--------------      ------------      ------------   --------------
+
+4,456,882,644        704,687,520       661,091,282    1,674,607,438
+
+--------------      ------------      ------------   --------------
+
+
+
+
+
+   31,607,863            160,283           108,553          310,859
+
+   87,141,179         16,192,318                 -        8,107,697
+
+    2,722,550            822,758           528,744        1,092,334
+
+      352,048             54,851            52,874          134,686
+
+      383,678             90,765            59,577           92,648
+
+--------------      ------------      ------------   --------------
+
+  122,207,318         17,320,975           749,748        9,738,224
+
+--------------      ------------      ------------   --------------
+
+$4,334,675,326      $687,366,545      $660,341,534   $1,664,869,214
+
+==============      ============      ============   ==============
+
+
+
+
+
+$3,683,467,803      $594,736,109      $643,294,004   $1,361,782,889
+
+   18,883,911          2,730,697        22,377,868        3,025,488
+
+   30,550,198         38,921,235       (63,090,612)     126,817,111
+
+  601,773,414         50,978,504        57,760,274      173,243,726
+
+--------------      ------------      ------------   --------------
+
+$4,334,675,326      $687,366,545      $660,341,534   $1,664,869,214
+
+==============      ============      ============   ==============
+
+
+        $25.18            $13.95            $16.33           $24.78
+       =======            ======            ======           ======
+
+   172,181,737        49,263,644        40,447,067       67,194,095
+</TABLE>
+
+                       See Notes to Financial Statements.
+                                        29
+<PAGE>   32
+
+                            LONGLEAF PARTNERS FUNDS
+                            STATEMENTS OF OPERATIONS
+               FOR THE SIX MONTHS ENDED JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+
+<S>                                                         <C>
+INVESTMENT INCOME:
+INCOME:
+  Dividends from affiliates (net of foreign tax withheld of
+    $440,188, $0, $0 and $0, respectively) (Note 7).........
+  Dividends from non-affiliates (net of foreign tax withheld
+    of $539,881, $683,162, $43,050 and $148,053,
+    respectively)...........................................
+  Interest..................................................
+  Other income..............................................
+         Total income.......................................
+EXPENSES:
+  Investment counsel fee (Note 3)...........................
+  Administration fee (Note 4)...............................
+  Dividend expense on short sale............................
+  Transfer agent fee........................................
+  Printing..................................................
+  Postage and supplies......................................
+  Short sale fees...........................................
+  Custodian fee.............................................
+  Registration and filing fees..............................
+  Trustees' fees............................................
+  Professional fees.........................................
+  Insurance expense.........................................
+  Miscellaneous.............................................
+         Total expenses.....................................
+         Net investment income..............................
+
+REALIZED AND UNREALIZED GAIN:
+Net realized gain(loss):
+  Non-affiliated securities.................................
+  Affiliated securities (Note 7)............................
+  Short sales...............................................
+  Options (Note 11).........................................
+  Forward currency contracts................................
+  Foreign currency transactions.............................
+      Net gain(loss)........................................
+Change in unrealized gain(loss):
+  Securities................................................
+  Other assets, liabilities, forwards and options...........
+      Change in net unrealized gain.........................
+      Net realized and unrealized gain......................
+NET INCREASE IN NET ASSETS RESULTING FROM OPERATIONS........
+</TABLE>
+
+                       See Notes to Financial Statements.
+                                        30
+<PAGE>   33
+
+                            LONGLEAF PARTNERS FUNDS
+                            STATEMENTS OF OPERATIONS
+               FOR THE SIX MONTHS ENDED JUNE 30, 2001 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+PARTNERS FUND   INTERNATIONAL FUND   REALTY FUND   SMALL-CAP FUND
+-------------   ------------------   -----------   --------------
+<S>             <C>                  <C>           <C>
+
+
+
+
+$  4,582,398       $     4,125       $21,212,748    $  3,686,303
+
+
+  24,124,970         4,936,843        4,325,246        2,512,364
+
+   7,586,364         3,599,681          471,207        4,289,839
+
+   1,479,963                 -                -                -
+
+------------       -----------       -----------    ------------
+
+  37,773,695         8,540,649       26,009,201       10,488,506
+
+------------       -----------       -----------    ------------
+
+
+  15,429,433         4,099,451        3,105,969        6,307,571
+
+   1,991,142           273,297          310,597          774,892
+
+     435,500           429,000                -                -
+
+     364,999            50,062           56,948          142,055
+
+     116,578            22,780           27,402           69,754
+
+     116,123            17,557           28,798           42,175
+
+     215,026            48,866                -                -
+
+     106,090            36,076           11,609           14,996
+
+      22,036            71,627           15,349           22,215
+
+      47,987            23,993           23,993           23,993
+
+      19,527            27,632           15,502           10,183
+
+      29,166             3,898            6,574           12,311
+
+     116,135            27,531           34,772           42,351
+
+------------       -----------       -----------    ------------
+
+  19,009,742         5,131,770        3,637,513        7,462,496
+
+------------       -----------       -----------    ------------
+
+  18,763,953         3,408,879       22,371,688        3,026,010
+
+------------       -----------       -----------    ------------
+
+
+
+
+
+ 102,547,074        27,456,372       (4,139,987)      59,146,377
+
+           -                 -         (107,502)      49,522,444
+
+  (4,526,185)        1,991,743                -                -
+
+           -                 -        1,314,631                -
+
+  14,195,867         8,018,283                -                -
+
+     (24,764)          (12,201)           5,876             (517)
+
+------------       -----------       -----------    ------------
+
+ 112,191,992        37,454,197       (2,926,982)     108,668,304
+
+------------       -----------       -----------    ------------
+
+
+ 282,789,963        26,896,514       70,630,021       29,735,194
+
+   4,710,799         5,533,540        1,362,803          319,527
+
+------------       -----------       -----------    ------------
+
+ 287,500,762        32,430,054       71,992,824       30,054,721
+
+------------       -----------       -----------    ------------
+
+ 399,692,754        69,884,251       69,065,842      138,723,025
+
+------------       -----------       -----------    ------------
+
+$418,456,707       $73,293,130       $91,437,530    $141,749,035
+
+============       ===========       ===========    ============
+</TABLE>
+
+                       See Notes to Financial Statements.
+                                        31
+<PAGE>   34
+
+                            LONGLEAF PARTNERS FUNDS
+                      STATEMENTS OF CHANGES IN NET ASSETS
+
+<TABLE>
+<CAPTION>
+                                                                        PARTNERS FUND
+                                                              ---------------------------------
+                                                                SIX MONTHS
+                                                                  ENDED               YEAR
+                                                                 JUNE 30,            ENDED
+                                                                   2001           DECEMBER 31,
+                                                               (UNAUDITED)            2000
+                                                              --------------     --------------
+<S>                                                           <C>                <C>
+OPERATIONS:
+ Net investment income......................................  $   18,763,953     $   25,217,617
+ Net gain(loss).............................................     112,191,992        (99,511,670)
+ Change in net unrealized gain(loss)........................     287,500,762        709,158,244
+                                                              --------------     --------------
+   Net increase(decrease) in net assets resulting from
+     operations.............................................     418,456,707        634,864,191
+                                                              --------------     --------------
+DISTRIBUTIONS TO SHAREHOLDERS:
+ From net investment income.................................               -        (24,974,395)
+ From net realized gain on investments......................               -       (260,860,703)
+ From return of capital.....................................               -                  -
+                                                              --------------     --------------
+   Net decrease in net assets resulting from
+     distributions..........................................               -       (285,835,098)
+                                                              --------------     --------------
+CAPITAL SHARE TRANSACTIONS (NOTE 6):
+ Net proceeds from sale of shares...........................     458,020,949        660,029,511
+ Net asset value of shares issued to shareholders for
+   reinvestment of shareholder distributions................               -        271,468,699
+ Cost of shares redeemed....................................    (293,795,583)    (1,150,643,520)
+                                                              --------------     --------------
+   Net increase in net assets from fund share
+     transactions...........................................     164,225,366       (219,145,310)
+                                                              --------------     --------------
+   Total increase(decrease) in net assets...................     582,682,073        129,883,783
+NET ASSETS:
+ Beginning of period........................................   3,751,993,253      3,622,109,470
+                                                              --------------     --------------
+ End of period..............................................  $4,334,675,326     $3,751,993,253
+                                                              ==============     ==============
+ Undistributed net investment income(loss) included in net
+   assets at end of period..................................     $18,883,911           $144,561
+                                                              ==============     ==============
+</TABLE>
+
+
+                       See Notes to Financial Statements.
+                                        32
+<PAGE>   35
+
+                            LONGLEAF PARTNERS FUNDS
+                      STATEMENTS OF CHANGES IN NET ASSETS
+
+<TABLE>
+<CAPTION>
+     INTERNATIONAL FUND                 REALTY FUND                    SMALL-CAP FUND
+-----------------------------   ----------------------------   -------------------------------
+ SIX MONTHS                      SIX MONTHS                      SIX MONTHS
+   ENDED            YEAR           ENDED           YEAR            ENDED             YEAR
+  JUNE 30,         ENDED          JUNE 30,         ENDED          JUNE 30,          ENDED
+    2001        DECEMBER 31,        2001       DECEMBER 31,         2001         DECEMBER 31,
+(UNAUDITED)         2000        (UNAUDITED)        2000         (UNAUDITED)          2000
+------------   --------------   ------------   -------------   --------------   --------------
+<S>            <C>              <C>            <C>             <C>              <C>
+
+
+$ 3,408,879    $  11,283,656    $22,371,688    $ 10,676,574    $   3,026,010    $    2,915,099
+
+ 37,454,197       53,620,421     (2,926,982)    (33,840,615)     108,668,304        24,459,327
+
+ 32,430,054        7,827,331     71,992,824     101,994,057       30,054,721       128,714,632
+
+------------   -------------    ------------   ------------    --------------   --------------
+
+
+ 73,293,130       72,731,408     91,437,530      78,830,016      141,749,035       156,089,058
+
+------------   -------------    ------------   ------------    --------------   --------------
+
+
+          -      (12,169,232)             -     (10,678,392)               -        (2,948,800)
+
+          -      (69,603,215)             -               -                -        (7,278,192)
+
+          -                -              -      (8,007,097)               -                 -
+
+------------   -------------    ------------   ------------    --------------   --------------
+
+          -      (81,772,447)             -     (18,685,489)               -       (10,226,992)
+
+------------   -------------    ------------   ------------    --------------   --------------
+
+
+257,486,108      233,125,870     38,313,048      70,785,334      153,752,958       316,532,626
+
+
+          -       77,440,353              -      17,661,209                -         9,573,307
+
+(47,918,037)    (190,632,936)   (92,607,424)   (168,703,217)    (107,606,206)     (424,667,789)
+
+------------   -------------    ------------   ------------    --------------   --------------
+
+209,568,071      119,933,287    (54,294,376)    (80,256,674)      46,146,752       (98,561,856)
+
+------------   -------------    ------------   ------------    --------------   --------------
+
+282,861,201      110,892,248     37,143,154     (20,112,147)     187,895,787        47,300,210
+
+
+404,505,344      293,613,096    623,198,380     643,310,527    1,476,973,427     1,429,673,217
+
+------------   -------------    ------------   ------------    --------------   --------------
+
+$687,366,545   $ 404,505,344    $660,341,534   $623,198,380    $1,664,869,214   $1,476,973,427
+
+============   =============    ============   ============    ==============   ==============
+
+
+ $2,730,697        $(666,885)   $22,377,868          $    -       $3,025,488            $    -
+ ============   =============    ============   ============    ==============   ==============
+
+</TABLE>
+
+                       See Notes to Financial Statements.
+                                        33
+<PAGE>   36
+
+                            LONGLEAF PARTNERS FUNDS
+                         NOTES TO FINANCIAL STATEMENTS
+
+NOTE 1. ORGANIZATION
+
+The Longleaf Partners Fund, The Longleaf Partners International Fund, The
+Longleaf Partners Realty Fund and The Longleaf Partners Small-Cap Fund ("The
+Funds") are non-diversified and each is a series of Longleaf Partners Funds
+Trust, a Massachusetts business trust which is registered under the Investment
+Company Act of 1940, as amended, as an open-end investment company.
+Capitalization for each fund was provided by principals of Southeastern Asset
+Management, Inc., the Investment Counsel.
+
+NOTE 2. SIGNIFICANT ACCOUNTING POLICIES
+
+Management Estimates
+The accompanying financial statements are prepared in accordance with accounting
+principles generally accepted in the United States of America; these principles
+may require the use of estimates by Fund management. Actual results could differ
+from those estimates.
+
+Security Valuation
+  (1) Portfolio securities listed or traded on a securities exchange, on the
+      NASDAQ national market, or any representative quotation system providing
+      same day publication of actual prices are valued at the last sales price.
+      If there are no transactions in the security that day, securities are
+      valued at the midpoint between the closing bid and ask prices or, if there
+      are no such prices, the prior day's close.
+  (2) All other portfolio securities for which over-the-counter market
+      quotations are readily available are valued at the last representative
+      sales price, if available, or at the midpoint between the closing bid and
+      ask prices or, if there are no such prices, the prior day's close.
+      Repurchase agreements are valued at cost which, combined with accrued
+      interest, approximates market. Short-term U.S. Government obligations are
+      valued at amortized cost which approximates current market value.
+  (3) Option contracts are marked-to-market daily. Listed options are valued at
+      the latest closing price. If there are no transactions that day, the
+      options are valued at the midpoint between the closing bid and ask prices.
+      Over-the-counter options are valued as determined in good faith under
+      procedures established by the Funds' trustees.
+  (4) When market quotations are not readily available, portfolio securities are
+      valued at their fair values as determined in good faith under procedures
+      established by and under the general supervision of the Funds' Trustees.
+      In determining fair value, the Board considers all relevant qualitative
+      and quantitative information available. These factors are subject to
+      change over time and are reviewed periodically. Estimated values may
+      differ from the values that would have been used had a ready market of the
+      investment existed.
+
+                                        34
+<PAGE>   37
+
+Accounting for Investments
+The Funds record security transactions on trade date. Realized gains and losses
+on security transactions are determined using the specific identification
+method. Dividend income is recognized on the ex-dividend date, except that
+certain dividends from foreign securities are recorded as soon after the
+ex-dividend date as the Fund is informed of the dividend. Interest income and
+Fund expenses are recognized on an accrual basis.
+
+Distributions to Shareholders
+Dividends and distributions to shareholders are recorded on the ex-dividend
+date.
+
+Federal Income Taxes
+The Funds' policy is to comply with the requirements of the Internal Revenue
+Code that are applicable to regulated investment companies and to distribute
+substantially all taxable income to shareholders. Accordingly, no federal income
+tax provision is required. The Funds intend to make any required distributions
+to avoid the application of a 4% nondeductible excise tax. Distributions are
+determined in accordance with income tax regulations which may differ from
+generally accepted accounting principles. Reclassifications are made within the
+Fund's capital accounts to reflect income and gains available for distribution
+under income tax regulations.
+
+Foreign Currency Translations
+The books and records of the Funds are maintained in U.S. dollars. Securities
+denominated in currencies other than U.S. dollars are subject to changes in
+value due to fluctuations in exchange rates. Purchases and sales of securities
+and income and expenses are translated into U.S. dollars at the prevailing
+exchange rate on the respective date of each transaction. The market value of
+investment securities, assets and liabilities are translated into U.S. dollars
+daily.
+
+The Funds do not isolate the portion of net realized and unrealized gains or
+losses in equity security investments which are attributable to changes in
+foreign exchange rates. Accordingly, the impact of such changes is included in
+the realized and unrealized gains or losses on the underlying equity securities.
+
+Forward Currency Contracts
+The Funds may execute forward currency contracts to reduce their exposure to
+currency risk on portfolio investments denominated in foreign currency. Forward
+currency contracts are commitments to purchase or sell a foreign currency at a
+future maturity date. The resulting obligation is marked-to-market daily using
+foreign currency exchange rates supplied by an independent pricing service. An
+unrealized gain or loss is recorded for the difference between the contract
+opening value and its current value. When a contract is closed or delivery is
+taken, this gain or loss is realized. For federal tax purposes, gain or loss on
+open forward contracts are treated as realized and subject to distribution at
+our excise tax year-end date.
+
+                                        35
+<PAGE>   38
+
+Options
+Upon the purchase of a put or call option, the premium paid is recorded as an
+investment. When the Funds write a put or a call option, the premium received by
+the Funds is recorded as a liability. When a purchased option expires, a loss is
+recognized for the cost of the option. When a written option expires, a gain is
+realized for the premium received. When the Funds enter into a closing sale
+transaction, a gain or loss is recognized based on the difference between the
+proceeds of the closing transaction and the cost of the option. When an option
+is exercised, the cost of securities acquired or the proceeds from securities
+sold is adjusted by the premium amount.
+
+Risk of Forward Currency Contracts and Options
+The Funds generally use forward currency contracts and options for hedging
+purposes to reduce market risks. However, when used separately, forward currency
+contracts and options have risks. For example, the price movements of the
+options and forwards may not follow the price movements of the portfolio
+securities subject to the hedge. Gains on investments in options and forwards
+depend on the ability to predict correctly the direction of stock prices,
+interest rates, and other economic factors. Where a liquid secondary market for
+options or forwards does not exist, the Funds may not be able to close their
+positions and in such an event, the loss is theoretically unlimited.
+
+Repurchase Agreements
+The Funds may engage in repurchase agreement transactions. The Funds' custodian
+bank sells U.S. government or agency securities to each Fund under agreements to
+repurchase these securities from each Fund at a stated repurchase price
+including interest for the term of the agreement, which is usually overnight or
+over a weekend. Each Fund, through its custodian, receives delivery of the
+underlying U.S. government or agency securities as collateral, whose market
+value is required to be at least equal to the repurchase price. If the custodian
+becomes bankrupt, the Fund might be delayed, or may incur costs or possible
+losses of principal and income, in selling the collateral.
+
+NOTE 3. INVESTMENT COUNSEL AGREEMENT
+
+Southeastern Asset Management, Inc. ("Southeastern") serves as Investment
+Counsel to the Funds and receives annual compensation, computed daily and paid
+monthly, in accordance with the following schedule for the Partners Fund and
+Small-Cap Fund:
+
+<TABLE>
+<S>                                           <C>
+First $400 million of average daily net
+  assets....................................    1.00%
+In excess of $400 million...................     .75%
+</TABLE>
+
+The Realty Fund fee is calculated on the same basis at 1.00% per annum on all
+asset levels.
+
+                                        36
+<PAGE>   39
+
+For the Partners, Small-Cap and Realty Funds, Southeastern has agreed to reduce
+its fees on a pro rata basis to the extent that each Fund's normal annual
+operating expenses (excluding taxes, interest, brokerage fees, and extraordinary
+expenses) exceed 1.5% of average annual net assets. No such reductions were
+necessary for the current year.
+
+The International Fund fee is calculated at 1.5% per annum on all asset levels.
+For this Fund, Southeastern has agreed to reduce its fees on a pro rata basis to
+the extent that the Fund's normal annual operating expenses (excluding taxes,
+interest, brokerage fees and extraordinary expenses) exceed 1.75% of average
+annual net assets. No reduction was necessary for the current period.
+
+NOTE 4. FUND ADMINISTRATOR
+
+Southeastern also serves as the Fund Administrator and in this capacity is
+responsible for managing, performing or supervising the administrative and
+business operations of the Funds. Functions include the preparation of all
+registration statements, prospectuses, tax returns and proxy statements, daily
+valuation of the portfolios and calculation of daily net asset values per share.
+The Funds pay a fee as compensation for these services, accrued daily and paid
+monthly, of 0.10% per annum of average daily net assets.
+
+NOTE 5. INVESTMENT TRANSACTIONS
+
+Purchases and sales of equity securities for the period (excluding short-term
+obligations) are summarized below:
+
+<TABLE>
+<CAPTION>
+                       PARTNERS FUND    INTERNATIONAL FUND   REALTY FUND    SMALL-CAP FUND
+                       --------------   ------------------   ------------   --------------
+<S>                    <C>              <C>                  <C>            <C>
+    Purchases          $  262,933,980      $202,023,545      $ 27,699,830    $181,780,166
+    Sales                 424,348,641       101,915,506        46,265,474     419,401,890
+</TABLE>
+
+                                        37
+<PAGE>   40
+
+NOTE 6. SHARES OF BENEFICIAL INTEREST
+
+Each Fund is authorized to issue unlimited shares of beneficial interest with no
+par value. Transactions in shares of beneficial interest were as follows:
+
+<TABLE>
+<CAPTION>
+                                SIX MONTHS ENDED JUNE 30, 2001 (UNAUDITED)
+                          -------------------------------------------------------
+                           PARTNERS     INTERNATIONAL     REALTY       SMALL-CAP
+                             FUND           FUND           FUND          FUND
+                          -----------   -------------   -----------   -----------
+<S>                       <C>           <C>             <C>           <C>
+    Shares sold.........   19,314,102    19,306,602       2,562,208     6,491,583
+    Shares redeemed.....  (12,379,906)   (3,596,331)     (6,220,745)   (4,582,825)
+                          -----------    ----------     -----------   -----------
+                            6,934,196    15,710,271      (3,658,537)    1,908,758
+                          ===========    ==========     ===========   ===========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                       YEAR ENDED DECEMBER 31, 2000
+                          -------------------------------------------------------
+                           PARTNERS     INTERNATIONAL     REALTY       SMALL-CAP
+                             FUND           FUND           FUND          FUND
+                          -----------   -------------   -----------   -----------
+<S>                       <C>           <C>             <C>           <C>
+    Shares sold.........   32,045,546     16,938,098      5,559,971    15,638,875
+    Reinvestment of
+      shareholder
+      distribution......   12,719,810      6,401,785      1,243,747       434,727
+    Shares redeemed.....  (56,287,089)   (14,218,490)   (13,387,607)  (21,569,242)
+                          -----------    -----------    -----------   -----------
+                          (11,521,733)     9,121,393     (6,583,889)   (5,495,640)
+                          ===========    ===========    ===========   ===========
+</TABLE>
+
+NOTE 7. AFFILIATED COMPANIES
+
+Under Section 2(a)(3) of the Investment Company Act of 1940, a portfolio company
+is defined as "affiliated" if a Fund owns five percent or more of its voting
+stock. At June 30, 2001, each Fund held at least five percent of the outstanding
+voting stock of the following companies:
+
+<TABLE>
+<CAPTION>
+                                                                 %
+                                                            OUTSTANDING
+                                                           SHARES OF THE
+                                                              COMPANY
+                                                           -------------
+<S>                                                        <C>
+PARTNERS FUND
+  The NipponKoa Insurance Company, Ltd.                         5.8
+  Pioneer Natural Resources Company                            11.0
+  Rayonier Inc.                                                10.7
+  UCAR International, Inc.                                      9.8
+INTERNATIONAL FUND
+  Brierley Investments Limited                                  7.6
+  Gendis Inc. (Note 8)                                         20.0
+  O&Y Properties Corporation (Note 8)                          11.0
+REALTY FUND
+  Bay View Capital Corporation                                  6.9
+  Beacon Capital Partners, Inc. (Note 8)                        8.7
+  Deltic Timber Corporation                                     5.5
+  Excel Legacy Corporation (Note 8)                            25.4
+  Getty Realty Corp.                                            7.5
+  IHOP Corp.                                                    5.7
+  Prime Group Realty Trust                                     16.8
+  TimberWest Forest Corp.                                       6.0
+  Wyndham International, Inc. Voting Trust (Note 8)             9.5
+</TABLE>
+
+                                        38
+<PAGE>   41
+
+<TABLE>
+<CAPTION>
+                                                                 %
+                                                            OUTSTANDING
+                                                           SHARES OF THE
+                                                              COMPANY
+                                                           -------------
+<S>                                                        <C>
+SMALL-CAP FUND
+  Alleghany Corporation                                         5.2
+  Deltic Timber Corporation                                     7.1
+  Fleming Companies, Inc.                                       9.2
+  Genlyte Group Incorporated                                   18.1
+  Hilb, Rogal and Hamilton Company                             11.8
+  IHOP Corp.                                                    9.1
+  Ralcorp Holdings, Inc.                                        9.9
+  Thomas Industries, Inc.                                      11.2
+  TimberWest Forest Corp.                                      10.7
+  USG Corporation                                               7.1
+  U.S. Industries, Inc.                                        11.0
+  Wyndham International, Inc. -- Class A                        5.2
+</TABLE>
+
+NOTE 8. ILLIQUID OR RESTRICTED SECURITIES
+
+The Realty Fund holds Beacon Capital Partners, Inc. ("Beacon") shares acquired
+in a private placement which closed March 17, 1998. The registration statement
+for the Beacon shares became effective on November 13, 1998, but no regular
+trading market in the shares has developed. At June 30, 2001, the Realty Fund
+held 1,885,000 shares of Beacon carried at $10,179,000 or $5.40 per share.
+
+On July 1, 1999, Beacon paid a distribution of $9,013,144 in the form of 91,994
+units of Wyndham International, Inc. Voting Trust (the "Wyndham Voting Trust").
+The Wyndham Voting Trust structure allows Beacon Capital Partners to retain
+voting authority with respect to their investment in Wyndham International
+without jeopardizing their REIT status. The Wyndham Voting Trust units are not
+registered and are subject to transfer restrictions.
+
+Since inception, the Wyndham Voting Trust has paid distributions in cash and
+additional trust units. At June 30, 2001 the 157,079 total Wyndham Voting Trust
+units are carried at $12,566,320 or $80.00 per unit.
+
+The Realty Fund also owns 15,605,900 shares of Excel Legacy Corp. common stock,
+representing 25.4% of the total outstanding shares of the Company. Of this
+amount, 14,900,000 shares were originally acquired through a private placement
+from the company of preferred shares which were later converted to common
+shares. Due to the Fund's large ownership stake and limited trading volume, a
+portion of this position may be illiquid.
+
+Beacon, the Wyndham Voting Trust and Excel Legacy are valued in good faith under
+guidelines established by the Board of Trustees. These investments represent
+7.8% of the Realty Fund's net assets at June 30, 2001.
+
+The International Fund owns 3,349,996 shares of Gendis, Inc. common stock,
+representing 20.0% of the total outstanding shares of the company and 4,671,600
+
+                                        39
+<PAGE>   42
+
+shares of O&Y Properties Corporation representing 11.0% of the total outstanding
+shares of the Company. Due to the limited trading volume and the Fund's large
+ownership stakes, a portion of these positions may be illiquid. Gendis and O&Y
+represent 4.4% of the International Fund's net assets at June 30, 2001.
+
+NOTE 9. RELATED OWNERSHIP
+
+At June 30, 2001, officers, employees of Southeastern and their families, Fund
+trustees, the Southeastern retirement plan and other affiliates owned more than
+5% of the following Funds:
+
+<TABLE>
+<CAPTION>
+                                       Shares Owned   Percent of Fund
+                                       ------------   ---------------
+<S>                                    <C>            <C>
+International Fund...................   5,221,314          10.6%
+Realty Fund..........................   4,960,150          12.3
+Small-Cap Fund.......................   3,421,702           5.1
+</TABLE>
+
+NOTE 10. COLLATERAL
+
+Securities with the following aggregate value were segregated to collateralize
+portfolio obligations at June 30, 2001:
+
+<TABLE>
+<CAPTION>
+                                                            Value of
+                                                           Segregated
+                                     Obligation              Assets
+                             ---------------------------  ------------
+<S>                          <C>                          <C>
+Partners Fund..............  Forward currency contracts   $221,100,000
+International Fund.........  Forward currency contracts    273,195,890
+                             Short sale obligation          62,232,420
+Small-Cap Fund.............  Forward currency contracts     52,350,000
+</TABLE>
+
+NOTE 11. PUT OPTIONS WRITTEN
+
+The Realty Fund had the following written option transactions for the six months
+ended June 30, 2001:
+
+<TABLE>
+<CAPTION>
+                                             Number of     Premiums
+                                             Contracts     Received
+                                             ---------    -----------
+<S>                                          <C>          <C>
+Options outstanding at December 31, 2000...     8,461     $ 2,581,033
+Options expired............................    (8,461)     (2,581,033)
+Options written............................     8,461       1,946,030
+Options closed.............................    (8,461)     (1,946,030)
+                                              -------     -----------
+Options outstanding at June 30, 2001.......         -     $         -
+                                              -------     -----------
+</TABLE>
+
+                                        40
+<PAGE>   43
+
+                           (Intentionally Left Blank)
+
+                                     (LOGO)
+
+                                        41
+<PAGE>   44
+
+                            LONGLEAF PARTNERS FUNDS
+                              FINANCIAL HIGHLIGHTS
+
+The presentation is for a share outstanding throughout each period.
+
+<TABLE>
+<CAPTION>
+                                                                  NET
+                                                                 GAINS
+                                                                 (LOSS)
+                                        NET                        ON                                 DISTRI-
+                                       ASSET                   SECURITIES     TOTAL      DIVIDENDS    BUTIONS
+                                       VALUE         NET        REALIZED       FROM       FROM NET     FROM
+                                     BEGINNING    INVESTMENT      AND       INVESTMENT   INVESTMENT   CAPITAL
+                                     OF PERIOD      INCOME     UNREALIZED   OPERATIONS     INCOME      GAINS
+                                    -----------   ----------   ----------   ----------   ----------   -------
+<S>                                 <C>           <C>          <C>          <C>          <C>          <C>
+PARTNERS FUND
+Six months ended June 30, 2001
+  (Unaudited).....................    $22.71        $ .11        $ 2.36       $ 2.47       $    -     $    -
+Year ended December 31,
+    2000..........................     20.49          .15          3.94         4.09         (.15)     (1.72)
+    1999..........................     24.39          .28           .34          .62         (.29)     (4.23)
+    1998..........................     25.98          .25          3.22         3.47         (.25)     (4.81)
+    1997..........................     22.85          .21          6.24         6.45         (.21)     (3.11)
+    1996..........................     21.15          .38          4.08         4.46         (.38)     (2.38)
+INTERNATIONAL FUND
+Six months ended June 30, 2001
+  (Unaudited).....................     12.06          .08          1.81         1.89            -          -
+Year ended December 31,
+    2000..........................     12.02          .35          2.70         3.05         (.38)     (2.63)
+    1999..........................      9.97          .06          2.38         2.44         (.06)      (.33)
+October 26, 1998 (Initial Public
+    Offering) through December 31,
+    1998..........................      9.15(c)       .01           .82          .83         (.01)         -
+REALTY FUND
+Six months ended June 30, 2001
+  (Unaudited).....................     14.13          .55          1.65         2.20            -          -
+Year ended December 31,
+    2000..........................     12.69          .37          1.51         1.88         (.25)         -
+    1999..........................     14.55          .36         (1.88)       (1.52)        (.23)         -
+    1998..........................     17.35          .44         (2.70)       (2.26)        (.43)         -
+    1997..........................     13.97          .09          4.06         4.15         (.09)      (.64)
+    1996..........................     10.00          .03          4.04         4.07         (.04)      (.05)
+SMALL-CAP FUND
+Six months ended June 30, 2001
+  (Unaudited).....................     22.62          .05          2.11         2.16            -          -
+Year ended December 31,
+    2000..........................     20.20          .05          2.53         2.58         (.05)      (.11)
+    1999..........................     21.95          .08           .79          .87         (.08)     (2.54)
+    1998..........................     22.18          .17          2.54         2.71         (.17)     (2.77)
+    1997..........................     17.86          .18          5.01         5.19         (.18)      (.69)
+    1996..........................     14.46          .02          4.41         4.43         (.02)     (1.01)
+</TABLE>
+
+(a) Annualized
+(b) Total return reflects the rate that an investor would have earned on
+    investment in the Fund during each period, assuming reinvestment of all
+    distributions.
+(c) Capitalized on August 12, 1998 at $10.00.
+(d) Aggregate, not annualized.
+(e) Expenses presented net of fee waiver. For the International Fund, the
+    expense ratio before the waiver was 1.76% and 2.65% in 1999 and 1998,
+    respectively. In 2001 and 2000, the expense ratio for expenses subject to
+    the waiver was 1.69% and 1.74%, respectively (Note 3). The Realty Fund's
+    expense ratio in 1996 before the waiver was 1.60%.
+
+                                        42
+<PAGE>   45
+
+                            LONGLEAF PARTNERS FUNDS
+                              FINANCIAL HIGHLIGHTS
+
+<TABLE>
+<CAPTION>
+
+                                                       RATIO OF
+                     NET                               EXPENSES    RATIO OF
+                    ASSET                NET ASSETS       TO          NET
+RETURN     TOTAL    VALUE                  END OF      AVERAGE     INCOME TO    PORTFOLIO
+  OF      DISTRI-   END OF     TOTAL       PERIOD        NET        AVERAGE     TURNOVER
+CAPITAL   BUTIONS   PERIOD   RETURN(B)   (THOUSANDS)    ASSETS    NET ASSETS      RATE
+-------   -------   ------   ---------   -----------   --------   -----------   ---------
+<S>       <C>       <C>      <C>         <C>           <C>        <C>           <C>
+$    -    $    -    $25.18     10.88%(d) $4,334,675       .94%        .94%(a)      7.22%
+     -     (1.87)    22.71     20.60      3,751,993       .93         .75%        20.48
+     -     (4.52)    20.49      2.18      3,622,109       .92        1.16         50.39
+     -     (5.06)    24.39     14.28      3,685,300       .93        1.12         43.78
+     -     (3.32)    25.98     28.25      2,605,070       .94         .81         38.07
+     -     (2.76)    22.85     21.02      2,300,079       .95        1.61         33.18
+     -         -     13.95     15.67(d)     687,367      1.78(e)     1.25(a)      23.79
+           (3.01)    12.06     25.93        404,505    1.79(e)       3.36         69.40
+     -      (.39)    12.02     24.37        293,613    1.75(e)        .60         50.32
+     -      (.01)     9.97      9.02(d)      75,572      1.75(a)(e)     .10(a)    24.05
+     -         -     16.33     15.57(d)     660,342      1.17        7.20(a)       4.60
+  (.19)     (.44)    14.13     14.77        623,198      1.18        3.99          2.66
+  (.11)     (.34)    12.69    (10.45)       643,311      1.17        1.42         22.64
+  (.11)     (.54)    14.55    (12.98)       775,696      1.17        3.44         21.55
+  (.04)     (.77)    17.35     29.73        737,302      1.20         .75         28.66
+  (.01)     (.10)    13.97     40.69        156,009      1.50(e)      .92          4.28
+     -         -     24.78      9.55(d)   1,664,869       .96         .39(a)      13.45
+     -      (.16)    22.62     12.80      1,476,973       .98         .24         21.94
+     -     (2.62)    20.20      4.05      1,429,673       .97         .38         47.48
+     -     (2.94)    21.95     12.71      1,355,364      1.01         .87         52.51
+     -      (.87)    22.18     29.04        915,259      1.09        1.18         16.95
+     -     (1.03)    17.86     30.64        252,157      1.23         .18         27.97
+</TABLE>
+
+                                        43
+<PAGE>   46
+
+                               SERVICE DIRECTORY
+
+                   CONTACT US AT WWW.LONGLEAFPARTNERS.COM OR
+                                 (800) 445-9469
+
+FUND INFORMATION                                                        OPTION 1
+To request a prospectus, financial report, application or other Fund information
+from 7:00 a.m. to 7:00 p.m. Eastern time, Monday through Friday.
+
+DAILY FUND PRICES                                                       OPTION 2
+For automated reporting 24-hours a day, seven days a week.
+
+ACCOUNT INFORMATION                                                     OPTION 3
+For account balance and transaction activity, 24-hours a day, seven days a week.
+Please have your Fund number (see below) and account number ready to access your
+investment information.
+
+SHAREHOLDER INQUIRIES                                                   OPTION 0
+To request action on your existing account from 9:00 a.m. to 6:00 p.m. Eastern
+time, Monday through Friday.
+
+CORRESPONDENCE
+
+By U.S. Mail:
+Longleaf Partners Funds
+P.O. Box 9694
+Providence, RI 02940-9694
+By Overnight Courier:
+Longleaf Partners Funds
+c/o PFPC
+4400 Computer Drive
+Westborough, MA 01581
+(508) 871-8800
+
+SERVICES FOR FINANCIAL ADVISORS                                   (800) 761-2509
+Please contact Mary Williamson or Lee Harper of Southeastern Asset Management
+for additional information.
+
+PUBLISHED DAILY PRICE QUOTATIONS
+Daily net asset value per share of each Fund is reported in mutual fund
+quotations tables of major newspapers in alphabetical order under the bold
+heading LONGLEAF PARTNERS as follows:
+
+<TABLE>
+<CAPTION>
+                                  TRANSFER AGENT
+ABBREVIATION   SYMBOL    CUSIP     FUND NUMBER
+-------------  ------  ---------  --------------
+<C>            <S>     <C>        <C>
+  Partners     LLPFX   543069108       133
+    Intl       LLINX   543069405       136
+   Realty      LLREX   543069306       135
+   Sm-Cap      LLSCX   543069207       134
+</TABLE>
+
+                                        44
+<PAGE>   47
+
+                         TRUSTEES AND SERVICE PROVIDERS
+
+Trustees
+  O. Mason Hawkins, Chairman
+  Chairman of the Board and CEO
+  Southeastern Asset Management, Inc.
+  Memphis, Tennessee
+
+  Chadwick H. Carpenter, Jr.
+  Private Investor and Consultant
+  Boston, Massachusetts
+
+  G. Staley Cates
+  President
+  Southeastern Asset Management, Inc.
+  Memphis, Tennessee
+
+  Margaret H. Child
+  Director of Business Development for a
+  Boston law firm
+  Boston, Massachusetts
+
+  Daniel W. Connell, Jr.
+  Senior Vice President--Marketing
+  Jacksonville Jaguars, Ltd.
+  Jacksonville, Florida
+
+  Steven N. Melnyk
+  Private Investor and Consultant
+  Jacksonville, Florida
+
+  C. Barham Ray
+  Chairman of the Board
+  SSM Corporation
+  Memphis, Tennessee
+
+Investment Counsel
+  Southeastern Asset Management, Inc.
+  Memphis, Tennessee
+
+Transfer Agent
+  PFPC, Inc.
+  Westborough, Massachusetts
+
+Custodian
+  State Street Bank & Trust Company
+  Boston, Massachusetts
+
+Special Legal Counsel
+  Dechert
+  Washington D.C.
+
+Independent Public Accountants
+  PricewaterhouseCoopers LLP
+  Baltimore, Maryland
+
+                                        45
+<PAGE>   48
+
+                           Longleaf Partners Funds (SM)
+                                    c/o PFPC
+                                 P.O. Box 9694
+                           Providence, RI 02940-9694
+                                 (800) 445-9469
+                            www.longleafpartners.com
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,900 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F7AN7Cc9VP9euNDs3oYR/48uyb0GVu+9sUz0OSzb6B2ComGAItGMLWDuhR1KoF+s
+ Lnbu88co76s+pQyVatpeJA==
+
+<SEC-DOCUMENT>0000950144-97-000958.txt : 19970401
+<SEC-HEADER>0000950144-97-000958.hdr.sgml : 19970401
+ACCESSION NUMBER:		0000950144-97-000958
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970207
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LONGLEAF PARTNERS FUNDS TRUST
+		CENTRAL INDEX KEY:			0000806636
+		STANDARD INDUSTRIAL CLASSIFICATION:	
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-04923
+		FILM NUMBER:		97520185
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6075 POPLAR
+		STREET 2:		SUITE 900
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38119
+		BUSINESS PHONE:		9017612474
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SOUTHEASTERN ASSET MANAGEMENT FUNDS TRUST
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SOUTHEASTERN ASSET MANAGEMENT VALUE TRUST
+		DATE OF NAME CHANGE:	19881220
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<DESCRIPTION>LONGLEAF PARTNERS REALTY FUND ANNUAL REPORT
+<TEXT>
+
+<PAGE>   1
+ 
+                         LONGLEAF PARTNERS REALTY FUND
+                                                                January 13, 1997
+ 
+TO OUR SHAREHOLDERS:
+ 
+We are extremely pleased to report that Longleaf Partners Realty Fund increased
+its net asset value 40.7% for the year ended December 31, 1996. By comparison,
+the Wilshire Real Estate Securities Index and the NAREIT Index rose 37.0% and
+35.3%, respectively. The Fund's total returns and those of its primary
+benchmarks are summarized in the table below.
+ 
+<TABLE>
+<CAPTION>
+                                                               WILSHIRE
+                                       LONGLEAF PARTNERS      REAL ESTATE      NAREIT
+                                         REALTY FUND*      SECURITIES INDEX*   INDEX*
+                                       -----------------   -----------------   ------
+<S>                                    <C>                 <C>                 <C>
+YEAR ENDED 12/31/96                          40.69%              37.02%        35.27%
+FOURTH QUARTER ENDED 12/31/96                10.87%              18.39%        18.85%
+THIRD QUARTER ENDED 9/30/96                   8.55%               5.90%         6.54%
+SECOND QUARTER ENDED 6/30/96                  7.84%               4.78%         4.45%
+FIRST QUARTER ENDED 3/31/96                   8.40%               4.30%         2.27%
+</TABLE>
+ 
+The Realty Fund invests with a minimum time horizon of three years. You should
+not be surprised if our short-term results deviate substantially from the Fund's
+benchmarks and/or broader market indices such as the S&P 500. However, over
+longer time periods we will be disappointed if the Fund does not add value over
+its benchmarks. During 1996 the Realty Fund's performance was consistently in
+the top 10% of all real estate funds and at year-end was also among the top 7%
+of all mutual funds tracked by Lipper Analytical Services, Inc.**
+ 
+At the risk of being redundant, and because so many of our partners in Longleaf
+Partners Realty Fund joined us in the last three months, we are restating our
+core philosophies. We strongly believe that there are many compelling long-term
+investment opportunities in the diverse real estate arena, and that over time,
+this world will shift dramatically from private to public ownership. By applying
+the same value disciplines that have served us well over the past 21 years, we
+are highly confident that we can turn Longleaf Partners Realty Fund into another
+successful vehicle for compounding capital. We will strive to own financially
+sound, above average businesses when they are run by highly competent,
+trustworthy, and properly incented management teams. Furthermore, we will invest
+in these companies only when we can buy their shares at significant discounts to
+our appraisal of their business values.
+ 
+In 1996 this approach led us away from companies structured as REITs (Real
+Estate Investment Trusts) and to real estate related "C-Corp.'s" where we found
+more attractively priced intrinsic value. As an example, early in 1996 the Fund
+made an investment in Trizec which recently merged with Horsham Corp. to become
+TrizecHahn. The combined firm has an equity market capitalization of over $3
+billion and substantial financial resources to grow its core
+business -- ownership of super regional malls and office buildings. Trizec-Hahn,
+organized as a Canadian corporation, can and does retain all of its substantial
+cash flow to buy, build, renovate, and add value to its real estate portfolio.
+Consequently, the company is not dependent upon external equity capital to grow.
+This model is superior to that of the majority of REITs which pay out most or
+all of their available free cash flow in the form of predominantly taxable
+dividends and retain no capital for growth.
+ 
+It is important for every shareholder to understand the commitment that your
+managers have to the Realty Fund's long-term success and our level of confidence
+in the Fund as a vehicle for compounding our own assets. We continue to increase
+our investment in Longleaf Partners Realty Fund, and invite you to do the same.
+When considering the Fund you should know:
+ 
+     - The employees of Southeastern, advisor to the Fund, are required to use
+       Longleaf Partners Funds exclusively for equity investing (unless an
+       exception is given by our Compliance Committee for an overriding
+       circumstance).
+<PAGE>   2
+ 
+     - Longleaf Partners Funds' Trustees must direct their total board
+       compensation into the three funds.
+ 
+     - With $21 million of our own capital invested in the Realty Fund, the
+       employees and affiliates of Southeastern are the Fund's largest
+       shareholder by a substantial margin.
+ 
+     - The Fund continues to operate more efficiently as it increases in size.
+       The overall expense ratio was capped at 1.50% in 1996 and is expected to
+       be lower in 1997.
+ 
+     - The Realty Fund's turnover in 1996 was 4.2%. We are very mindful of how
+       long holding periods and tax deferral benefit the compounding process and
+       our ultimate after tax return.
+ 
+In closing we would like to welcome Daniel W. Connell, Jr. as a new Trustee.
+After spending 25 years as a leading commercial banker with First Union in
+Florida, Dan resigned in 1994 to help Jacksonville and Wayne Weaver secure an
+NFL franchise. He currently serves as Senior Vice President of Marketing for the
+Jaguars and Chairman of the Jacksonville Chamber of Commerce. We hope you will
+meet Dan and join the rest of us at our annual meeting scheduled for Tuesday,
+May 13 at 5:30 p.m. at the Memphis Botanic Gardens. We wish you and your family
+a happy and prosperous new year.
+ 
+Sincerely,
+ 
+<TABLE>
+<S>                                        <C>                                               <C>
+/s/ C.T. Fitzpatrick                       /s/ O. Mason Hawkins                              /s/ G. Staley Cates
+- - ----------------------------               -----------------------------                     ---------------------------
+C.T. Fitzpatrick, CFA                      O. Mason Hawkins, CFA                             G. Staley Cates, CFA
+Co-Portfolio Manager                       Co-Portfolio Manager                              Co-Portfolio Manager
+</TABLE>
+ 
+- - --------------------------------------------------------------------------------
+ 
+ * The Fund's inception date was January 2, 1996. Fund returns and those of the
+   Wilshire Real Estate Securities Index and the NAREIT Index are shown with all
+   dividends reinvested. The stock market indices shown are unmanaged. Past
+   performance is no guarantee of future performance, and the value of an
+   investment when redeemed may be more or less than the purchase price.
+ 
+** For the year ended December 31, 1996, the Fund ranked #4 out of 46 real
+   estate funds and #33 out of all 4,590 mutual funds covered by Lipper
+   Analytical Services, Inc.
+- - --------------------------------------------------------------------------------
+ 
+             Comparison of Change in Value of $10,000 Investment
+          in Longleaf Partners Realty Fund, the Wilshire Real Estate
+                    Securities Index, and the NAREIT Index
+
+                                    CHART
+
+The chart is a line graph with a beginning investment of $10,000 at 1/96, the
+Fund's inception date, and continuing monthly to an ending value at 12/96 of
+$14,069, compared with an ending value of $13,702 for the Wilshire Real Estate
+Securities Index and an ending value of $13,527 for the NAREIT Index.  The
+chart includes an insert showing the Fund's average annual return for 1 year
+(40.7%), compared with the returns for the same period of the Wilshire Real
+Estate Securities Index and the NAREIT Index.
+
+<PAGE>   3
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   MANAGEMENT'S DISCUSSION OF FUND PERFORMANCE
+   FOR THE YEAR ENDED DECEMBER 31, 1996
+ 
+Longleaf Partners Realty Fund (LLRE) produced a 40.7% total return in its first
+year. We found a number of attractively priced investment opportunities to
+employ the cash flows into the Fund.
+ 
+Two companies were sold during the year, contributing to the Fund's performance.
+Hilton Hotels provided 2.5% of LLRE's gain. Hilton is a company which
+Southeastern has followed for many years and has previously owned. In January
+the company was selling at approximately 60% of our appraisal, largely due to
+the cancellation of plans to separate the gaming and lodging businesses into
+separate companies. Wall Street's view of Hilton dramatically changed when the
+company announced that Steve Bollenbach, then CFO of Disney and previously with
+Trump, Marriott and Holiday Inns, was becoming CEO of Hilton. The company
+reached our appraisal of full value quickly and was sold.
+ 
+Of the thirty other companies that the Fund bought during the year, four
+contributed substantially to the year's gains. Our position in Trizec benefitted
+greatly when Horsham announced it was buying the remaining half of Trizec that
+it did not already own. The new company, TrizecHahn became one of the world's
+largest and most strongly capitalized real estate companies which was applauded
+by Wall Street and added $4 million to Realty's performance. Forest City
+Enterprises, with commercial and residential properties across the U.S.,
+contributed over $2.4 million to LLRE's return with the combined Class A and B
+holdings. The company's efforts to build long-term shareholder value resulted in
+higher FFO (funds from operations), a measure which greatly interests Wall
+Street. Arden Realty, a REIT with office buildings in Southern California,
+provided over $2 million in unrealized gains. In our view, the initial offering
+price was substantially lower than the replacement value of Arden's properties.
+Since the offering, the market has also begun to recognize the value of the
+company. Cousins Properties, an office REIT primarily in the Southeast, moved
+its asset base to more income producing properties yielding higher FFO. Wall
+Street approved and as a result, the company contributed 10.3% of LLRE's
+performance.
+ 
+The table on the following page provides a more detailed accounting of
+contributions to performance in 1996.
+<PAGE>   4
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   MANAGEMENT'S DISCUSSION OF FUND PERFORMANCE
+ 
+The following table delineates the specific dollar contributions of individual
+holdings to the 40.69% total return for 1996.
+ 
+<TABLE>
+<CAPTION>
+                                                                               PERCENTAGE
+                                                              CONTRIBUTION      OF TOTAL
+                                                                IN 1996       CONTRIBUTION
+                                                              ------------    ------------
+<S>                                                           <C>             <C>
+REALIZED GAINS:
+  Hilton Hotels Corp........................................  $   436,541          2.5%
+  All others, net...........................................       53,991          0.3
+                                                              -----------        -----
+                                                                  490,532          2.8
+                                                              -----------        -----
+INCREASE IN UNREALIZED APPRECIATION:
+  TrizecHahn Corporation....................................    3,979,392         23.2
+  Arden Realty, Inc.........................................    2,124,750         12.3
+  Cousins Properties Incorporated...........................    1,780,077         10.3
+  Forest City Enterprises, Inc. - Class A...................    1,514,626          8.8
+  Catellus Development Corporation..........................    1,076,285          6.3
+  Bay View Capital Corporation..............................      972,709          5.7
+  Forest City Enterprises, Inc. - Class B...................      927,354          5.4
+  Red Roof Inns, Inc........................................      712,338          4.2
+  Zurn Industries, Inc......................................      629,201          3.7
+  First Fed Financial Corp..................................      487,210          2.8
+  Wolohan Lumber Co.........................................      477,973          2.8
+  Essex Property Trust......................................      406,491          2.4
+  Bradley Real Estate, Inc..................................      373,862          2.2
+  The Pioneer Group, Inc....................................     (533,140)        (3.1)
+  All others, net...........................................    1,351,612          7.8
+                                                              -----------        -----
+                                                               16,280,740         94.8
+                                                              -----------        -----
+Net realized and unrealized gain on investments.............   16,771,272         97.6
+Net investment income.......................................      405,735          2.4
+                                                              -----------        -----
+  NET INCREASE IN NET ASSETS RESULTING FROM OPERATIONS......  $17,177,007        100.0%
+                                                              ===========        =====
+</TABLE>
+<PAGE>   5
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+ 
+TO THE SHAREHOLDERS AND BOARD OF TRUSTEES
+LONGLEAF PARTNERS REALTY FUND
+ 
+We have audited the accompanying statement of assets and liabilities of Longleaf
+Partners Realty Fund (a series of Longleaf Partners Funds Trust), including the
+schedule of portfolio investments, as of December 31, 1996, and the related
+statement of operations, the statement of changes in net assets, and the
+financial highlights for the year ended December 31, 1996. These financial
+statements and financial highlights are the responsibility of the Fund's
+management. Our responsibility is to express an opinion on these financial
+statements and financial highlights based on our audit.
+ 
+We conducted our audit in accordance with generally accepted auditing standards.
+Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements and financial highlights are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. Our
+procedures include confirmation of securities owned as of December 31, 1996 by
+correspondence with the custodian and brokers. An audit also includes assessing
+the accounting principles used and significant estimates made by management, as
+well as evaluating the overall financial statement presentation. We believe that
+our audit provides a reasonable basis for our opinion.
+ 
+In our opinion, the financial statements and financial highlights referred to
+above present fairly, in all material respects, the financial position of
+Longleaf Partners Realty Fund as of December 31, 1996 and the results of its
+operations, changes in its net assets, and the financial highlights for the year
+ended December 31, 1996, in conformity with generally accepted accounting
+principles.
+ 
+                                          /s/ Coopers & Lybrand L.L.P.
+                                          --------------------------------------
+                                          COOPERS & LYBRAND L.L.P.
+ 
+Boston, Massachusetts
+January 24, 1997
+<PAGE>   6
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   SCHEDULE OF PORTFOLIO INVESTMENTS
+   AT DECEMBER 31, 1996
+ 
+<TABLE>
+<CAPTION>
+           SHARES                                                                      MARKET VALUE
+          ---------                     COMMON STOCK (84.9%)                           ------------
+<S>       <C>          <C> <C>                                                 <C>     <C>
+FINANCIAL SERVICES (0.5%)
+             14,500    *   White River Corporation..................................   $   790,250
+                                                                                       -----------
+FURNITURE (1.2%)
+            236,600    *   Rhodes, Inc..............................................     1,833,650
+                                                                                       -----------
+INSURANCE AND BROKERAGE (3.7%)
+            130,000        Alexander & Alexander Services Inc.......................     2,258,750
+            264,400        Hilb, Rogal and Hamilton Company.........................     3,503,300
+                                                                                       -----------
+                                                                                         5,762,050
+                                                                                       -----------
+PUBLISHING (4.3%)
+            178,000        Knight-Ridder, Inc.......................................     6,808,500
+                                                                                       -----------
+REAL ESTATE INDUSTRY (75.2%)
+             19,200        Alexander & Baldwin, Inc.................................       480,000
+            365,000        Arden Realty, Inc........................................    10,128,750
+            102,000        Bradley Real Estate, Inc.................................     1,836,000
+             34,000        Burnham Pacific Properties...............................       510,000
+            100,000        Bay View Capital Corp....................................     4,237,500
+            359,200    *   Castle & Cooke, Inc......................................     5,702,300
+          1,390,400    *   Catellus Development Corporation.........................    15,815,800
+            256,900        Cousins Properties Incorporated..........................     7,225,313
+             44,000        Essex Property Trust.....................................     1,292,500
+             80,000    *   First Fed Financial Corp.................................     1,760,000
+             87,900        Forest City Enterprises, Inc. - Class A..................     5,317,950
+             40,800        Forest City Enterprises, Inc. - Class B..................     2,468,400
+            672,300    *   IHOP Corp................................................    15,883,087
+             28,000        Louisiana-Pacific Corporation............................       591,500
+            293,700        The Pioneer Group, Inc...................................     6,975,375
+             35,000    *   Quaker City Bancorp, Inc.................................       665,000
+            261,000        Rayonier Inc.............................................    10,015,875
+             12,500        Reckson Associates Realty Corp...........................       528,125
+            295,000    *   Red Roof Inns, Inc.......................................     4,572,500
+            282,400        Sizeler Property Investors, Inc..........................     2,718,100
+            213,500    *   Supertel Hospitality, Inc................................     1,921,500
+            469,160    *   TrizecHahn Corporation...................................    10,321,520
+             28,000    *   USG Corporation..........................................       948,500
+            190,200        Wolohan Lumber Co........................................     2,377,500
+            113,400        Zurn Industries, Inc.....................................     2,962,575
+                                                                                       -----------
+                                                                                       117,255,670
+                                                                                       -----------
+          TOTAL COMMON STOCKS (COST $116,169,380)...................................   132,450,120
+                                                                                       -----------
+</TABLE>
+ 
+                       See Notes to Financial Statements.
+<PAGE>   7
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   SCHEDULE OF PORTFOLIO INVESTMENTS
+   AT DECEMBER 31, 1996
+ 
+<TABLE>
+<CAPTION>
+                                                                                       MARKET VALUE
+                                                                                       ------------
+<S>       <C>        <C> <C>                                                   <C>     <C>
+SHORT TERM OBLIGATIONS (15.2%)
+          Certificates of Deposit in Thrift Institutions............................   $      9,000
+          Repurchase Agreement with State Street Bank and Trust Company, dated
+            12-31-96 due 1-2-97 at 4.75%, collateralized by $716,504 U.S. Treasury
+           Bond due 2-15-20 (Repurchase proceeds-$700,185) (Cost $700,000)..........        700,000
+          U.S. Treasury Bill, due 1-2-97, yield at date of purchase 4.82%...........     16,997,757
+          U.S. Treasury Bill, due 1-9-97, yield at date of purchase 4.11%...........      2,997,300
+          U.S. Treasury Bill, due 1-16-97, yield at date of purchase 4.57%..........      2,994,375
+                                                                                       ------------
+                                                                                         23,698,432
+                                                                                       ------------
+TOTAL INVESTMENTS (COST $139,867,812)*.......................................  100.1%   156,148,552
+LIABILITIES IN EXCESS OF CASH AND OTHER ASSETS...............................   (0.1)      (139,328)
+                                                                               -----   ------------
+NET ASSETS...................................................................  100.0%  $156,009,224
+                                                                               =====   ============
+NET ASSET VALUE PER SHARE (OFFERING AND REDEMPTION PRICE PER SHARE) BASED ON
+  11,165,607 SHARES OUTSTANDING AT DECEMBER 31, 1996................................   $      13.97
+                                                                                       ============
+</TABLE>
+ 
+*   Non-income producing security
+* * Also represents aggregate cost for Federal income tax purposes
+ 
+                       See Notes to Financial Statements.
+<PAGE>   8
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   STATEMENT OF ASSETS AND LIABILITIES
+   AT DECEMBER 31, 1996
+ 
+<TABLE>
+<S>                                                           <C>
+ASSETS:
+ 
+Investments:
+  Securities, at market value (cost $116,169,380) (Note 1
+     and Note 7)............................................  $132,450,120
+  U.S. Treasury Bills.......................................    22,989,432
+  Repurchase agreement (Note 6).............................       700,000
+  Deposits in thrift institutions...........................         9,000
+                                                              ------------
+          TOTAL INVESTMENTS                                    156,148,552
+Cash........................................................         5,382
+Dividends and interest receivable...........................       183,179
+Prepaid assets..............................................         3,456
+                                                              ------------
+          TOTAL ASSETS                                         156,340,569
+                                                              ------------
+ 
+LIABILITIES:
+ 
+Payable for:
+  Securities purchased......................................        92,500
+  Investment Counsel fee (Note 2)...........................       142,316
+  Administration fees (Note 3)..............................        11,829
+Other accrued expenses......................................        84,700
+                                                              ------------
+          TOTAL LIABILITIES                                        331,345
+                                                              ------------
+          NET ASSETS                                          $156,009,224
+                                                              ============
+Composition of net assets:
+  Paid-in capital (unlimited number of shares authorized,
+     11,165,607 shares outstanding).........................  $139,719,202
+  Undistributed net investment income.......................         5,919
+  Accumulated net realized gain.............................         3,363
+  Unrealized appreciation of investments (Note 7)...........    16,280,740
+                                                              ------------
+          NET ASSETS                                          $156,009,224
+                                                              ============
+NET ASSET VALUE (OFFERING AND REDEMPTION PRICE) PER SHARE
+  ($156,009,224 DIVIDED BY 11,165,607 SHARES)...............        $13.97
+                                                              ============
+</TABLE>
+ 
+                       See Notes to Financial Statements.
+<PAGE>   9
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   STATEMENT OF OPERATIONS
+   FOR THE YEAR ENDED DECEMBER 31, 1996
+ 
+<TABLE>
+<S>                                                           <C>
+INVESTMENT INCOME:
+INCOME:
+  Dividends.................................................  $   672,709
+  Interest..................................................      390,751
+                                                              -----------
+                                                                1,063,460
+                                                              -----------
+EXPENSES:
+  Investment Counsel fee (Note 2)...........................      438,484
+  Registration and filing fees..............................       78,446
+  Administration fee (Note 3)...............................       43,848
+  Reimbursable administration expenses (Note 3).............       30,397
+  Printing..................................................       24,885
+  Custodian fee.............................................       24,356
+  Professional fees.........................................       21,210
+  Trustees' fees............................................       18,315
+  Transfer agent fee........................................        7,871
+  Supplies and postage......................................        7,523
+  Insurance expense.........................................        3,167
+  Miscellaneous.............................................        6,424
+  Less: Fee reduction (Note 2)..............................      (47,201)
+                                                              -----------
+                                                                  657,725
+                                                              -----------
+          Net investment income.............................      405,735
+                                                              -----------
+REALIZED AND UNREALIZED GAIN ON INVESTMENTS:
+  Realized gain from securities transactions, net:
+     Proceeds from sales....................................    1,637,737
+     Cost of securities sold................................    1,147,205
+                                                              -----------
+          Net realized gain.................................      490,532
+  Increase in unrealized appreciation for the year, net.....   16,280,740
+                                                              -----------
+          Net realized and unrealized gain on investments...   16,771,272
+                                                              -----------
+NET INCREASE IN NET ASSETS RESULTING FROM OPERATIONS........  $17,177,007
+                                                              ===========
+</TABLE>
+ 
+                       See Notes to Financial Statements.
+<PAGE>   10
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   STATEMENT OF CHANGES IN NET ASSETS
+   FOR THE YEAR ENDED DECEMBER 31, 1996
+ 
+<TABLE>
+<S>                                                             <C>
+OPERATIONS:
+  Net investment income.....................................    $    405,735
+  Net realized gain on investments..........................         490,532
+  Net unrealized appreciation for the period................      16,280,740
+                                                                ------------
+     Net increase in net assets resulting from operations...      17,177,007
+                                                                ------------
+DISTRIBUTIONS TO SHAREHOLDERS:
+  From net realized gain on investments ($0.04589 per
+     share).................................................        (487,169)
+  From net investment income ($0.03766 per share)...........        (399,816)
+  From return of capital ($0.01502 per share)...............        (159,496)
+                                                                ------------
+     Net decrease in net assets resulting from
+      distributions.........................................      (1,046,481)
+                                                                ------------
+CAPITAL SHARE TRANSACTIONS:
+  Net proceeds from sale of shares..........................     150,091,326
+  Net asset value of shares issued to shareholders for
+     reinvestment of shareholder distributions..............         999,870
+  Cost of shares redeemed...................................     (11,212,498)
+                                                                ------------
+     Net increase in net assets from fund share
+      transactions..........................................     139,878,698
+                                                                ------------
+     Total increase in net assets...........................     156,009,224
+NET ASSETS:
+  Beginning of year.........................................               0
+                                                                ------------
+  End of year (including undistributed net investment income
+     of $5,919).............................................    $156,009,224
+                                                                ============
+</TABLE>
+ 
+                       See Notes to Financial Statements.
+<PAGE>   11
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   NOTES TO FINANCIAL STATEMENTS
+ 
+NOTE 1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+ 
+Longleaf Partners Realty Fund (the "Fund") is a series of Longleaf Partners
+Funds Trust, a Massachusetts business trust which is registered under the
+Investment Company Act of 1940, as amended. The Fund is a non-diversified
+open-end management investment company. The Fund was funded and commenced its
+public offering of shares on January 2, 1996. Initial capitalization of $100,000
+was provided by a principal of Southeastern Asset Management, Inc., the
+Investment Counsel, who received 10,000 shares of beneficial interest in return.
+ 
+The following is a summary of significant accounting policies:
+ 
+  (a) Valuation of Securities and Repurchase Agreements:
+ 
+     (1) Portfolio securities listed or traded on a securities exchange and
+         over-the-counter securities traded on the NASDAQ national market are
+         valued at the last sales price. If there are no transactions in the
+         security that day, securities are valued at the midpoint between the
+         closing bid and ask prices.
+ 
+     (2) All other portfolio securities for which over-the-counter market
+         quotations are readily available are valued at the midpoint between the
+         closing bid and ask prices. Repurchase agreements are valued at cost
+         which, combined with accrued interest, approximates market.
+ 
+     (3) When market quotations are not readily available, portfolio securities
+         are valued at their fair value as determined in good faith under
+         procedures established by and under the general supervision of the
+         Fund's Trustees.
+ 
+  (b) Accounting for Investments:
+ 
+      The Fund follows industry practice and records security transactions on
+      the day following the trade date (date the order to buy or sell is
+      executed). Realized gains and losses on security transactions are
+      determined using the specific identification method. Dividend income is
+      recognized on the ex-dividend date and interest income is recognized on an
+      accrual basis.
+ 
+  (c) Federal Income Taxes:
+ 
+      The Fund's policy is to comply with the requirements of the Internal
+      Revenue Code that are applicable to regulated investment companies and to
+      distribute all of its taxable income to its shareholders. Accordingly, no
+      federal income tax provision is required. In addition, the Fund intends to
+      make any required distributions to avoid the application of a 4%
+      nondeductible excise tax.
+ 
+  (d) Distributions to Shareholders:
+ 
+      Dividends and distributions to shareholders are recorded on the
+      ex-dividend date.
+<PAGE>   12
+ 
+NOTE 2. INVESTMENT COUNSEL AGREEMENT
+ 
+Southeastern Asset Management, Inc. ("Southeastern") serves as Investment
+Counsel to the Fund and receives annual compensation from the Fund, computed
+daily and paid monthly, of 1.0% per annum of average daily net assets.
+ 
+The Investment Counsel has agreed to reduce its fees on a pro rata basis for
+services rendered to the extent that the Fund's normal annual operating expenses
+(excluding taxes, interest, brokerage fees, and extraordinary expenses) exceed
+1.5% of average annual net assets. A reduction of $47,201 was required for the
+year ended December 31, 1996.
+ 
+NOTE 3. FUND ADMINISTRATOR
+ 
+Southeastern also serves as the Fund Administrator and in this capacity is
+responsible for managing, performing or supervising the administrative and
+business operations of the Fund, including, among other things, the preparation
+of all registration statements, prospectuses, tax returns and proxy statements,
+daily valuation of the Fund's portfolio and calculation of daily net asset value
+per share. The Fund pays a fee as compensation for these services, accrued daily
+and paid monthly, of 0.10% per annum of average daily net assets.
+ 
+Reimbursable administration expenses paid by the Fund to Southeastern consist of
+a portion of both the computer support charges for computer programs used in
+processing transactions for the Fund and its shareholders and of the salary of
+the Fund's Treasurer calculated in accordance with Trustee review and approval.
+ 
+NOTE 4. SHARES OF BENEFICIAL INTEREST
+ 
+Transactions in shares of beneficial interest were as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                   SHARES        AMOUNT
+                                                 ----------   ------------
+<S>                                              <C>          <C>
+Shares sold....................................  11,949,427   $150,091,326
+Reinvestment of shareholder distributions......      71,778        999,870
+Shares redeemed................................    (855,598)   (11,212,498)
+                                                 ----------   ------------
+                                                 11,165,607   $139,878,698
+                                                 ==========   ============
+</TABLE>
+ 
+NOTE 5. INVESTMENT TRANSACTIONS
+ 
+Purchases and sales of securities for the period (excluding short term
+obligations) aggregated $117,476,081 and $1,637,737, respectively. Total
+brokerage commissions paid by the Fund during the period were $427,047.
+ 
+NOTE 6. INVESTMENTS IN SHORT-TERM OBLIGATIONS
+ 
+As excess funds are available, the Fund makes certain short term investments in
+cash equivalents, including repurchase agreements. The Fund's custodian bank
+sells U.S. government securities to the Fund under an agreement to repurchase
+these securities from the Fund at a stated repurchase price including interest
+for the term of the agreement, which is usually overnight or over a weekend. The
+Fund, through its custodian, receives delivery of the underlying U.S. government
+securities as collateral, the market value of which is required to be at least
+equal to the repurchase price. If the custodian becomes bankrupt, the Fund might
+be
+<PAGE>   13
+ 
+delayed, or may incur costs or possible losses of principal and income, in
+selling the collateral. A repurchase agreement of $700,000 is included in the
+statement of assets and liabilities at December 31, 1996.
+ 
+NOTE 7. UNREALIZED APPRECIATION
+ 
+Net unrealized appreciation consists of the following:
+ 
+<TABLE>
+<S>                                                           <C>
+Unrealized appreciation.....................................  $17,288,185
+Unrealized depreciation.....................................   (1,007,445)
+                                                              -----------
+                                                              $16,280,740
+                                                              ===========
+</TABLE>
+ 
+NOTE 8. RELATED PARTY SHAREHOLDERS
+ 
+At December 31, 1996, Mr. O. Mason Hawkins, Chairman of the Board and Chief
+Executive Officer of Southeastern and of the Fund, owned 960,873 shares of the
+Fund, constituting 8.6% of the outstanding shares; Mr. W. Reid Sanders, a
+director and Executive Vice President of Southeastern and a member of the Board
+of Trustees and President of the Fund, owned 190,114 shares of the Fund,
+constituting 1.7% of the outstanding shares. Officers and employees of
+Southeastern and their families, Fund trustees and the Southeastern retirement
+plan and other affiliates owned an additional 368,580 shares, constituting 3.3%
+of the outstanding shares.
+ 
+NOTE 9. OTHER PORTFOLIO INFORMATION
+ 
+At December 31, 1996, the Fund held 5% or more of the outstanding voting stock
+of the following company: 7.1% of IHOP Corp.
+<PAGE>   14
+ 
+                             FIVE LARGEST HOLDINGS
+                  (REPRESENTS 39.8% OF NET ASSETS AT 12/31/96)
+ 
+IHOP CORP. (IHOP)                                                          10.2%
+A franchisor that develops and leases strategically selected locations to
+franchisees for IHOP family restaurants. Earnings from real estate leases are
+IHOP's largest contributor to profits.
+ 
+CATELLUS DEVELOPMENT CORPORATION (CDX)                                     10.1%
+A diversified real estate company that owns, manages and develops industrial
+warehouses, offices, apartments and residential communities. CDX has substantial
+land holdings throughout the U.S.
+ 
+TRIZECHAHN CORPORATION (TZH)                                                6.6%
+One of the world's largest commercial real estate companies which owns, manages
+and develops primarily retail (regional and super regional malls) and office
+space in the U.S., Canada and Eastern Europe.
+ 
+ARDEN REALTY, INC. (ARI)                                                    6.5%
+A real estate investment trust (REIT) which owns and operates over 4 million
+square feet of office buildings in Southern California.
+ 
+RAYONIER INC. (RYN)                                                         6.4%
+A producer of wood products and specialty pulps which also owns or controls over
+1.5 million acres of timberland in the U.S. and New Zealand.
+ 
+                               PORTFOLIO CHANGES
+                   JANUARY 2, 1996 THROUGH DECEMBER 31, 1996
+ 
+<TABLE>
+<CAPTION>
+             NEW HOLDINGS                           ELIMINATIONS
+             ------------                           ------------
+<S>                                     <C>
+All portfolio holdings are new in 1996  Hilton Hotels Corp.
+                                        The Newhall Land and Farming Company
+</TABLE>
+ 
+                        PUBLISHED DAILY PRICE QUOTATIONS
+ 
+The daily net asset values per share of each series of Longleaf Partners Funds
+Trust are reported in the Mutual Fund Quotations tables of major newspapers in
+alphabetical sequence under the bold heading LONGLEAF PARTNERS as follows:
+ 
+                      "Partners" -- Longleaf Partners Fund
+                   "Realty" -- Longleaf Partners Realty Fund
+                  "Sm-Cap" -- Longleaf Partners Small-Cap Fund
+<PAGE>   15
+ 
+- - --------------------------------------------------------------------------------
+   LONGLEAF PARTNERS REALTY FUND
+   FINANCIAL HIGHLIGHTS
+ 
+The Fund was initially capitalized January 2, 1996. The following condensed
+financial information, including total returns, has been audited by Coopers &
+Lybrand L.L.P., independent certified public accountants. The audit report on
+the 1996 financial statements issued by Coopers & Lybrand L.L.P. appears in this
+report and should be read in conjunction with this condensed financial
+information. The presentation is for a share outstanding throughout the year.
+ 
+<TABLE>
+<CAPTION>
+<S>                                                           <C>
+Net Asset Value, Beginning of Year..........................  $  10.00
+Income from Investment Operations:
+  Net Investment Income.....................................       .16
+  Net Gains or Losses on Securities (both realized and
+     unrealized)............................................      3.91
+                                                              --------
+  Total From Investment Operations..........................      4.07
+                                                              --------
+Less Distributions:
+  Dividends from net investment income......................     (.04)
+  Distributions from capital gains..........................     (.05)
+  Return of capital.........................................     (.01)
+                                                              --------
+                                                                 (.10)
+                                                              --------
+Net Asset Value, End of Year................................  $  13.97
+                                                              ========
+Total Return................................................     40.69%(1)
+Ratios/Supplemental Data:
+  Net Assets, End of Year (000's)...........................  $156,009
+  Ratio of Expenses to Average Net Assets...................      1.50%(2)
+  Ratio of Net Income to Average Net Assets.................       .92%(3)
+  Portfolio Turnover Rate...................................      4.28%
+  Average commission rate paid..............................  $ 0.0613
+</TABLE>
+ 
+- - ---------------
+ 
+(1) Aggregate; not annualized.
+ 
+(2) Before expense limitation fee waiver, this ratio was 1.60%.
+ 
+(3) Before expense limitation fee waiver, this ratio was .82%.
+<PAGE>   16
+ 
+- - ---------------------------------------------
+ 
+TRUSTEES
+ 
+O. MASON HAWKINS, CFA --
+  Chairman, Southeastern Asset
+  Management, Inc.
+  Memphis, Tennessee
+ 
+CHADWICK H. CARPENTER, JR. --
+  Senior Executive Officer, Progress
+  Software Corporation
+  Bedford, Massachusetts
+ 
+DANIEL W. CONNELL, JR. --
+  Senior Vice President Marketing,
+  Jacksonville Jaguars, Ltd.
+  Jacksonville, Florida
+ 
+STEVEN N. MELNYK --
+  Chairman of the Executive
+  Committee and President,
+  Riverside Golf Group, Inc.
+  Jacksonville, Florida
+ 
+C. BARHAM RAY -- Chairman of the
+  Board and Secretary, SSM Corp.
+  Memphis, Tennessee
+ 
+W. REID SANDERS -- Executive
+  Vice President, Southeastern
+  Asset Management, Inc.
+  Memphis, Tennessee
+- - ---------------------------------------------
+ 
+This report is submitted for the general informa-
+tion of shareholders of the Fund. For more detailed
+information about the Fund, its management, fees,
+expenses and other pertinent information, please
+see the prospectus.
+ 
+This report is not authorized for distribution to
+prospective investors in the Fund unless preceded
+or accompanied by an effective prospectus.
+ 
+               LONGLEAF
+               PARTNERS
+               FUNDS
+ 
+LOGO
+ 
+MANAGED BY:
+SOUTHEASTERN ASSET
+MANAGEMENT, INC.
+6075 POPLAR AVE.
+SUITE 900
+MEMPHIS, TN 38119
+(901) 761-2474
+Fund Information Requests
+(800) 445-9469
+ 
+Shareholder Account Inquiries
+(800) 488-4191
+                                      LOGO
+                                     ANNUAL
+                                     REPORT
+                               December 31, 1996
+ 
+                               LONGLEAF PARTNERS
+                                  REALTY FUND
+ 
+              ----------------------------------------------------
+              ----------------------------------------------------
+ 
+                                  MANAGED BY:
+                               SOUTHEASTERN ASSET
+                                MANAGEMENT, INC.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

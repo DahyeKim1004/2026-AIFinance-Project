@@ -1,0 +1,1299 @@
+<DOCUMENT>
+<TYPE>N-CSR
+<SEQUENCE>1
+<FILENAME>annualfinancial03.txt
+<DESCRIPTION>BARON CAPITAL FUNDS TRUST FORM N-CSR FOR DECEMBER 31, 2003
+<TEXT>
+
+                      UNITED STATES               OMB APPROVAL
+             SECURITIES AND EXCHANGE COMMISSION   OMB Number:    3235 -0570
+                 Washington, D.C. 20549           Expires:     October 31, 2006
+                                                  Estimated average burden
+                                                  hours per response...... 19.3
+
+
+                                   FORM N-CSR
+
+                   CERTIFIED SHAREHOLDER REPORT OF REGISTERED
+                        MANAGEMENT INVESTMENT COMPANIES
+
+Investment Company Act file number: 811-8505
+
+                            BARON CAPITAL FUNDS TRUST
+--------------------------------------------------------------------------------
+       (Exact name of registrant as specified in charter)
+
+                          767 Fifth Avenue, 49th Floor
+                               New York, NY 10153
+--------------------------------------------------------------------------------
+          (Address of Principal Executive Offices)        (Zip Code)
+
+
+                            Linda S. Martinson, Esq.
+                             c/o Baron Asset Fund
+                           767 Fifth Avenue,49th Floor
+                            New York, New York 10153
+--------------------------------------------------------------------------------
+                  (Name and Address of Agent for Service)
+
+
+Registrant's Telephone Number, including Area Code        212-583-2000
+                                                   -----------------------------
+
+Date of fiscal year end:   December 31
+                        ---------------
+
+Date of reporting period:  December 31, 2003
+                         --------------------
+
+     Form N-CSR is to be used by management investment companies to file reports
+with  the  Commission  not  later  than  10  days  after  the   transmission  to
+stockholders  of any report that is required to be transmitted  to  stockholders
+under Rule 30e-1 under the Investment Company Act of 1940 (17CRF 270.30e-1). The
+Commission  may use the  information  provided on Form N-CSR in its  regulatory,
+disclosure review, inspection, and policymaking roles.
+
+     A  registrant  is required to disclose  the  information  specified by Form
+N-CSR, and the Commission will make this information public. A registrant is not
+required to respond to the  collection  of  information  contained in Form N-CSR
+unless the Form  displays a  currently  valid  Office of  Management  and Budget
+("OMB")  control number.  Please direct comments  concerning the accuracy of the
+information  collection  burden estimate and suggestions for reducing the burden
+to  Secretary,   Securities  and  Exchange  Commission,   450  5th  Street,  NW,
+Washington, D.C. 20549-6009. The OMB has reviewed this collection of information
+under the clearance requirements of 44 U.S.C. Section 3507.
+
+      Potential  persons  who  are  to  respond  to the  collection  of
+      information  contained  in this form are not  required to respond
+      unless the form displays a currently valid OMB control number.
+
+
+SEC 2569 (3-03)
+
+<PAGE>
+ITEM 1.   BARON CAPITAL FUNDS TRUST ANNUAL FINANCIAL REPORT
+          DATED DECEMBER 31, 2003
+
+[REGISTERED LOGO]
+
+B A R O N
+CAPITAL
+F U N D S
+
+
+
+
+MANAGEMENT DISCUSSION OF FUND
+ PERFORMANCE..................................................................2
+
+STATEMENT OF NET
+ ASSETS.......................................................................3
+
+STATEMENT OF ASSETS & LIABILITIES.............................................4
+
+STATEMENT OF OPERATIONS.......................................................4
+
+STATEMENT OF CHANGES
+ IN NET ASSETS................................................................5
+
+NOTES TO FINANCIAL STATEMENTS.................................................6
+
+REPORT OF INDEPENDENT AUDITORS................................................9
+
+MANAGEMENT OF THE FUND.......................................................10
+
+
+
+767 Fifth Avenue
+NY, NY 10153
+212.583.2100
+1.800.99.BARON
+BaronFunds.com
+
+
+<PAGE>
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+ANNUAL FINANCIAL REPORT                                       DECEMBER 31, 2003
+
+
+DEAR BARON CAPITAL ASSET FUND
+SHAREHOLDER:
+
+Attached you will find audited financial statements for Baron Capital Asset Fund
+for its fiscal  year ended  December  31,  2003.  The  Securities  and  Exchange
+Commission  requires mutual funds to furnish these  statements  semi-annually to
+their shareholders.
+
+We thank you for choosing  Baron  Capital  Asset Fund.  We will continue to work
+hard to justify your confidence.
+
+Sincerely,
+
+
+/s/ Ronald Baron
+------------------------------
+    Ronald Baron
+    Chairman and Portfolio Manager
+    February 13, 2004
+
+
+
+/s/ Peggy Wong
+-------------------------------
+    Peggy Wong
+    Treasurer and CFO
+    February 13, 2004
+
+
+A description  of the Fund's proxy voting  policies and  procedures is available
+without charge on the Fund's website,  www.BaronFunds.com,  or by calling 1-800-
+                                       ------------------
+99-BARON and on the SEC's website at www.sec.gov.
+                                     -----------
+
+-------------------------
+Some of our  comments  are  based on  current  management  expectations  and are
+considered  "forward-looking  statements." Actual future results,  however,  may
+prove to be different from our  expectations.  You can identify  forward-looking
+statements by words such as  "estimate",  "may",  "expect",  "should",  "could",
+"believe",  "plan" and other similar terms. We cannot promise future returns and
+our opinions are a  reflection  of our best  judgment at the time this report is
+compiled.
+
+The views expressed in this report reflect those of the Company only through the
+end of the  period  stated  in  this  report.  The  views  are not  intended  as
+recommendations  or investment  advice to any person reading this report and are
+subject to change at any time based on market and other conditions and Baron has
+no obligation to update them.
+
+PAST  PERFORMANCE IS NO GUARANTEE OF FUTURE RESULTS.  The investment  return and
+principal  value of an investment  will fluctuate;  an investor's  shares,  when
+redeemed, may be worth more or less than their original cost.
+
+
+
+<PAGE>
+
+[GRAPH]
+-------------------------------------------------------------------------------
+|          COMPARISON OF THE CHANGE IN VALUE OF $10,000 INVESTMENT IN          |
+|  BARON CAPITAL ASSET FUND - INSURANCE SHARES IN RELATION TO THE RUSSELL 2000*|
+|                                                                              |
+|                                Insurance       Russell                       |
+|                                Shares          2000                          |
+|                                ---------       -------                       |
+|                                                                              |
+|              10/1/1998          10,000         10,000                        |
+|             12/31/1998          13,250         11,631                        |
+|             12/31/1999          17,998         14,103                        |
+|             12/31/2000          17,520         13,677                        |
+|             12/31/2001          19,683         14,017                        |
+|             12/31/2002          16,888         11,146                        |
+|             12/31/2003          21,957         16,413                        |
+|                                                                              |
+|Information Presented by Fiscal Year as of December 31                        |
+|                                                                              |
+|Part performance is not predictive of future performance.                     |
+|* The Russell 2000 is an unmanaged index that measures the performance of     |
+|  small companies.                                                            |
+--------------------------------------------------------------------------------
+[GRAPH]
+-------------------------------------------------------------------------------
+|           COMPARISON OF THE CHANGE IN VALUE OF $10,000 INVESTMENT IN         |
+|  BARON CAPITAL ASSET FUND - INSURANCE SHARES IN RELATION TO THE RUSSELL 2000*|
+|                                                                              |
+|                               Retirement       Russell                       |
+|                                 Shares          2000                         |
+|                                 ------          ----                         |
+|                                                                              |
+|             11/25/1998          10,000         10,000                        |
+|             12/31/1998          10,995         10,652                        |
+|             12/31/1999          14,958         12,916                        |
+|             12/31/2000          14,596         12,526                        |
+|             12/31/2001          16,431         12,837                        |
+|             12/31/2002          14,122         10,208                        |
+|             12/31/2003          18,401         15,031                        |
+|                                                                              |
+|Information Presented by Fiscal Year as of December 31                        |
+|                                                                              |
+|Part performance is not predictive of future performance.                     |
+|*The Russell 2000 is an unmanaged index that measures the performance of      |
+| small companies.                                                             |
+-------------------------------------------------------------------------------
+
+MANAGEMENT DISCUSSION OF FUND PERFORMANCE
+
+--------------------------------------------------------------------------------
+ Average Annual Total Return
+ for the periods ended December 31, 2003
+<TABLE>
+<CAPTION>
+                                                                                 Since Inception
+                                                      One Year    Five Years     10/1/1998
+------------------------------------------------------------------------------------------------
+<S>                                                   <C>         <C>            <C>
+ InsuranceShares                                        30.01%       10.63%       16.16%
+ Russell 2000                                           47.25%        7.13%        9.90%
+</TABLE>
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+--------------------------------------------------------------------------------
+ Average Annual Total Return
+ for the periods ended December 31, 2003
+<TABLE>
+<CAPTION>
+                                                                                 Since Inception
+                                                      One Year    Five Year      11/25/1998
+------------------------------------------------------------------------------------------------
+<S>                                                   <C>         <C>            <C>
+ RetirementShares                                       30.30%       10.85%       12.70%
+ Russell 2000                                           47.25%        7.13%        8.32%
+</TABLE>
+--------------------------------------------------------------------------------
+
+Baron Capital Asset Fund's  performance  in the year ended December 31, 2003 was
+mixed.  On an absolute basis the Fund's  performance  was strong,  +30.01%.* The
+Fund  underperformed  the Russell 2000, an unmanaged  index of small cap stocks,
+and performed slightly better than the S&P 500, an unmanaged index of larger cap
+equities,   which  gained  47.25%  and  28.62%,   respectively.   The  Fund  has
+significantly outperformed the Russell 2000 since its inception in October, 1998
+(see graph).
+
+The Fund's  performance was not uniform across the year. The Fund  experienced a
+loss in the first quarter of 3.99%, and then performed well for the remainder of
+the year,  gaining 16.86%,  5.81% and 9.51% in the remaining  quarters of 2003.*
+The Fund's  relative  performance was also not uniform across the year. The Fund
+performed  better than the Russell  2000 in the first  quarter  which was a down
+quarter for the market but lagged the index during the  remaining  strong market
+quarters.
+
+The Fund's  performance was not uniform across sectors.  The Fund's  performance
+was led by its  investments in Education and Recreation & Resorts.  In addition,
+the Fund performed well with its investments in the Financial, Hotels & Lodging,
+Media  and  Retail  sectors.   The  Fund's  performance  was  not  significantly
+negatively impacted by its investments in any single sector.
+
+In fiscal year 2004, the Fund will continue to invest in companies  that, in our
+opinion,  are  undervalued  relative to their  long-term  growth  prospects  and
+ability to sustain superior levels of  profitability.  We remain optimistic that
+the companies in which we invest will benefit from the economic recovery leaving
+us looking forward to a successful 2004.
+
+-----------------------
+*The inception date for the Insurance class shares was October 1, 1998.
+Performance results for the retirement class can be found in the financial
+highlights table on page 8 of this report.
+
+
+
+                                       2
+<PAGE>
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+STATEMENT OF NET ASSETS
+--------------------------------------------------------------------------------
+December 31, 2003
+
+       Shares                                                      Value
+--------------------------------------------------------------------------------
+COMMON STOCKS (98.97%)
+--------------------------------------------------------------------------------
+                ADVERTISING SERVICES (1.11%)
+       40,000   Getty Images, Inc.*                             $ 2,005,200
+                APPAREL (0.79%)
+       56,000   Carter's, Inc.*                                   1,425,200
+                BUSINESS SERVICES (5.13%)
+      150,000   ChoicePoint, Inc.*                                5,713,500
+       60,000   Fair Isaac Corp.                                  2,949,600
+       25,000   Robert Half Intl., Inc.*                            583,500
+                                                                -----------
+                                                                  9,246,600
+                CHEMICAL (1.71%)
+      150,000   Symyx Technologies, Inc.*                         3,082,500
+                COMMUNICATIONS (0.45%)
+       75,000   American Tower Corp.*                               811,500
+                CONSULTING (1.84%)
+       80,000   Hewitt Associates, Inc.*                          2,392,000
+       40,000   LECG Corp.*                                         915,600
+                                                                -----------
+                                                                  3,307,600
+                CONSUMER SERVICES (0.53%)
+       25,000   Weight Watchers Intl., Inc.*                        959,250
+                EDUCATION (9.37%)
+       35,000   Apollo Group, Inc., Cl A*                         2,380,000
+       60,000   DeVry, Inc.*                                      1,507,800
+      100,000   Education Mgmt. Corp.*                            3,104,000
+       15,000   Strayer Education, Inc.                           1,632,450
+       45,000   Universal Technical Institute, Inc.*              1,350,000
+      100,000   University of Phoenix Online*                     6,893,000
+                                                                -----------
+                                                                 16,867,250
+                ENERGY SERVICES (3.63%)
+       60,000   Encore Acquisition Co.*                           1,479,000
+      100,000   FMC Technologies, Inc*                            2,330,000
+       65,000   Seacor Smit, Inc.*                                2,731,950
+                                                                -----------
+                                                                  6,540,950
+                FINANCIAL (11.21%)
+      140,000   Arch Capital Group, Ltd.*                         5,580,400
+      100,000   Axis Capital Holdings, Ltd.                       2,928,000
+       50,000   BlackRock, Inc., Cl A*                            2,655,500
+       40,000   CheckFree Corp.*                                  1,106,000
+       30,000   Chicago Mercantile Exchange Holdings, Inc.        2,170,800
+       30,000   Endurance Specialty Holdings, Ltd.                1,006,500
+       28,000   Gabelli Asset Mgmt., Inc., Cl A*                  1,114,400
+      110,000   Jefferies Group, Inc.                             3,632,200
+                                                                -----------
+                                                                 20,193,800
+                GOVERNMENT SERVICES (0.80%)
+       40,000   Anteon Intl. Corp.*                               1,442,000
+                HEALTHCARE FACILITIES (5.14%)
+       15,000   AmSurg Corp.*                                       568,350
+      135,000   Manor Care, Inc.                                  4,666,950
+      120,000   United Surgical Partners Intl., Inc.*             4,017,600
+                                                                -----------
+                                                                  9,252,900
+                HEALTHCARE PRODUCTS (1.77%)
+       70,000   Edwards Lifesciences Corp.*                       2,105,600
+       22,500   INAMED Corp.*                                     1,081,350
+                                                                -----------
+                                                                  3,186,950
+                HEALTHCARE SERVICES (7.61%)
+      150,000   AMERIGROUP Corp.*                                 6,397,500
+       90,000   Centene Corp.*                                    2,520,900
+      100,000   Charles River Laboratories Intl., Inc.*           3,433,000
+       80,000   CTI Molecular Imaging, Inc.*                      1,352,800
+                                                                -----------
+                                                                 13,704,200
+                HOTELS AND LODGING (5.70%)
+      100,000   Choice Hotels Intl., Inc.*                        3,525,000
+      200,000   Extended Stay of America, Inc.*                   2,896,000
+       75,000   Four Seasons Hotels, Inc.                         3,836,250
+                                                                -----------
+                                                                 10,257,250
+                MEDIA (8.15%)
+       60,000   Cumulus Media, Inc.*                              1,320,000
+      150,000   Gray Television, Inc.                             2,268,000
+
+<PAGE>
+
+       Shares                                                     Value
+---------------------------------------------------------------------------
+                MEDIA (8.15%) (continued)
+      160,000   LIN TV Corp., Cl A*                           $   4,129,600
+       25,000   Radio One, Inc., Cl A*                              488,750
+      100,000   Radio One, Inc., Cl D*                            1,930,000
+      160,000   Saga Comm., Inc., Cl A*                           2,964,800
+      150,000   Spanish Broadcasting System, Inc., Cl A*          1,575,000
+                                                              -------------
+                                                                 14,676,150
+                MEDICAL EQUIPMENT (0.92%)
+       80,000   Viasys Healthcare, Inc.*                          1,648,000
+                PRINTING AND PUBLISHING (1.53%)
+       50,000   Arbitron, Inc.*                                   2,086,000
+       30,000   Information Holdings, Inc.*                         663,000
+                                                              -------------
+                                                                  2,749,000
+                REAL ESTATE SERVICES (1.12%)
+        5,000   Alexander's, Inc.*                                  623,300
+       28,000   LNR Property Corp.                                1,386,280
+                                                              -------------
+                                                                  2,009,580
+                RECREATION AND RESORTS (8.55%)
+      150,000   Kerzner Intl., Ltd.*                              5,844,000
+      150,000   Vail Resorts, Inc.*                               2,550,000
+      250,000   Wynn Resorts, Ltd.*                               7,002,500
+                                                              -------------
+                                                                 15,396,500
+                RETAIL (10.95%)
+      175,000   99 Cents Only Stores                              4,765,250
+      110,000   Chico's FAS, Inc.*                                4,064,500
+      100,000   Dollar Tree Stores, Inc.*                         3,006,000
+       75,000   Ethan Allen Interiors, Inc.                       3,141,000
+       61,000   Petco Animal Supplies, Inc.*                      1,857,450
+      100,000   Polo Ralph Lauren Corp., Cl A                     2,880,000
+                                                              -------------
+                                                                 19,714,200
+                RESTAURANTS (7.02%)
+       75,000   California Pizza Kitchen, Inc.*                   1,509,750
+      100,000   Krispy Kreme Doughnuts, Inc.*                     3,660,000
+       50,000   Panera Bread Co.*                                 1,976,500
+      125,000   The Cheesecake Factory, Inc.*                     5,503,750
+                                                              -------------
+                                                                 12,650,000
+                SOFTWARE (1.25%)
+       57,000   Kronos, Inc.*                                     2,257,770
+                TRANSPORTATION (0.99%)
+       67,500   JetBlue Airways Corp.*                            1,790,100
+                UTILITY SERVICES (1.23%)
+      120,000   Southern Union Co.*                               2,208,000
+                WHOLESALE TRADE (0.47%)
+       30,000   Libbey, Inc.                                        854,400
+                                                              -------------
+TOTAL INVESTMENTS (98.97%)
+ (Cost $122,297,554)                                            178,236,850
+                                                              -------------
+CASH AND OTHER ASSETS
+ LESS LIABILITIES (1.03%)                                         1,851,786
+                                                              -------------
+NET ASSETS (100.00%)                                          $ 180,088,636
+                                                              =============
+NET ASSET VALUE PER SHARE
+INSURANCE SHARES:
+NET ASSET VALUE, OFFERING AND REDEMPTION
+PRICE PER SHARE (BASED ON NET ASSETS OF
+$176,207,967 AND 8,184,106 SHARES
+OF BENEFICIAL INTEREST OUTSTANDING)                                  $21.53
+                                                              =============
+RETIREMENT SHARES:
+NET ASSET VALUE, OFFERING AND REDEMPTION
+PRICE PER SHARE (BASED ON NET ASSETS OF
+$3,880,669 AND 178,326 SHARES OF BENEFICIAL
+INTEREST OUTSTANDING)                                                $21.76
+                                                              =============
+---------------
+%   Represents percentage of net assets
+*   Non-income producing securities
+
+                       See Notes to Financial Statements.
+
+                                       3
+<PAGE>
+
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+STATEMENT OF ASSETS AND LIABILITIES
+-------------------------------------------------------------------------------
+December 31, 2003
+<TABLE>
+      <S>                                                                 <C>
+      ASSETS:
+        Investments in securities, at value (Cost $122,297,554)........   $178,236,850
+        Cash...........................................................      1,987,940
+        Dividends and interest receivable..............................         15,880
+        Receivable for shares sold.....................................         56,110
+        Due from adviser...............................................         22,702
+                                                                          ------------
+                                                                           180,319,482
+                                                                          ------------
+      LIABILITIES:
+        Payable for shares redeemed....................................        145,912
+        Accrued expenses and other payables............................         84,934
+                                                                          ------------
+                                                                               230,846
+                                                                          ------------
+      NET ASSETS ......................................................   $180,088,636
+                                                                          ============
+      NET ASSETS CONSIST OF:
+        Capital paid-in................................................   $147,804,809
+        Accumulated net realized loss..................................    (23,655,469)
+        Net unrealized appreciation on investments.....................     55,939,296
+                                                                          ------------
+      NET ASSETS ......................................................   $180,088,636
+                                                                          ============
+      NET ASSET VALUE PER SHARE
+      INSURANCE SHARES
+        Net asset value, offering and redemption price per share (based
+         on net assets of $176,207,967 and 8,184,106 shares of
+         beneficial interest outstanding) .............................   $      21.53
+                                                                          ============
+      RETIREMENT SHARES
+        Net asset value, offering and redemption price per share (based
+         on net assets of $3,880,669 and 178,326 shares of beneficial
+         interest outstanding) ........................................   $      21.76
+                                                                          ============
+</TABLE>
+
+<PAGE>
+STATEMENT OF OPERATIONS
+-------------------------------------------------------------------------------
+FOR THE YEAR ENDED DECEMBER 31, 2003
+<TABLE>
+      <S>                                                                  <C>
+      INVESTMENT INCOME:
+        INCOME:
+         Interest ......................................................   $    33,371
+         Dividends .....................................................       208,385
+                                                                           -----------
+         Total income ..................................................       241,756
+                                                                           -----------
+        EXPENSES:
+         Investment advisory fees ......................................     1,451,326
+         Distribution fees -- Insurance Shares .........................       355,494
+         Shareholder servicing agent fees -- Insurance Shares ..........        38,162
+         Shareholder servicing agent fees -- Retirement Shares .........        10,052
+         Reports to shareholders -- Insurance Shares ...................       126,188
+         Reports to shareholders -- Retirement Shares ..................         1,283
+         Custodian fees ................................................         9,040
+         Registration and filing fees -- Insurance Shares ..............        57,552
+         Registration and filing fees -- Retirement Shares .............        18,079
+         Professional fees .............................................        32,000
+         Trustee fees ..................................................         9,115
+         Miscellaneous .................................................         3,916
+                                                                           -----------
+         Total expenses ................................................     2,112,207
+         Less: Expense reimbursement by investment adviser .............       (22,702)
+                                                                           -----------
+         Net expenses ..................................................     2,089,505
+                                                                           -----------
+         Net investment loss ...........................................    (1,847,749)
+                                                                           -----------
+      REALIZED AND UNREALIZED GAIN (LOSS) ON INVESTMENTS:
+        Net realized loss on investments sold...........................    (2,009,146)
+        Change in net unrealized appreciation of investments............    42,721,754
+                                                                           -----------
+         Net gain on investments .......................................    40,712,608
+                                                                           -----------
+         Net increase in net assets resulting from operations ..........   $38,864,859
+                                                                           ===========
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+                                       4
+<PAGE>
+
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+STATEMENTS OF CHANGES IN NET ASSETS
+-------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+                                                                                    For The              For The
+                                                                                   Year Ended           Year Ended
+                                                                                December 31, 2003    December 31, 2002
+                                                                                -----------------    -----------------
+<S>                                                                             <C>                  <C>
+INCREASE (DECREASE) IN NET ASSETS:
+OPERATIONS:
+   Net investment loss ........................................................  $ (1,847,749)        $ (1,433,892)
+   Net realized loss on investments sold ......................................    (2,009,146)         (12,653,883)
+   Change in net unrealized appreciation on investments .......................    42,721,754           (9,722,499)
+                                                                                 -------------        -------------
+  Increase (decrease) in net assets resulting from operations .................    38,864,859          (23,810,274)
+                                                                                 -------------        -------------
+CAPITAL SHARE TRANSACTIONS:
+ INSURANCE SHARES:
+   Proceeds from the sale of shares ...........................................     34,243,873           76,448,525
+   Cost of shares redeemed ....................................................    (21,870,685)         (40,164,586)
+ RETIREMENT SHARES:
+   Proceeds from the sale of shares ...........................................        450,000                    0
+   Cost of shares redeemed ....................................................              0           (1,000,000)
+                                                                                 -------------        -------------
+   Increase in net assets derived from capital share transactions .............     12,823,188           35,283,939
+                                                                                 -------------        -------------
+   Net increase in net assets .................................................     51,688,047           11,473,665
+NET ASSETS:
+   Beginning of year ..........................................................    128,400,589          116,926,924
+                                                                                 -------------        -------------
+   End of year ................................................................   $180,088,636         $128,400,589
+                                                                                 =============        =============
+SHARES OF BENEFICIAL INTEREST:
+ INSURANCE SHARES:
+   Shares sold ................................................................      1,802,255            4,025,308
+   Shares redeemed ............................................................     (1,218,230)          (2,280,270)
+                                                                                 -------------        -------------
+   Net increase in Insurance Shares outstanding ...............................        584,025            1,745,038
+                                                                                 =============        =============
+ RETIREMENT SHARES:
+   Shares sold ................................................................         24,780                    0
+   Shares redeemed ............................................................              0              (49,407)
+                                                                                 -------------        -------------
+   Net increase (decrease) in Retirement Shares outstanding ...................         24,780              (49,407)
+                                                                                 =============        =============
+</TABLE>
+
+
+                       See Notes to Financial Statements.
+
+
+                                       5
+
+<PAGE>
+
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+NOTES TO FINANCIAL STATEMENTS
+-------------------------------------------------------------------------------
+(1) ORGANIZATION
+
+Baron  Capital  Funds Trust (the  "Trust") is  registered  under the  Investment
+Company Act of 1940,  as amended (the "1940 Act"),  as a  diversified,  open-end
+management investment company. The Trust currently consists of one series, Baron
+Capital Asset Fund (the "Fund").  There are currently two classes of shares: the
+Insurance Shares and the Retirement  Shares. The Insurance Shares are offered in
+connection with variable annuity contracts and variable life insurance contracts
+offered by life  insurance  companies.  The  Retirement  Shares  are  offered to
+certain qualified retirement plans. At December 31, 2003, 74% of the Fund shares
+were sold through one insurance  company.  Each class of shares has equal rights
+as to earnings and assets  except that each class bears  different  expenses for
+distribution,  shareholder service, reports to shareholders and registration and
+filing fees.  Each class of shares has  exclusive  voting rights with respect to
+matters  that  affect  just  that  class.   The  Fund's   objective  is  capital
+appreciation  through  investments  in  securities  of small  and  medium  sized
+companies with undervalued assets or favorable growth prospects.
+
+(2) SIGNIFICANT ACCOUNTING POLICIES
+
+The following is a summary of significant  accounting  policies  followed by the
+Fund.  The policies  are in  conformity  with  accounting  principles  generally
+accepted in the United States of America.
+
+(a)  SECURITY  VALUATION.  Portfolio  securities  traded on any  national  stock
+exchange  are valued  based on the last sale  price.  For  securities  traded on
+NASDAQ, the Fund uses the NASDAQ Official Closing Price. Where market quotations
+are not  readily  available,  securities  are  valued  based  on fair  value  as
+determined  by  the  Adviser,  using  procedures  established  by the  Board  of
+Trustees. Money market instruments held by the Fund with a remaining maturity of
+sixty days or less are valued at amortized cost, which approximates value.
+
+(b)  SECURITIES   TRANSACTIONS,   INVESTMENT  INCOME  AND  EXPENSE   ALLOCATION.
+Securities  transactions  are recorded on a trade date basis.  Realized gain and
+loss from securities  transactions  are recorded on an identified cost basis for
+financial  reporting  and  federal  income  tax  purposes.  Dividend  income  is
+recognized  on the  ex-dividend  date and interest  income is  recognized  on an
+accrual basis.  Income,  expenses  (other than those  attributable to a specific
+class) and gains and losses are  allocated  daily to each class of shares  based
+upon the relative proportion of net assets represented by such class.  Operating
+expenses  directly  attributable  to a specific  class are  charged  against the
+operations of that class.
+
+(c) FEDERAL INCOME TAXES. It is the policy of the Fund to continue to qualify as
+a regulated  investment  company under Subchapter M of the Internal Revenue Code
+and to distribute  all of its taxable  income,  including  net realized  capital
+gains, if any, to its shareholders. No federal income tax provision is therefore
+required.
+
+(d)  DISTRIBUTIONS.  Income  distributions  and capital gains  distributions are
+determined  in  accordance  with  income tax  regulations  which may differ from
+generally accepted accounting principles. These differences are primarily due to
+differing  treatments for net operating losses.  For the year ended December 31,
+2003, the following amounts were reclassified for federal income tax purposes:
+
+
+                  UNDISTRIBUTED
+              NET INVESTMENT INCOME                        CAPITAL-PAID-IN
+              ---------------------                        ---------------
+                    $1,847,749                               $(1,847,749)
+
+
+(e) USE OF ESTIMATES. The preparation of financial statements in accordance with
+accounting  principles  generally  accepted  in the  United  States  of  America
+requires  management to make estimates and assumptions  that affect the reported
+amounts of assets and liabilities at the date of financial  statements,  and the
+amounts of income and expenses  during the period.  Actual  results could differ
+from those estimates.
+
+(3) PURCHASE OF SALES AND SECURITIES
+
+For the year ended December 31, 2003,  purchases and sales of securities,  other
+than   short-term   securities,    aggregated   $50,605,291   and   $39,752,302,
+respectively.
+
+<PAGE>
+
+(4) INVESTMENT ADVISORY FEES AND OTHER TRANSACTIONS WITH AFFILIATES
+
+(a) INVESTMENT  ADVISORY FEES.  BAMCO,  Inc.,  (the  "Adviser"),  a wholly owned
+subsidiary of Baron Capital Group, Inc. ("BCG"), serves as investment adviser to
+the Fund. As  compensation  for services  rendered,  the Adviser  receives a fee
+payable  monthly from the assets of the Fund equal to 1% per annum of the Fund's
+average daily net asset value.  The Adviser has  contractually  agreed to reduce
+its fee to the extent  required to limit the operating  expense to 1.25% for the
+Retirement Shares and for the Insurance Shares,  1.5% for the first $250 million
+of net assets;  1.35% for the next $250  million of net assets and 1.25% for net
+assets over $500 million.
+
+(b) DISTRIBUTION FEES. Baron Capital, Inc. ("BCI"), a wholly owned subsidiary of
+BCG, is a registered  broker-dealer  and the distributor of the Insurance Shares
+pursuant  to a  distribution  plan  under  Rule  12b-1  of  the  1940  Act.  The
+distribution  plan authorizes the Fund to pay BCI a distribution fee equal on an
+annual basis to 0.25% of average daily net assets of the Insurance Shares.
+
+Brokerage  transactions  for the Fund may be effected by or through BCI.  During
+the year ended December 31, 2003, BCI earned brokerage commissions of $96,171.
+
+(c) TRUSTEE FEES.  Certain  Trustees of the Trust may be deemed to be affiliated
+with or interested persons (as defined by the 1940 Act) of the Fund's Adviser or
+of BCI. None of the Trustees so affiliated  received  compensation  for his/ her
+services  as a  Trustee  of the  Trust.  None of the  Fund's  officers  received
+compensation from the Fund.
+
+
+                                       6
+
+<PAGE>
+
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+(5) INCOME TAXES AND DISTRIBUTIONS TO SHAREHOLDERS
+
+As of December 31,  2003,  the  components  of net assets on a tax basis were as
+follows:
+
+
+Cost of investments ..........................................   $122,680,398
+                                                                 ============
+Gross tax unrealized appreciation ............................     57,528,907
+Gross tax unrealized depreciation ............................     (1,972,455)
+                                                                 ------------
+Net tax unrealized appreciation  .............................   $ 55,556,452
+                                                                 ============
+
+
+At December 31, 2003, the Fund had capital loss carryforwards expiring as
+follows:
+
+
+    2009 .....................................................   $ (2,875,212)
+    2010 .....................................................    (17,099,597)
+    2011 .....................................................     (3,297,816)
+                                                                 ------------
+                                                                 $(23,272,625)
+                                                                 ============
+
+Net  investment  loss and realized and  unrealized  gains and losses  differ for
+financial  statement  and tax purposes due to differing  treatments of wash sale
+losses deferred, and net operating losses.
+
+
+
+                                       7
+
+
+<PAGE>
+
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+(6) FINANCIAL HIGHLIGHTS
+Selected data  for a share  of beneficial interest outstanding  throughout each
+year:
+-------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+
+INSURANCE SHARES:
+                                                                           Year ended December 31,
+                                                           2003         2002         2001         2000        1999        1998*
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+<S>                                                     <C>          <C>          <C>          <C>          <C>         <C>
+NET ASSET VALUE, BEGINNING OF YEAR ...................  $    16.56   $    19.30   $    17.26   $   17.77    $   13.25   $  10.00
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment income (loss) .........................       (0.22)       (0.19)       (0.18)      (0.16)       (0.06)      0.02
+Net realized and unrealized gains (losses) on
+  investments.........................................        5.19        (2.55)        2.31       (0.31)        4.78       3.23
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+TOTAL FROM INVESTMENT OPERATIONS .....................        4.97        (2.74)        2.13       (0.47)        4.72       3.25
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+LESS DISTRIBUTIONS
+Dividends from net investment income .................        0.00         0.00         0.00        0.00        (0.01)      0.00
+Distributions from net realized gains ................        0.00         0.00        (0.09)      (0.04)       (0.19)      0.00
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+TOTAL DISTRIBUTIONS ..................................        0.00         0.00        (0.09)      (0.04)       (0.20)      0.00
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+NET ASSET VALUE, END OF YEAR .........................  $    21.53   $    16.56   $    19.30   $   17.26    $   17.77   $  13.25
+                                                        ==========   ==========   ==========   =========    =========   ========
+TOTAL RETURN .........................................        30.0%       (14.2%)       12.3%#      (2.7%)#      35.8%#     32.5%+#
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+RATION/SUPPLEMENTAL DATA
+Net assets (in thousands), end of year ...............  $176,208.0   $125,835.9   $112,983.3   $60,412.2    $31,238.7   $  806.3
+Ratio of total expenses to average net assets ........        1.44%        1.42%        1.59%       1.66%        1.88%      7.62%**
+Less: Expense reimbursement by investment adviser ....        0.00%        0.00%       (0.09%)     (0.16%)      (0.38%)    (6.17)%**
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+Ratio of net expenses to average net assets ..........        1.44%        1.42%        1.50%       1.50%        1.50%      1.45%**
+                                                        ==========   ==========   ==========   =========    =========   ========
+Ratio of net investment income (loss) to average net
+  assets..............................................       (1.28%)      (1.05%)      (1.18%)     (1.02%)      (0.78%)     0.99%**
+Portfolio turnover rate ..............................       28.08%       33.01%       31.85%      39.38%       37.18%     37.11%+
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+RETIREMENT SHARES:
+                                                                           Year ended December 31,
+                                                           2003         2002         2001         2000        1999        1998@
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+<S>                                                     <C>          <C>          <C>          <C>          <C>         <C>
+NET ASSET VALUE, BEGINNING OF YEAR ...................  $    16.70   $    19.43   $    17.34   $   17.81    $   13.26   $  12.06
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment income (loss) .........................       (0.19)       (0.17)       (0.16)      (0.14)       (0.04)      0.02
+Net realized and unrealized gains (losses) on
+  investments.........................................        5.25        (2.56)        2.34       (0.29)        4.79       1.18
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+TOTAL FROM INVESTMENT OPERATIONS .....................        5.06        (2.73)        2.18       (0.43)        4.75       1.20
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+LESS DISTRIBUTIONS
+Dividends from net investment income .................        0.00         0.00         0.00        0.00        (0.01)      0.00
+Distributions from net realized gains ................        0.00         0.00        (0.09)      (0.04)       (0.19)      0.00
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+TOTAL DISTRIBUTIONS ..................................        0.00         0.00        (0.09)      (0.04)       (0.20)      0.00
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+NET ASSET VALUE, END OF YEAR .........................  $    21.76   $    16.70   $    19.43   $   17.34    $   17.81   $  13.26
+                                                        ==========   ==========   ==========   =========    =========   ========
+TOTAL RETURN# ........................................        30.3%       (14.1%)       12.6%       (2.4%)       36.0%      10.0%+
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in thousands), end of year ...............  $  3,880.7   $  2,564.7   $  3,943.6   $ 3,502.5    $ 3,590.0   $2,638.5
+Ratio of total expenses to average net assets ........        1.97%        2.06%        2.16%       1.76%        1.62%      7.38%**
+Less: Expense reimbursement by investment adviser ....       (0.72%)      (0.81%)      (0.91%)     (0.51%)      (0.38%)    (6.17)%**
+                                                        ----------   ----------   ----------   ---------    ---------   --------
+Ratio of net expenses to average net assets ..........        1.25%        1.25%        1.25%       1.25%        1.24%      1.21%**
+                                                        ==========   ==========   ==========   =========    =========   ========
+Ratio of net investment income (loss) to average net
+  assets..............................................       (1.08%)      (0.86%)      (0.89%)     (0.77%)      (0.28%)     1.34%**
+Portfolio turnover rate ..............................       28.08%       33.01%       31.85%      39.38%       37.18%     37.11%+
+</TABLE>
+
+------------------
+ *  For the period October 1, 1998 (commencement of operations) to December 31,
+    1998.
+@   For the period November 25, 1998 (commencement of operations) to December
+    31, 1998.
+**  Annualized.
+ #  The total returns would have been lower had certain expenses not been
+    reduced during the periods shown.
+ +  Not annualized.
+
+
+
+                                       8
+
+
+<PAGE>
+
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+                         REPORT OF INDEPENDENT AUDITORS
+
+To the Board of Trustees and Shareholders of Baron Capital Asset Fund
+
+In our opinion, the accompanying statement of assets and liabilities,  including
+the schedule of  investments,  and the related  statements of operations  and of
+changes  in net assets  and the  financial  highlights  present  fairly,  in all
+material  respects,  the  financial  position of Baron  Capital  Asset Fund (the
+"Fund") at December 31, 2003,  the results of its  operations  for the year then
+ended,  the  changes  in its net  assets for each of the two years in the period
+then ended and the financial  highlights for each of the periods  presented,  in
+conformity with accounting principles generally accepted in the United States of
+America. These financial statements and financial highlights (hereafter referred
+to as "financial  statements") are the  responsibility of the Fund's management;
+our responsibility is to express an opinion on these financial  statements based
+on our  audits.  We  conducted  our  audits  of these  financial  statements  in
+accordance with auditing  standards  generally  accepted in the United States of
+America,  which require that we plan and perform the audit to obtain  reasonable
+assurance   about  whether  the  financial   statements  are  free  of  material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the  amounts  and  disclosures  in  the  financial  statements,   assessing  the
+accounting  principles  used and significant  estimates made by management,  and
+evaluating the overall  financial  statement  presentation.  We believe that our
+audits,  which  included  confirmation  of  securities  at December  31, 2003 by
+correspondence  with the custodian and brokers,  provide a reasonable  basis for
+our opinion.
+
+PRICEWATERHOUSECOOPERS, LLP
+New York, New York
+February 12, 2004
+
+
+                                       9
+
+<PAGE>
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+MANAGEMENT OF THE FUND
+-------------------------------------------------------------------------------
+
+BOARD OF TRUSTEES AND OFFICERS
+
+The Board of Trustees  oversees the management of Baron Capital Funds Trust (the
+"Fund").  The following  table lists the Trustees and executive  officers of the
+Fund, their date of birth,  current positions held with the Fund, length of time
+served,   principal   occupations   during   the  past  five   years  and  other
+Trusteeships/Directorships  held  outside  the Fund  complex.  Unless  otherwise
+noted, the address of each executive  officer and Trustee is Baron Capital Funds
+Trust, 767 Fifth Avenue,  49th Floor,  New York, NY 10153.  Trustees who are not
+deemed to be  "interested  persons"  of the Fund as  defined in the 1940 Act are
+referred  to  as  "Disinterested  Trustees."  Trustees  who  are  deemed  to  be
+"interested  persons" of the Fund are referred to as "Interested  Trustees." All
+Trustees listed below, whether Interested or Disinterested, serve as trustee for
+both  the  Baron  Capital  Asset  Fund  Insurance  class  and  Retirement  class
+portfolios.
+
+INTERESTED TRUSTEES
+
+<TABLE>
+<CAPTION>
+                                   POSITION(S)              LENGTH
+                                   HELD WITH                OF TIME    PRINCIPAL OCCUPATION(S)       OTHER TRUSTEE/DIRECTORSHIPS
+NAME, ADDRESS, & DATE OF BIRTH     THE FUND                 SERVED     DURING THE PAST FIVE YEARS    HELD BY THE TRUSTEE
+------------------------------     --------                 ------    --------------------------    ---------------------------
+<S>                                <C>                      <C>        <C>                           <C>
+Ronald Baron *+                    Chairman, CEO, Chief     6 years    Chairman, CEO, and Director,  Baron Asset Fund (Since
+767 Fifth Avenue                   Investment Officer,                 Baron Capital, Inc. (1982-    inception); Baron Select Funds
+New York, NY 10153                 Trustee and Portfolio               Present), Baron Capital       (Since inception)
+DOB: May 23, 1943                  Manager                             Management, Inc. (1983-
+                                                                       Present), Baron Capital
+                                                                       Group, Inc. (1984-Present),
+                                                                       BAMCO, Inc. (1987-Present);
+                                                                       Portfolio Manager, Baron
+                                                                       Asset Fund (1987-Present) and
+                                                                       Baron Growth Fund (1995-
+                                                                       Present).
+
+Linda S. Martinson*+               Vice President,           6 years   General Counsel, Vice         Baron Asset Fund (Since
+767 Fifth Avenue                   Secretary, General                  President and Secretary,      inception); Baron Select Funds
+New York, NY 10153                 Counsel and Trustee                 Baron Capital, Inc. (1983-    (Since inception)
+DOB: February 22, 1955                                                 Present), BAMCO, Inc. (1987-
+                                                                       Present), Baron Capital
+                                                                       Group, Inc. (1984-Present),
+                                                                       Baron Capital Management,
+                                                                       Inc. (1983-Present).
+
+Morty Schaja*+                     President, Chief          6 years   President and Chief Operating Baron Asset Fund (Since
+767 Fifth Avenue                   Operating Officer and               Officer, Baron Capital, Inc.  inception); Baron Select Funds
+New York, NY 10153                 Trustee                             (1999-Present); Senior Vice   (Since inception)
+DOB: October 30, 1954                                                  President and Chief Operating
+                                                                       Officer, Baron Capital, Inc.
+                                                                       1997-1999); Managing
+                                                                       Director, Vice President,
+                                                                       Baron Capital, Inc. (1991-
+                                                                       1999); and Director, Baron
+                                                                       Capital Group, Inc., Baron
+                                                                       Capital Management, Inc., and
+                                                                       BAMCO, Inc. (1997-Present).
+
+</TABLE>
+
+
+                                       10
+
+
+<PAGE>
+
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+
+DISINTERESTED TRUSTEES
+
+<TABLE>
+<CAPTION>
+                                  POSITION(s)      LENGTH
+                                  HELD WITH        OF TIME     PRINCIPAL OCCUPATION(S)            OTHER TRUSTEE/DIRECTORSHIPS
+NAME, ADDRESS, & DATE OF BIRTH    THE FUND         SERVED      DURING THE PAST FIVE YEARS         HELD BY THE TRUSTEES
+-----------------------------     -----------      -------     ---------------------------        ---------------------------
+<S>                               <C>              <C>         <C>                                 <C>
+Norman S. Edelcup+^**             Trustee           6 years    Senior Vice President and          Director, Florida Savings Bancorp
+244 Atlantic Isles                                             Director, Florida Savings Bancorp  (2001-Present); Director, Valhi,
+Sunny Isles Beach, FL 33160                                    (2001-Present); Mayor (October     Inc. (1975-Present) (diversified
+DOB: May 8, 1935                                               2003-Present), Commissioner,       company); Baron Asset Fund (Since
+                                                               Sunny Isles Beach, Florida (2001-  inception); Baron Select Funds
+                                                               2003); Senior Vice President,      (Since inception).
+                                                               Item Processing of America (1999-
+                                                               2000) (a subsidiary of The
+                                                               Intercept Group); Chairman, Item
+                                                               Processing of America (1989-1999)
+                                                               (a financial institution service
+                                                               bureau); Director, Valhi, Inc.
+                                                               (1975-Present) (diversified
+                                                               company); Director, Artistic
+                                                               Greetings, Inc. (1985-1998).
+
+Charles N. Mathewson**            Trustee           6 years    Chairman Emeritus (October 2003-    Baron Asset Fund (Since
+9295 Prototype Road                                            Present), Chairman, International   inception); Baron Select Funds
+Reno, NV 89521                                                 Game Technology, Inc. (1986-2003)   (Since inception)
+DOB: June 12, 1928                                             (manufacturer of microprocessor-
+                                                               controlled gaming machines and
+                                                               monitoring systems); Chairman,
+                                                               American Gaming Association
+                                                               (1994-2002).
+
+Harold W. Milner ^**              Trustee           6 years    Retired; President and CEO,        Baron Asset Fund (Since
+2293 Morningstar Drive                                         Kahler Realty Corporation (1985-   inception); Baron Select Funds
+Park City, UT 84060                                            1997) (hotel ownership and         (Since inception)
+DOB: November 11, 1934                                         management).
+
+Raymond Noveck ++^**              Trustee           6 years    Private Investor (1999-Present);   Baron Asset Fund (Since
+31 Karen Road                                                  President, The Medical             inception); Baron Select Funds
+Waban, MA 02168                                                Information Line, Inc. (1997-      (Since inception)
+DOB: May 4, 1943                                               1998) (health care information);
+                                                               President, Strategic Systems,
+                                                               Inc. (1990-1997) (health care
+                                                               information); Director, Horizon/
+                                                               CMS Healthcare Corporation (1987-
+                                                               1997).
+
+David A. Silverman, MD **         Trustee           6 years    Physician and Faculty, New York    Baron Asset Fund (Since
+146 Central Park West                                          University School of Medicine      inception); Baron Select Funds
+New York, NY 10023                                             (1976-Present).                    (Since inception); Director, New
+DOB: March 14, 1950                                                                               York Blood Center (1999-Present).
+
+</TABLE>
+
+
+
+                                       11
+
+<PAGE>
+
+--------------------------------------------------------------------------------
+BARON CAPITAL ASSET FUND
+--------------------------------------------------------------------------------
+
+OFFICERS OF THE FUNDS
+
+<TABLE>
+<CAPTION>
+                                POSITION(s)      LENGTH
+                                HELD WITH        OF TIME     PRINCIPAL OCCUPATION (S)              OTHER TRUSTEE/DIRECTORSHIPS
+NAME, ADDRESS, & DATE OF BIRTH  THE FUND         SERVED      DURING THE PAST FIVE YEARS            HELD BY THE TRUSTEE
+-----------------------------   -----------      -------     ---------------------------           ---------------------------
+<S>                             <C>              <C>         <C>                                    <C>
+Clifford Greenberg              Senior Vice      As of       Senior Vice President, Baron           None
+767 Fifth Avenue                President        02/02/04    Capital, Inc., Baron Capital
+New York, NY 10153                                           Group, Inc., BAMCO, Inc., (2003-
+DOB: April 30, 1959                                          Present)(Vice President, 1997-
+                                                             2003), Portfolio Manager, Baron
+                                                             Small Cap Fund (1997-Present);
+                                                             General Partner, HPB Associates,
+                                                             LP (1984-1996) (investment
+                                                             partnership).
+
+Andrew Peck                     Vice President   As of       Vice President and Co-Portfolio        None
+767 Fifth Avenue                                 02/02/04    Manager, Baron Asset Fund (2003-
+New York, NY 10153                                           Present), Analyst, Baron Capital,
+DOB: March 25, 1969                                          Inc. (1998-Present).
+
+Susan Robbins                   Vice President   As of       Senior Analyst, Vice President         None
+767 Fifth Avenue                                 02/02/04    and Director, Baron Capital, Inc.
+New York, NY 10153                                           (1982-Present), Baron Capital
+DOB: October 19, 1954                                        Management, Inc. (1984- Present).
+
+Mitchell J. Rubin               Vice President   As of       Vice President and Senior              None
+767 Fifth Avenue                                 02/02/04    Analyst, Baron Capital, Inc.
+New York, NY 10153                                           (1997-Present), Portfolio Manager
+DOB: September 22, 1966                                      of Baron iOpportunity Fund (2000-
+                                                             Present).
+
+Peggy C. Wong                   Treasurer       6 years      Treasurer and Chief Financial          None
+767 Fifth Avenue                and Chief                    Officer, Baron Capital, Inc.,
+New York, NY 10153              Financial                    Baron Capital Group, Inc., BAMCO,
+DOB: April 30, 1961             Officer                      Inc. and Baron Capital
+                                                             Management, Inc. (1987-Present).
+
+</TABLE>
+
+------------------
+
+*    Trustees  deemed  to be  "interested  persons"  of the Fund as that term is
+     defined in the Investment Company Act of 1940 by reason of their employment
+     with the Fund's Adviser and Distributor.
++    Members of the Executive  Committee,  which is empowered to exercise all of
+     the powers,  including the power to declare dividends, of the full Board of
+     Trustees when the full Board of Trustees is not in session.
++    Members of the Audit Committee.
+^    Members of the Nominating Committee.
+**   Members of the Independent Committee.
+
+                                       12
+
+<PAGE>
+
+
+
+
+
+
+[REGISTERED LOGO]
+
+B A R O N
+CAPITAL
+F U N D S
+
+767 Fifth Avenue
+ NY, NY 10153
+
+
+
+                                                                           AR03
+
+<PAGE>
+
+Item 2. Code of Ethics.
+
+     Filed pursuant to Item 10(a)(1) of Item 2 to Form N-CSR.   EX-99.COE
+
+Item 3. Audit Committee Financial Expert.
+
+     The Board of Trustees of the Fund has determined that Norman S. Edelcup,  a
+     member  of  the  Audit  Committee,   possesses  the  technical   attributes
+     identified  in  Instruction  2(b) of Item 3 to Form  N-CSR to qualify as an
+     "Audit  Committee  Financial  Expert" and has designated Mr. Edelcup as the
+     Audit Committee's  Financial Expert. Mr. Edelcup is an "idependent" Trustee
+     pursuant to paragraph (a)(2) of Item 3 to Form N-CSR.
+
+Item 4.  Principal Accountant Fees and Services.
+
+     The following table shows the fees paid to PricewaterhouseCoopers, LLP, the
+     registrant's prinicpal accounting firm during the last two fiscal years (a)
+     for profesional  services rendered for the audit of the registrant's annual
+     financial  statements or services that are normally  provided in connection
+     with statutory and regulatory  filings or engagements  ("Audit Fees"),  (b)
+     for  assurance  and related  services  that are  reasonably  related to the
+     performance of the audit and are not included as Audit Fees ("Audit-Related
+     Fees"),  (c) for  professional  services  rendered for tax compliance,  tax
+     advice and tax  planning  ("Tax  Fees"),  and (d) for products and services
+     provided by such  accounting  firm that are not included in (a), (b) or (c)
+     above ("All Other Fees").
+
+
+     Year Ended December 31
+                                               2003             2002
+
+     Audit Fees                             $27,000.00       $17,000.00
+     Audit-Related Fees                           0.00             0.00
+     Tax Fees                                 4,400.00         4,000.00
+     All Other Fees                               0.00             0.00
+
+     Pursuant to its charter,  the Audit Committee  shall  pre-approve all audit
+     and  non-audit  services  provided  by  the  independent  auditors  and  in
+     connection   therewith  to  review  and   elvaluate   the   qualifications,
+     independence and performance of the Fund's independent auditors.
+
+Item 5.  Audit Committee of Listed Registrants.
+
+     The members of the Fund's Audit  Committee  are Norman  Edelcup and Raymond
+     Noveck,  both "idependent"  Trustees pursuant to paragraph (a)(2) of Item 3
+     to Form N-CSR.
+
+Item 6.  [Reserved].
+
+Item 7.  Disclosure of Proxy Voting Policies and Procedures for Closed-End
+         Management Investment Companies.
+
+     NOT APPLICABLE.
+
+Item 8.  [Reserved].
+
+Item 9.  Controls and Procedures.
+
+     The  Registrant's  principal  executive  officer  and  principal  financial
+     officer have concluded,  based on their evaluation of the  effectiveness of
+     the  design and  operation  of the  Registrant's  disclosure  controls  and
+     procedures as of a date within 90 days of the filing of this report on Form
+     N-CSR,  that the design and operation of such  procedures  are effective to
+     provide reasonable  assurance that information  required to be disclosed by
+     the  investment  company in the reports that it files or submits  under the
+     Securities  Exchange Act to 1934 is recorded,  processed,  summarized,  and
+     reported within the time periods  specified in the  Commission's  rules and
+     forms.
+
+     At the date of filing  this N-CSR,  the  Registrant's  principal  executive
+     office and principal  financial officer are aware of no significant changes
+     in the  Registrant's  internal  controls  or in other  factors  that  could
+     significantly  affect  these  controls  subsequent  to the  date  of  their
+     evaluation,  including any  corrective  actions with regard to  significant
+     deficiencies and material weaknesses.
+
+Item 10. Exhibits.
+
+     a).    EX-99.COE
+            Current copy of the Fund's Code of Ethics pursuant to Item 2 of the
+            Form N-CSR.
+
+     b).    Ex-99.CERT
+            Certification required by Item 10(b) of Form N-CSR.
+
+            Ex-99.906 CERT
+            Certification pursuant to Section 906 of the Sarbanes Oxley Act.
+
+<PAGE>
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended,
+and the  Investment  Company Act of 1940, as amended,  the  Registrant  has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+
+                                 BARON CAPITAL FUNDS TRUST
+
+
+
+                                 By:   /s/ Ronald Baron
+                                       -------------------
+                                           Ronald Baron
+                                           Chairman and Chief Executive Officer
+
+                                 Date: March 5, 2003
+
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended,
+and the Investment Company Act of 1940, as amended,  this report has been signed
+below by the following persons on behalf of the registrant and in the capacities
+and on the dates indicated.
+
+
+                                 By:   /s/ Ronald Baron
+                                       --------------------
+                                           Ronald Baron
+                                           Chairman and Chief Executive Officer
+
+
+
+                                 Date: March 5, 2003
+
+                                 By:   /s/ Peggy Wong
+                                       --------------------
+                                           Peggy Wong
+                                           Treasurer and Chief Financial Officer
+
+                                  Date: March 5, 2003
+
+
+A signed  original of this written  statement has been provided to Baron Capital
+Funds Trust and will be retained by Baron  Capital  Funds Trust and furnished to
+the Securities and Exchange Commission or its staff upon request.
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,3174 @@
+<DOCUMENT>
+<TYPE>N-CSR
+<SEQUENCE>1
+<FILENAME>sarreport0306.txt
+<DESCRIPTION>HOLDINGS FOR THE PERIOD ENDING MARCH 31, 2006
+<TEXT>
+                      UNITED STATES               OMB APPROVAL
+             SECURITIES AND EXCHANGE COMMISSION   OMB Number:    3235 -0570
+                 Washington, D.C. 20549           Expires:   September 30, 2007
+                                                  Estimated average burden
+                                                  hours per response... 19.4
+
+
+                                   FORM N-CSR
+
+                   CERTIFIED SHAREHOLDER REPORT OF REGISTERED
+                        MANAGEMENT INVESTMENT COMPANIES
+
+Investment Company Act file number: 811-8032
+
+               BARON INVESTMENT FUNDS TRUST f/k/a BARON ASSET FUND
+--------------------------------------------------------------------------------
+       (Exact name of registrant as specified in charter)
+
+                          767 Fifth Avenue, 49th Floor
+                               New York, NY 10153
+--------------------------------------------------------------------------------
+          (Address of Principal Executive Offices)        (Zip Code)
+
+
+                            Linda S. Martinson, Esq.
+                        c/o Baron Investment Funds Trust
+                           767 Fifth Avenue,49th Floor
+                            New York, New York 10153
+--------------------------------------------------------------------------------
+                  (Name and Address of Agent for Service)
+
+
+Registrant's Telephone Number, including Area Code        212-583-2000
+                                                   -----------------------------
+
+Date of fiscal year end:   September 30
+                        ---------------
+
+Date of reporting period:  March 31, 2006
+                         --------------------
+
+     Form N-CSR is to be used by management investment companies to file reports
+with  the  Commission  not  later  than  10  days  after  the   transmission  to
+stockholders  of any report that is required to be transmitted  to  stockholders
+under Rule 30e-1 under the Investment Company Act of 1940 (17CRF 270.30e-1). The
+Commission  may use the  information  provided on Form N-CSR in its  regulatory,
+disclosure review, inspection, and policymaking roles.
+
+     A  registrant  is required to disclose  the  information  specified by Form
+N-CSR, and the Commission will make this information public. A registrant is not
+required to respond to the  collection  of  information  contained in Form N-CSR
+unless the Form  displays a  currently  valid  Office of  Management  and Budget
+("OMB")  control number.  Please direct comments  concerning the accuracy of the
+information  collection  burden estimate and suggestions for reducing the burden
+to  Secretary,   Securities  and  Exchange  Commission,   450  5th  Street,  NW,
+Washington, D.C. 20549-6009. The OMB has reviewed this collection of information
+under the clearance requirements of 44 U.S.C. Section 3507.
+
+      Potential  persons  who  are  to  respond  to the  collection  of
+      information  contained  in this form are not  required to respond
+      unless the form displays a currently valid OMB control number.
+
+
+SEC 2569 (01-05)
+
+<PAGE>
+Item 1.  Baron Asset Fund Semi-Annual Report for the period ended
+         March 31, 2006.
+<TABLE>
+<CAPTION>
+<S>                                <C>    <C>
+[registered castle logo]
+
+                                     SEMI ANNUAL FINANCIAL REPORT                     MARCH 31, 2006
+  B A R O N
+  F U N D S (r)
+                                     DEAR BARON FUNDS
+                                     SHAREHOLDER:
+
+BARON FUNDS
+
+  STATEMENT OF NET ASSETS....3       Attached you will find unaudited financial statements for Baron Asset Fund, Baron Growth
+                                     Fund, Baron Small Cap Fund, Baron iOpportunity Fund and Baron Fifth Avenue Growth Fund for
+  STATEMENTS OF ASSETS               the six month ended March 31, 2006. The Securities and Exchange Commission requires
+     AND LIABILITIES........16       mutual funds to furnish these statements semi-annually to their shareholders.
+
+  STATEMENTS OF OPERATIONS..17
+                                     We thank you for choosing to join us as fellow shareholders in Baron Funds. We will continue
+  STATEMENTS OF CHANGES              to work hard to justify your confidence.
+     IN NET ASSETS..........18
+
+  NOTES TO FINANCIAL                 Sincerely,
+     STATEMENTS.............19
+                                     /s/ Ronald Baron
+
+                                         Ronald Baron
+                                         CEO AND Chief Investment Officer
+                                         May 25, 2006
+
+                                     /s/ Peggy Wong
+
+                                         Peggy Wong
+                                         Treasurer and CFO
+                                         May 25, 2006
+
+
+                                         A description of the Funds' proxy voting policies and procedures is available without
+                                         charge on the Funds' website, www.BaronFunds.com, or by calling 1-800-99-BARON and
+                                         on the SEC's website at www.sec.gov. The Funds' most current proxy voting record, Form
+                                         N-PX, is also available on the Funds' website, www.BaronFunds.com and on the SEC's website
+                                         at www.sec.gov.
+
+TICKER SYMBOLS:                          The Funds file their complete schedule of portfolio holdings with the SEC for the first
+--------------                           and third quarters of each fiscal year on Form N-Q. The Funds' Forms N-Q are available on
+BARON ASSET FUND                 BARAX   the SEC's website at www.sec.gov. The Funds' Forms N-Q may also be reviewed and copied at
+BARON GROWTH FUND                BGRFX   the SEC's Public Reference Room in Washington, DC; information on the operation of the
+BARON SMALL CAP FUND             BSCFX   SEC's Public Reference Room may be obtained by calling 800-SEC-0330. A copy of the Funds'
+BARON iOPPORTUNITY FUND          BIOPX   Form N-Q may also be obtained upon request by contacting Baron Funds at 1-800-992-2766.
+BARON FIFTH AVVENUE GROWTH FUND  BFTHX
+
+                                         ---------------
+
+767 Fifth Avenue                         PAST PERFORMANCE IS NO GUARANTEE OF FUTURE RESULTS. The investment return and principal
+NY, NY 10153                             value of an investment will fluctuate; an investor's shares, when redeemed, may be worth
+212.583.2100                             more or less than their original cost.
+1.800.99.BARON
+BaronFunds.com
+</TABLE>
+
+<PAGE>
+BARON FUNDS
+--------------------------------------------------------------------------------
+
+FUND EXPENSES (UNAUDITED)
+--------------------------------------------------------------------------------
+
+     As a shareholder  of the Funds,  you may incur two types of costs:  ongoing
+expenses  and  transaction  costs.   Ongoing  expenses  include  advisory  fess,
+distribution  and  service  (12b-1)  fees and other  Fund  expenses.  Due to the
+payment of Rule 12b-1 fees, long-term  shareholders may indirectly pay more than
+the maximum permitted front-end sales charge.  Transaction costs, as in the case
+of Baron iOpportunity Fund, may include redemption fees. The information on this
+page is intended to help you  understand  your ongoing costs of investing in the
+Funds and to compare  these costs with the ongoing  costs of  investing in other
+mutual funds.
+
+     This  Example is based on an  investment  of $1,000  invested on October 1,
+2005 and held for six months ended March 31, 2006.
+
+ACTUAL EXPENSES
+
+     The table below titled "Based on Actual Total Return" provides  information
+about actual account  values and actual  expenses.  You may use the  information
+provided in this table,  together with the amount you invested,  to estimate the
+expenses  that you paid over the period.  To estimate  the  expenses you paid on
+your account, divide your ending account value by $1,000 (for example, an $8,600
+ending  account value divided by $1,000 = 8.6),  then multiply the result by the
+number under the heading titled "Expenses Paid During the Period".
+
+BASED ON ACTUAL TOTAL RETURN FOR THE SIX MONTHS ENDED MARCH 31, 2006*
+
+<TABLE>
+<CAPTION>
+
+                                                    BEGINNING           ENDING       ANNUALIZED     EXPENSES
+                                  ACTUAL TOTAL    ACCOUNT VALUE     ACCOUNT VALUE      EXPENSE     PAID DURING
+                                     RETURN      OCTOBER 1, 2005    MARCH 31, 2006     RATIOS      THE PERIOD#
+                                  ------------   ---------------    --------------   ----------    -----------
+<S>                               <C>            <C>                <C>              <C>           <C>
+BARON ASSET FUND                     14.25%         $1,000.00         $1,142.52         1.33%         $7.10
+BARON GROWTH FUND                    14.79%          1,000.00          1,147.92         1.31%          7.02
+BARON SMALL CAP FUND                 15.36%          1,000.00          1,153.65         1.33%          7.14
+BARON iOPPORTUNITY FUND              13.97%          1,000.00          1,139.74         1.48%          7.90
+BARON FIFTH AVENUE GROWTH FUND        7.18%          1,000.00          1,071.80         1.40%          7.23
+</TABLE>
+----------
+*    Assumes all reinvestment of dividends and capital gain distributions, if
+     any.
+#    Expenses are equal to each Fund's respective annualized expense ratio
+     multiplied by the average account value over the period, multiplied by the
+     number of days in the most recent Fiscal half-year, then divided by 365.
+
+HYPOTHETICAL EXAMPLE FOR COMPARISON PURPOSES
+
+     The table  below  titled  "Based on  Hypothetical  Total  Return"  provides
+information about hypothetical account values and hypothetical expenses based on
+the actual  expense  ratio and an assumed  rate of return of 5% per year  before
+expenses, which is not the Funds' actual return. The hypothetical account values
+and expenses may not be used to estimate the actual  ending  account  values and
+expenses you paid for the period.  You may use the information  provided in this
+table to compare the ongoing costs of investing in the Funds and other funds. To
+do so,  compare the 5%  hypothetical  example  relating to the Funds with the 5%
+hypothetical examples that appear in the shareholder reports of other funds.
+
+     Please note that  expenses  shown in the table below are meant to highlight
+your  ongoing  costs  and  do not  reflect  any  transactional  costs,  such  as
+redemption  fees, if any.  Therefore,  the table is useful in comparing  ongoing
+costs only and will not help you determine  your relative  total costs of owning
+different mutual funds. In addition, if these transactional costs were included,
+your costs would have been higher.
+
+BASED ON HYPOTHETICAL TOTAL RETURN FOR THE SIX MONTHS ENDED MARCH 31, 2006
+
+<TABLE>
+<CAPTION>
+
+                                  HYPOTHETICAL      BEGINNING           ENDING       ANNUALIZED     EXPENSES
+                                   ANNUALIZED     ACCOUNT VALUE     ACCOUNT VALUE      EXPENSE     PAID DURING
+                                  TOTAL RETURN   OCTOBER 1, 2005    MARCH 31, 2006     RATIOS      THE PERIOD#
+                                  ------------   ---------------    --------------   ----------    -----------
+<S>                               <C>            <C>                <C>              <C>           <C>
+BARON ASSET FUND                      5.00%         $1,000.00         $1,018.30         1.33%         $6.69
+BARON GROWTH FUND                     5.00%          1,000.00          1,018.40         1.31%          6.59
+BARON SMALL CAP FUND                  5.00%          1,000.00          1,018.30         1.33%          6.69
+BARON iOPPORTUNITY FUND               5.00%          1,000.00          1,017.55         1.48%          7.44
+BARON FIFTH AVENUE GROWTH FUND        5.00%          1,000.00          1,017.95         1.40%          7.04
+</TABLE>
+----------
+#    Expenses are equal to each Fund's respective annualized expense ratio
+     multiplied by the average account value over the period, multiplied by the
+     number of days in the most recent Fiscal half-year, then divided by 365.
+
+                                        2
+
+<PAGE>
+
+BARON ASSET FUND
+-------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS
+-------------------------------------------------------------------------------
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+   Shares                                                 Cost          Value
+---------------------------------------------------------------------------------
+<S>          <C>                                      <C>               <C>
+COMMON STOCKS (98.34%)
+---------------------------------------------------------------------------------
+             ADVERTISING SERVICES (0.46%)
+  200,000    Getty Images, Inc.*                      $ 14,512,860   $ 14,976,000
+
+             APPAREL (1.95%)
+1,050,000    Polo Ralph Lauren Corp., Cl A              22,642,344     63,640,500
+
+             BUSINESS SERVICES (11.19%)
+1,400,000    Brown & Brown, Inc.                        29,309,040     46,480,000
+4,450,000    ChoicePoint, Inc.*#                        51,369,900    199,137,500
+1,225,000    Iron Mountain, Inc.*                       33,816,735     49,906,500
+1,150,000    Robert Half Intl., Inc.                     1,202,006     44,401,500
+  600,000    SEI Investments Co.                        22,537,033     24,318,000
+                                                      ------------   ------------
+                                                       138,234,714    364,243,500
+
+             CONSULTING (1.80%)
+1,300,000    Hewitt Associates, Inc.*                   32,352,583     38,662,000
+  280,000    Moody's Corp.                               7,256,123     20,008,800
+                                                      ------------   ------------
+                                                        39,608,706     58,670,800
+
+             DISTRIBUTION (0.51%)
+  350,000    Fastenal Co.                               13,929,932     16,569,000
+
+             EDUCATION (3.51%)
+  750,000    Apollo Group, Inc., Cl A*                   7,352,076     39,382,500
+1,275,000    DeVry, Inc.*                                7,614,588     29,031,750
+1,100,000    Education Mgmt. Corp.*                      6,886,520     45,760,000
+                                                      ------------   ------------
+                                                        21,853,184    114,174,250
+
+             ENERGY SERVICES (6.79%)
+  175,000    Arch Coal, Inc.                             8,679,589     13,289,500
+  475,000    Helmerich & Payne, Inc.                    31,767,218     33,164,500
+  500,000    SEACOR Holdings, Inc.*                     14,322,278     39,600,000
+  200,000    Ultra Petroleum Corp.*                      4,847,419     12,462,000
+  299,999    Valero Energy Corp.                        10,642,371     17,933,940
+2,400,000    XTO Energy, Inc.                           18,213,449    104,568,000
+                                                      ------------   ------------
+                                                        88,472,324    221,017,940
+
+             FINANCIAL SERVICES - ASSET
+               MANAGEMENT (4.19%)
+  600,000    AllianceBernstein Holding L.P.
+               (formerly Alliance Capital
+               Management Holding L.P.)                 28,433,769     39,750,000
+  900,000    Eaton Vance Corp.                          19,627,578     24,642,000
+  850,000    Nuveen Investments, Inc., Cl A             28,950,826     40,927,500
+  400,000    T. Rowe Price Group, Inc.                  21,584,167     31,284,000
+                                                      ------------   ------------
+                                                        98,596,340    136,603,500
+
+             FINANCIAL SERVICES - BANKING (1.42%)
+  435,000    City National Corp.                        31,635,225     33,403,650
+  350,000    Commerce Bancorp, Inc.                      8,640,051     12,827,500
+                                                      ------------   ------------
+                                                        40,275,276     46,231,150
+
+<PAGE>
+
+             FINANCIAL SERVICES - BROKERAGE
+               AND EXCHANGES (8.93%)
+9,300,000    Charles Schwab Corp.                       23,212,923    160,053,000
+  255,000    Chicago Mercantile Exchange
+               Holdings, Inc., Cl A                     18,498,370    114,112,500
+  285,000    Jefferies Group, Inc.                      16,056,950     16,672,500
+                                                      ------------   ------------
+                                                        57,768,243    290,838,000
+
+             FINANCIAL SERVICES -
+               INSURANCE (5.15%)
+1,000,000    Arch Capital Group, Ltd.*                $ 33,841,383   $ 57,740,000
+  850,000    Assurant, Inc.                             28,107,970     41,862,500
+1,350,000    Axis Capital Holdings, Ltd.                34,853,219     40,365,000
+  800,000    HCC Insurance Holdings, Inc.               24,964,109     27,840,000
+                                                      ------------   ------------
+                                                       121,766,681    167,807,500
+
+             FINANCIAL SERVICES -
+               MISCELLANEOUS (2.39%)
+  225,000    CapitalSource, Inc.                         5,181,245      5,598,000
+1,000,000    First Marblehead Corp.                     36,557,795     43,250,000
+  125,000    The Student Loan Corp.                     17,812,742     29,125,000
+                                                      ------------   ------------
+                                                        59,551,782     77,973,000
+
+             GAMING SERVICES (0.75%)
+  700,000    Scientific Games Corp., Cl A*              20,327,603     24,591,000
+
+             HEALTHCARE FACILITIES (2.93%)
+  800,000    Community Health Systems, Inc.*            20,710,260     28,920,000
+1,500,000    Manor Care, Inc.                           32,956,389     66,525,000
+                                                      ------------   ------------
+                                                        53,666,649     95,445,000
+
+             HEALTHCARE PRODUCTS (2.60%)
+  565,000    DENTSPLY International, Inc.               24,654,030     32,854,750
+  800,000    Henry Schein, Inc.*                        22,796,151     38,288,000
+  200,000    Zimmer Holdings, Inc.*                      6,087,903     13,520,000
+                                                      ------------   ------------
+                                                        53,538,084     84,662,750
+
+             HEALTHCARE SERVICES (4.51%)
+  650,000    Advanced Medical Optics, Inc.*             29,014,150     30,316,000
+  250,000    Caremark Rx, Inc.*                          5,389,305     12,295,000
+  525,000    Charles River Laboratories Intl., Inc.*    16,106,774     25,735,500
+  325,000    Covance, Inc.*                             18,914,906     19,093,750
+  425,000    Fisher Scientific Intl., Inc.*             24,522,276     28,921,250
+  450,000    Stericycle, Inc.*                          26,579,010     30,429,000
+                                                      ------------   ------------
+                                                       120,526,421    146,790,500
+
+             HEALTHCARE SERVICES -
+              INSURANCE (1.66%)
+  700,000    WellPoint, Inc.*                           17,819,752     54,201,000
+
+             HOTELS AND LODGING (2.17%)
+  850,000    Choice Hotels Intl., Inc.                   4,185,563     38,913,000
+  625,000    Four Seasons Hotels, Inc.                  23,375,834     31,687,500
+                                                      ------------   ------------
+                                                        27,561,397     70,600,500
+
+             MEDIA (0.00%)
+    5,174    Radio One, Inc., Cl A*                         32,338         38,701
+
+             REAL ESTATE (2.70%)
+  600,000    CB Richard Ellis Group, Inc., Cl A*        20,815,726     48,420,000
+  141,844    Corrections Corp. of America*                   1,419      6,411,349
+  525,000    The St. Joe Company                        34,866,683     32,991,000
+                                                      ------------   ------------
+                                                        55,683,828     87,822,349
+
+             REAL ESTATE - HOME BUILDING (2.58%)
+  270,000    M.D.C. Holdings, Inc.                      16,769,775     17,363,700
+   40,000    NVR, Inc.*                                 13,394,243     29,558,000
+1,075,000    Toll Brothers, Inc.*                       21,751,848     37,227,250
+                                                      ------------   ------------
+                                                        51,915,866     84,148,950
+
+             REAL ESTATE - REITS (3.82%)
+  314,000    Alexander's, Inc.*#                        20,453,936     90,746,000
+  175,000    Forest City Enterprises, Inc., Cl A         7,309,363      8,251,250
+  250,000    SL Green Realty Corp.                      21,214,463     25,375,000
+                                                      ------------   ------------
+                                                        48,977,762    124,372,250
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+
+                                        3
+
+<PAGE>
+
+BARON ASSET FUND
+--------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS (CONTINUED)
+--------------------------------------------------------------------------------
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+   Shares                                                   Cost             Value
+---------------------------------------------------------------------------------------
+<S>          <C>                                      <C>               <C>
+COMMON STOCKS (CONTINUED)
+--------------------------------------------------------------------------------
+             RECREATION AND RESORTS (15.61%)
+  700,000    Boyd Gaming Corp.                        $   30,904,281   $    34,958,000
+2,400,000    Kerzner Intl., Ltd.*#                        77,808,281       186,768,000
+3,000,000    Vail Resorts, Inc.*#                         61,273,805       114,660,000
+  850,000    Wynn Resorts, Ltd.*                          19,006,090        65,322,500
+1,459,408    Wynn Resorts, Ltd.*@                         30,030,772       106,547,730
+                                                      --------------   ---------------
+                                                         219,023,229       508,256,230
+
+             RESTAURANTS (0.89%)
+  775,000    The Cheesecake Factory, Inc.*                16,382,931        29,023,750
+
+             RETAIL - CONSUMER STAPLES (1.84%)
+  900,000    Whole Foods Market, Inc.                     25,563,386        59,796,000
+
+             RETAIL - SPECIALTY STORES (2.68%)
+  550,000    CarMax, Inc.*                                14,518,495        17,974,000
+  500,000    O'Reilly Automotive, Inc.*                   12,587,919        18,280,000
+  800,000    Tiffany & Co.                                26,059,638        30,032,000
+  850,000    Urban Outfitters, Inc.*                      23,595,170        20,859,000
+                                                      --------------   ---------------
+                                                          76,761,222        87,145,000
+
+             TRANSPORTATION (3.59%)
+1,500,000    C. H. Robinson Worldwide, Inc.               27,854,391        73,635,000
+  500,000    Expeditors International of
+               Washington, Inc.                           24,492,142        43,195,000
+                                                      --------------   ---------------
+                                                          52,346,533       116,830,000
+
+             UTILITY SERVICES (1.72%)
+2,250,000    Southern Union Co.*                          28,662,596        55,867,500
+                                                      --------------   ---------------
+
+TOTAL COMMON STOCKS                                    1,586,001,983     3,202,336,620
+                                                      --------------   ---------------
+--------------------------------------------------------------------------------------
+CONVERTIBLE PREFERRED STOCKS (0.29%)
+--------------------------------------------------------------------------------------
+             EDUCATION (0.01%)
+  105,264    Apollo International, Inc. S-A
+               CV Pfd.*@#                                  2,000,016           400,000
+             HEALTHCARE SERVICES (0.28%)
+    5,849    Somerford Corp. S-A Conv. Pfd.*@              9,090,399         9,090,397
+                                                      --------------   ---------------
+TOTAL CONVERTIBLE PREFERRED STOCKS                        11,090,415         9,490,397
+                                                      --------------   ---------------
+
+<PAGE>
+
+<CAPTION>
+
+   Principal Amount                                     Cost             Value
+---------------------------------------------------------------------------------------
+<S>          <C>                                      <C>               <C>
+CORPORATE BONDS (0.07%)
+--------------------------------------------------------------------------------------
+                HEALTHCARE SERVICES
+$   2,166,667   Somerford Corp. 8.50%
+                  Sub. Conv. Deb.
+                  due 04/23/2007@                     $    2,166,667   $     2,166,667
+                                                      --------------   ---------------
+
+SHORT TERM MONEY MARKET INSTRUMENTS (1.24%)
+
+    5,899,999   AIG Funding, Inc. 4.81%
+                  due 04/03/2006                           5,899,999         5,899,999
+   14,500,000   Chesham Finance Ltd. 4.84%
+                  due 04/03/2006                          14,500,000        14,500,000
+    5,714,737   Citigroup Funding, Inc. 4.75%
+                  due 04/03/2006                           5,714,737         5,714,737
+   14,277,239   Koch Industries, Inc. 4.84%
+                  due 04/03/2006                          14,277,239        14,277,239
+                                                      --------------   ---------------
+TOTAL SHORT TERM MONEY MARKET
+  INSTRUMENTS                                             40,391,975        40,391,975
+                                                      --------------   ---------------
+TOTAL INVESTMENTS (99.94%)                            $1,639,651,040     3,254,385,659
+                                                      ==============
+CASH AND OTHER ASSETS
+  LESS LIABILITIES (0.06%)                                                   1,851,614
+                                                                       ---------------
+NET ASSETS (EQUIVALENT TO $61.54 PER
+  SHARE BASED ON 52,909,173 SHARES
+  OUTSTANDING)                                                         $ 3,256,237,273
+                                                                       ===============
+</TABLE>
+---------------
+%  Represents percentage of net assets
+@  See Note 7 regarding restricted and fair valued securities.
+#  See Note 9 regarding "affiliated investments."
+*  Non-income producing securities
+
+                       See Notes to Financial Statements.
+
+
+                                        4
+
+<PAGE>
+
+BARON ASSET FUND
+-------------------------------------------------------------------------------
+
+TOP 10 HOLDINGS (AS A PERCENTAGE OF NET ASSETS) AS OF
+MARCH 31, 2006
+
+--------------------------------------------------------
+                                                % OF NET
+BARON ASSET FUND                                  ASSETS
+--------------------------------------------------------
+ChoicePoint, Inc.                                   6.1%
+Kerzner Intl., Ltd.                                 5.7%
+Wynn Resorts, Ltd.                                  5.3%
+Charles Schwab Corp.                                4.9%
+Vail Resorts, Inc.                                  3.5%
+Chicago Mercantile Exchange Holdings, Inc., Cl A    3.5%
+XTO Energy, Inc.                                    3.2%
+Alexander's, Inc.                                   2.8%
+C.H. Robinson Worldwide, Inc.                       2.3%
+Manor Care, Inc.                                    2.1%
+                                                   -----
+                                                   39.4%
+                                                   =====
+
+
+                             TOP TEN INDUSTRY GROUPS
+                              AS OF MARCH 31, 2006
+                         (AS A PERCENTAGE OF NET ASSETS)
+
+                                   [GRAPHIC]
+
+Cash and Cash Equivalents                        1.3%
+Recreation and Resorts                          15.6%
+Business Services                               11.2%
+Financial Services - Brokerage and Exchanges     8.9%
+Energy Services                                  6.8%
+Financial Services - Insurance                   5.1%
+Healthcare Services                              4.9%
+Financial Services - Asset Management            4.2%
+Real Estate - REITs                              3.8%
+Transportation                                   3.6%
+Education                                        3.5%
+Other                                           31.1%
+
+
+                       See Notes to Financial Statements.
+
+
+                                        5
+
+<PAGE>
+
+BARON GROWTH FUND
+--------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS
+--------------------------------------------------------------------------------
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+   Shares                                                              Cost             Value
+-----------------------------------------------------------------------------------------------
+<S>          <C>                                                 <C>               <C>
+COMMON STOCKS (91.77%)
+-----------------------------------------------------------------------------------------------
+             ADVERTISING SERVICES (0.56%)
+  100,000    Getty Images, Inc.*                                  $   1,681,600   $   7,488,000
+  900,000    Harte-Hanks, Inc.                                       20,139,003      24,615,000
+                                                                  -------------   -------------
+                                                                     21,820,603      32,103,000
+
+             APPAREL (1.78%)
+1,450,000    Carter's, Inc.*#                                        39,178,712      97,860,500
+  100,000    Under Armour, Inc., Cl A*                                1,935,659       3,240,000
+                                                                  -------------   -------------
+                                                                     41,114,371     101,100,500
+
+             BUSINESS SERVICES (3.04%)
+  600,000    Brown & Brown, Inc.                                      9,830,329      19,920,000
+1,592,000    ChoicePoint, Inc.*                                      35,519,748      71,242,000
+1,325,000    CoPart, Inc.*                                           31,401,691      36,371,250
+  875,000    Gevity HR, Inc.                                         16,082,447      21,402,500
+  750,000    Macquarie Infrastructure Company
+              Trust                                                  25,421,833      24,375,000
+                                                                  -------------   -------------
+                                                                    118,256,048     173,310,750
+
+             CHEMICAL (1.01%)
+  700,000    Senomyx, Inc.*                                           6,340,864      11,522,000
+1,650,000    Symyx Technologies, Inc.*                               26,885,343      45,771,000
+                                                                  -------------   -------------
+                                                                     33,226,207      57,293,000
+
+             COMMUNICATIONS (2.00%)
+1,100,000    Equinix, Inc.*                                          36,191,006      70,642,000
+1,850,000    SBA Communications Corp., Cl A*                          7,166,474      43,308,500
+                                                                  -------------   -------------
+                                                                     43,357,480     113,950,500
+
+             CONSULTING (0.87%)
+1,275,000    Hewitt Associates, Inc.*                                31,214,731      37,918,500
+  600,000    LECG Corp.*                                             12,477,679      11,562,000
+                                                                  -------------   -------------
+                                                                     43,692,410      49,480,500
+
+             CONSUMER SERVICES (0.13%)
+  200,000    Church & Dwight Co., Inc.                                7,458,150       7,384,000
+
+             CONSUMER SERVICES (1.82%)
+  850,000    Chemed Corp.                                            31,341,103      50,439,000
+1,183,000    Morningstar, Inc.*                                      25,529,492      52,962,910
+                                                                  -------------   -------------
+                                                                     56,870,595     103,401,910
+
+             DISTRIBUTION (1.71%)
+  400,000    Beacon Roofing Supply, Inc.*                            14,661,808      16,256,000
+  682,292    SCP Pool Corp.                                          25,746,119      32,006,318
+  692,000    Watsco, Inc.                                            46,356,186      49,166,600
+                                                                  -------------   -------------
+                                                                     86,764,113      97,428,918
+
+             EDUCATION (5.17%)
+3,700,000    DeVry, Inc.*#                                           62,024,338      84,249,000
+2,500,000    Education Mgmt. Corp.*                                  58,705,529     104,000,000
+  700,000    Strayer Education, Inc.                                 57,859,739      71,582,000
+1,150,000    Universal Technical Institute, Inc.*                    31,350,206      34,615,000
+                                                                  -------------   -------------
+                                                                    209,939,812     294,446,000
+
+<PAGE>
+
+             ENERGY SERVICES (6.45%)
+1,000,000    Carbo Ceramics, Inc.                                    60,612,847      56,910,000
+  325,000    Core Laboratories N.V.*                                 15,061,203      15,453,750
+3,700,000    Encore Acquisition Co.*#                                64,684,811     114,700,000
+  750,000    EXCO Resources, Inc.*                                    9,812,500       9,397,500
+1,100,000    FMC Technologies, Inc.*                                 25,188,996      56,342,000
+  300,000    Foundation Coal Holdings, Inc.                          11,010,993      12,342,000
+1,250,000    International Coal Group, Inc.*                         12,883,418      12,175,000
+   25,000    Petrohawk Energy Corp.*                                    333,985         342,500
+  400,000    PHI, Inc.* (formerly Petroleum
+              Helicopters, Inc.)                                     10,077,790      14,688,000
+  487,500    Range Resources Corp.                                    8,333,342      13,313,625
+  440,000    SEACOR Holdings, Inc.*                                  17,768,097      34,848,000
+  650,000    Whiting Petroleum Corp.*                                22,550,925      26,643,500
+                                                                  -------------   -------------
+                                                                    258,318,907     367,155,875
+
+             FINANCIAL SERVICES - ASSET MANAGEMENT (1.43%)
+1,600,000    Cohen & Steers, Inc.                                 $  24,788,860   $  39,200,000
+  650,000    Eaton Vance Corp.                                       11,290,146      17,797,000
+  260,000    GAMCO Investors, Inc., Cl A                              3,811,537      10,387,000
+  290,000    Nuveen Investments, Inc., Cl A                           7,748,686      13,963,500
+                                                                  -------------   -------------
+                                                                     47,639,229      81,347,500
+
+             FINANCIAL SERVICES - BANKING (3.72%)
+  625,000    Cathay General Bancorp                                  22,783,925      23,525,000
+  850,000    Center Financial Corp.#                                 18,904,650      20,595,500
+  800,000    Central Pacific Financial Corp.                         28,316,418      29,376,000
+1,300,000    First Republic Bank                                     40,949,131      49,166,000
+4,000,000    UCBH Holdings, Inc.                                     80,006,240      75,680,000
+  361,100    Western Alliance Bancorporation*                        12,247,055      13,414,865
+                                                                  -------------   -------------
+                                                                    203,207,419     211,757,365
+
+             FINANCIAL SERVICES - BROKERAGE & EXCHANGES (3.88%)
+    8,000    IntercontinentalExchange, Inc.*                            208,000         552,400
+1,750,000    International Securities
+              Exchange, Inc., Cl A*                                  49,915,686      72,887,500
+2,400,000    Jefferies Group, Inc.                                   73,517,475     140,400,000
+  325,000    Thomas Weisel Partners Group, Inc.*                      5,352,129       7,117,500
+                                                                  -------------   -------------
+                                                                    128,993,290     220,957,400
+
+             FINANCIAL SERVICES - INSURANCE (1.67%)
+1,650,000    Arch Capital Group, Ltd.*                               51,045,431      95,271,000
+
+             FINANCIAL SERVICES - MISCELLANEOUS (3.09%)
+1,000,000    CheckFree Corp.*                                        18,042,917      50,500,000
+2,000,000    First Marblehead Corp.                                  60,778,895      86,500,000
+  693,900    National Financial Partners Corp.                       39,141,887      39,219,228
+                                                                  -------------   -------------
+                                                                    117,963,699     176,219,228
+
+             FOOD AND AGRICULTURE (0.94%)
+1,400,000    Ralcorp Hldgs., Inc.*                                   53,671,573      53,270,000
+
+             GAMING SERVICES (1.84%)
+1,300,000    Scientific Games Corp., Cl A*                           32,010,748      45,669,000
+1,650,000    Shuffle Master, Inc.*                                   45,610,427      58,971,000
+                                                                  -------------   -------------
+                                                                     77,621,175     104,640,000
+
+             GOVERNMENT SERVICES (0.60%)
+  622,100    Anteon Intl. Corp.*                                     17,539,117      33,941,776
+
+             HEALTHCARE FACILITIES (3.70%)
+2,000,000    Community Health Systems, Inc.*                         49,858,102      72,300,000
+1,800,000    Manor Care, Inc.                                        33,815,991      79,830,000
+1,650,000    United Surgical Partners Intl., Inc.*                   23,181,527      58,426,500
+                                                                  -------------   -------------
+                                                                    106,855,620     210,556,500
+
+             HEALTHCARE PRODUCTS (1.75%)
+1,950,000    Depomed, Inc.*                                          11,124,661      12,733,500
+2,000,000    Edwards Lifesciences Corp.*                             59,602,586      87,000,000
+                                                                  -------------   -------------
+                                                                     70,727,247      99,733,500
+
+             HEALTHCARE SERVICES (3.47%)
+1,703,200    Charles River Laboratories Intl., Inc.*                 52,306,788      83,490,864
+  800,000    Gen-Probe, Inc.*                                        33,725,299      44,096,000
+  160,000    IDEXX Laboratories, Inc.*                                9,006,923      13,817,600
+  117,500    NightHawk Radiology Holdings, Inc.*                      2,322,995       2,807,075
+1,525,000    Odyssey HealthCare, Inc.*                               17,605,293      26,245,250
+1,100,000    PRA International*                                      25,870,873      27,269,000
+                                                                  -------------   -------------
+                                                                    140,838,171     197,725,789
+
+             HEALTHCARE SERVICES - INSURANCE (3.61%)
+3,800,000    AMERIGROUP Corp.*#                                      70,530,101      79,952,000
+3,000,000    Centene Corp.*#                                         27,176,333      87,510,000
+  841,300    WellCare Health Plans, Inc.*                            35,233,013      38,228,672
+                                                                  -------------   -------------
+                                                                    132,939,447     205,690,672
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+
+                                        6
+
+<PAGE>
+
+BARON GROWTH FUND
+-------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS (CONTINUED)
+-------------------------------------------------------------------------------
+
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+   Shares                                                   Cost             Value
+--------------------------------------------------------------------------------------
+<S>          <C>                                        <C>             <C>
+COMMON STOCKS (CONTINUED)
+--------------------------------------------------------------------------------------
+             HOTELS AND LODGING (2.41%)
+1,000,000    Choice Hotels Intl., Inc.                 $    5,706,996   $   45,780,000
+1,800,000    Four Seasons Hotels, Inc.                     71,435,019       91,260,000
+                                                       --------------   --------------
+                                                           77,142,015      137,040,000
+
+             MEDIA (0.74%)
+  480,000    Central European Media
+              Enterprises Ltd.*                            22,193,721       32,932,800
+1,000,000    LIN TV Corp., Cl A*                           20,939,430        9,000,000
+   13,826    Radio One, Inc., Cl A*                           107,943          103,418
+                                                       --------------   --------------
+                                                           43,241,094       42,036,218
+
+             MEDICAL EQUIPMENT (0.57%)
+  275,000    Intuitive Surgical, Inc.*                      4,029,661       32,450,000
+
+             PRINTING AND PUBLISHING (0.21%)
+  550,000    ProQuest Co.*                                 15,078,662       11,764,500
+
+             REAL ESTATE (3.33%)
+1,650,000    CB Richard Ellis Group, Inc., Cl A*           35,102,587      133,155,000
+  666,667    CBRE Realty Finance, Inc. 144A@               10,000,005       10,000,005
+  899,600    CoStar Group, Inc.*                           38,457,938       46,680,244
+                                                       --------------   --------------
+                                                           83,560,530      189,835,249
+
+             REAL ESTATE - HOME BUILDING (0.89%)
+  300,000    Brookfield Homes Corp.                         9,063,401       15,558,000
+  675,000    Hovnanian Enterprises, Inc., Cl A*            16,134,933       29,652,750
+  100,000    Meritage Homes Corp.*                          5,927,275        5,496,000
+                                                       --------------   --------------
+                                                           31,125,609       50,706,750
+
+             REAL ESTATE - REITS (0.90%)
+   75,000    Alexander's, Inc.*                             5,683,588       21,675,000
+2,429,800    Spirit Finance Corp.                          28,350,595       29,643,560
+                                                       --------------   --------------
+                                                           34,034,183       51,318,560
+
+             RECREATION AND RESORTS (10.79%)
+1,800,000    Ameristar Casinos, Inc.                       35,538,626       46,422,000
+  200,000    Boyd Gaming Corp.                              5,345,491        9,988,000
+1,500,000    Fontainebleau Resorts, LLC@                   15,000,000       15,000,000
+  500,000    Gaylord Entertainment Co.*                    14,449,466       22,690,000
+1,425,000    Isle of Capri Casinos, Inc.*                  29,990,333       47,424,000
+1,800,000    Kerzner Intl., Ltd.*                          49,095,087      140,076,000
+  425,000    Life Time Fitness, Inc.*                      14,694,761       19,911,250
+  575,000    Penn National Gaming, Inc.*                   16,140,523       24,253,500
+1,250,000    Six Flags, Inc.*                              13,167,500       12,725,000
+1,700,000    Station Casinos, Inc.                         39,029,399      134,929,000
+1,250,000    Vail Resorts, Inc.*                           21,897,070       47,775,000
+  700,000    Wynn Resorts, Ltd. *                           9,057,289       53,795,000
+  537,677    Wynn Resorts, Ltd. *@                         11,063,956       39,254,454
+                                                       --------------   --------------
+                                                          274,469,501      614,243,204
+
+             RESTAURANTS (5.10%)
+  950,000    California Pizza Kitchen, Inc.*               24,386,635       30,827,500
+   91,193    Chipotle Mexican Grill, Inc.*                  3,795,605        5,051,180
+  525,000    Panera Bread Co., Cl A*                       16,333,742       39,469,500
+  650,000    Peet's Coffee & Tea, Inc.*                    13,755,125       19,500,000
+1,300,000    P.F. Chang's China Bistro, Inc.*              61,532,458       64,077,000
+  800,000    Red Robin Gourmet Burgers, Inc.*              45,540,090       37,760,000
+2,500,000    The Cheesecake Factory, Inc.*                 54,474,009       93,625,000
+                                                       --------------   --------------
+                                                          219,817,664      290,310,180
+
+<PAGE>
+
+             RETAIL - SPECIALTY STORES (8.42%)
+  875,000    Blue Nile, Inc.*#                             26,058,719       30,791,250
+1,200,000    Cabela's, Inc., Cl A*                         26,601,533       24,624,000
+1,650,000    CarMax, Inc.*                                 34,948,928       53,922,000
+2,500,000    Dick's Sporting Goods, Inc.*                  86,074,246       99,175,000
+1,350,000    DSW, Inc., Cl A*                              33,112,042       42,282,000
+  935,000    Guitar Center, Inc.*                          53,937,552       44,599,500
+1,200,000    PETCO Animal Supplies, Inc.*                  24,210,542       28,284,000
+1,800,000    Select Comfort Corp.*#                        38,016,795       71,190,000
+  625,000    Tractor Supply Co.*                           24,758,679       41,462,500
+1,000,000    United Auto Group, Inc.                       38,250,866       43,000,000
+                                                       --------------   --------------
+                                                          385,969,902      479,330,250
+
+             SOFTWARE (0.61%)
+  925,000    Kronos, Inc.*                             $   24,581,949   $   34,585,750
+
+             TRANSPORTATION (2.16%)
+  237,400    American Railcar Industries, Inc.              5,263,167        8,325,618
+1,863,750    Genesee & Wyoming, Inc., Cl A*                28,652,530       57,179,850
+  550,000    Landstar System, Inc.*                        13,610,267       24,266,000
+1,050,000    UTI Worldwide, Inc.                           24,275,698       33,180,000
+                                                       --------------   --------------
+                                                           71,801,662      122,951,468
+
+             UTILITY SERVICES (1.40%)
+1,500,000    ITC Holdings Corp.                            40,425,620       39,375,000
+1,627,498    Southern Union Co.*                           19,474,278       40,410,775
+                                                       --------------   --------------
+                                                           59,899,898       79,785,775
+                                                       --------------   --------------
+TOTAL COMMON STOCKS                                     3,394,612,444    5,224,523,587
+                                                       --------------   --------------
+
+--------------------------------------------------------------------------------------
+CONVERTIBLE PREFERRED STOCKS (0.13%)
+--------------------------------------------------------------------------------------
+             PHARMACEUTICAL
+  750,000    Reliant Pharmaceuticals LLC
+                 Series D*@                                15,000,000        7,500,000
+                                                       --------------   --------------
+Principal Amount
+--------------------------------------------------------------------------------------
+CORPORATE BONDS (1.52%)
+--------------------------------------------------------------------------------------
+             RECREATION AND RESORTS
+$26,000,000  Wynn Resorts 6.00%
+               Sub. Conv. Deb.
+               due 07/15/2015                              25,461,601       86,580,000
+                                                       --------------   --------------
+
+--------------------------------------------------------------------------------------
+SHORT TERM MONEY MARKET INSTRUMENTS (7.05%)
+--------------------------------------------------------------------------------------
+ 27,022,163  ANZ National Ltd. 4.71%
+               due 04/12/2006                              27,022,163       27,022,163
+ 82,049,999  Chesham Finance Ltd. 4.84%
+               due 04/03/2006                              82,049,999       82,049,999
+ 44,827,450  Compass Securitization Ltd. 4.78%
+               due 04/25/2006                              44,827,450       44,827,450
+ 49,814,924  Dexia Delaware LLC 4.61%
+               due 04/05/2006                              49,814,924       49,814,924
+ 13,170,219  General Electric Capital Corp. 4.68%
+               due 04/17/2006                              13,170,219       13,170,219
+ 49,808,750  Norddeutsche Landesbank
+               Luxembourg S.A. 4.61%
+               due 04/05/2006                              49,808,750       49,808,750
+ 24,894,125  PB Finance, Inc. 4.64%
+               due 04/05/2006                              24,894,125       24,894,125
+ 39,224,560  PB Finance, Inc. 4.60%
+               due 04/05/2006                              39,224,560       39,224,560
+ 23,900,587  Prudential Financial Services 4.68%
+               due 04/17/2006                              23,900,587       23,900,587
+ 34,967,674  SanPaolo IMI U.S. Financial Co. 4.75%
+               due 04/03/2006                              34,967,674       34,967,674
+ 11,603,821  SanPaolo IMI U.S. Financial Co. 4.79%
+               due 04/03/2006                              11,603,821       11,603,821
+                                                       --------------   --------------
+TOTAL SHORT TERM MONEY MARKET
+   INSTRUMENTS                                            401,284,272      401,284,272
+                                                       --------------   --------------
+TOTAL INVESTMENTS (100.47%)                            $3,836,358,317    5,719,887,859
+                                                       ==============
+LIABILITIES LESS
+  CASH AND OTHER ASSETS (-0.47%)                                           (26,826,665)
+                                                                        --------------
+NET ASSETS (EQUIVALENT TO $50.50 PER
+ SHARE BASED ON 112,740,719 SHARES
+ OUTSTANDING)                                                           $5,693,061,194
+                                                                        ==============
+</TABLE>
+
+---------------
+%   Represents percentage of net assets
+@   See Note 7 regarding restricted and fair valued securities.
+#   See Note 9 regarding "affiliated investments."
+*   Non-income producing securities
+
+                       See Notes to Financial Statements.
+
+
+                                        7
+
+<PAGE>
+
+BARON GROWTH FUND
+-------------------------------------------------------------------------------
+
+TOP 10 HOLDINGS (AS A PERCENTAGE OF NET ASSETS) AS OF
+MARCH 31, 2006
+
+--------------------------------------------------------------------------------
+                                                                        % OF NET
+BARON GROWTH FUND                                                        ASSETS
+--------------------------------------------------------------------------------
+Wynn Resorts, Ltd.                                                         3.2%
+Jefferies Group, Inc.                                                      2.5%
+Kerzner Intl., Ltd.                                                        2.5%
+Station Casinos, Inc.                                                      2.4%
+CB Richard Ellis Group, Inc., Cl A                                         2.3%
+Encore Acquisition Co.                                                     2.0%
+Education Mgmt. Corp.                                                      1.8%
+Dick's Sporting Goods, Inc.                                                1.7%
+Carter's, Inc.                                                             1.7%
+Arch Capital Group, Ltd.                                                   1.7%
+                                                                          -----
+                                                                           21.8%
+                                                                          =====
+
+
+                             TOP TEN INDUSTRY GROUPS
+                              AS OF MARCH 31, 2006
+                         (AS A PERCENTAGE OF NET ASSETS)
+
+
+
+                                   [GRAPHIC]
+
+Cash and Cash Equivalents                        6.6%
+Recreation and Resorts                          12.3%
+Retail - Specialty Stores                        8.4%
+Energy Services                                  6.5%
+Education                                        5.2%
+Restaurants                                      5.1%
+Financial Services - Brokerages and Exchanges    3.9%
+Financial Services - Banking                     3.7%
+Healthcare Facilities                            3.7%
+Healthcare Services - Insurance                  3.6%
+Healthcare Services                              3.5%
+Other                                           37.5%
+
+
+                       See Notes to Financial Statements.
+
+
+                                        8
+
+<PAGE>
+
+BARON SMALL CAP FUND
+--------------------------------------------------------------------------------
+STATEMENT OF NET ASSETS
+--------------------------------------------------------------------------------
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+   Shares                                                         Cost           Value
+-----------------------------------------------------------------------------------------
+<S>          <C>                                               <C>           <C>
+COMMON STOCKS (94.46%)
+-----------------------------------------------------------------------------------------
+             ADVERTISING SERVICES (1.26%)
+  725,000    R.H. Donnelley Corp.*                            $ 26,979,391   $ 42,216,750
+
+             APPAREL (1.62%)
+  650,000    Carter's, Inc.*                                    21,552,173     43,868,500
+  410,747    Crocs, Inc.*                                        9,558,091     10,330,287
+                                                              ------------   ------------
+                                                                31,110,264     54,198,787
+             BUILDING MATERIALS (4.75%)
+2,500,000    Eagle Materials, Inc., Cl B#                       49,689,510    159,475,000
+
+             BUSINESS SERVICES (3.81%)
+  725,000    ChoicePoint, Inc.*                                  6,949,762     32,443,750
+  350,000    DealerTrack Holdings, Inc.*                         6,578,325      7,458,500
+  400,000    DX Services plc^                                    2,453,478      2,310,600
+1,650,000    First Advantage Corp., Cl A*                       34,451,876     39,897,000
+  504,984    Infocrossing, Inc.*                                 3,964,807      6,085,057
+  975,000    Iron Mountain, Inc.*                               10,010,523     39,721,500
+                                                              ------------   ------------
+                                                                64,408,771    127,916,407
+
+             COMMUNICATIONS (6.54%)
+3,000,000    American Tower Corp., Cl A*                        15,401,672     90,960,000
+2,000,000    SBA Communications Corp., Cl A*                    10,934,507     46,820,000
+  750,000    Time Warner Telecom, Inc., Cl A*                   11,657,460     13,462,500
+4,650,000    UbiquiTel, Inc.*                                   21,656,195     46,965,000
+  750,000    USA Mobility, Inc.                                 16,280,379     21,360,000
+                                                              ------------   ------------
+                                                                75,930,213    219,567,500
+
+             CONSULTING (2.92%)
+  275,000    Corporate Executive Board Co.                       4,596,432     27,747,500
+1,650,000    LECG Corp.*#                                       32,939,131     31,795,500
+1,800,000    Navigant Consulting, Inc.*                         31,385,220     38,430,000
+                                                               -----------   ------------
+                                                                68,920,783     97,973,000
+
+             CONSUMER PRODUCTS (2.27%)
+2,000,000    Acco Brands Corp.*                                 48,493,311     44,400,000
+1,625,000    DTS, Inc.*#                                        34,251,425     31,947,500
+                                                              ------------   ------------
+                                                                82,744,736     76,347,500
+
+             DISTRIBUTION (1.73%)
+  750,000    Beacon Roofing Supply, Inc.*                       29,259,678     30,480,000
+  590,319    SCP Pool Corp.                                     22,344,850     27,691,864
+                                                              ------------   ------------
+                                                                51,604,528     58,171,864
+
+             EDUCATION (3.27%)
+  500,000    Apollo Group, Inc., Cl A*                           4,269,664     26,255,000
+  444,000    Strayer Education, Inc.                            37,452,157     45,403,440
+1,267,700    Universal Technical Institute, Inc.*               37,885,631     38,157,770
+                                                              ------------   ------------
+                                                                79,607,452    109,816,210
+
+             ENERGY SERVICES (3.15%)
+2,080,000    Covanta Holding Corp.                              31,716,533     34,673,600
+1,850,000    International Coal Group, Inc.*                    19,357,068     18,019,000
+  560,000    PHI, Inc.* (formerly Petroleum
+               Helicopters, Inc.)                               14,202,258     20,563,200
+  850,000    SunPower Corp., Cl A*                              23,909,406     32,436,000
+                                                              ------------   ------------
+                                                                89,185,265    105,691,800
+
+             FINANCIAL SERVICES - ASSET MANAGEMENT (0.30%)
+  250,000    GAMCO Investors, Inc., Cl A                         4,356,166      9,987,500
+
+             FINANCIAL SERVICES - BANKING (0.31%)
+1,500,000    Cash Systems, Inc.*#                               10,062,346     10,425,000
+
+<PAGE>
+
+             FINANCIAL SERVICES - INSURANCE (0.67%)
+  200,000    Arch Capital Group, Ltd.*                           5,515,966     11,548,000
+  625,000    SeaBright Insurance Holdings, Inc.*                10,101,260     10,887,500
+                                                              ------------   ------------
+                                                                15,617,226     22,435,500
+
+             FINANCIAL SERVICES - MISCELLANEOUS (0.67%)
+1,000,000    KKR Financial Corp.                              $ 24,543,895   $ 22,430,000
+
+             GOVERNMENT SERVICES (5.00%)
+  318,200    Anteon Intl. Corp.*                                 6,489,721     17,360,992
+2,850,000    FLIR Systems, Inc.*                                64,339,753     80,968,500
+  345,000    Identix, Inc.*                                      2,839,232      2,746,200
+1,053,002    Mantech Intl. Corp., Cl A*                         19,630,579     34,980,727
+1,820,400    Viisage Technology, Inc.*#                         32,449,850     31,875,204
+                                                              ------------   ------------
+                                                               125,749,135    167,931,623
+
+             HEALTHCARE FACILITIES (4.48%)
+1,353,700    American Retirement Corp.*                         15,157,651     34,681,794
+1,400,000    Brookdale Senior Living, Inc.                      34,154,494     52,850,000
+1,775,000    United Surgical Partners Intl., Inc.*              20,503,596     62,852,750
+                                                              ------------   ------------
+                                                                69,815,741    150,384,544
+
+             HEALTHCARE SERVICES (1.53%)
+  475,000    Gen-Probe, Inc.*                                   21,507,724     26,182,000
+  150,000    NightHawk Radiology Holdings, Inc.*                 2,919,761      3,583,500
+  875,000    PRA International*                                 20,587,790     21,691,250
+                                                              ------------   ------------
+                                                                45,015,275     51,456,750
+
+             INDUSTRIAL SERVICES (1.03%)
+1,000,000    United Rentals, Inc.*                              29,677,855     34,500,000
+
+             LEISURE (1.55%)
+1,550,000    MarineMax, Inc.*#                                  41,125,552     51,956,000
+
+             MACHINERY & ELECTRONICS (1.74%)
+1,000,000    Flowserve Corp.*                                   31,808,128     58,340,000
+
+             MANUFACTURING (6.83%)
+1,200,000    Actuant Corp., Cl A                                47,335,363     73,464,000
+  500,000    HEICO Corp., Cl A                                  13,525,781     13,615,000
+1,950,000    Hexcel Corp.*                                      38,731,755     42,841,500
+1,191,435    Intermagnetics General Corp.*                      23,134,050     29,845,447
+1,095,000    Koppers Holdings, Inc.#                            16,009,505     21,516,750
+1,000,000    Measurement Specialties, Inc.*#                    23,936,260     26,150,000
+  850,000    TransDigm Group, Inc.*                             19,313,503     21,887,500
+                                                              ------------   ------------
+                                                               181,986,217    229,320,197
+
+             MEDIA (1.57%)
+1,250,000    CKX, Inc.*                                         14,102,674     16,337,500
+1,350,000    Gray Television, Inc.                              10,304,445     11,340,000
+2,400,000    Radio One, Inc., Cl D*                             27,663,129     17,904,000
+  380,000    Regal Entertainment Group, Cl A                     4,528,833      7,147,800
+                                                              ------------   ------------
+                                                                56,599,081     52,729,300
+
+             MEDICAL EQUIPMENT (4.27%)
+2,200,000    Immucor, Inc.*                                     17,293,611     63,118,000
+  425,000    Intuitive Surgical, Inc.*                           6,162,500     50,150,000
+1,050,000    Kensey Nash Corp.*#                                31,206,136     30,030,000
+                                                              ------------   ------------
+                                                                54,662,247    143,298,000
+
+             PRINTING AND PUBLISHING (1.05%)
+1,500,000    Interactive Data Corp.                             22,596,629     35,250,000
+
+             REAL ESTATE (2.40%)
+1,000,000    CB Richard Ellis Group, Inc., Cl A*                29,930,480     80,700,000
+
+             REAL ESTATE - HOME BUILDING (3.10%)
+1,000,000    Brookfield Homes Corp.                             19,500,761     51,860,000
+6,000,000    Countrywide plc^                                   35,065,455     52,197,000
+                                                              ------------   ------------
+                                                                54,566,216    104,057,000
+
+             REAL ESTATE - REITS (1.16%)
+3,200,000    Spirit Finance Corp.                               37,953,168     39,040,000
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+
+                                        9
+
+<PAGE>
+
+BARON SMALL CAP FUND
+-------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS (CONTINUED)
+-------------------------------------------------------------------------------
+
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+   Shares                                                          Cost            Value
+---------------------------------------------------------------------------------------------
+<S>          <C>                                               <C>             <C>
+COMMON STOCKS (CONTINUED)
+---------------------------------------------------------------------------------------------
+             RECREATION AND RESORTS (8.58%)
+1,400,000    Gaylord Entertainment Co.*                        $  43,928,824   $   63,532,000
+2,430,000    Great Canadian Gaming Corp.*^                        34,433,834       26,010,477
+2,688,829    Great Wolf Resorts, Inc.*#                           51,449,754       31,163,528
+  550,000    Kerzner Intl., Ltd.*                                 13,662,714       42,801,000
+1,401,700    Penn National Gaming, Inc.*                          40,093,264       59,123,706
+  850,000    Wynn Resorts, Ltd.*                                  12,016,631       65,322,500
+                                                               -------------    -------------
+                                                                 195,585,021      287,953,211
+
+             RESTAURANTS (5.97%)
+2,250,000    AFC Enterprises, Inc.#                               36,931,249       31,275,000
+  300,000    Morton's Restaurant Group, Inc.*                      5,298,400        5,214,000
+  350,000    Panera Bread Co., Cl A*                               9,869,197       26,313,000
+  990,000    P.F. Chang's China Bistro, Inc.*                     50,496,634       48,797,100
+3,000,000    Texas Roadhouse, Inc., Cl A*                         38,035,045       51,270,000
+1,000,000    The Cheesecake Factory, Inc.*                        21,235,694       37,450,000
+                                                               -------------    -------------
+                                                                 161,866,219      200,319,100
+
+             RETAIL - CONSUMER STAPLES (1.18%)
+1,250,000    NuCO2, Inc.*#                                        30,876,487       39,675,000
+
+             RETAIL - SPECIALTY STORES (7.48%)
+  700,000    99 Cents Only Stores*                                 8,091,122        9,492,000
+1,157,503    Casual Male Retail Group, Inc.*#                      5,361,112       11,274,079
+  675,000    Design Within Reach, Inc.*                            9,586,917        3,840,750
+1,500,000    DSW, Inc., Cl A*                                     36,083,956       46,980,000
+1,350,000    Fossil, Inc.*                                        27,933,660       25,083,000
+  550,000    Guitar Center, Inc*                                  26,861,244       26,235,000
+2,800,000    Quiksilver, Inc.*                                    22,061,546       38,808,000
+  700,000    Tractor Supply Co.*                                  24,635,320       46,438,000
+1,000,000    United Auto Group, Inc.                              38,475,185       43,000,000
+                                                               -------------    -------------
+                                                                 199,090,062      251,150,829
+
+             TRANSPORTATION (2.27%)
+  400,000    American Commercial Lines, Inc.*                     10,772,593       18,880,000
+  600,000    Grupo Aeroportuario Del Sureste
+               SA de CV                                           17,867,166       20,028,000
+1,400,000    JetBlue Airways Corp.*                               17,977,169       15,008,000
+2,400,000    WestJet Airlines, Ltd.*^                             21,305,466       22,277,760
+                                                               -------------    -------------
+                                                                  67,922,394       76,193,760
+                                                               -------------    -------------
+TOTAL COMMON STOCKS                                            2,111,586,453    3,170,908,132
+                                                               -------------    -------------
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+      Shares                                                  Cost              Value
+-----------------------------------------------------------------------------------------
+<S>            <C>                                       <C>               <C>
+WARRANTS (0.23%)
+-----------------------------------------------------------------------------------------
+               BUSINESS SERVICES (0.03%)
+     222,575   Infocrossing, Inc.
+                 Warrants Exp 10/16/2008*@               $       31,783    $      932,589
+
+               RETAIL - SPECIALTY STORES (0.20%)
+   1,407,353   Casual Male Retail Group, Inc.
+                 Warrants Exp 04/26/2007*@#                   2,117,151         6,202,368
+     100,000   Casual Male Retail Group, Inc.
+                 Warrants Exp 07/02/2010*@#                      49,000           498,000
+                                                         --------------    --------------
+                                                              2,166,151         6,700,368
+                                                         --------------    --------------
+TOTAL WARRANTS                                                2,197,934         7,632,957
+                                                         --------------    --------------
+Principal Amount
+-----------------------------------------------------------------------------------------
+CORPORATE BONDS (0.19%)
+-----------------------------------------------------------------------------------------
+               PRINTING AND PUBLISHING
+ $ 7,000,000   Penton Media, Inc. 10.375%
+                 Sr. Sub. NT due 06/15/2011                   5,046,042         6,352,500
+                                                         --------------    --------------
+-----------------------------------------------------------------------------------------
+SHORT TERM MONEY MARKET INSTRUMENTS (4.46%)
+-----------------------------------------------------------------------------------------
+  29,999,999   AIG Funding, Inc. 4.81%
+                 due 04/03/2006                              29,999,999        29,999,999
+  32,127,278   Citigroup Funding, Inc. 4.75%
+                 due 04/03/2006                              32,127,278        32,127,278
+   7,856,830   Nationwide Building Society 4.84%
+                 due 04/03/2006                               7,856,830         7,856,830
+  39,978,711   SanPaolo IMI U.S. Financial Co. 4.79%
+                 due 04/03/2006                              39,978,711        39,978,711
+  39,963,056   SanPaolo IMI U.S. Financial Co. 4.75%
+                 due 04/03/2006                              39,963,056        39,963,056
+                                                         --------------    --------------
+TOTAL SHORT TERM MONEY MARKET INSTRUMENTS                   149,925,874       149,925,874
+                                                         --------------    --------------
+TOTAL INVESTMENTS (99.34%)                               $2,268,756,303     3,334,819,463
+                                                         ==============
+CASH AND OTHER ASSETS
+  LESS LIABILITIES (0.66%)                                                     22,023,295
+                                                                           --------------
+NET ASSETS (EQUIVALENT TO $25.79 PER
+  SHARE BASED ON 130,162,665 SHARES
+  OUTSTANDING)                                                             $3,356,842,758
+                                                                           ==============
+</TABLE>
+
+---------------
+%   Represents percentage of net assets
+@  See Note 7 regarding restricted and fair valued securities.
+#  See Note 9 regarding "affiliated investments."
+^  Foreign domiciled corporation
+*  Non-income producing securities
+
+                       See Notes to Financial Statements.
+
+
+                                       10
+
+<PAGE>
+
+BARON SMALL CAP FUND
+-------------------------------------------------------------------------------
+
+TOP 10 HOLDINGS (AS A PERCENTAGE OF NET ASSETS) AS OF
+MARCH 31, 2006
+-------------------------------------------------------------------------------
+
+                                                                        % OF NET
+BARON SMALL CAP FUND                                                     ASSETS
+--------------------------------------------------------------------------------
+Eagle Materials, Inc., Cl B                                                4.7%
+American Tower Corp., Cl A                                                 2.7%
+FLIR Systems, Inc.                                                         2.4%
+CB Richard Ellis Group, Inc., Cl A                                         2.4%
+Actuant Corp., Cl A                                                        2.2%
+Wynn Resorts, Ltd.                                                         1.9%
+Gaylord Entertainment Co.                                                  1.9%
+Immucor, Inc.                                                              1.9%
+United Surgical Partners Intl., Inc.                                       1.9%
+Penn National Gaming, Inc.                                                 1.8%
+                                                                          -----
+                                                                           23.8%
+                                                                          =====
+
+                             TOP TEN INDUSTRY GROUPS
+                              AS OF MARCH 31, 2006
+                         (AS A PERCENTAGE OF NET ASSETS)
+
+                                   [GRAPHIC]
+
+
+Cash and Cash Equivalents      5.1%
+Recreation and Resorts         8.6%
+Retail - Specialty Stores      7.7%
+Manufacturing                  6.8%
+Communications                 6.5%
+Restaurants                    6.0%
+Government Services            5.0%
+Building Materials             4.8%
+Healthcare Facilities          4.5%
+Medical Equipment              4.3%
+Business Services              3.8%
+Other                         36.9%
+
+
+                       See Notes to Financial Statements.
+
+
+                                       11
+
+<PAGE>
+
+BARON iOPPORTUNITY FUND
+-------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS
+-------------------------------------------------------------------------------
+
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+   Shares                                                  Cost           Value
+----------------------------------------------------------------------------------
+<S>          <C>                                      <C>             <C>
+COMMON STOCKS (79.81%)
+----------------------------------------------------------------------------------
+             ADVERTISING SERVICES (7.56%)
+   75,000    aQuantive, Inc.*                         $   1,481,955   $   1,765,500
+  105,000    Digitas, Inc.*                                 901,114       1,512,000
+   60,000    Getty Images, Inc.*                          1,435,634       4,492,800
+   12,500    Google, Inc., Cl A*                          1,782,468       4,875,000
+                                                       ------------    ------------
+                                                          5,601,171      12,645,300
+
+             BUSINESS SERVICES (5.71%)
+   75,000    Ariba, Inc.*                                   460,432         733,500
+   50,000    ChoicePoint, Inc.*                           1,469,626       2,237,500
+  110,000    DealerTrack Holdings, Inc.*                  2,007,302       2,344,100
+   85,000    Monster Worldwide, Inc.*                       781,497       4,238,100
+                                                       ------------    ------------
+                                                          4,718,857       9,553,200
+
+             COMMUNICATIONS (20.21%)
+  100,000    American Tower Corp., Cl A*                    272,000       3,032,000
+  125,000    Equinix, Inc.*                               4,069,281       8,027,500
+   50,000    NeuStar, Inc., Cl A*                         1,537,781       1,550,000
+   50,000    Research in Motion, Ltd.*                    4,232,269       4,244,000
+   65,000    SBA Communications Corp., Cl A*                217,399       1,521,650
+  145,000    Sprint Nextel Corp.                          3,628,348       3,746,800
+  600,000    Terremark Worldwide, Inc.*                   3,526,311       5,100,000
+  100,000    Time Warner Telecom, Inc., Cl A*             1,719,382       1,795,000
+  250,000    UbiquiTel, Inc.*                             1,504,139       2,525,000
+   75,000    VeriFone Holdings, Inc.*                     1,624,150       2,271,750
+                                                       ------------    ------------
+                                                         22,331,060      33,813,700
+
+             COMMUNICATIONS EQUIPMENT (1.81%)
+   60,000    QUALCOMM, Inc.                               2,178,989       3,036,600
+
+             COMPUTER TECHNOLOGY (3.37%)
+   90,000    Apple Computer, Inc.*                        5,425,199       5,644,800
+
+             CONSUMER SERVICES (6.17%)
+  110,000    eBay, Inc.*                                  2,437,697       4,296,600
+   75,000    IAC/InterActiveCorp                          2,051,080       2,210,250
+   75,000    priceline.com, Inc.*                         1,567,179       1,863,000
+  100,000    Travelzoo, Inc.*                             1,895,738       1,958,000
+                                                       ------------    ------------
+                                                          7,951,694      10,327,850
+
+             EDUCATION (0.78%)
+   25,000    Apollo Group, Inc., Cl A*                      541,469       1,312,750
+
+             ENTERPRISE HARDWARE (5.98%)
+  150,000    Dell, Inc.*                                  4,260,994       4,464,000
+  150,000    Intel Corp.                                  3,604,989       2,902,500
+   50,000    Rackable Systems, Inc.*                      1,323,641       2,642,500
+                                                       ------------    ------------
+                                                          9,189,624      10,009,000
+
+             FINANCIAL SERVICES - BROKERAGE &
+               EXCHANGES (11.98%)
+  350,000    Charles Schwab Corp.                         3,888,938       6,023,500
+   10,000    Chicago Mercantile Exchange
+               Holdings, Inc., Cl A                       1,829,806       4,475,000
+  225,000    E*TRADE Financial Corp.*                     1,447,748       6,070,500
+   60,000    optionsXpress Holdings, Inc.                   872,754       1,744,800
+  125,000    TradeStation Group, Inc.*                    1,198,792       1,727,500
+                                                       ------------    ------------
+                                                          9,238,038      20,041,300
+
+<PAGE>
+
+             FINANCIAL SERVICES - INSURANCE (0.70%)
+  108,000    Admiral Group plc^                           1,189,310       1,178,302
+
+             GAMING SERVICES (1.05%)
+   50,000    Scientific Games Corp., Cl A*                1,745,240       1,756,500
+
+             LEISURE (2.46%)
+  120,000    Activision, Inc.*                        $   1,653,134   $   1,654,800
+   45,000    Electronic Arts, Inc.*                       2,613,996       2,462,400
+                                                      -------------   -------------
+                                                          4,267,130       4,117,200
+
+             MANUFACTURING (0.93%)
+  150,000    Flextronics Intl., Ltd.*                     1,283,561       1,552,500
+
+             MEDIA (5.62%)
+   30,000    Central European Media
+               Enterprises. Ltd.*                         2,110,846       2,058,300
+  113,800    Comcast Corp., Cl A*                         2,725,780       2,972,456
+  101,500    Time Warner, Inc.                            1,480,641       1,704,185
+   83,000    Yahoo! Inc.*                                 1,163,652       2,677,580
+                                                      -------------   -------------
+                                                          7,480,919       9,412,521
+
+             REAL ESTATE (2.97%)
+   32,500    CoStar Group, Inc.*                            826,703       1,686,425
+  500,000    homestore, Inc.*                               847,375       3,280,000
+                                                      -------------   -------------
+                                                          1,674,078       4,966,425
+
+             RETAIL - SPECIALTY STORES (2.51%)
+   75,000    Best Buy Co., Inc.                           3,425,600       4,194,750
+                                                      -------------   -------------
+TOTAL COMMON STOCKS                                      88,241,939     133,562,698
+                                                      -------------   -------------
+---------------------------------------------------------------------------------------
+WARRANTS (0.00%)
+---------------------------------------------------------------------------------------
+               MEDIA
+     200,000   Loudeye Corp.
+                 Warrants Exp 12/23/2010*@                           0                0
+                                                         -------------    -------------
+Principal Amount
+---------------------------------------------------------------------------------------
+SHORT TERM MONEY MARKET INSTRUMENTS (24.80%)
+---------------------------------------------------------------------------------------
+$ 29,999,999   AIG Funding, Inc. 4.81%
+                 due 04/03/2006                             29,999,999       29,999,999
+   7,999,999   Chesham Finance Ltd. 4.84%
+                 due 04/03/2006                              7,999,999        7,999,999
+   3,498,614   Citigroup Funding, Inc. 4.75%
+                 due 04/03/2006                              3,498,614        3,498,614
+                                                         -------------    -------------
+TOTAL SHORT TERM MONEY MARKET INSTRUMENTS                   41,498,612       41,498,612
+                                                         -------------    -------------
+TOTAL INVESTMENTS (104.61%)                              $ 129,740,551      175,061,310
+                                                         =============
+LIABILITIES LESS
+  CASH AND OTHER ASSETS (-4.61%)                                             (7,715,092)
+                                                                          -------------
+NET ASSETS (EQUIVALENT TO $10.44 PER
+  SHARE BASED ON 16,023,754 SHARES
+  OUTSTANDING)                                                            $ 167,346,218
+                                                                          =============
+</TABLE>
+
+---------------
+% Represents percentage of net assets
+* Non-income producing securities
+@ See Note 7 regarding restricted and fair valued securities
+^ Foreign domiciled corporation
+
+                       See Notes to Financial Statements.
+
+
+                                       12
+
+<PAGE>
+
+BARON iOPPORTUNITY FUND
+--------------------------------------------------------------------------------
+TOP 10 HOLDINGS (AS A PERCENTAGE OF NET ASSETS) AS OF
+MARCH 31, 2006
+--------------------------------------------------------------
+
+                                                     % OF NET
+BARON iOPPORTUNITY FUND                                ASSETS
+--------------------------------------------------------------
+Equinix, Inc.                                           4.8%
+E*TRADE Financial Corp.                                 3.6%
+Charles Schwab Corp.                                    3.6%
+Apple Computer, Inc.                                    3.4%
+Terremark Worldwide, Inc.                               3.0%
+Google, Inc., Cl A                                      2.9%
+Getty Images, Inc.                                      2.7%
+Chicago Mercantile Exchange Holdings, Inc., Cl A        2.7%
+Dell, Inc.                                              2.7%
+eBay, Inc.                                              2.6%
+                                                       -----
+                                                       32.0%
+                                                       =====
+
+
+                             TOP TEN INDUSTRY GROUPS
+                              AS OF MARCH 31, 2006
+                         (AS A PERCENTAGE OF NET ASSETS)
+
+                                   [GRAPHIC]
+
+Cash and Cash Equivalents                      20.2%
+Communications                                 17.1%
+Financial Services - Brokerage and Exchanges   12.0%
+Business Services                               8.8%
+Advertising Services                            7.5%
+Consumer Services                               6.2%
+Enterprise Hardware                             6.0%
+Media                                           5.6%
+Computer Technology                             3.4%
+Real Estate                                     3.0%
+Retail - Specialty Stores                       2.5%
+Other                                           7.7%
+
+                       See Notes to Financial Statements.
+
+
+                                       13
+
+<PAGE>
+
+BARON FIFTH AVENUE GROWTH FUND
+-------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS
+-------------------------------------------------------------------------------
+
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+   Shares                                                   Cost             Value
+---------------------------------------------------------------------------------------
+<S>          <C>                                      <C>               <C>
+COMMON STOCKS (91.20%)
+---------------------------------------------------------------------------------------
+             ADVERTISING SERVICES (1.81%)
+   15,000    Getty Images, Inc.*                      $     1,029,745   $     1,123,200
+    4,000    Google, Inc., Cl A*                              480,476         1,560,000
+                                                       --------------    --------------
+                                                            1,510,221         2,683,200
+
+             BUSINESS SERVICES (3.19%)
+   65,000    Iron Mountain, Inc.*                           2,044,769         2,648,100
+   50,000    Paychex, Inc.                                  1,910,879         2,083,000
+                                                       --------------    --------------
+                                                            3,955,648         4,731,100
+
+             COMMUNICATIONS (5.05%)
+   50,000    American Tower Corp., Cl A*                      881,483         1,516,000
+   40,000    Research in Motion, Ltd.*                      3,368,657         3,395,200
+  100,000    Sprint Nextel Corp.                            2,517,173         2,584,000
+                                                       --------------    --------------
+                                                            6,767,313         7,495,200
+
+             COMMUNICATIONS EQUIPMENT (1.71%)
+   50,000    QUALCOMM, Inc.                                 1,999,343         2,530,500
+
+             COMPUTER TECHNOLOGY (2.11%)
+   50,000    Apple Computer, Inc.*                          3,060,849         3,136,000
+
+             CONSULTING (1.69%)
+   35,000    Moody's Corp.                                  1,810,053         2,501,100
+
+             CONSUMER PRODUCTS (1.43%)
+   25,000    Nike, Inc., Cl B                               2,109,692         2,127,500
+
+             CONSUMER SERVICES (2.21%)
+   65,000    eBay, Inc.*                                    2,684,709         2,538,900
+   25,000    IAC/InterActiveCorp                              673,641           736,750
+                                                       --------------    --------------
+                                                            3,358,350         3,275,650
+
+             ENERGY SERVICES (3.44%)
+   20,000    Arch Coal, Inc.                                1,406,855         1,518,800
+   20,000    Kinder Morgan, Inc.                            1,361,698         1,839,800
+   40,000    XTO Energy, Inc.                                 801,662         1,742,800
+                                                       --------------    --------------
+                                                            3,570,215         5,101,400
+
+             FINANCIAL SERVICES - ASSET
+               MANAGEMENT (5.81%)
+   35,000    AllianceBernstein Holding L.P.
+               (formerly Alliance Capital
+               Management Holding L.P.)                     2,165,135         2,318,750
+   12,000    BlackRock, Inc., Cl A                          1,670,063         1,680,000
+   15,000    Legg Mason, Inc.                               1,810,391         1,879,950
+   35,000    T. Rowe Price Group, Inc.                      2,183,728         2,737,350
+                                                       --------------    --------------
+                                                            7,829,317         8,616,050
+
+             FINANCIAL SERVICES - BANKING (2.95%)
+   40,000    Golden West Financial Corp.                    2,354,050         2,716,000
+   20,000    Zions Bancorporation                           1,413,275         1,654,600
+                                                       --------------    --------------
+                                                            3,767,325         4,370,600
+
+             FINANCIAL SERVICES - BROKERAGE &
+               EXCHANGES (7.26%)
+  250,000    Charles Schwab Corp.                           3,280,746         4,302,500
+    6,000    Chicago Mercantile Exchange
+               Holdings, Inc., Cl A                         1,499,604         2,685,000
+  140,000    E*TRADE Financial Corp.*                       2,343,358         3,777,200
+                                                       --------------    --------------
+                                                            7,123,708        10,764,700
+
+<PAGE>
+
+             FINANCIAL SERVICES - INSURANCE (2.70%)
+        8    Berkshire Hathaway, Inc., Cl A*                  717,341           722,800
+   17,500    The Progressive Corp.                          1,712,305         1,824,550
+   25,000    W. R. Berkley Corp.                              914,495         1,451,500
+                                                       --------------    --------------
+                                                            3,344,141         3,998,850
+
+             FINANCIAL SERVICES - MISCELLANEOUS (1.06%)
+   30,000    American Express Co.                           1,499,955         1,576,500
+             HEALTHCARE PRODUCTS (2.28%)
+   50,000    Zimmer Holdings, Inc.*                         3,433,431         3,380,000
+</TABLE>
+
+<TABLE>
+<S>           <C>                                       <C>               <C>
+              HEALTHCARE SERVICES (1.70%)
+     30,000   Laboratory Corp. of America Holdings*     $    1,641,309    $    1,754,400
+     15,000   Quest Diagnostics, Inc.                          746,735           769,500
+                                                        --------------    --------------
+                                                             2,388,044         2,523,900
+
+              HEALTHCARE SERVICES - INSURANCE (2.43%)
+     30,000   UnitedHealth Group, Inc.                       1,050,414         1,675,800
+     25,000   WellPoint, Inc.*                               1,414,500         1,935,750
+                                                        --------------    --------------
+                                                             2,464,914         3,611,550
+
+              LEISURE (0.92%)
+     25,000   Electronic Arts, Inc.*                         1,450,630         1,368,000
+
+              MEDIA (4.70%)
+    125,000   News Corp., Cl A                               2,002,114         2,076,250
+    120,000   Walt Disney Co.                                3,030,091         3,346,800
+     48,000   Yahoo! Inc.*                                   1,418,372         1,548,480
+                                                        --------------    --------------
+                                                             6,450,577         6,971,530
+
+              PHARMACEUTICAL (1.06%)
+     10,000   Amgen, Inc.*                                     571,981           727,500
+     10,000   Genentech, Inc.*                                 584,504           845,100
+                                                        --------------    --------------
+                                                             1,156,485         1,572,600
+
+              REAL ESTATE - HOME BUILDING (3.44%)
+     30,000   Lennar Corp.                                   1,872,500         1,811,400
+     95,000   Toll Brothers, Inc.*                           3,198,377         3,289,850
+                                                        --------------    --------------
+                                                             5,070,877         5,101,250
+
+              REAL ESTATE - REITS (4.23%)
+     10,000   AvalonBay Communities, Inc.                    1,076,693         1,091,000
+     45,000   Kimco Realty Corp.                             1,085,316         1,828,800
+     35,000   Vornado Realty Trust                           2,469,932         3,360,000
+                                                        --------------    --------------
+                                                             4,631,941         6,279,800
+
+              RECREATION AND RESORTS (8.71%)
+     30,000   Carnival Corp.                                 1,354,524         1,421,100
+    100,000   Las Vegas Sands Corp.*                         4,114,073         5,666,000
+     45,000   MGM Mirage, Inc.*                              1,318,197         1,939,050
+     40,000   Marriott International, Inc., Cl A             2,521,880         2,744,000
+     15,000   Wynn Resorts, Ltd.*                            1,102,582         1,152,750
+                                                        --------------    --------------
+                                                            10,411,256        12,922,900
+
+              RESTAURANTS (1.27%)
+     50,000   Starbucks Corp.*                               1,246,530         1,882,000
+
+              RETAIL - CONSUMER STAPLES (10.23%)
+     35,000   Costco Wholesale Corp.                         1,479,385         1,895,600
+     50,000   CVS Corp.                                      1,281,840         1,493,500
+     50,000   Target Corp.                                   2,444,865         2,600,500
+     50,000   Wal-Mart Stores, Inc.                          2,477,315         2,362,000
+     35,000   Walgreen Co.                                   1,374,967         1,509,550
+     80,000   Whole Foods Market, Inc.                       5,101,669         5,315,200
+                                                        --------------    --------------
+                                                            14,160,041        15,176,350
+
+              RETAIL - SPECIALTY STORES (7.01%)
+     80,000   Bed Bath & Beyond, Inc.*                       3,028,336         3,072,000
+     45,000   Best Buy Co., Inc.                             1,777,598         2,516,850
+     60,000   Coach, Inc.*                                   1,420,744         2,074,800
+     15,000   Kohl's Corp.*                                    757,036           795,150
+     30,000   Lowe's Companies, Inc.                         1,735,318         1,933,200
+                                                        --------------    --------------
+                                                             8,719,032        10,392,000
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+
+                                       14
+
+<PAGE>
+
+BARON FIFTH AVENUE GROWTH FUND
+--------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS (CONTINUED)
+--------------------------------------------------------------------------------
+
+MARCH 31, 2006 (UNAUDITED)
+
+
+      Shares                                         Cost            Value
+------------------------------------------------------------------------------
+COMMON STOCKS (CONTINUED)
+------------------------------------------------------------------------------
+               TRANSPORTATION (0.80%)
+      15,000   United Parcel Service, Inc., Cl B  $   1,141,296   $   1,190,700
+                                                  -------------   -------------
+TOTAL COMMON STOCKS                                 114,431,184     135,280,930
+                                                  -------------   -------------
+Principal Amount
+------------------------------------------------------------------------------
+SHORT TERM MONEY MARKET INSTRUMENTS (7.41%)
+------------------------------------------------------------------------------
+$ 10,999,999   AIG Funding, Inc. 4.81%
+                 due 04/03/2006                      10,999,999      10,999,999
+                                                  -------------   -------------
+TOTAL INVESTMENTS (98.61%)                        $ 125,431,183     146,280,929
+                                                  =============
+CASH AND OTHER ASSETS
+  LESS LIABILITIES (1.39%)                                             2,057,868
+                                                                  -------------
+NET ASSETS (EQUIVALENT TO $12.39 PER
+   SHARE BASED ON 11,976,429 SHARES
+   OUTSTANDING)                                                   $ 148,338,797
+                                                                  =============
+
+----------
+% Represents percentage of net assets
+* Non-income producing securities
+
+TOP 10 HOLDINGS (AS A PERCENTAGE OF NET ASSETS) AS OF
+MARCH 31, 2006
+
+                                                                        % OF NET
+BARON FIFTH AVENUE GROWTH FUND                                           ASSETS
+--------------------------------------------------------------------------------
+Las Vegas Sands Corp.                                                      3.8%
+Whole Foods Market, Inc.                                                   3.6%
+Charles Schwab Corp.                                                       2.9%
+E*TRADE Financial Corp.                                                    2.5%
+Research in Motion, Ltd.                                                   2.3%
+Zimmer Holdings, Inc.                                                      2.3%
+Varnado Realty Trust                                                       2.3%
+Walt Disney Co.                                                            2.3%
+Toll Brothers, Inc.                                                        2.2%
+Apple Computer, Inc.                                                       2.1%
+                                                                          -----
+                                                                          26.3%
+                                                                          =====
+
+                             TOP TEN INDUSTRY GROUPS
+                              AS OF MARCH 31, 2006
+                         (AS A PERCENTAGE OF NET ASSETS)
+
+                                   [GRAPHIC]
+
+
+Cash and Cash Equivalents                        8.8%
+Retail - Consumer Staples                       10.2%
+Recreation and Resorts                           8.7%
+Financial Services - Brokerage & Exchanges       7.3%
+Retail - Specialty Stores                        7.0%
+Financial Services - Asset Management            5.8%
+Communications                                   5.2%
+Media                                            4.7%
+Real Estate - REITs                              4.2%
+Energy Services                                  3.4%
+Real Estate - Home Building                      3.4%
+Other                                           31.3%
+
+
+                       See Notes to Financial Statements.
+
+
+                                       15
+
+<PAGE>
+
+BARON FUNDS
+--------------------------------------------------------------------------------
+
+STATEMENTS OF ASSETS AND LIABILITIES
+--------------------------------------------------------------------------------
+
+MARCH 31, 2006 (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                       BARON ASSET      BARON GROWTH     BARON SMALL CAP    BARON iOPPORTUNITY   BARON FIFTH AVENUE
+                                           FUND             FUND               FUND                FUND              GROWTH FUND
+                                       ------------     ------------     ---------------    ------------------   ------------------
+<S>                                   <C>              <C>               <C>                <C>                  <C>
+ASSETS:
+ Investments in securities, at value
+   Unaffiliated investments
+     (Cost $1,426,745,102,
+     $3,489,783,858,
+     $1,870,301,835, $129,740,551,
+     and $125,431,183,
+     respectively)                    $2,662,674,159   $5,133,039,609     $2,819,560,534       $175,061,310         $146,280,929
+   "Affiliated" investments (Cost
+     $212,905,938, $346,574,459,
+     $398,454,468, $0 and $0,
+     respectively)                       591,711,500      586,848,250        515,258,929                  0                    0
+ Cash                                         14,291          272,973          4,832,188             86,188              549,024
+ Dividends and interest receivable         1,373,210        1,653,412          1,611,596              5,543               41,858
+ Receivable for securities sold            4,809,420       17,202,986         23,559,909                  0            1,332,794
+ Receivable for shares sold                6,572,817        8,813,049          4,465,983            273,758            1,653,682
+ Prepaid expenses                             45,506           80,100             46,665              2,565                2,204
+                                      --------------   --------------     --------------       ------------         ------------
+                                       3,267,200,903    5,747,910,379      3,369,335,804        175,429,364          149,860,491
+                                      --------------   --------------     --------------       ------------         ------------
+LIABILITIES:
+ Payable for securities purchased          6,327,052       21,530,150         10,421,777          7,732,802            1,130,651
+ Payable for shares redeemed               4,289,802       32,906,271          1,722,825            257,321              327,273
+ Accrued expenses and other
+   payables                                  346,776          412,764            348,444             93,023               63,770
+                                      --------------   --------------     --------------       ------------         ------------
+                                          10,963,630       54,849,185         12,493,046          8,083,146            1,521,694
+                                      --------------   --------------     --------------       ------------         ------------
+NET ASSETS                            $3,256,237,273   $5,693,061,194     $3,356,842,758       $167,346,218         $148,338,797
+                                      ==============   ==============     ==============       ============         ============
+NET ASSETS CONSIST OF:
+ Capital paid-in                      $1,566,921,880   $3,667,504,246     $2,095,991,778       $185,157,707         $129,568,093
+ Accumulated net investment income
+   (loss)                                 (8,333,025)     (15,640,563)        (9,834,244)            25,607              109,345
+ Accumulated net realized gain
+   (loss)                                 82,913,799      157,667,969        204,622,064        (63,157,855)          (2,188,387)
+ Net unrealized appreciation on
+   investments                         1,614,734,619    1,883,529,542      1,066,063,160         45,320,759           20,849,746
+                                      --------------   --------------     --------------       ------------         ------------
+NET ASSETS                            $3,256,237,273   $5,693,061,194     $3,356,842,758       $167,346,218         $148,338,797
+                                      ==============   ==============     ==============       ============         ============
+SHARES OUTSTANDING ($.01 PAR
+  VALUE; INDEFINITE
+  SHARES AUTHORIZED)                      52,909,173      112,740,719        130,162,665         16,023,754           11,976,429
+                                      ==============   ==============     ==============       ============         ============
+NET ASSET VALUE PER SHARE             $        61.54   $        50.50     $        25.79       $      10.44         $      12.39
+                                      ==============   ==============     ==============       ============         ============
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+
+                                       16
+
+<PAGE>
+
+BARON FUNDS
+--------------------------------------------------------------------------------
+
+STATEMENTS OF OPERATIONS
+--------------------------------------------------------------------------------
+
+FOR THE SIX MONTHS ENDED MARCH 31, 2006
+(UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                          BARON ASSET    BARON GROWTH    BARON SMALL CAP    BARON iOPPORTUNITY   BARON FIFTH AVENUE
+                                              FUND           FUND              FUND                FUND              GROWTH FUND
+                                          ------------   ------------    ---------------    ------------------   ------------------
+<S>                                       <C>            <C>             <C>                <C>                  <C>
+INVESTMENT INCOME:
+ INCOME:
+   Interest                               $  1,428,709   $  9,442,478      $  2,905,654        $   485,709           $  276,131
+   Dividends -- unaffiliated
+     investments                             9,550,481      8,943,274         5,846,473            702,700              755,345
+   Dividends -- "affiliated"
+     investments                                     0         68,000         1,147,000                  0                    0
+                                          ------------   ------------      ------------        -----------           ----------
+   Total income                             10,979,190     18,453,752         9,899,127          1,188,409            1,031,476
+                                          ------------   ------------      ------------        -----------           ----------
+ EXPENSES:
+   Investment advisory fees                 14,505,653     25,957,421        14,817,950            784,882              658,665
+   Distribution fees                         3,626,413      6,489,355         3,704,487            196,220              164,666
+   Shareholder servicing agent fees            370,765        426,125           302,140             67,160               23,192
+   Reports to shareholders                     573,600        820,500           628,000             79,250               36,724
+   Professional fees                            41,538         71,630            56,335             14,371               14,896
+   Registration and filing fees                 80,840        126,365            90,221              8,236               15,364
+   Custodian fees                               35,820         62,830            54,195              7,464                4,230
+   Trustee fees                                 33,184         60,585            34,840              1,866                1,561
+   Miscellaneous                                44,402         79,504            45,203              3,353                2,833
+                                          ------------   ------------      ------------        -----------           ----------
+   Total expenses                           19,312,215     34,094,315        19,733,371          1,162,802              922,131
+                                          ------------   ------------      ------------        -----------           ----------
+   Net investment income (loss)             (8,333,025)   (15,640,563)       (9,834,244)            25,607              109,345
+                                          ------------   ------------      ------------        -----------           ----------
+REALIZED AND UNREALIZED GAIN (LOSS) ON
+ INVESTMENTS:
+ Net realized gain (loss) on
+   investments
+   sold -- unaffiliated investments         89,481,660    186,118,961       207,351,451         20,226,413             (634,848)
+ Net realized gain on investments
+   sold -- "affiliated" investments          1,537,847      2,054,651        13,636,265                  0                    0
+ Net change in unrealized appreciation
+   of investments                          315,748,362    560,687,991       227,017,073            251,237            8,798,823
+                                          ------------   ------------      ------------        -----------           ----------
+ Net gain on investments                   406,767,869    748,861,603       448,004,789         20,477,650            8,163,975
+                                          ------------   ------------      ------------        -----------           ----------
+ Net increase in net assets resulting
+   from operations                        $398,434,844   $733,221,040      $438,170,545        $20,503,257           $8,273,320
+                                          ============   ============      ============        ===========           ==========
+</TABLE>
+
+                       See Notes to Financial Statements.
+
+
+                                       17
+
+<PAGE>
+
+BARON FUNDS
+--------------------------------------------------------------------------------
+STATEMENTS OF CHANGES IN NET ASSETS (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                                                                     BARON SMALL
+                                                     BARON ASSET FUND                   BARON GROWTH FUND             CAP FUND
+                                               --------------------------         ---------------------------     ----------------
+                                               SIX MONTHS         FOR THE         SIX MONTHS         FOR THE         SIX MONTHS
+                                                  ENDED          YEAR ENDED          ENDED          YEAR ENDED          ENDED
+                                                MARCH 31,      SEPTEMBER 30,       MARCH 31,      SEPTEMBER 30,       MARCH 31,
+                                                  2006              2005             2006              2005             2006
+                                             --------------    --------------   --------------    --------------   --------------
+<S>                                          <C>               <C>              <C>               <C>              <C>
+INCREASE (DECREASE) IN NET ASSETS:
+OPERATIONS:
+ Net investment income (loss)                   ($8,333,025)     ($21,856,855)    ($15,640,563)     ($32,047,627)     ($9,834,244)
+ Net realized gain (loss) on investments
+   sold                                          91,019,507       144,194,513      188,173,612       248,696,604      220,987,716
+ Net change in unrealized appreciation of
+   investments                                  315,748,362       395,149,197      560,687,991       397,124,402      227,017,073
+                                             --------------    --------------   --------------    --------------   --------------
+ Increase in net assets resulting from
+   operations                                   398,434,844       517,486,855      733,221,040       613,773,379      438,170,545
+                                             --------------    --------------   --------------    --------------   --------------
+DIVIDENDS TO SHAREHOLDERS FROM:
+ Net realized gain on investments              (136,438,779)     (126,683,892)    (222,904,672)                0      (89,572,056)
+                                             --------------    --------------   --------------    --------------   --------------
+CAPITAL SHARE TRANSACTIONS:
+ Proceeds from the sale of shares               407,586,202       640,133,068      485,096,406     1,971,578,477      405,666,443
+ Net asset value of shares issued in
+   reinvestment of dividends                    134,216,963       124,712,972      215,723,575                 0       85,550,454
+ Cost of shares redeemed                       (235,003,782)     (470,600,014)    (523,224,018)     (715,806,952)    (311,545,238)
+                                             --------------    --------------   --------------    --------------   --------------
+ Increase (decrease) in net assets
+   derived from capital share transactions      306,799,383       294,246,026      177,595,963     1,255,771,525      179,671,659
+ Redemption fees                                          0                 0                0                 0                0
+                                             --------------    --------------   --------------    --------------   --------------
+ Net increase in net assets                     568,795,448       685,048,989      687,912,331     1,869,544,904      528,270,148
+                                             --------------    --------------   --------------    --------------   --------------
+NET ASSETS:
+ Beginning of period                          2,687,441,825     2,002,392,836    5,005,148,863     3,135,603,959    2,828,572,610
+                                             --------------    --------------   --------------    --------------   --------------
+ End of year period                          $3,256,237,273    $2,687,441,825   $5,693,061,194    $5,005,148,863   $3,356,842,758
+                                             ==============    ==============   ==============    ==============   ==============
+ACCUMULATED NET INVESTMENT INCOME (LOSS)
+  AT END OF PERIOD                              ($8,333,025)   $            0     ($15,640,563)   $            0      ($9,834,244)
+                                             ==============    ==============   ==============    ==============   ==============
+SHARES:
+ Shares sold                                      7,095,559        12,158,705       10,304,599        44,272,338       17,140,811
+ Shares issued in reinvestment of
+   dividends                                      2,355,924         2,538,428        4,696,793                 0        3,768,729
+ Shares redeemed                                 (4,092,062)       (8,959,543)     (11,167,746)      (15,932,537)     (13,282,510)
+                                             --------------    --------------   --------------    --------------   --------------
+ Net increase (decrease)                          5,359,421         5,737,590        3,833,646        28,339,801        7,627,030
+                                             ==============    ==============   ==============    ==============   ==============
+
+<PAGE>
+
+<CAPTION>
+
+                                               BARON SMALL                                          BARON FIFTH AVENUE
+                                                CAP FUND         BARON iOPPORTUNITY FUND                GROWTH FUND
+                                            --------------      -------------------------       ----------------------------
+                                                                                                                 FOR THE
+                                                 FOR THE        SIX MONTHS       FOR THE        SIX MONTHS         YEAR
+                                               YEAR ENDED         ENDED         YEAR ENDED        ENDED           ENDED
+                                              SEPTEMBER 30,     MARCH 31,     SEPTEMBER 30,     MARCH 31,     SEPTEMBER 30,
+                                                  2005             2006            2005            2006            2005
+                                             --------------    ------------   -------------    ------------   -------------
+<S>                                          <C>               <C>            <C>              <C>            <C>
+INCREASE (DECREASE) IN NET ASSETS:
+OPERATIONS:
+ Net investment income (loss)                  ($11,728,955)   $     25,607     ($1,482,347)   $    109,345       ($398,774)
+ Net realized gain (loss) on investments
+   sold                                          95,073,504      20,226,413      13,467,239        (634,848)     (1,174,154)
+ Net change in unrealized appreciation of
+   investments                                  366,444,107         251,237      14,038,503       8,798,823      11,455,168
+                                             --------------    ------------    ------------    ------------    ------------
+ Increase in net assets resulting from
+   operations                                   449,788,656      20,503,257      26,023,395       8,273,320       9,882,240
+                                             --------------    ------------    ------------    ------------    ------------
+DIVIDENDS TO SHAREHOLDERS FROM:
+ Net realized gain on investments               (53,166,236)              0               0               0               0
+                                             --------------    ------------    ------------    ------------    ------------
+CAPITAL SHARE TRANSACTIONS:
+ Proceeds from the sale of shares             1,109,432,440      22,779,925      38,438,663      67,875,066      50,705,842
+ Net asset value of shares issued in
+   reinvestment of dividends                     51,062,420               0               0               0               0
+ Cost of shares redeemed                       (510,666,216)    (21,627,430)    (52,857,573)    (24,346,683)    (13,350,429)
+                                             --------------    ------------    ------------    ------------    ------------
+ Increase (decrease) in net assets
+   derived from capital share transactions      649,828,644       1,152,495     (14,418,910)     43,528,383      37,355,413
+ Redemption fees                                          0          12,079         142,107               0               0
+                                             --------------    ------------    ------------    ------------    ------------
+ Net increase in net assets                   1,046,451,064      21,667,831      11,746,592      51,801,703      47,237,653
+                                             --------------    ------------    ------------    ------------    ------------
+NET ASSETS:
+ Beginning of period                          1,782,121,546     145,678,387     133,931,795      96,537,094      49,299,441
+                                             --------------    ------------    ------------    ------------    ------------
+ End of year period                          $2,828,572,610    $167,346,218    $145,678,387    $148,338,797    $ 96,537,094
+                                             ==============    ============    ============    ============    ============
+ACCUMULATED NET INVESTMENT INCOME (LOSS)
+ AT END OF PERIOD                            $            0    $     25,607    $          0    $    109,345    $          0
+                                             ==============    ============    ============    ============    ============
+SHARES:
+ Shares sold                                     50,454,999       2,323,726       4,515,672       5,627,964       4,605,887
+ Shares issued in reinvestment of
+   dividends                                      2,476,351               0               0               0               0
+ Shares redeemed                                (23,327,448)     (2,196,841)     (6,280,733)     (1,999,017)     (1,243,955)
+                                             --------------    ------------    ------------    ------------    ------------
+ Net increase (decrease)                         29,603,902         126,885      (1,765,061)      3,628,947       3,361,932
+                                             ==============    ============    ============    ============    ============
+</TABLE>
+
+
+                       See Notes to Financial Statements.
+
+
+                                       18
+
+<PAGE>
+
+BARON FUNDS
+-------------------------------------------------------------------------------
+
+NOTES TO FINANCIAL STATEMENTS (UNAUDITED)
+-------------------------------------------------------------------------------
+
+(1) ORGANIZATION.
+
+Baron  Investment  Funds Trust (the "Trust") is registered  under the Investment
+Company Act of 1940, as amended  (the"1940  Act"),  as a  diversified,  open-end
+management  investment company established as a Massachusetts  business trust on
+February 19, 1987. The Trust currently offers five series (individually a "Fund"
+and collectively the "Funds"):  Baron Asset Fund, Baron Growth Fund, Baron Small
+Cap Fund, Baron  iOpportunity Fund, and Baron Fifth Avenue Growth Fund. Prior to
+October 22,  2004,  the name of the Trust was Baron Asset Fund.  The  investment
+objectives  of  the  Funds  are as  follows:  Baron  Asset  Fund  seeks  capital
+appreciation  through  long-term  investments  in securities of small and medium
+sized companies with  undervalued  assets or favorable growth  prospects.  Baron
+Growth Fund seeks capital appreciation through long-term  investments  primarily
+in the securities of small growth companies.  Baron Small Cap Fund seeks capital
+appreciation through investments primarily in securities of small companies.
+
+Baron iOpportunity Fund seeks capital appreciation through investments in growth
+businesses that benefit from technology advances.
+
+Baron Fifth Avenue Growth Fund seeks capital  appreciation  through  investments
+primarily in the securities of larger growth companies.
+
+(2) SIGNIFICANT ACCOUNTING POLICIES.
+
+
+The following is a summary of significant  accounting  policies  followed by the
+Funds.  The policies are in  conformity  with  accounting  principles  generally
+accepted in the United States of America.
+
+(A)  SECURITY  VALUATION.  Portfolio  securities  traded on any  national  stock
+exchange  are valued  based on the last sale  price.  For  securities  traded on
+NASDAQ,  the Funds use the NASDAQ Official Closing Price.  Securities  traded in
+foreign  markets are valued using prices  reported by local foreign  markets and
+translated into U.S.  dollars using the mean of the bid and offer prices of such
+currencies  at the  time  the  net  asset  value  is  determined.  Where  market
+quotations are not readily available,  or in the Adviser's judgment, they do not
+accurately reflect fair value of a security, or an event occurs after the market
+close but before the Funds are priced  that  materially  affects  the value of a
+security,  the  securities  will  be  valued  by the  Adviser  using  procedures
+established by the Board of Trustees. The Adviser has a fair valuation committee
+comprised of senior  executives and members of the Board.  Factors the committee
+uses  include  whether a  current  price is stale,  there is  recent  news,  the
+security is thinly  traded,  transactions  are  infrequent,  or  quotations  are
+genuine.  There can be no assurance,  however, that a fair valuation used by the
+Funds on any given day will  more  accurately  reflect  the  market  value of an
+investment  than  the  closing  price of such  investment  in its  market.  Debt
+instruments  having a remaining  maturity greater than sixty days will be valued
+at the highest bid price from the dealer  maintaining  an active  market in that
+security or on the basis of prices obtained from a pricing  service  approved by
+the  Board of  Trustees.  Money  market  instruments  held by the  Funds  with a
+remaining  maturity of sixty days or less are valued at  amortized  cost,  which
+approximates value.
+
+(B) FOREIGN CURRENCY TRANSLATIONS.  Values of investments denominated in foreign
+currencies are translated into U.S.  dollars using the mean of the bid and offer
+prices of such  currencies at the time net asset value is determined.  Purchases
+and sales of  investments  and dividend  income are converted at the  prevailing
+rate of exchange on the respective dates of such transactions.  The Funds do not
+isolate  that  portion of the results of  operations  resulting  from changes in
+foreign exchange rates on investments from the fluctuations arising from changes
+in market prices of securities held. Such fluctuations are included with the net
+realized and unrealized gain or loss from investments.
+
+<PAGE>
+
+(C) SECURITIES TRANSACTIONS, INVESTMENT INCOME AND EXPENSE ALLOCATION.
+
+Securities  transactions  are recorded on a trade date basis.  Realized gain and
+loss from securities  transactions  are recorded on an identified cost basis for
+financial  reporting  and  federal  income  tax  purposes.  Dividend  income  is
+recognized  on the  ex-dividend  date and interest  income is  recognized  on an
+accrual  basis which  includes the accretion of discounts  and  amortization  of
+premiums.   The  Funds  are  charged  for  those   expenses  that  are  directly
+attributable to each Fund,  such as advisory and custodian  fees.  Expenses that
+are not directly  attributable to a Fund are typically allocated among the Funds
+in proportion to their respective net assets.
+
+(D) FEDERAL INCOME TAXES. Each Fund of the Trust is treated as a separate entity
+for federal  income tax  purposes.  It is the policy of each Fund to continue to
+qualify as a regulated  investment  company  under  Subchapter M of the Internal
+Revenue Code and to distribute all of its taxable income, including net realized
+capital gains, if any, to its  shareholders.  No federal income tax provision is
+therefore required.
+
+(E) RESTRICTED  SECURITIES.  The Funds invest in securities which are restricted
+as to public sale in accordance with the Securities Act of 1933. Such assets are
+valued at fair value as determined in good faith by the Board of Trustees.
+
+(F)  DISTRIBUTIONS.  Income  distributions  and capital gain  distributions  are
+determined  in  accordance  with  income tax  regulations  which may differ from
+generally accepted accounting principles.
+
+
+                                       19
+
+<PAGE>
+
+BARON FUNDS
+-------------------------------------------------------------------------------
+
+(G)  SHORT-TERM  TRADING FEE.  Baron  iOpportunity  Fund imposes a 1% short-term
+trading  fee on  redemptions  and  exchanges  of  shares  held for less than six
+months.  The fee is  retained  by  Baron  iOpportunity  for the  benefit  of the
+remaining  shareholders  to offset  the  administrative  costs  associated  with
+processing redemptions and exchanges, offset the portfolio transaction costs and
+facilitate portfolio management. The fee is accounted for as an addition to paid
+in capital.
+
+(H) USE OF ESTIMATES. The preparation of financial statements in accordance with
+accounting  principles  generally  accepted  in the  United  States  of  America
+requires  management to make estimates and assumptions  that affect the reported
+amounts of assets and liabilities at the date of the financial  statements,  and
+the amounts of income and  expenses  during the  period.  Actual  results  could
+differ from those estimates.
+
+(I) COMMITMENTS AND CONTINGENCIES.  In the normal course of business,  the Funds
+may  enter  into   contracts   and   agreements   that   contain  a  variety  of
+representations  and  warranties,  which provide  general  indemnification.  The
+maximum exposure to the Funds under these  agreements is unknown,  as this would
+involve  future  claims  that may be made  against  the Funds  that have not yet
+occurred.  However, based on experience, the Funds expect the risk of loss to be
+remote.
+
+(3) PURCHASES AND SALES OF SECURITIES.
+
+Purchases and sales of securities, other than short term securities, for the six
+months ended March 31, 2006 were as follows:
+
+<TABLE>
+<CAPTION>
+
+FUND                                                  PURCHASES         SALES
+----                                                 ------------   ------------
+<S>                                                  <C>            <C>
+Baron Asset Fund                                     $379,602,021   $203,964,142
+Baron Growth Fund                                    $512,099,629   $501,648,723
+Baron Small Cap Fund                                 $648,359,786   $580,606,957
+Baron iOpportunity Fund                              $ 57,909,438   $ 79,497,069
+Baron Fifth Avenue Growth Fund                       $ 73,718,497   $ 37,173,663
+</TABLE>
+
+(4) INVESTMENT ADVISORY FEES AND OTHER TRANSACTIONS WITH AFFILIATES.
+
+(A)  INVESTMENT  ADVISORY  FEES.  BAMCO,  Inc. (the  "Adviser"),  a wholly owned
+subsidiary of Baron Capital Group, Inc. ("BCG"), serves as investment adviser to
+the Funds. As compensation  for services  rendered,  the Adviser  receives a fee
+payable  monthly  from the  assets  of the  Funds  equal to 1% per annum of each
+Fund's  average  daily net asset value.  For Baron  iOpportunity  Fund and Baron
+Fifth Avenue Growth Fund, the Adviser has contractually agreed to reduce its fee
+to the  extent  required  to limit the  operating  expense to 1.50% and 1.40% of
+average daily net assets, respectively.
+
+(B) DISTRIBUTION FEES. Baron Capital, Inc. ("BCI"), a wholly owned subsidiary of
+BCG, is a  registered  broker-dealer  and the  distributor  of the shares of the
+Funds  pursuant  to a  distribution  plan under Rule 12b-1 of the 1940 Act.  The
+distribution plan authorizes the Funds to pay BCI a distribution fee equal on an
+annual basis to 0.25% of the Funds' average daily net assets.
+
+<PAGE>
+
+Brokerage  transactions  for the Funds may be effected by or through BCI. During
+the period  October 1, 2005 to October  13,  2005,  BCI earned  gross  brokerage
+commissions as follows:
+
+FUND                                     COMMISSIONS
+----                                     -----------
+
+Baron Asset Fund                           $ 8,403
+Baron Growth Fund                           14,768
+Baron Small Cap Fund                        12,521
+Baron iOpportunity Fund                        886
+Baron Fifth Avenue Growth Fund                 985
+
+
+On October 14, 2005,  BCI ceased its  broker-dealer  business and the Funds have
+conducted no further trading with BCI since that date.
+
+(C) TRUSTEE FEES.  Certain  Trustees of the Trust may be deemed to be affiliated
+with or interested persons (as defined by the 1940 Act) of the Funds' Adviser or
+of BCI. None of the Trustees so affiliated received  compensation for his or her
+services  as a  Trustee  of the  Trust.  None of the  Funds'  officers  received
+compensation from the Funds.
+
+(5) LINE OF CREDIT.  The Funds have entered into a line of credit agreement with
+the custodian  bank to be used for temporary  purposes,  primarily for financing
+redemptions. The agreement provides that Baron Asset Fund may borrow up to 5% of
+the value of its net assets.  Baron  Growth  Fund,  Baron Small Cap Fund,  Baron
+iOpportunity  Fund,  and Baron Fifth Avenue  Growth Fund may borrow up to 15% of
+each Fund's respective net assets. The aggregate outstanding principal amount of
+all loans to any of the Funds may not exceed  $100,000,000.  Interest is charged
+to each Fund, based on its borrowings,  at a rate per annum equal to the Federal
+Funds  Rate plus a margin of 1.00% to 2.00%  depending  on the  duration  of the
+loan. A commitment  fee of 0.10% per annum is incurred on the unused  portion of
+the line of credit and is allocated  to the  participating  Funds.  At March 31,
+2006, there were no loans outstanding under the line of credit.
+
+(6)  LITIGATION.  An action is  pending  in the  Southern  District  of New York
+brought  by a  shareholder  of Baron  Growth  Fund and of Baron  Small  Cap Fund
+against these two Funds, their Trustees,  the distributor,  Baron Capital, Inc.,
+and the adviser,  BAMCO,  Inc. The action alleges  improper  imposition of 12b-1
+fees on Funds that were partially closed to new investors and seeks compensatory
+damages and to enjoin  further  12b-1 fees. A motion to dismiss the complaint is
+currently  pending.  Neither the outcome nor the possible liability to these two
+Funds can be  determined  at this point.  No amounts  have been accrued in these
+financial statements with respect to the damages sought by this litigation.
+
+
+                                       20
+
+<PAGE>
+
+BARON FUNDS
+-------------------------------------------------------------------------------
+
+(7) RESTRICTED SECURITIES.
+
+At March 31,  2006,  investments  in  securities  included  securities  that are
+restricted and/or illiquid. Restricted securities are often purchased in private
+placement transactions, are not registered under the Securities Act of 1933, may
+have contractual  restrictions on resale,  and are valued under methods approved
+by the Board of Trustees as reflecting  fair value. A security may be considered
+illiquid  if it lacks a readily  available  market or if its  valuation  has not
+changed  for a  certain  period  of time.  At March 31,  2006,  the  Funds  held
+investments  in  restricted  and  illiquid  securities  that were  valued  under
+approved methods by the Board, as follows:
+
+<TABLE>
+<CAPTION>
+BARON ASSET FUND                                                               ACQUISITION
+NAME OF ISSUER                                                                    DATE           VALUE
+--------------                                                                 ------------  ------------
+<S>                                                                            <C>           <C>
+COMMON STOCK
+ Wynn Resorts, Ltd.                                                             04/17/01     $106,547,730
+CONVERTIBLE PREFERRED STOCK
+ Apollo International, Inc., S-A CV Pfd.                                        07/21/99          400,000
+ Somerford Corp. S-A Conv. Pfd.                                                 12/03/98        9,090,397
+CORPORATE BONDS
+ Somerford Corp. 8.50% Sub. Conv. Deb Due 04/23/2007                            04/23/01        2,166,667
+                                                                                             ------------
+TOTAL RESTRICTED SECURITIES: (Cost $43,287,854) (3.63% of Net Assets)                        $118,204,794
+                                                                                             ============
+</TABLE>
+
+<TABLE>
+<CAPTION>
+BARON GROWTH FUND                                                            ACQUISITION
+NAME OF ISSUER                                                                   DATE           VALUE
+--------------                                                               ------------    ------------
+<S>                                                                            <C>           <C>
+COMMON STOCK
+ CBRE Realty Finance, Inc. 144A                                                 06/02/05     $ 10,000,005
+ Fontainebleau Resorts, LLC                                                     10/05/05       15,000,000
+ Wynn Resorts, Ltd.                                                             04/22/02       39,254,454
+CONVERTIBLE PREFERRED STOCK
+ Reliant Pharmaceuticals LLC Series D                                           10/28/03        7,500,000
+                                                                                             ------------
+TOTAL RESTRICTED SECURITIES: (Cost $51,063,961) (1.26% of Net Assets)                        $ 71,754,459
+                                                                                             ============
+</TABLE>
+
+<TABLE>
+<CAPTION>
+BARON SMALL CAP FUND                                                         ACQUISITION
+NAME OF ISSUER                                                                    DATE           VALUE
+--------------                                                               ------------    ------------
+<S>                                                                            <C>           <C>
+WARRANTS
+ Casual Male Retail Group, Inc.
+   Warrants Exp 04/26/2007                                                      05/15/02     $  6,202,368
+ Casual Male Retail Group, Inc.
+   Warrants Exp 07/02/2010                                                      07/03/03          498,000
+ Infocrossing, Inc.
+   Warrants Exp 10/16/2008                                                      10/16/03          932,589
+                                                                                             ------------
+TOTAL RESTRICTED SECURITIES: (Cost $2,197,934) (0.23% of Net Assets)                         $  7,632,957
+                                                                                             ============
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+BARON IOPPORTUNITY FUND                                                      ACQUISITION
+NAME OF ISSUER                                                                   DATE           VALUE
+--------------                                                               ------------    ------------
+<S>                                                                            <C>           <C>
+WARRANTS
+ Loudeye Corp.
+   Warrants Exp 12/23/2010                                                      12/22/04     $          0
+                                                                                             ------------
+TOTAL RESTRICTED SECURITIES: (Cost $0) (0.00% of Net Assets)                                 $          0
+                                                                                             ============
+</TABLE>
+
+
+                                       21
+
+<PAGE>
+
+BARON FUNDS
+-------------------------------------------------------------------------------
+
+(8) INCOME TAXES AND DISTRIBUTIONS TO SHAREHOLDERS.
+
+Federal  income  tax  regulations  differ  from  generally  accepted  accounting
+principles;   therefore,   distributions   determined  in  accordance  with  tax
+regulations  may differ in amount or character  from net  investment  income and
+realized gains for financial reporting purposes. Financial reporting records are
+adjusted for permanent book/tax differences to reflect tax character.  Financial
+records are not adjusted for temporary differences.
+
+As of March 31, 2006, the components of net assets on a tax basis were as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                                                                                       BARON
+                                      BARON ASSET      BARON GROWTH     BARON SMALL CAP   BARON iOPPORTUNITY    FIFTH AVENUE GROWTH
+                                          FUND             FUND              FUND                FUND                  FUND
+                                     --------------   --------------    ---------------   ------------------    -------------------
+<S>                                  <C>              <C>               <C>               <C>                   <C>
+Cost of investments                  $1,641,651,027   $3,858,358,107    $2,269,017,754       $132,758,066          $125,507,345
+                                     ==============   ==============    ==============       ============          ============
+Gross tax unrealized appreciation     1,631,088,733    1,936,997,038     1,154,214,270         44,620,279            21,942,883
+Gross tax unrealized depreciation       (18,354,101)     (75,467,286)      (88,412,561)        (2,317,035)           (1,169,299)
+                                     --------------   --------------    --------------       ------------          ------------
+Net tax unrealized appreciation      $1,612,734,632   $1,861,529,752    $1,065,801,709       $ 42,303,244          $ 20,773,584
+                                     ==============   ==============    ==============       ============          ============
+</TABLE>
+
+
+The tax character of distributions paid during the six month period ended March
+31, 2006, and fiscal year ended September 30, 2005 was as follows:
+
+<TABLE>
+<CAPTION>
+                                     SIX MONTHS ENDED              YEAR ENDED
+                                      MARCH 31, 2006           SEPTEMBER 30, 2005
+                                  -----------------------    -----------------------
+FUND                                           LONG TERM                  LONG TERM
+----                             ORDINARY    CAPITAL GAIN    ORDINARY   CAPITAL GAIN
+                                 --------    ------------    --------   ------------
+<S>                              <C>         <C>             <C>        <C>
+Baron Asset Fund                  $    --    $136,438,779     $   --    $126,683,892
+Baron Growth Fund                      --     222,904,672         --              --
+Baron Small Cap Fund                   --      89,572,056         --      53,166,236
+Baron iOpportunity Fund                --              --         --              --
+Baron Fifth Avenue Growth Fund         --              --         --              --
+</TABLE>
+
+<PAGE>
+
+(9) INVESTMENT IN "AFFILIATES"* DURING THE SIX MONTHS ENDED MARCH 31, 2006.
+
+BARON ASSET FUND
+
+<TABLE>
+<CAPTION>
+                                               BALANCE OF          GROSS       GROSS SALES      BALANCE OF
+                                             SHARES HELD ON      PURCHASES         AND        SHARES HELD ON       VALUE
+              NAME OF ISSUER                  SEP. 30, 2005    AND ADDITIONS    REDUCTIONS    MAR. 31, 2006    MAR. 31, 2006
+----------------------------------------------------------------------------------------------------------------------------
+<S>                                          <C>               <C>             <C>            <C>              <C>
+Alexander's, Inc.                                 314,000                                         314,000       $ 90,746,000
+Apollo International, Inc. S-A CV Pfd.            105,264                                         105,264            400,000
+ChoicePoint, Inc.                               4,500,000                         50,000        4,450,000        199,137,500
+Kerzner Intl., Ltd.                             2,400,000                                       2,400,000        186,768,000
+Vail Resorts, Inc., Cl A                        3,000,000                                       3,000,000        114,660,000
+                                                                                                                ------------
+ TOTAL INVESTMENT IN "AFFILIATES" (18.2%
+   OF NET ASSETS)                                                                                               $591,711,500
+                                                                                                                ============
+
+<CAPTION>
+                                                   DIVIDEND
+                                                    INCOME
+              NAME OF ISSUER                 OCT. 1-MAR. 31, 2006
+-----------------------------------------------------------------
+<S>                                          <C>
+Alexander's, Inc.
+Apollo International, Inc. S-A CV Pfd.
+ChoicePoint, Inc.
+Kerzner Intl., Ltd.
+Vail Resorts, Inc., Cl A
+                                                      --
+ TOTAL INVESTMENT IN "AFFILIATES" (18.2%
+   OF NET ASSETS)                                     $0
+                                                      ==
+</TABLE>
+
+----------
+*   Affiliated investments, as defined in the Investment Company Act of 1940,
+    are investments in which a Fund held 5% or more of the outstanding voting
+    securities during the six months ended March 31, 2006.
+
+-------------------------------------------------------------------------------
+
+
+                                       22
+
+<PAGE>
+
+BARON FUNDS
+-------------------------------------------------------------------------------
+
+(9) INVESTMENT IN "AFFILIATES"* DURING THE SIX MONTHS ENDED MARCH 31, 2006.
+    (CONTINUED)
+
+BARON GROWTH FUND
+
+<TABLE>
+<CAPTION>
+                                               BALANCE OF          GROSS       GROSS SALES      BALANCE OF
+                                             SHARES HELD ON      PURCHASES         AND        SHARES HELD ON       VALUE
+              NAME OF ISSUER                  SEP. 30, 2005    AND ADDITIONS    REDUCTIONS    MAR. 31, 2006    MAR. 31, 2006
+----------------------------------------------------------------------------------------------------------------------------
+<S>                                          <C>               <C>             <C>            <C>              <C>
+AMERIGROUP, Corp.                               3,800,000                                       3,800,000       $ 79,952,000
+Blue Nile, Inc.                                   875,000                                         875,000         30,791,250
+Carter's, Inc.                                  1,450,000                                       1,450,000         97,860,500
+Centene Corp.                                   3,199,500                        199,500        3,000,000         87,510,000
+Center Financial Corp.                            850,000                                         850,000         20,595,500
+DeVry, Inc.                                     3,700,000                                       3,700,000         84,249,000
+Encore Acquisition Co.                          3,700,000                                       3,700,000        114,700,000
+Select Comfort Corp.                            1,800,000                                       1,800,000         71,190,000
+                                                                                                                ------------
+ TOTAL INVESTMENT IN "AFFILIATES" (10.3%
+   OF NET ASSETS)                                                                                               $586,848,250
+                                                                                                                ============
+
+<CAPTION>
+                                                   DIVIDEND
+                                                    INCOME
+              NAME OF ISSUER                 OCT. 1-MAR. 31, 2006
+-----------------------------------------------------------------
+<S>                                          <C>
+AMERIGROUP, Corp.
+Blue Nile, Inc.
+Carter's, Inc.
+Centene Corp.
+Center Financial Corp.                              $68,000
+DeVry, Inc.
+Encore Acquisition Co.
+Select Comfort Corp.
+                                                    -------
+ TOTAL INVESTMENT IN "AFFILIATES" (10.3%
+   OF NET ASSETS)                                   $68,000
+                                                    =======
+</TABLE>
+
+----------
+*   Affiliated investments, as defined in the Investment Company Act of 1940,
+    are investments in which a Fund held 5% or more of the outstanding voting
+    securities during the six months ended March 31, 2006.
+
+<PAGE>
+
+BARON SMALL CAP FUND
+
+<TABLE>
+<CAPTION>
+                                                                    BALANCE OF          GROSS       GROSS SALES      BALANCE OF
+                                                                  SHARES HELD ON      PURCHASES         AND        SHARES HELD ON
+                        NAME OF ISSUER                             SEP. 30, 2005    AND ADDITIONS    REDUCTIONS    MAR. 31, 2006
+ --------------------------------------------------------------------------------------------------------------------------------
+<S>                                                               <C>               <C>             <C>            <C>
+AFC Enterprises, Inc.                                                1,850,000          400,000                      2,250,000
+Cash Systems, Inc.                                                   1,500,000                                       1,500,000
+Casual Male Retail Group, Inc.                                       1,157,503                                       1,157,503
+Casual Male Retail Group, Inc., Warrants Exp 04/26/2007              1,407,353                                       1,407,353
+Casual Male Retail Group, Inc., Warrants Exp 07/02/2010                100,000                                         100,000
+Design Within Reach, Inc.                                            1,100,000           75,000       500,000          675,000
+DTS, Inc.                                                            1,625,000                                       1,625,000
+Eagle Materials, Inc., Cl B +                                        1,000,000        2,000,000       500,000        2,500,000
+Eagle Materials, Inc.                                                   45,600                         45,600               --
+Great Wolf Resorts, Inc.                                             2,500,000          188,829                      2,688,829
+Immucor, Inc.                                                        2,500,000                        300,000        2,200,000
+Infocrossing, Inc.                                                   1,082,000                        577,016          504,984
+Infocrossing, Inc., Warrants Exp 10/16/2008                            222,575                                         222,575
+Kensey Nash Corp.                                                      941,600          108,400                      1,050,000
+Koppers Holdings, Inc.                                                      --        1,095,000                      1,095,000
+LECG Corp.                                                           1,650,000                                       1,650,000
+MarineMax, Inc.                                                      1,500,000           50,000                      1,550,000
+Measurement Specialties, Inc.                                        1,100,000                        100,000        1,000,000
+NuCO2, Inc.                                                          1,127,364          122,636                      1,250,000
+Viisage Technology, Inc.                                                    --        1,820,400                      1,820,400
+ TOTAL INVESTMENT IN "AFFILIATES" (15.3% OF NET ASSETS)
+
+<CAPTION>
+                                                                                         DIVIDEND
+                                                                      VALUE               INCOME
+                        NAME OF ISSUER                            MAR. 31, 2006    OCT. 1-MAR. 31, 2006
+ ------------------------------------------------------------------------------------------------------
+<S>                                                               <C>              <C>
+AFC Enterprises, Inc.                                              $ 31,275,000
+Cash Systems, Inc.                                                   10,425,000
+Casual Male Retail Group, Inc.                                       11,274,079
+Casual Male Retail Group, Inc., Warrants Exp 04/26/2007               6,202,368
+Casual Male Retail Group, Inc., Warrants Exp 07/02/2010                 498,000
+Design Within Reach, Inc.                                                    --**
+DTS, Inc.                                                            31,947,500
+Eagle Materials, Inc., Cl B +                                       159,475,000         $1,037,500
+Eagle Materials, Inc.                                                        --**
+Great Wolf Resorts, Inc.                                             31,163,528
+Immucor, Inc.                                                                --**
+Infocrossing, Inc.                                                           --**
+Infocrossing, Inc., Warrants Exp 10/16/2008                                  --**
+Kensey Nash Corp.                                                    30,030,000
+Koppers Holdings, Inc.                                               21,516,750            109,500
+LECG Corp.                                                           31,795,500
+MarineMax, Inc.                                                      51,956,000
+Measurement Specialties, Inc.                                        26,150,000
+NuCO2, Inc.                                                          39,675,000
+Viisage Technology, Inc.                                             31,875,204
+                                                                   ------------         ----------
+ TOTAL INVESTMENT IN "AFFILIATES" (15.3% OF NET ASSETS)            $515,258,929         $1,147,000
+                                                                   ============         ==========
+</TABLE>
+
+----------
++   Received 2,000,000 shares from 3:1 stock split.
+
+*   Affiliated investments, as defined in the Investment Company Act of 1940,
+    are investments in which a Fund held 5% or more of the outstanding voting
+    securities during the six months ended March 31, 2006.
+
+**  As of March 31, 2006, no longer an affiliate.
+
+
+                                       23
+
+<PAGE>
+
+BARON FUNDS
+
+-------------------------------------------------------------------------------
+
+(10) FINANCIAL HIGHLIGHTS
+
+BARON ASSET FUND
+
+Selected data for a share of beneficial interest outstanding throughout each
+period:
+
+<TABLE>
+<CAPTION>
+                                               SIX MONTHS                           YEAR ENDED SEPTEMBER 30,
+                                                  ENDED        -----------------------------------------------------------------
+                                             MARCH 31, 2006      2005       2004        2003       2002        2001       2000
+                                             --------------    --------   --------    --------   --------    --------   --------
+<S>                                          <C>               <C>        <C>         <C>        <C>         <C>        <C>
+NET ASSET VALUE, BEGINNING OF PERIOD            $  56.52       $  47.89   $  40.05    $  35.65   $  40.22    $  63.35   $  51.57
+                                                --------       --------   --------    --------   --------    --------   --------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment income (loss)                       (0.16)         (0.46)     (0.43)      (0.46)     (0.55)      (0.65)     (0.76)
+Net realized and unrealized gains
+  (losses) on investments                           7.99          12.08       8.27        6.04       0.05      (17.87)     12.53
+                                                --------       --------   --------    --------   --------    --------   --------
+   TOTAL FROM INVESTMENT OPERATIONS                 7.83          11.62       7.84        5.58      (0.50)     (18.52)     11.77
+                                                --------       --------   --------    --------   --------    --------   --------
+LESS DISTRIBUTIONS
+Dividends from net investment income                0.00           0.00       0.00        0.00       0.00        0.00       0.00
+Distributions from net realized gains              (2.81)         (2.99)      0.00       (1.18)     (4.07)      (4.61)      0.00
+                                                --------       --------   --------    --------   --------    --------   --------
+   TOTAL DISTRIBUTIONS                             (2.81)         (2.99)      0.00       (1.18)     (4.07)      (4.61)      0.00
+                                                --------       --------   --------    --------   --------    --------   --------
+Capital contribution                                0.00           0.00       0.00        0.00       0.00        0.00       0.01
+                                                --------       --------   --------    --------   --------    --------   --------
+NET ASSET VALUE, END OF PERIOD                  $  61.54       $  56.52   $  47.89    $  40.05   $  35.65    $  40.22   $  63.35
+                                                ========       ========   ========    ========   ========    ========   ========
+   TOTAL RETURN                                     14.3%+         25.2%      19.6%       16.1%      (2.5%)     (31.2%)     22.8%+
+                                                ========       ========   ========    ========   ========    ========   ========
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in millions), end of period         $3,256.2       $2,687.4   $2,002.4    $1,957.2   $2,055.2    $2,692.3   $4,917.4
+Ratio of total expenses to average net
+  assets                                            1.33%**        1.34%      1.34%       1.34%      1.35%       1.37%      1.36%
+Less: Ratio of interest expense to
+  average net assets                                0.00%**        0.00%      0.00%       0.00%     (0.02%)     (0.01%)    (0.03%)
+                                                --------       --------   --------    --------   --------    --------   --------
+Ratio of operating expenses to average
+  net assets                                        1.33%**        1.34%      1.34%       1.34%      1.33%       1.36%      1.33%
+                                                ========       ========   ========    ========   ========    ========   ========
+Ratio of net investment income (loss) to
+ average net assets                                (0.57%)**      (0.91%)    (0.90%)     (1.14%)    (1.16%)     (1.14%)    (1.09%)
+Portfolio turnover rate                             7.13%+        11.47%     19.57%      27.95%      6.01%       4.33%      2.51%
+
+<PAGE>
+
+<CAPTION>
+                                                 YEAR ENDED SEPTEMBER 30,
+                                             -------------------------------
+                                               1999        1998       1997
+                                             --------    --------   --------
+<S>                                          <C>         <C>        <C>
+NET ASSET VALUE, BEGINNING OF PERIOD         $  39.96    $  47.43   $  35.50
+                                             --------    --------   --------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment income (loss)                    (0.30)       0.05      (0.14)
+Net realized and unrealized gains
+  (losses) on investments                       11.94       (7.52)     12.11
+                                             --------    --------   --------
+   TOTAL FROM INVESTMENT OPERATIONS             11.64       (7.47)     11.97
+                                             --------    --------   --------
+LESS DISTRIBUTIONS
+Dividends from net investment income            (0.04)       0.00       0.00
+Distributions from net realized gains            0.00        0.00      (0.04)
+                                             --------    --------   --------
+   TOTAL DISTRIBUTIONS                          (0.04)       0.00      (0.04)
+                                             --------    --------   --------
+Capital contribution                             0.01        0.00       0.00
+                                             --------    --------   --------
+NET ASSET VALUE, END OF PERIOD               $  51.57    $  39.96   $  47.43
+                                             ========    ========   ========
+   TOTAL RETURN                                  29.2%*     (15.7%)     33.8%
+                                             ========    ========   ========
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in millions), end of period      $5,863.1    $4,410.5   $3,224.5
+Ratio of total expenses to average net
+  assets                                         1.31%       1.32%      1.35%
+Less: Ratio of interest expense to
+  average net assets                             0.00%       0.00%      0.00%
+                                             --------    --------   --------
+Ratio of operating expenses to average
+  net assets                                     1.31%       1.32%      1.35%
+                                             ========    ========   ========
+Ratio of net investment income (loss) to
+  average net assets                            (0.57%)      0.11%     (0.52%)
+Portfolio turnover rate                         15.64%      23.43%     13.23%
+</TABLE>
+
+----------
+
++   Had the adviser not made the capital contribution, the Fund's performance
+    would have been reduced by 0.02%.
+*   Had the adviser not made the capital contribution, the Fund's performance
+    would have been reduced by 0.03%.
+**  Annualized
++   Not annualized
+
+
+                                       24
+
+<PAGE>
+
+BARON FUNDS
+-------------------------------------------------------------------------------
+
+(10) FINANCIAL HIGHLIGHTS (CONTINUED)
+
+BARON GROWTH FUND
+
+Selected data for a share of beneficial  interest  outstanding  throughout  each
+period:
+
+<TABLE>
+<CAPTION>
+                                                   SIX MONTHS                         YEAR ENDED SEPTEMBER 30,
+                                                      ENDED        -------------------------------------------------------------
+                                                 MARCH 31, 2006      2005       2004        2003       2002       2001     2000
+                                                 --------------    --------   --------    --------   --------    ------   ------
+<S>                                              <C>               <C>        <C>         <C>        <C>         <C>      <C>
+NET ASSET VALUE, BEGINNING OF PERIOD                $  45.96       $  38.92   $  32.65    $  26.96   $  27.18    $32.26   $29.06
+                                                    --------       --------   --------    --------   --------    ------   ------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment income (loss)                           (0.14)         (0.29)     (0.30)      (0.25)     (0.23)    (0.22)   (0.26)
+Net realized and unrealized gains (losses) on
+  investments                                           6.73           7.33       6.57        5.94       1.65     (1.67)    5.34
+                                                    --------       --------   --------    --------   --------    ------   ------
+   TOTAL FROM INVESTMENT OPERATIONS                     6.59           7.04       6.27        5.69       1.42     (1.89)    5.08
+                                                    --------       --------   --------    --------   --------    ------   ------
+LESS DISTRIBUTIONS
+Dividends from net investment income                    0.00           0.00       0.00        0.00       0.00      0.00     0.00
+Distributions from net realized gains                  (2.05)          0.00       0.00        0.00      (1.64)    (3.19)   (1.88)
+                                                    --------       --------   --------    --------   --------    ------   ------
+   TOTAL DISTRIBUTIONS                                 (2.05)          0.00       0.00        0.00      (1.64)    (3.19)   (1.88)
+                                                    --------       --------   --------    --------   --------    ------   ------
+NET ASSET VALUE, END OF PERIOD                      $  50.50       $  45.96   $  38.92    $  32.65   $  26.96    $27.18   $32.26
+                                                    ========       ========   ========    ========   ========    ======   ======
+   TOTAL RETURN                                         14.8%+         18.1%      19.2%       21.1%       5.0%     (6.1%)   18.6%
+                                                    ========       ========   ========    ========   ========    ======   ======
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in millions), end of period             $5,693.1       $5,005.1   $3,135.6    $2,185.4   $1,030.3    $512.3   $533.4
+Ratio of total expenses to average net assets           1.31%**        1.31%      1.33%       1.36%      1.35%     1.36%    1.36%
+Less: Ratio of interest expense to average
+  net assets                                            0.00%**        0.00%      0.00%       0.00%      0.00%     0.00%    0.00%
+                                                    --------       --------   --------    --------   --------    ------   ------
+Ratio of operating expenses to average net
+ assets                                                 1.31%**        1.31%      1.33%       1.36%      1.35%     1.36%    1.36%
+                                                    ========       ========   ========    ========   ========    ======   ======
+Ratio of net investment income (loss) to
+  average net assets                                   (0.60%)**      (0.73%)    (0.89%)     (1.11%)    (1.02%)   (0.79%)  (0.78%)
+Portfolio turnover rate                                10.39%+        15.50%     27.15%      32.63%     18.31%    34.94%   39.00%
+
+<PAGE>
+
+<CAPTION>
+                                                  YEAR ENDED SEPTEMBER 30,
+                                                 -------------------------
+                                                  1999      1998     1997
+                                                 ------    ------   ------
+<S>                                              <C>       <C>      <C>
+NET ASSET VALUE, BEGINNING OF PERIOD             $20.32    $24.89   $18.40
+                                                 ------    ------   ------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment income (loss)                      (0.04)     0.06     0.06
+Net realized and unrealized gains (losses) on
+  investments                                      8.82     (4.56)    6.68
+                                                 ------    ------   ------
+   TOTAL FROM INVESTMENT OPERATIONS                8.78     (4.50)    6.74
+                                                 ------    ------   ------
+LESS DISTRIBUTIONS
+Dividends from net investment income              (0.04)    (0.02)   (0.09)
+Distributions from net realized gains              0.00     (0.05)   (0.16)
+                                                 ------    ------   ------
+   TOTAL DISTRIBUTIONS                            (0.04)    (0.07)   (0.25)
+                                                 ------    ------   ------
+NET ASSET VALUE, END OF PERIOD                   $29.06    $20.32   $24.89
+                                                 ======    ======   ======
+   TOTAL RETURN                                    43.2%    (18.1%)   37.1%
+                                                 ======    ======   ======
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in millions), end of period          $439.4    $315.6   $390.8
+Ratio of total expenses to average net assets      1.40%     1.43%    1.40%
+Less: Ratio of interest expense to average
+  net assets                                      (0.03%)   (0.06%)   0.00%
+                                                 ------    ------   ------
+Ratio of operating expenses to average net
+  assets                                           1.37%     1.37%    1.40%
+                                                 ======    ======   ======
+Ratio of net investment income (loss) to
+  average net assets                              (0.20%)    0.21%    0.37%
+Portfolio turnover rate                           53.36%    40.38%   25.17%
+</TABLE>
+
+---------------
+**  Annualized
++   Not annualized
+
+<PAGE>
+
+BARON SMALL CAP FUND
+
+Selected data for a share of beneficial interest outstanding throughout each
+period:
+
+<TABLE>
+<CAPTION>
+                                                   SIX MONTHS                        YEAR ENDED SEPTEMBER 30,
+                                                      ENDED        -----------------------------------------------------------
+                                                 MARCH 31, 2006      2005       2004        2003      2002      2001     2000
+                                                 --------------    --------   --------    --------   ------    ------   ------
+<S>                                              <C>               <C>        <C>         <C>        <C>       <C>      <C>
+NET ASSET VALUE, BEGINNING OF PERIOD                $  23.08       $  19.18   $  17.26    $  13.73   $12.69    $16.05   $13.37
+                                                    --------       --------   --------    --------   ------    ------   ------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment loss                                    (0.08)         (0.10)     (0.15)      (0.11)   (0.14)    (0.11)   (0.16)
+Net realized and unrealized gains (losses) on
+  investments                                           3.53           4.55       2.07        4.02     1.18     (2.87)    2.84
+                                                    --------       --------   --------    --------   ------    ------   ------
+   TOTAL FROM INVESTMENT OPERATIONS                     3.45           4.45       1.92        3.91     1.04     (2.98)    2.68
+                                                    --------       --------   --------    --------   ------    ------   ------
+LESS DISTRIBUTIONS
+Dividends from net investment income                    0.00           0.00       0.00        0.00     0.00      0.00     0.00
+Distributions from net realized gains                  (0.74)         (0.55)      0.00       (0.38)    0.00     (0.38)    0.00
+                                                    --------       --------   --------    --------   ------    ------   ------
+   TOTAL DISTRIBUTIONS                                 (0.74)         (0.55)      0.00       (0.38)    0.00     (0.38)    0.00
+                                                    --------       --------   --------    --------   ------    ------   ------
+NET ASSET VALUE, END OF PERIOD                      $  25.79       $  23.08   $  19.18    $  17.26   $13.73    $12.69   $16.05
+                                                    ========       ========   ========    ========   ======    ======   ======
+   TOTAL RETURN                                         15.4%+         23.6%      11.1%       29.2%     8.2%    (18.8%)   20.0%
+                                                    ========       ========   ========    ========   ======    ======   ======
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in millions), end of period             $3,356.8       $2,828.6   $1,782.1    $1,210.5   $719.1    $585.9   $879.5
+Ratio of expenses to average net assets                 1.33%**        1.33%      1.33%       1.36%    1.36%     1.35%    1.33%
+Ratio of net investment loss to average net
+  assets                                               (0.66%)**      (0.48%)    (0.88%)     (0.87%)  (0.97%)   (0.68%)  (0.90%)
+Portfolio turnover rate                                20.17%+        24.68%     32.92%      30.29%   55.07%    55.77%   53.18%
+
+<CAPTION>
+                                                    YEAR ENDED
+                                                   SEPTEMBER 30,
+                                                  ---------------
+                                                  1999      1998
+                                                 ------    ------
+<S>                                              <C>       <C>
+NET ASSET VALUE, BEGINNING OF PERIOD             $ 8.61    $10.00
+                                                 ------    ------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment loss                               (0.10)    (0.02)
+Net realized and unrealized gains (losses) on
+  investments                                      4.86     (1.37)
+                                                 ------    ------
+   TOTAL FROM INVESTMENT OPERATIONS                4.76     (1.39)
+                                                 ------    ------
+LESS DISTRIBUTIONS
+Dividends from net investment income               0.00      0.00
+Distributions from net realized gains              0.00      0.00
+                                                 ------    ------
+   TOTAL DISTRIBUTIONS                             0.00      0.00
+                                                 ------    ------
+NET ASSET VALUE, END OF PERIOD                   $13.37    $ 8.61
+                                                 ======    ======
+   TOTAL RETURN                                    55.3%    (13.9%)
+                                                 ======    ======
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in millions), end of period          $715.7    $403.7
+Ratio of expenses to average net assets            1.34%     1.39%
+Ratio of net investment loss to average net
+  assets                                          (0.99%)   (0.20%)
+Portfolio turnover rate                           42.69%    59.68%
+</TABLE>
+
+----------
+**  Annualized
++   Not annualized
+
+
+                                       25
+
+<PAGE>
+
+BARON FUNDS
+
+-------------------------------------------------------------------------------
+
+(10) FINANCIAL HIGHLIGHTS (CONTINUED)
+
+BARON iOPPORTUNITY FUND
+
+Selected data for a share of beneficial interest outstanding throughout each
+period:
+
+<TABLE>
+<CAPTION>
+                                               SIX MONTHS                     YEAR ENDED SEPTEMBER 30,
+                                                  ENDED        ------------------------------------------------------
+                                             MARCH 31, 2006     2005     2004      2003     2002      2001      2000*
+                                             --------------    ------   ------    ------   ------    -------   ------
+<S>                                          <C>               <C>      <C>       <C>      <C>       <C>       <C>
+NET ASSET VALUE, BEGINNING OF PERIOD             $ 9.16        $ 7.58   $ 6.48    $ 3.63   $ 4.09    $  8.76   $10.00
+                                                 ------        ------   ------    ------   ------    -------   ------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment income (loss)                       0.00+        (0.09)   (0.10)    (0.05)   (0.06)     (0.05)    0.03
+Net realized and unrealized gains
+  (losses) on investments                          1.28          1.66     1.18      2.89    (0.40)     (4.59)   (1.28)
+                                                 ------        ------   ------    ------   ------    -------   ------
+   TOTAL FROM INVESTMENT OPERATIONS                1.28          1.57     1.08      2.84    (0.46)     (4.64)   (1.25)
+                                                 ------        ------   ------    ------   ------    -------   ------
+LESS DISTRIBUTIONS
+Dividends from net investment income               0.00          0.00     0.00      0.00     0.00      (0.03)    0.00
+Distributions from net realized gains              0.00          0.00     0.00      0.00     0.00       0.00     0.00
+                                                 ------        ------   ------    ------   ------    -------   ------
+   TOTAL DISTRIBUTIONS                             0.00          0.00     0.00      0.00     0.00      (0.03)    0.00
+                                                 ------        ------   ------    ------   ------    -------   ------
+Redemption fees added to paid in capital           0.00+         0.01     0.02      0.01     0.00+      0.00+    0.01
+                                                 ------        ------   ------    ------   ------    -------   ------
+NET ASSET VALUE, END OF PERIOD                   $10.44        $ 9.16   $ 7.58    $ 6.48   $ 3.63    $  4.09   $ 8.76
+                                                 ======        ======   ======    ======   ======    =======   ======
+   TOTAL RETURN                                    14.0%+        20.8%^   17.0%^    78.5%^  (11.2%)^   (53.1%)^ (12.4%)^+
+                                                 ======        ======   ======    ======   ======    =======   ======
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in millions), end of period          $167.3        $145.7   $133.9    $109.3   $ 57.5    $  73.7   $188.2
+Ratio of total expenses to average net
+  assets                                           1.48%**       1.52%    1.56%     1.67%    1.65%      1.55%    1.53%**
+Less: Expense reimbursement by investment
+  adviser                                          0.00%**      (0.02%)  (0.06%)   (0.17%)  (0.15%)    (0.05%)  (0.03%)**
+                                                 ------        ------   ------    ------   ------    -------   ------
+Ratio of net expenses to average net
+  assets                                           1.48%**       1.50%    1.50%     1.50%    1.50%      1.50%    1.50%**
+                                                 ======        ======   ======    ======   ======    =======   ======
+Ratio of net investment income (loss) to
+  average net assets                               0.03%**      (1.01%)  (1.25%)   (1.18%)  (1.20%)    (0.75%)   0.46%**
+Portfolio turnover rate                           42.70%+       83.64%   86.35%    89.72%   96.41%    123.30%   31.47%+
+</TABLE>
+
+----------
+*   For the period February 29, 2000 (Commencement of Operations) to September
+    30, 2000.
+**  Annualized.
++   Not annualized.
++   Less than $0.01 per share.
+^   The total returns would have been lower had certain expenses not been
+    reduced during the periods shown.
+
+<PAGE>
+
+BARON FIFTH AVENUE GROWTH FUND
+
+Selected data for a share of beneficial interest outstanding throughout each
+period:
+
+<TABLE>
+<CAPTION>
+                                                                                         YEAR ENDED
+                                                                      SIX MONTHS       SEPTEMBER 30,
+                                                                         ENDED        ---------------
+                                                                    MARCH 31, 2006     2005     2004*
+                                                                    --------------    ------   ------
+<S>                                                                 <C>               <C>      <C>
+NET ASSET VALUE, BEGINNING OF PERIOD                                    $11.56        $ 9.89   $10.00
+                                                                        ------        ------   ------
+INCOME FROM INVESTMENT OPERATIONS
+Net investment income (loss)                                              0.01         (0.05)   (0.02)
+Net realized and unrealized gains (losses) on investments                 0.82          1.72    (0.09)
+                                                                        ------        ------   ------
+   TOTAL FROM INVESTMENT OPERATIONS                                       0.83          1.67    (0.11)
+                                                                        ------        ------   ------
+LESS DISTRIBUTIONS
+Dividends from net investment income                                      0.00          0.00     0.00
+Distributions from net realized gains                                     0.00          0.00     0.00
+                                                                        ------        ------   ------
+   TOTAL DISTRIBUTIONS                                                    0.00          0.00     0.00
+                                                                        ------        ------   ------
+NET ASSET VALUE, END OF PERIOD                                          $12.39        $11.56   $ 9.89
+                                                                        ======        ======   ======
+   TOTAL RETURN                                                            7.2%+        16.9%^   (1.1%)^+
+                                                                        ======        ======   ======
+RATIOS/SUPPLEMENTAL DATA
+Net assets (in millions), end of period                                 $148.3        $ 96.5   $ 49.3
+Ratio of total expenses to average net assets                             1.40%**       1.49%    1.67%**
+Less: Expense reimbursement by investment adviser                         0.00%**      (0.09%)  (0.27%)**
+                                                                        ------        ------   ------
+Ratio of net expenses to average net assets                               1.40%**       1.40%    1.40%**
+                                                                        ======        ======   ======
+Ratio of net investment income (loss) to average net assets               0.17%**      (0.58%)  (0.79%)**
+Portfolio turnover rate                                                  31.50%+       46.71%    7.58%+
+</TABLE>
+
+----------
+*   For the period April 30, 2004 (commencement of operations) to September 30,
+    2004.
+
+**  Annualized.
+
++   Not annualized.
+
+^   The total returns would have been lower had certain expenses not been
+    reduced during the periods shown.
+
+
+                                       26
+
+<PAGE>
+
+[LOGO BARON FUNDS(R)]
+
+
+MAR06
+
+<PAGE>
+Item 2. Code of Ethics.
+
+          Not applicable at this time. This item is appliacble to annual
+          reports.
+
+Item 3. Audit Committee Financial Expert.
+
+          Not applicable at this time. This item is appliacble to annual
+          reports.
+
+Item 4.  Principal Accountant Fees and Services.
+
+          Not applicable at this time. This item is appliacble to annual
+          reports.
+
+Item 5.  Audit Committee of Listed Registrants.
+
+          Not applicable at this time. This item is appliacble to annual
+          reports.
+
+Item 6.  Schedule of Investments.
+
+          Please see Item 1.
+
+Item 7. Disclosure of Proxy Voting Policies and Procedures for Closed-End
+        Management Investment Companies.
+
+        NOT APPLICABLE.
+
+Item 8. Portfolio Managers of Closed-End Management Investment Companies.
+
+        NOT APPLICIABLE.
+
+Item 9. Purchases of Equity Securities by Closed-End Management Investment
+        Company and Affiliated Purchasers.
+
+        NOT APPLICABLE.
+
+Item 10. Submission of Matters to a Vote of Security Holders.
+
+        NOT APPLICABLE>
+
+<PAGE>
+
+Item 11. Controls and Procedures.
+
+     (a)  The Registrant's  principal  executive officer and principal financial
+          officer have concluded that the Registrant's  disclosure  controls and
+          procedures (as defined in Rule 30a-3(c)  under the Investment  Company
+          Act of 1940) are effective based on their evaluation of these controls
+          and  procedures as of a date within 90 days of the filing date of this
+          report.
+
+     (b)  There were no significant changes in the Registrant's internal control
+          over  financial  reporting  (as  defined  in Rule  30a-3(d)  under the
+          Investment  Company Act of 1940) that occurred during the Registrant's
+          second fiscal  quarter of the period  covered by this report that have
+          materially  affected,  or are reasonably likely to materially  affect,
+          the Registrant's internal control over financial reporting.
+
+Item 12. Exhibits.
+
+     a).    Ex-99.COE
+
+          Not applicable at this time. This item is appliacble to annual
+          reports.
+
+     b).    Ex-99.CERT
+
+          Certification pursuant to Item 10(b) of the Form N-CSR.
+<PAGE>
+
+                                   SIGNATURES
+
+
+Pursuant to the  requirements  of the  Securities  Exchange  Act of 1934 and the
+Investment Company Act of 1940, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                 BARON INVESTMENT FUNDS TRUST
+
+
+
+                                 By:   /s/ Ronald Baron
+                                       -------------------
+                                           Ronald Baron
+                                           President and Chief Executive Officer
+
+                                 Date: June 6, 2006
+
+
+
+
+Pursuant to the  requirements  of the  Securities  Exchange  Act of 1934 and the
+Investment  Company  Act of  1940,  this  report  has been  signed  below by the
+following  persons on behalf of the  registrant and in the capacities and on the
+dates indicated.
+
+
+                                 By:   /s/ Ronald Baron
+                                       --------------------
+                                           Ronald Baron
+                                           President and Chief Executive Officer
+
+                                 Date:  June 6, 2006
+
+
+
+                                 By:   /s/ Peggy Wong
+                                       --------------------
+                                           Peggy Wong
+                                           Treasurer and Chief Financial Officer
+
+                                 Date: June 6, 2006
+
+
+A  signed  original  of this  written  statement  has  been  provided  to  Baron
+Investment  Funds Trust and will be retained by Baron Investment Funds Trust and
+furnished to the Securities and Exchange Commission or its staff upon request.
+</TEXT>
+</DOCUMENT>

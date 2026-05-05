@@ -1,0 +1,1251 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OaAaqiis0EJ81rkK/M3mPh5GnGov4ZjRd5zTbhFrJbFr/aEabE2tQr/fsCe1j9Re
+ ZlMcPBiYhjh0Sh2OiCHW3A==
+
+<SEC-DOCUMENT>0000950137-97-003531.txt : 19971029
+<SEC-HEADER>0000950137-97-003531.hdr.sgml : 19971029
+ACCESSION NUMBER:		0000950137-97-003531
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19970831
+FILED AS OF DATE:		19971028
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DRIEHAUS MUTUAL FUNDS
+		CENTRAL INDEX KEY:			0001016073
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		
+		SEC FILE NUMBER:	811-07655
+		FILM NUMBER:		97702018
+
+	BUSINESS ADDRESS:	
+		STREET 1:		25 EAST ERIE ST
+		STREET 2:		25 EAST ERIE STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60611
+		BUSINESS PHONE:		3125873800
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT DATED 8-31-97
+<TEXT>
+
+<PAGE>   1
+ 
+- --------------------------------------------------------------------------------
+PRESIDENT'S LETTER
+- --------------------------------------------------------------------------------
+ 
+Dear Fellow Shareholders:
+ 
+    As we come to the close of the first year for the Driehaus International
+Growth Fund, I would like to take this opportunity to personally welcome each of
+you to the Fund. This first year was a very successful one, with the details of
+our accomplishments provided in Bill Andersen's portfolio manager letter and the
+accompanying report. In my role as chief executive officer of Driehaus Capital
+Management, Inc., the adviser to the Fund, I'm pleased to see that we are
+continuing our tradition of outstanding performance to the international equity
+markets.
+ 
+    I have been a long-time believer in growth investing and in the superiority
+of our assertive, growth-oriented investment philosophy, whether we are
+analyzing U.S. or international markets. Clearly, entrepreneurship and a belief
+in the market economy do not stop at American borders. In fact, since we first
+turned our attention to the international arena in 1989, economic development
+has flourished worldwide. At the same time, while we were preparing to expand
+our scope globally, I was aware of the demands of managing an international
+portfolio and the need to maintain performance levels for the clients of our
+small and mid-cap U.S. funds. It was for these reasons that I asked Bill, one of
+our senior portfolio managers, to undertake the responsibility of international
+management for Driehaus. As the record shows, he has done an outstanding job.
+ 
+    This success in applying the Driehaus investment philosophy internationally
+further affirms the success that I have had in the U.S. market for more than 25
+years. It gives me added confidence in our philosophy and confirms my belief
+that we can grow as successfully as the companies in which we invest.
+ 
+    I join you in looking forward to reports of continued achievement.
+ 
+Sincerely,
+ 
+Richard H. Driehaus
+Richard H. Driehaus
+President
+Driehaus Mutual Funds
+ 
+                                        1
+<PAGE>   2
+ 
+Dear Fellow Shareholders:
+ 
+   I am pleased to report that our first fiscal year, ended August 31, 1997, was
+successful, with the value of an investment in the Driehaus International Growth
+Fund (and its predecessor partnership) rising 18.73% versus 9.05% for the Morgan
+Stanley Capital International EAFE Index. Our performance also compared
+favorably against the Lipper International Fund Index average of 15.44% for the
+period August 29, 1996 through August 28, 1997 (when Lipper Analytical Services,
+Inc. published the return).
+ 
+   Over the 12 months ending August 31, 1997, leadership in the international
+markets was provided mainly by European large-cap issues, especially financial
+service stocks and companies benefiting from restructuring efforts. Among
+emerging markets, Latin America and Eastern Europe--particularly Russia--also
+provided strong performance. This was countered by Japan's dramatic under-
+performance of the world market and by Southeast Asia, which started off well
+but then collapsed. By identifying and leveraging these international trends, we
+were able to make investment decisions for the Fund that resulted in excellent
+performance over the past year.
+ 
+   I thought I would take this opportunity to discuss some of the themes we have
+identified that we believe are relevant to managing international portfolios at
+this time. While our investment management approach is primarily "bottom up,"
+such a discussion should prove helpful in understanding the context in which we
+are managing the Fund.
+ 
+   Shift in market leadership worldwide to growth companies. While much has been
+written about the narrow, large-cap leadership in the United States, a similar
+phenomenon has also taken place internationally in the past few years. As in the
+U. S., this trend has been particularly pronounced since the second half of
+1996. Beginning in mid-1997, we believe that leadership has shifted back to
+faster growing, more dynamic companies.
+ 
+   Very strong economic recovery expected in Europe. A number of very exciting
+changes are happening in Europe. Many companies have undertaken substantial
+restructuring programs with the intent of improving efficiency and
+profitability. Just as it did in the United States in the early '90s, this
+undertaking should set the stage for an economic upswing. In addition, the
+planned adoption of a single currency in 1999 has led several countries
+(including Italy, Spain, and Portugal) to undertake very positive changes in
+their economic policies. We are also encouraged by the development of new stock
+exchanges throughout Europe, which will focus on financing small and medium
+sized growth companies.
+ 
+   Japanese economic recovery still on hold. After another false start, the
+Japanese economy has slowed dramatically in the second half of 1997. The
+slowdown has been attributed in part to a tax increase in April. On a more
+positive note, Japan has recently committed to a massive deregulation program
+that targets industries including financial services, airlines, energy and
+retailing.
+ 
+   Slower growth in Southeast Asia. In our last letter, we highlighted the
+economic situation in Thailand. Subsequently, this situation worsened
+dramatically, resulting in a currency devaluation and stock market crash that
+then spread around the region. While we are positive on this region over the
+very long term, we think growth rates will remain much below historical levels
+for several years, and the Fund remains under-weighted.
+ 
+   Continued boom in other emerging markets. As much as we expect Asia to
+continue to disappoint investors, we believe other emerging markets will
+continue to boom. The Mexican economy appears to be back on track, and Brazil
+has maintained a strong privatization program despite many obstacles. China is
+attempting to combine two economic systems in a way never attempted before, but
+with surprising success. The emergence of this economy should prove to be one of
+the most significant events of the next 20 years.
+ 
+   Little threat of inflation in developed economies. As more data shows that
+inflation has fallen to levels unseen since the 1960s, it is beginning to seem
+that the high inflation levels of the 1970s and 1980s were just a historical
+aberration. This should continue to create a positive environment for financial
+issues.
+ 
+   Given this backdrop, it is no wonder that we are so optimistic about the
+prospects for economic growth and, over time, for equity investing. It is also
+no surprise that this environment continues to provide so many companies that
+are showing strong growth and outstanding prospects. We believe it is an
+exceptional time for international equity investment.
+ 
+Sincerely,
+ 
+WILLIAM R. ANDERSON
+William R. Andersen
+Portfolio Manager
+October 15, 1997
+ 
+Investment Philosophy: Driehaus Capital Management, Inc. seeks to achieve
+superior investment returns primarily by investing in companies outside the U.S.
+that are currently demonstrating rapid growth in their sales and earnings and
+that, in our judgment, have the ability to continue or accelerate their growth
+rates in the future. Driehaus manages the Fund actively (above average turnover)
+to ensure that it is fully invested in companies that meet these criteria.
+ 
+                                        2
+<PAGE>   3
+ 
+                          AVERAGE ANNUAL TOTAL RETURN
+- --------------------------------------------------------------------------------
+ 
+<TABLE>
+<CAPTION>
+                                                                   DRIEHAUS        EAFE
+                                                                   --------        ----
+<S>                                                                <C>            <C>
+  Year ended 8/31/97                                                18.73%         9.05%
+  Three Years ended 8/31/97                                         16.82%         5.74%
+  Five Years ended 8/31/97                                          20.75%        10.67%
+  Since Inception (7/1/90 - 8/31/97)                                16.67%         5.93%
+</TABLE>
+ 
+    Performance is historical and does not represent future results. Investment
+returns and principal value vary, and you may have a gain or loss when you sell
+shares.
+ 
+<TABLE>
+<CAPTION>
+               Measurement Period
+             (Fiscal Year Covered)                        DRIEHAUS                    EAFE
+<S>                                               <C>                       <C>
+Jul 1990                                                            100000                    100000
+Jun 1991                                                         105602.44                  88466.98
+Jun 1992                                                         125981.92                  87890.81
+Jun 1993                                                         142779.49                 105715.74
+Jun 1994                                                         170317.78                 123687.96
+Jun 1995                                                         186040.29                 125733.79
+Jun 1996                                                         268838.01                 142435.56
+Jun 1997                                                         270881.64                 142256.54
+Aug 1997                                                            301940                    151120
+</TABLE>
+ 
+    The "Driehaus" performance data shown above includes the performance of the
+Driehaus International Large Cap Fund, L.P. (the "Partnership"), the Fund's
+predecessor, for the periods before the Fund's registration statement became
+effective. The Partnership was established on July 1, 1990 and the Fund
+succeeded to the Partnership's assets on October 28, 1996. The Partnership was
+not registered under the Investment Company Act of 1940 and thus was not subject
+to certain investment and operational restrictions that are imposed by the 1940
+Act. If the Partnership had been registered under the 1940 Act, its performance
+may have been adversely affected. The Partnership's performance has been
+restated to reflect the expenses of the Fund.
+ 
+    Performance data presented measures change in the value of an investment in
+the Fund, assuming reinvestment of all dividends and capital gains. Average
+annual total return reflects annualized change.
+ 
+    The graph comparing the results of a $100,000 investment in the Fund, on
+July 1, 1990 (the date of the Partnership's inception), with all dividends and
+capital gains reinvested, with the EAFE Index with dividends reinvested.
+ 
+    The EAFE Index (Morgan Stanley Capital International, Europe, Australia, Far
+East Index) is an unmanaged index that is a generally accepted benchmark for
+major overseas markets. Data is in U.S. dollars and includes reinvestment of
+dividends. Source: Morgan Stanley Capital International.
+ 
+                                        3
+<PAGE>   4
+ 
+- --------------------------------------------------------------------------------
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+- --------------------------------------------------------------------------------
+ 
+To the Shareholders and Board of Trustees of
+Driehaus International Growth Fund:
+ 
+    We have audited the accompanying statement of assets and liabilities of
+DRIEHAUS INTERNATIONAL GROWTH FUND (the "Fund"), including the schedule of
+investments, as of August 31, 1997, and the related statement of operations,
+statement of changes in net assets, and financial highlights for the period
+indicated thereon. These financial statements and financial highlights are the
+responsibility of the Fund's management. Our responsibility is to express an
+opinion on these financial statements and financial highlights based on our
+audit.
+ 
+    We conducted our audit in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements and financial
+highlights are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. Our procedures included confirmation of securities owned as of
+August 31, 1997, by correspondence with the custodian. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audit provides a reasonable basis for our opinion.
+ 
+    In our opinion, the financial statements and financial highlights referred
+to above present fairly, in all material respects, the financial position of
+Driehaus International Growth Fund as of August 31, 1997, and the results of its
+operations, changes in its net assets, and financial highlights for the period
+indicated thereon, in conformity with generally accepted accounting principles.
+ 
+Arthur Anderson LLP
+ 
+Chicago, Illinois
+October 17, 1997
+ 
+                                        4
+<PAGE>   5
+ 
+- --------------------------------------------------------------------------------
+                       DRIEHAUS INTERNATIONAL GROWTH FUND
+                            SCHEDULE OF INVESTMENTS
+                                AUGUST 31, 1997
+- --------------------------------------------------------------------------------
+ 
+<TABLE>
+<CAPTION>
+                                 Number         Market
+                                   of           Value
+                                 Shares        (Note A)
+<S>                            <C>           <C>
+- ---------------------------------------------------------
+EQUITY SECURITIES -- 94.7%
+- ---------------------------------------------------------
+EUROPE -- 47.8%
+  ITALY -- 6.1%
+    Bulgari SpA..............      400,000   $  2,367,601
+    Credito Italiano SpA.....    1,456,800      3,011,793
+    Mediolanum SpA...........      244,129      2,917,656
+    Telecom Italia Mobile
+      SpA....................      786,500      2,717,445
+                                             ------------
+                                               11,014,495
+                                             ------------
+  SPAIN -- 5.5%
+    Banco Bilbao Vizcaya
+      SA.....................       78,375      2,059,523
+    Banco Santander SA.......       98,360      2,736,345
+    Tele Pizza SA**..........       86,500      5,130,634
+                                             ------------
+                                                9,926,502
+                                             ------------
+  FRANCE -- 5.4%
+    Cap Gemini Sogeti S.A....       40,751      2,482,403
+    Coflexip S.A. -- ADR.....       66,650      3,328,334
+    Dassault Systemes S.A. --
+      ADR....................       60,000      3,900,000
+                                             ------------
+                                                9,710,737
+                                             ------------
+  SWITZERLAND -- 4.3%
+    Ares-Serono Group B......        2,337      3,642,975
+    Sulzer Medica -- ADR**...       40,000      1,027,500
+    Zuerich Versicherungs-
+      Gesellschaft...........        8,695      3,154,808
+                                             ------------
+                                                7,825,283
+                                             ------------
+  UNITED KINGDOM -- 3.5%
+    Corporate Services
+      Group PLC..............      191,160        605,610
+    Misys PLC................      121,509      3,130,795
+    Norwich Union PLC**......      200,000      1,105,181
+    Sema Group PLC...........        6,241        141,590
+    Stolt Comex Seaway
+      SA**...................       26,493      1,414,064
+                                             ------------
+                                                6,397,240
+                                             ------------
+  NETHERLANDS -- 3.7%
+    ASM Lithograph Holding
+      NV**...................       40,520      3,444,200
+    Baan Co. NV..............       24,282      1,462,991
+    Fugro NV.................       52,995      1,811,862
+                                             ------------
+                                                6,719,053
+                                             ------------
+</TABLE>
+ 
+<TABLE>
+<CAPTION>
+                                 Number         Market
+                                   of           Value
+                                 Shares        (Note A)
+<S>                            <C>           <C>
+- ---------------------------------------------------------
+  SWEDEN -- 3.7%
+    Ericsson (LM) Telephone
+      Co. -- ADR.............       38,000   $  1,584,125
+    Hennes & Mauritz
+      AB -- B................       88,400      3,337,121
+    Spectra Physics AB --
+      A......................       71,580      1,701,361
+                                             ------------
+                                                6,622,607
+                                             ------------
+ 
+  IRELAND -- 4.3%
+    CBT Group PLC --
+      ADR**..................       39,190      2,547,350
+    Ryanair Holdings PLC --
+      ADR**..................       42,621      1,172,078
+    Saville Systems Ireland
+      PLC -- ADR**...........       59,591      3,985,148
+                                             ------------
+                                                7,704,576
+                                             ------------
+ 
+  FINLAND -- 3.3%
+    Nokia Corp. OY -- ADR....       10,285        797,088
+    Nokia Corp. OY -- A......       10,065        777,263
+    Raision Tehtaat OY.......       20,410      2,139,059
+    TT Tieto OY -- B.........       24,884      2,241,925
+                                             ------------
+                                                5,955,335
+                                             ------------
+ 
+  GERMANY -- 3.2%
+    Deutsche Lufthansa AG....      121,840      2,464,074
+    SAP AG (Pref.)...........       14,999      3,399,042
+                                             ------------
+                                                5,863,116
+                                             ------------
+ 
+  RUSSIA -- 3.1%
+    Novosibrisk
+      Telephone**............        4,000        384,000
+    Surgutneftegaz...........    1,200,000      1,224,000
+    Tatneft -- ADR...........       16,000      2,024,000
+    Unified Energy System....    5,000,000      1,985,000
+                                             ------------
+                                                5,617,000
+                                             ------------
+ 
+  DENMARK -- 1.2%
+    SAS Danmark AS...........      136,424      2,104,022
+                                             ------------
+ 
+  PORTUGAL -- 0.5%
+    Electric de Portugal
+      SA -- ADR**............       30,000        918,750
+                                             ------------
+    Total Europe.............                  86,378,716
+                                             ------------
+</TABLE>
+ 
+      Notes to Financial Statements are an integral part of this Schedule.
+ 
+                                        5
+<PAGE>   6
+ 
+- --------------------------------------------------------------------------------
+                       DRIEHAUS INTERNATIONAL GROWTH FUND
+                            SCHEDULE OF INVESTMENTS
+                                AUGUST 31, 1997
+- --------------------------------------------------------------------------------
+ 
+<TABLE>
+<CAPTION>
+                                 Number         Market
+                                   of           Value
+                                 Shares        (Note A)
+<S>                            <C>           <C>
+- ---------------------------------------------------------
+FAR EAST -- 28.1%
+ 
+  HONG KONG -- 11.5%
+    CCT Telecom Holdings
+      Ltd.**.................    2,056,000   $    749,474
+    Chengdu Telecom Cable Co.
+      -- H**.................    1,164,000        739,732
+    China Everbrite -- IHD
+      Pac Ltd.**.............    1,563,000      4,406,822
+    China Foods Holdings
+      Ltd....................    1,100,000        738,093
+    China Merchants
+      International
+      Holdings...............    1,276,800      4,036,492
+    China Southern
+      Airlines -- ADR**......       75,000      2,357,813
+    CNPC Hong Kong Ltd.**....    3,900,000      2,591,713
+    Top Glory International
+      Holdings...............    1,650,000        777,127
+    Tsingtao Brewery Co.,
+      Ltd. -- H**............    1,378,000        849,059
+    Yizheng Chemical
+      Fibre Co. -- H.........    3,955,000      2,883,434
+    Zhenhai Refining
+      and Chemical Co.,
+      Ltd. -- H..............    1,320,000        762,223
+                                             ------------
+                                               20,891,982
+                                             ------------
+ 
+  JAPAN -- 6.6%
+    Advantest Corp...........       14,500      1,319,545
+    Fujitsu Ltd..............      155,100      1,847,727
+    Furukawa Electric Co.,
+      Ltd....................      367,000      2,064,612
+    Meitec Corp..............       55,200      1,507,011
+    Nippon System
+      Development............          600         12,608
+    NTT Data Corp............           45      1,991,727
+    Rohm Co., Ltd............       20,000      2,068,252
+    Tokyo Electron Ltd.......       19,000      1,029,576
+                                             ------------
+                                               11,841,058
+                                             ------------
+</TABLE>
+ 
+<TABLE>
+<CAPTION>
+                                 Number         Market
+                                   of           Value
+                                 Shares        (Note A)
+<S>                            <C>           <C>
+- ---------------------------------------------------------
+  TAIWAN -- 5.3%
+    ASE Test Ltd.**..........       32,000   $  2,336,000
+    Acer Inc. 144A --
+      GDR**+.................       41,936        562,991
+    Acer Inc. -- GDR**.......       23,750        322,406
+    Asustek Computer Inc. --
+      GDR**..................       48,620      1,028,313
+    Synnex Technology
+      International Corp.
+      144A -- GDR**+.........       90,000      3,375,000
+    Synnex Technology
+      International Corp.
+      -- GDR**...............       52,900      1,983,750
+                                             ------------
+                                                9,608,460
+                                             ------------
+  SINGAPORE -- 2.0%
+    Datacraft Asia Ltd.......    1,071,000      3,534,300
+                                             ------------
+  INDONESIA -- 1.7%
+    PT Daya Guna Samudera
+      (Foreign)..............      328,500        453,103
+    PT Putra Surya Multidana
+      (Foreign)**............    1,121,300        589,649
+    PT Ramayana Lestari
+      Sentosa (Foreign)......    1,094,500      2,000,293
+                                             ------------
+                                                3,043,045
+                                             ------------
+  INDIA -- 0.9%
+    Reliance Industries
+      Ltd. -- GDR**..........       86,300      1,708,740
+                                             ------------
+  MALAYSIA -- 0.1%
+    Lityan Holdings BHD......       27,500        150,608
+                                             ------------
+  THAILAND -- 0.0%
+    Shinawatra Computer
+      Public Co., Ltd.
+      (Foreign)..............        3,800         19,000
+                                             ------------
+    Total Far East...........                  50,797,193
+                                             ------------
+</TABLE>
+ 
+      Notes to Financial Statements are an integral part of this Schedule.
+ 
+                                        6
+<PAGE>   7
+ 
+- --------------------------------------------------------------------------------
+                       DRIEHAUS INTERNATIONAL GROWTH FUND
+                            SCHEDULE OF INVESTMENTS
+                                AUGUST 31, 1997
+- --------------------------------------------------------------------------------
+ 
+<TABLE>
+<CAPTION>
+                                 Number         Market
+                                   of           Value
+                                 Shares        (Note A)
+<S>                            <C>           <C>
+- ---------------------------------------------------------
+ 
+NORTH AMERICA -- 9.2%
+  MEXICO -- 7.1%
+    Apasco SA de CV..........      212,610   $  1,571,144
+    Corporacion
+      Interamericana de
+      Enterenimiento SA --
+      B**....................      238,009      1,292,363
+    Desc SA de CV -- C.......            1              8
+    Fomento Economico
+      Mexicano SA de
+      CV -- B................      406,800      2,786,588
+    Grupo Accion SA --
+      ADR**..................       15,000        223,622
+    Grupo Financiero Banamex
+      Accival SA de CV --
+      B**....................      457,037      1,233,489
+    Grupo Financiero Bancomer
+      SA de
+      CV -- B**..............    1,819,505      1,127,106
+    Grupo Televisa SA --
+      ADR**..................       60,783      1,983,045
+    TV Azteca SA -- ADR**....      140,050      2,520,900
+                                             ------------
+                                               12,738,265
+                                             ------------
+  UNITED STATES OF AMERICA --
+    2.1%
+    Santa Fe International
+      Corp...................       85,000      3,803,750
+                                             ------------
+    Total North America......                  16,542,015
+                                             ------------
+MIDDLE EAST -- 5.2%
+  ISRAEL -- 5.2%
+    ECI Telecommunications
+      Limited Designs........       53,400      1,591,988
+    Nice Systems, Ltd. --
+      ADR**..................      104,339      4,167,039
+    Orbotech, Ltd.**.........       40,900      2,039,888
+    Teledata Communications,
+      Ltd.**.................       43,750      1,509,375
+                                             ------------
+                                                9,308,290
+                                             ------------
+    Total Middle East........                   9,308,290
+                                             ------------
+</TABLE>
+ 
+<TABLE>
+<CAPTION>
+                                 Number         Market
+                                   of           Value
+                                 Shares        (Note A)
+<S>                            <C>           <C>
+- ---------------------------------------------------------
+AFRICA -- 3.0%
+  SOUTH AFRICA -- 3.0%
+    Dimension Data Holdings
+      Ltd.**.................      718,400   $  3,054,904
+    Investec Group Ltd.......       63,930      2,326,771
+                                             ------------
+                                                5,381,675
+                                             ------------
+    Total Africa.............                   5,381,675
+                                             ------------
+SOUTH AMERICA -- 1.4%
+  BRAZIL -- 1.4%
+    Ericsson
+      Telecommunicacoes S.A.
+      (Pref.)................   31,716,000      1,580,424
+    Inepar S.A. -- Industria
+      E Construcoes
+      (Pref.)................  471,021,500        970,956
+                                             ------------
+                                                2,551,380
+                                             ------------
+    Total South America......                   2,551,380
+                                             ------------
+    Total Equity Securities
+      (cost $161,638,397)....                 170,959,269
+                                             ------------
+- ---------------------------------------------------------
+  TOTAL INVESTMENTS (COST
+    $161,638,397)............        94.7%    170,959,269
+  Other Assets in Excess of
+    Liabilities..............         5.3%      9,585,825
+                               -----------   ------------
+  Net Assets.................       100.0%   $180,545,094
+=========================================================
+  The federal income tax basis and unrealized
+  appreciation (depreciation) for all securities is as
+  follows:
+Basis....................................  $161,638,397
+                                           ============
+Gross Appreciation.......................  $ 15,963,014
+Gross Depreciation.......................    (6,642,142)
+                                           ------------
+    Net Appreciation.....................  $  9,320,872
+                                           ============
+</TABLE>
+ 
+** Non-income producing security.
+ + Restricted security (Note D).
+ 
+      Notes to Financial Statements are an integral part of this Schedule.
+ 
+                                        7
+<PAGE>   8
+ 
+- --------------------------------------------------------------------------------
+                       DRIEHAUS INTERNATIONAL GROWTH FUND
+                      SCHEDULE OF INVESTMENTS BY INDUSTRY
+                                AUGUST 31, 1997
+- --------------------------------------------------------------------------------
+ 
+<TABLE>
+<CAPTION>
+                                         PERCENT OF
+INDUSTRY                                 NET ASSETS
+- --------                                 ----------
+<S>                                      <C>
+Airlines...............................      3.3%
+Banking................................      5.6%
+Beverages & Tobacco....................      2.0%
+Bio-Technology.........................      0.6%
+Business Services......................      0.3%
+Broadcast & Publishing.................      2.5%
+Chemicals..............................      3.0%
+Communications.........................      1.4%
+Computer Manufacturers.................      1.5%
+Computer Software......................     16.3%
+Computer Other.........................      1.1%
+Drugs..................................      2.0%
+Electric Components....................      4.7%
+Electric Equipment.....................      5.2%
+Energy Equipment.......................      0.5%
+Energy Sources.........................      8.0%
+Financial Services.....................      1.6%
+Food Processors........................      1.8%
+Industrial Components..................      1.1%
+Insurance..............................      4.0%
+</TABLE>
+ 
+<TABLE>
+<CAPTION>
+                                         PERCENT OF
+INDUSTRY                                 NET ASSETS
+- --------                                 ----------
+<S>                                      <C>
+Leisure & Tourism......................      0.7%
+Machinery..............................      1.0%
+Merchandising..........................      1.1%
+Miscellaneous Materials................      0.9%
+Multi-Industry.........................      2.2%
+Multi-Industry Finance.................      2.4%
+Office Equipment.......................      4.9%
+Photo-Optical Equipment................      1.9%
+Real Estate............................      0.6%
+Retailing -- Foods.....................      2.8%
+Retailing -- Goods.....................      3.2%
+Semi Conductors/Components.............      0.6%
+Telecommunications.....................      3.0%
+Telecommunications Equipment...........      0.1%
+Transportation.........................      1.2%
+Utilities..............................      1.6%
+Other Assets Less Liabilities..........      5.3%
+                                           ------
+TOTAL..................................    100.0%
+                                           ======
+</TABLE>
+ 
+      Notes to Financial Statements are an integral part of this Schedule.
+ 
+                                        8
+<PAGE>   9
+ 
+- --------------------------------------------------------------------------------
+                      STATEMENT OF ASSETS AND LIABILITIES
+- --------------------------------------------------------------------------------
+                                August 31, 1997
+- --------------------------------------------------------------------------------
+ 
+<TABLE>
+<S>                                                             <C>
+ASSETS:
+    Investments, at market value (Cost $161,638,397)........    $170,959,269
+    Foreign currency, at market value (Cost $2,542,490).....       2,541,577
+    Cash....................................................      13,452,048
+    Receivables:
+         Dividends..........................................         224,050
+         Interest...........................................          20,601
+         Fund shares sold...................................         115,421
+         Investment securities sold.........................       2,307,578
+    Prepaid insurance.......................................           3,900
+    Deferred organizational costs...........................         106,862
+                                                                ------------
+- ----------------------------------------------------------------------------
+             TOTAL ASSETS...................................     189,731,306
+                                                                ------------
+- ----------------------------------------------------------------------------
+LIABILITIES:
+    Investment securities purchased.........................       8,831,763
+    Accrued expenses........................................         121,722
+    Payable to affiliates...................................         232,727
+                                                                ------------
+- ----------------------------------------------------------------------------
+             TOTAL LIABILITIES..............................       9,186,212
+                                                                ------------
+- ----------------------------------------------------------------------------
+NET ASSETS..................................................    $180,545,094
+                                                                ============
+SHARES OUTSTANDING..........................................      15,172,194
+                                                                ============
+NET ASSET VALUE PER SHARE...................................    $      11.90
+                                                                ============
+============================================================================
+NET ASSETS CONSISTED OF THE FOLLOWING AT AUGUST 31, 1997:
+    Paid-in capital.........................................    $158,635,869
+    Undistributed net investment loss.......................        (784,650)
+    Undistributed net realized gain.........................      15,013,053
+    Undistributed net realized foreign exchange loss........      (1,541,435)
+    Undistributed net realized foreign exchange loss on
+     portfolio hedges.......................................         (74,544)
+    Unrealized foreign exchange loss........................         (24,071)
+    Unrealized appreciation on investments..................       9,320,872
+                                                                ------------
+             NET ASSETS.....................................    $180,545,094
+                                                                ============
+============================================================================
+</TABLE>
+ 
+     Notes to Financial Statements are an integral part of this Statement.
+ 
+                                        9
+<PAGE>   10
+ 
+- --------------------------------------------------------------------------------
+                            STATEMENT OF OPERATIONS
+- --------------------------------------------------------------------------------
+For the period October 28, 1996 (commencement of operations) through August 31,
+                                      1997
+- --------------------------------------------------------------------------------
+ 
+<TABLE>
+<S>                                                             <C>
+INVESTMENT INCOME:
+    Income:
+         Dividends (net of non-reclaimable foreign taxes of
+         $81,983)...........................................    $ 1,371,638
+         Interest...........................................        312,620
+                                                                -----------
+- ---------------------------------------------------------------------------
+           Total income.....................................      1,684,258
+                                                                -----------
+- ---------------------------------------------------------------------------
+    Expenses:
+         Investment advisory fee............................      1,752,344
+         Administration fee.................................        146,029
+         Professional fees..................................        104,369
+         Federal and state registration fees................         38,365
+         Custodian fee......................................        300,379
+         Transfer agent fees................................         35,708
+         Trustees' fees.....................................         45,000
+         Amortization of organization costs.................         20,000
+         Miscellaneous......................................         45,914
+                                                                -----------
+- ---------------------------------------------------------------------------
+           Total expenses before fees waived................      2,488,108
+                                                                -----------
+           Transfer agent fees waived.......................        (19,200)
+                                                                -----------
+           Total expenses net of fees waived................      2,468,908
+                                                                -----------
+- ---------------------------------------------------------------------------
+             Net investment loss............................       (784,650)
+                                                                -----------
+- ---------------------------------------------------------------------------
+NET REALIZED AND UNREALIZED GAIN (LOSS) ON INVESTMENTS:
+    Net realized gain from security transactions............     15,013,053
+    Net realized foreign exchange loss......................     (1,541,435)
+    Net realized foreign exchange loss on portfolio
+     hedges.................................................        (74,544)
+    Net unrealized foreign exchange loss....................        (24,071)
+    Change in unrealized appreciation of investments........      9,320,872
+                                                                -----------
+- ---------------------------------------------------------------------------
+             Net gain on investments........................     22,693,875
+                                                                -----------
+NET INCREASE IN NET ASSETS RESULTING FROM OPERATIONS........    $21,909,225
+                                                                ===========
+===========================================================================
+</TABLE>
+ 
+     Notes to Financial Statements are an integral part of this Statement.
+ 
+                                       10
+<PAGE>   11
+ 
+- --------------------------------------------------------------------------------
+                       STATEMENT OF CHANGES IN NET ASSETS
+- --------------------------------------------------------------------------------
+For the period October 28, 1996 (commencement of operations) through August 31,
+                                      1997
+- --------------------------------------------------------------------------------
+ 
+<TABLE>
+<S>                                                                <C>
+INCREASE IN NET ASSETS:
+    Operations:
+         Net investment loss................................               $   (784,650)
+         Net realized gain from security transactions.......                 15,013,053
+         Net realized foreign exchange loss.................                 (1,541,435)
+         Net realized foreign exchange loss on portfolio
+           hedges...........................................                    (74,544)
+         Net unrealized foreign exchange....................                    (24,071)
+         Change in unrealized appreciation of investments...                  9,320,872
+                                                                           ------------
+- -----------------------------------------------------------------------------------------------
+             Net increase in net assets resulting from
+               operations...................................                 21,909,225
+                                                                           ------------
+- -----------------------------------------------------------------------------------------------
+    Capital share transactions:
+         Net increase in net assets derived from capital
+           share transactions...............................                158,535,457
+                                                                           ------------
+         Total increase in net assets.......................                180,444,682
+                                                                           ------------
+- -----------------------------------------------------------------------------------------------
+NET ASSETS:
+- -----------------------------------------------------------------------------------------------
+    Beginning of period.....................................                    100,412
+                                                                           ------------
+    End of period...........................................               $180,545,094
+                                                                           ============
+===============================================================================================
+</TABLE>
+ 
+    Capital share transactions are as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                  SHARES            VALUE
+                                                                ----------       ------------
+<S>                                                             <C>              <C>
+         Shares purchased...................................    15,894,033       $166,480,305
+         Shares reinvested..................................            --                 --
+         Shares redeemed....................................      (731,880)        (7,944,848)
+                                                                ----------       ------------
+             Net increase from capital share transactions...    15,162,153       $158,535,457
+                                                                ==========       ============
+=============================================================================================
+</TABLE>
+ 
+     Notes to Financial Statements are an integral part of this Statement.
+ 
+                                       11
+<PAGE>   12
+ 
+- --------------------------------------------------------------------------------
+                              FINANCIAL HIGHLIGHTS
+- --------------------------------------------------------------------------------
+For the period October 28, 1996 (commencement of operations) through August 31,
+                                      1997
+- --------------------------------------------------------------------------------
+ 
+    The Table below sets forth financial data for a share of capital stock
+outstanding throughout the period presented.
+ 
+<TABLE>
+<S>                                                             <C>
+Net asset value, beginning of period........................    $  10.00
+                                                                --------
+  INCOME FROM INVESTMENT OPERATIONS:
+  Net investment loss.......................................       (0.05)
+  Net gains on investments (both realized and unrealized)...        1.95
+                                                                --------
+    Total from investment operations........................        1.90
+                                                                --------
+  LESS DISTRIBUTIONS:
+  Dividends from net investment income......................        0.00
+  Distributions from capital gains..........................        0.00
+                                                                --------
+    Total distributions.....................................        0.00
+                                                                --------
+Net asset value, end of period..............................    $  11.90
+                                                                ========
+Total Return................................................       19.00%**
+RATIOS/SUPPLEMENTAL DATA:
+  Net assets, end of period (in 000's)......................    $180,545
+  Ratio of expenses to average net assets***................        2.11%*
+  Ratio of net investment loss to average net assets***.....       (0.67)%*
+  Portfolio turnover........................................      380.02%**
+</TABLE>
+ 
+- --------------------------------------------------------------------------------
+ 
+  * Annualized
+ 
+ ** Not Annualized
+ 
+*** Such ratios are after transfer agent waivers. The transfer agent voluntarily
+    waived a portion of its fees. The ratio of expenses, before fees waived, to
+    average net assets is 2.13%.
+ 
+Average commission rate paid per share on stock transactions for the period
+ended August 31, 1997 was $0.0016. Foreign commissions usually are lower than
+U.S. commissions when expressed as cents per share due to the lower per share
+price of many non-U.S. securities.
+ 
+      Notes to Financial Statements are an integral part of this Schedule.
+ 
+                                       12
+<PAGE>   13
+ 
+- --------------------------------------------------------------------------------
+                       DRIEHAUS INTERNATIONAL GROWTH FUND
+                         NOTES TO FINANCIAL STATEMENTS
+- --------------------------------------------------------------------------------
+ 
+A. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ORGANIZATION
+ 
+    The Driehaus International Growth Fund (the "Fund") is a series of the
+Driehaus Mutual Funds (the "Trust"), a registered management investment company.
+The Trust is a Delaware business trust organized under an Agreement and
+Declaration of Trust dated May 31, 1996 and may issue an unlimited number of
+full and fractional units of beneficial interest (shares) without par value. The
+Fund was seeded on September 13, 1996 with the sale and issuance of 10,000
+shares of its common stock to Richard H. Driehaus, the Chairman of the Board and
+President of the Trust. The Fund commenced operations on October 28, 1996, as
+the successor to the assets of the Driehaus International Large Cap Fund, L.P.
+(the "Partnership"), a limited partnership organized on July 1, 1990, through a
+transfer of $85,727,972 of assets in exchange for 8,572,797.2 shares of the
+Fund. Included in these assets transferred was a net unrealized taxable gain of
+$5,628,357, all of which was realized during the Fund's fiscal year.
+ 
+    The Fund's investment objective is to maximize capital appreciation by
+investing primarily in the equity securities of foreign companies with market
+capitalizations of more than $300 million (U.S.) using growth style investment
+criteria. The Fund will not invest in securities with market capitalizations of
+less than $200 million.
+ 
+SECURITIES VALUATION AND TRANSACTIONS
+ 
+    Depending upon local convention or regulation, equity securities may be
+valued at the last sale price, last bid or asked price, or the mean between the
+last bid and asked prices as of, in each case, the close of the appropriate
+exchange or other designated time. Securities for which market quotations are
+not readily available are valued at fair value as determined in good faith by or
+under the direction of the Trust's Board of Trustees.
+ 
+    Securities transactions are accounted for on trade date. The cost of
+investments sold is determined by the use of specific identification method for
+both financial reporting and income tax purposes. Interest income is recorded on
+an accrual basis. Dividend income, net of non-reclaimable foreign taxes
+withheld, is recorded on the ex-dividend date.
+ 
+    The Fund accrues income and expenses daily. This change in net asset value
+is allocated daily.
+ 
+FEDERAL INCOME TAXES
+ 
+    No provision is made for Federal income taxes as it is the Fund's intention
+to qualify as a regulated investment company under Subchapter M of the Internal
+Revenue Code and to make all the required distributions to its shareholders in
+amounts sufficient to relieve the Fund from all or substantially all Federal
+income and excise taxes.
+ 
+FOREIGN CURRENCY TRANSLATION
+ 
+    Foreign currency is translated into U.S. dollar values based upon the
+current rates of exchange on the date of the Fund's valuation.
+ 
+    Net realized foreign exchange gains or losses which are reported by the Fund
+result from sales of foreign currencies, currency gains and losses on
+transaction hedges arising from changes in exchange rates between the trade and
+settlement dates on forward contracts underlying securities transactions, and
+the difference between the amounts accrued for dividends, interest, and
+reclaimable foreign withholding taxes and the amounts actually received or paid
+in U.S. dollars for these items. Net unrealized foreign exchange gains and
+losses result from changes in the U.S. dollar value of assets and liabilities,
+(other than investments in securities) which are denominated in
+ 
+                                       13
+<PAGE>   14
+ 
+- --------------------------------------------------------------------------------
+                       DRIEHAUS INTERNATIONAL GROWTH FUND
+                  NOTES TO FINANCIAL STATEMENTS -- (CONTINUED)
+- --------------------------------------------------------------------------------
+ 
+foreign currencies, as a result of changes in exchange rates.
+ 
+    Net realized foreign exchange gains or losses on portfolio hedges result
+from the non-speculative use of forward contracts with respect to portfolio
+positions denominated or quoted in a particular currency in order to reduce or
+limit exposure in that currency. The Fund had no outstanding portfolio hedges at
+August 31, 1997.
+ 
+    The Fund does not isolate that portion of the results of operations which
+results from fluctuations in foreign exchange rates on investments held. These
+fluctuations are included with the net realized and unrealized gains or losses
+which result from changes in the market prices of investments.
+ 
+DEFERRED ORGANIZATION COSTS
+ 
+    Organization costs incurred by the Fund have been deferred and are being
+amortized over a period of 60 months.
+ 
+USE OF ESTIMATES
+ 
+    The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amount of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of net increases or decreases in net assets
+from operations during the reporting period. Actual results could differ from
+those estimates.
+ 
+B. INVESTMENT ADVISORY FEES, ADMINISTRATIVE FEES AND TRANSACTIONS WITH
+   AFFILIATES
+ 
+    Richard H. Driehaus is also the Chairman of the Board, sole director, and
+sole shareholder of Driehaus Capital Management, Inc., a registered investment
+adviser, and of Driehaus Securities Corporation, a registered broker-dealer.
+ 
+    Driehaus Capital Management, Inc. ("DCM") serves as the Fund's investment
+adviser. In return for its services to the Fund, DCM receives a monthly fee,
+computed and accrued daily at an annual rate of 1.5% of average net assets. The
+amount accrued to DCM for the period ended August 31, 1997 was $1,752,344 of
+which $232,727 is included in Payable to affiliates. DCM agreed to reduce its
+fee and absorb other operating expenses to the extent necessary to ensure that
+the total Fund operating expenses (other than interest, taxes, brokerage
+commissions and other portfolio transaction expenses, capital expenditures and
+extraordinary expenses) will not exceed 2.25% of the average net assets of the
+Fund on an annual basis for the first twelve months of the Fund's operations
+after the effective date of the Fund's registration statement. As of August 31,
+1997, no fees have yet been absorbed.
+ 
+    DCM advanced certain organization costs to the Fund. As of August 31, 1997,
+DCM has been reimbursed for all organizational costs advanced to the Fund.
+ 
+    Driehaus Securities Corporation ("DSC") acts as the Fund's distributor. In
+addition, DSC executes all domestic exchange agency trades for the Fund in
+American Depository Receipts (ADR'S) or other publicly traded equity interests
+representing shares in foreign companies and, if applicable, any U.S. securities
+the Fund might trade. For the period ended August 31, 1997, DSC traded 7,727,602
+shares and received $227,518 in commissions. A portion of these commissions is
+paid to DSC's clearing broker for clearing charges.
+ 
+    Certain officers of the Trust are also officers of DCM and DSC. No such
+officers received compensation from the Fund.
+ 
+    PFPC Inc., a wholly owned, indirect subsidiary of PNC Bank, serves as the
+Fund's administrative and accounting agent. In compensation for its services,
+PFPC receives a monthly fee based upon average net
+ 
+                                       14
+<PAGE>   15
+ 
+- --------------------------------------------------------------------------------
+                       DRIEHAUS INTERNATIONAL GROWTH FUND
+                  NOTES TO FINANCIAL STATEMENTS -- (CONTINUED)
+- --------------------------------------------------------------------------------
+ 
+assets plus out-of-pocket expenses. PFPC Inc. also acts as the Fund's transfer
+agent and dividend disbursing agent. PFPC has agreed to waive a portion of its
+transfer agent fees during the first year of the Fund's operation.
+ 
+C. INVESTMENT TRANSACTIONS
+ 
+    The aggregate purchases, excluding the securities transferred from the
+Partnership, and sales of investments securities, other than short-term
+obligations, for the period October 28, 1996 through August 31, 1997, were as
+follows:
+ 
+<TABLE>
+<S>                      <C>
+Purchases                $568,722,871
+Sales                    $504,653,281
+</TABLE>
+ 
+D. RESTRICTED SECURITIES
+ 
+    The Fund may purchase securities that have been privately placed but that
+are eligible for purchase and sale under Rule 144A under the Securities and
+Exchange Act of 1933. At August 31, 1997, the aggregate value of these
+securities was equal to $4,403,313 and represented 2.4% of net assets.
+ 
+E. LINES OF CREDIT
+ 
+    The Fund has a $5 million committed line of credit and a $5 million
+un-committed line of credit. These lines of credit are available primarily to
+meet large, unexpected shareholder withdrawals. For the period ended August 31,
+1997, no borrowing was made on these lines of credit.
+ 
+F. OFF BALANCE SHEET RISKS
+ 
+    The Fund's investments in foreign securities may entail risks due to the
+potential for political and economic instability in the countries where the
+issuers of these securities are located. In addition, foreign exchange
+fluctuations could affect the value of positions held. These risks are generally
+intensified in emerging markets. It is DCM's policy to continuously monitor its
+exposure to these risks.
+ 
+                                       15
+<PAGE>   16
+ 
+   Directors & Officers
+ 
+   Richard H. Driehaus
+   Chairman of the Board & President
+ 
+   Arthur B. Mellin
+   Trustee
+ 
+   Robert F. Moyer
+   Vice President & Trustee
+ 
+   A.R. Umans
+   Trustee
+ 
+   Daniel Zemanek
+   Trustee
+ 
+   William R. Andersen
+   Vice President
+ 
+   Diane L. Wallace
+   Vice President & Treasurer
+ 
+   Mary H. Weiss
+   Vice President & Secretary
+ 
+   Jennifer Billingsley
+   Assistant Vice President & Secretary
+ 
+   Dusko Culafic
+   Assistant Vice President & Treasurer
+ 
+   Investment Adviser
+ 
+   DRIEHAUS CAPITAL
+   MANAGEMENT, INC.
+   25 East Erie Street
+   Chicago, IL 60611
+ 
+   Distributor
+ 
+   DRIEHAUS SECURITIES
+   CORPORATION
+   25 East Erie Street
+   Chicago, IL 60611
+ 
+   Administrator & Transfer Agent
+ 
+   PFPC INC.
+   400 Bellevue Parkway
+   Suite 108
+   Wilmington, DE 19809
+ 
+   Custodian
+ 
+   MORGAN STANLEY
+   TRUST COMPANY
+   One Pierrepont Plaza
+   Brooklyn, NY 11201
+ 
+                           DRIEHAUS MUTUAL FUNDS LOGO
+ 
+                       DRIEHAUS INTERNATIONAL GROWTH FUND
+ 
+                                Distributed by:
+                        DRIEHAUS SECURITIES CORPORATION
+ 
+                                 ANNUAL REPORT
+                                TO SHAREHOLDERS
+                                AUGUST 31, 1997
+ 
+               This report has been prepared for the shareholders
+               of the Fund and is not an offering to sell or buy
+                any Fund securities. Such offering is only made
+                           by the Fund's prospectus.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

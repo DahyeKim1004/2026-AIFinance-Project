@@ -1,0 +1,2023 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ H6kyRfFekwkVto5GKg2WCd7VbH4xAIJabhJl0NRa6w8HCj3BhBV/grWY/pycgnlh
+ kmF7nwU/ZQWTOxCibCWbAQ==
+
+<SEC-DOCUMENT>0000950124-98-007050.txt : 19981126
+<SEC-HEADER>0000950124-98-007050.hdr.sgml : 19981126
+ACCESSION NUMBER:		0000950124-98-007050
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980930
+FILED AS OF DATE:		19981125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DRIEHAUS MUTUAL FUNDS
+		CENTRAL INDEX KEY:			0001016073
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		
+		SEC FILE NUMBER:	811-07655
+		FILM NUMBER:		98760202
+
+	BUSINESS ADDRESS:	
+		STREET 1:		25 EAST ERIE ST
+		STREET 2:		25 EAST ERIE STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60611
+		BUSINESS PHONE:		3125873800
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>   1
+
+- ---------------------------------
+
+DRIEHAUS MUTUAL FUNDS
+
+TRUSTEE & OFFICERS
+Richard H. Driehaus
+Chairman of the Board & President
+
+Arthur B. Mellin
+Trustee
+
+Robert F. Moyer
+Senior Vice President & Trustee
+
+A.R. Umans
+Trustee
+
+Daniel Zemanek                                 DRIEHAUS MUTUAL FUNDS
+Trustee
+
+William R. Andersen                            DRIEHAUS ASIA PACIFIC
+Vice President                                      GROWTH FUND
+
+Diane L. Wallace                             DRIEHAUS EMERGING MARKETS
+Vice President & Treasurer                          GROWTH FUND
+
+Mary H. Weiss                       
+Vice President & Secretary
+
+Robert H. Buchen
+Vice President
+
+Martin H. Brown                                    DISTRIBUTED BY:
+Vice President                                 DRIEHAUS MUTUAL FUNDS
+
+
+INVESTMENT ADVISOR
+Driehaus Capital Management, Inc.                 ANNUAL REPORT TO
+25 East Erie Street                                 SHAREHOLDERS
+Chicago, IL 60611                                SEPTEMBER 30, 1998
+
+DISTRIBUTOR
+Driehaus Mutual Funds
+25 East Erie Street                        
+Chicago, IL 60611                       This report has been prepared for the
+                                        shareholders of the Fund and is not an
+ADMINISTRATOR & TRANSFER AGENT          offering to sell or buy any Fund
+PFPC, Inc.                              securities. Such offering is only made
+400 Bellevue Parkway                    by the Fund's prospectus.
+Suite 108
+Wilmington, DE 19809
+
+CUSTODIAN
+Chase Manhattan Bank
+One Pierrepont Plaza
+Brooklyn, NY 11201
+
+- ---------------------------------
+<PAGE>   2
+- -------------------------------------------------------------------------------
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+- -------------------------------------------------------------------------------
+
+To the Shareholders and Board of Trustees of
+Driehaus Asia Pacific Growth Fund and Driehaus Emerging Markets Growth Fund:
+
+We have audited the accompanying statements of assets and liabilities of
+DRIEHAUS ASIA PACIFIC GROWTH FUND and DRIEHAUS EMERGING MARKETS GROWTH FUND (the
+"Funds"), including the schedules of investments and investments by industry, as
+of September 30, 1998, and the related statements of operations, statements of
+changes in net assets, and financial highlights for the periods indicated
+thereon. These financial statements and financial highlights are the
+responsibility of the Funds' management. Our responsibility is to express an
+opinion on these financial statements and financial highlights based on our
+audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements and financial
+highlights are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. Our procedures included confirmation of securities owned as of
+September 30, 1998 by correspondence with the custodian. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements and financial highlights referred to
+above present fairly, in all material respects, the financial positions of
+Driehaus Asia Pacific Growth Fund and Driehaus Emerging Markets Growth Fund as
+of September 30, 1998, and the results of their operations, changes in their net
+assets, and financial highlights for the periods indicated thereon, in
+conformity with generally accepted accounting principles.
+
+
+/s/ Arthur Andersen LLP
+- -----------------------
+Arthur Andersen LLP
+
+
+Chicago, Illinois
+November 20, 1998
+
+
+
+                                                                              1
+<PAGE>   3
+- --------------------------------------------------------------------------------
+         PORTFOLIO MANAGER'S LETTER - DRIEHAUS ASIA PACIFIC GROWTH FUND
+- --------------------------------------------------------------------------------
+
+Dear Fellow Shareholders:
+
+The first nine months of 1998 were a difficult time for Asia and for our
+investments. Although the Fund outperformed its two benchmarks over this period,
+the slow pace of reform in Asia and the widening emerging markets crisis hurt
+performance. For the period beginning December 31, 1997, (the Fund's inception
+date) through September 30, 1998 (the Fund's fiscal year end), the Driehaus Asia
+Pacific Growth Fund returned -17.00%, compared with returns of -19.42% for the
+Morgan Stanley Capital International Asia Pacific Index and -24.43% for the
+Morgan Stanley Capital International Asia Pacific Index excluding Japan.
+
+Since the beginning of the Asian financial crisis in July 1997, we have
+maintained that the current situation is more similar to the Latin American debt
+crisis of 1982 than to the crisis in Mexico of 1994.  In the former, Latin
+American economies took several years to recover because of large foreign debts
+and banks' unwillingness to write off debts.  In contrast, the 1994 crisis was
+actually a currency crash that was fixed relatively easily by the International
+Monetary Fund.
+
+Until we see substantial debt write-offs by banks and the closure of insolvent
+companies in Southeast Asia, we remain cautious about predicting a recovery in
+these markets.  So far many Asian governments--notably Japan--have tried to
+avoid taking the pain, preferring to push down interest rates to prevent
+bankruptcies and widescale unemployment.  However, we believe that, over the
+next two years, Southeast Asian economies should improve and Japan will probably
+accelerate restructuring efforts.  This expectation is based on the emergence of
+several potentially positive signs, including:
+
+*  Current account surpluses in Southeast Asia.  In Korea and Thailand, these
+surpluses are equivalent to approximately 14% of GDP, leading to significant
+declines in interest rates.  Currencies have also stabilized.
+
+*  Accelerating foreign investment.  Multinational companies have taken
+advantage of distressed valuations to buy inexpensive assets.  In Thailand, for
+example, GE Capital recently acquired more than US$500 million of assets.
+
+*  Recent movement toward financial reform in Japan.  Following electoral defeat
+in July, the government abandoned deficit reduction policies and increased
+efforts to stimulate the world's second largest economy. 
+
+
+
+
+                                                                             2
+
+
+
+<PAGE>   4
+
+
+
+*  The Chinese economy.  China's GDP growth appears to be recovering, as
+increased domestic demand has acted to offset the weaker demand from external
+sources.
+
+In line with this view of the current environment, the Fund focused on the most
+dynamic countries and companies.  The Fund's investments in South Korea and
+Thailand were based on the fact that these two countries have made the greatest
+strides in reform, including relaxing regulations on foreign investments and
+establishing new bank restructuring agencies to sell bad debts.  In Japan, the
+Fund took a more defensive approach by increasing weightings in pharmaceuticals
+with strong global products and in food companies that import raw materials,
+enabling them to benefit from a stronger yen.
+
+Despite the weak environment for earnings and disappointing performance of many
+of our holdings, the Fund did find several corporate success stories during the
+past nine months, including:
+
+*  Nidec, a manufacturer of spindle drive motors for hard disk drives in Japan
+and Southeast Asia, which saw its margins improve significantly due to lower
+production costs in Thailand following the devaluation of the baht.  For the
+most recent fiscal year, the company's sales increased 28%, while operating
+profits jumped 93%; and
+
+*  Don Quijote, which operates discount retail stores in Japan, pioneered a new
+type of convenience store that is open until early morning hours, offering a
+wider variety of products than traditional convenience stores.  In the most
+recent fiscal year, sales rose by 59% and operating profits by 65%.  The company
+plans to double the number of outlets by the year 2000.
+
+The first reporting period for the Driehaus Asia Pacific Growth Fund has been an
+exceptionally volatile time for Asia Pacific markets and for the Fund.  We
+appreciate your support during this period.
+
+
+Sincerely,
+
+
+/s/ Eric J. Ritter
+- ------------------
+Eric J. Ritter
+Portfolio Manager
+November 24, 1998
+
+
+
+                                                                             3
+
+<PAGE>   5
+
+- --------------------------------------------------------------------------------
+                       DRIEHAUS ASIA PACIFIC GROWTH FUND
+- --------------------------------------------------------------------------------
+
+                                 TOTAL RETURN
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------
+                                                    DRIEHAUS    MSCI ASIA /      MSCI ASIA /
+                                                                 PACIFIC      PACIFIC EX-JAPAN
+- -----------------------------------------------------------------------------------------------
+<S>                                               <C>          <C>             <C>
+For the Period 12/31/97 (since inception) 
+through 9/30/98                                     -17.00%      -19.42%         -24.43%
+- -----------------------------------------------------------------------------------------------
+</TABLE>
+
+Performance is historical and does not represent future results. Investment
+returns and principal value vary, and you may have a gain or loss when you sell
+shares.
+
+<TABLE>
+<CAPTION>
+                                DRIEHAUS                                                                  MSCI
+                              ASIA PACIFIC                          MSCI                              ASIA PACIFIC
+                                 GROWTH                         ASIA PACIFIC                            EX-JAPAN
+                                  FUND                              INDEX                                 INDEX
+                              ------------                      ------------                          -------------
+  <S>            <C>           <C>            <C>           <C>        <C>         <C>           <C>      <C>         <C>   
+  12/31/97                                    $100,000                             $100,000                           $100,000  
+   3/31/98        -0.50%         -0.50%       $ 99,500        4.62%      4.62%     $104,617        9.75%    9.75%     $109,754  
+   6/30/98       -14.57%        -15.00%       $ 85,000      -11.48%     -7.39%     $ 92,608      -24.59%  -17.23%     $ 82,770  
+   9/30/98        -2.35%        -17.00%       $ 83,000      -12.99%    -19.42%     $ 80,577       -8.70%  -24.43%     $ 75,572  
+</TABLE>
+
+Performance data presented measures change in the value of an investment in the
+Fund, assuming reinvestment of all dividends and capital gains.  
+
+The Morgan Stanley Capital International All Country Asia Pacific Index is a
+recognized benchmark of Asian and Pacific Basin stock markets.  It is an
+unmanaged index of a sample of companies representative of the market structure
+of 15 Asian and Pacific Basin countries.  Data is in U.S. dollars and includes
+reinvestment of dividends.  Source: Morgan Stanley Capital International.
+
+The Morgan Stanley Capital International All Country Asia Pacific ex - Japan
+Index is a recognized benchmark of Asian and Pacific Basin stock markets, not
+including Japan.  It is an unmanaged index of a sample of companies
+representative of the market structure of 14 Asian and Pacific Basin countries.
+Data is in U.S. dollars and includes reinvestment of dividends. Source: Morgan
+Stanley Capital International.
+
+
+                                                                             4
+
+<PAGE>   6
+
+================================================================================
+                       DRIEHAUS ASIA PACIFIC GROWTH FUND
+                            SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                          Number                Market 
+                                                            of                  Value  
+                                                          Shares               (Note A)
+- ---------------------------------------------------------------------------------------
+EQUITY SECURITIES ---- 74.8%
+- ---------------------------------------------------------------------------------------
+<S>                                                      <C>                 <C> 
+FAR EAST --- 74.8%
+
+  JAPAN -- 50.2%
+    Acom Co., Ltd. .................................       1,600              $ 86,277
+    Bellsystem 24 Inc. .............................         400                63,180
+    Chugai Pharmaceutical Co., Ltd. ................      11,000                75,397
+    Computer Engineering & Consulting Ltd. .........       2,000                27,344
+    Don Quijote Co., Ltd. ..........................       1,600               103,438
+    Fuji Heavy Industries Ltd. .....................      23,000               120,306
+    Fuji Soft ABC Inc. .............................         800                27,623
+    Fujisawa Pharmaceutical Co., Ltd. ..............       4,000                36,909
+    Fujitsu Support & Service Inc.** ...............       2,000                76,403
+    Honda Motor Co., Ltd.- ADR .....................         700                42,481
+    Hosiden Corp. ..................................       6,000                82,207
+    Itoen Ltd. .....................................       2,400                82,868
+    Kao Corp. ......................................       8,000               128,122
+    Konami Co., Ltd. ...............................       2,800                75,287
+    Mabuchi Motor Co., Ltd. ........................         800                50,250
+    Matsushita Communication Industrial Co., Ltd. ..       2,000                71,995
+    Mazda Motor Corp.** ............................      22,000                80,003
+    Mitsumi Electric Co., Ltd. .....................       3,000                54,988
+    Nidec Corp. ....................................       1,000                80,076
+    Olympus Optical Co., Ltd. ......................       7,000                77,086
+    People Co., Ltd. ...............................       1,200                26,888
+    Ryohin Keikaku Co., Ltd. .......................         400                40,552
+    Takefuji Corp. .................................       1,200                60,652
+    Terumo Corp. ...................................       3,000                61,820
+    Toppan Forms Co., Ltd. .........................       3,000                40,773
+    Union Tool Co. .................................       1,500                58,294
+    Yahoo Japan Corp.** ............................           2                67,000
+                                                                             ---------
+                                                                             1,798,219
+                                                                             =========
+</TABLE>
+
+            Notes to Financial Statements are an integral part of this Schedule.
+
+
+                                                                               5
+                                                                               
+<PAGE>   7
+
+================================================================================
+                       DRIEHAUS ASIA PACIFIC GROWTH FUND
+                            SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                          Number             Market
+                                                            of                Value
+                                                         Shares             (Note A)
+- ------------------------------------------------------------------------------------
+  <S>                                                   <C>                <C> 
+  AUSTRALIA -- 10.0%
+   Brambles Industries Ltd. .......................       2,630            $ 56,741
+   BRL Hardy Ltd. .................................      18,000              52,023
+   Cochlear Ltd. ..................................      15,600              67,445
+   Computershare Ltd. .............................      14,500              52,556
+   Novus Petroleum Ltd. ...........................      27,000              27,984
+   TABCORP Holdings Ltd. ..........................       8,200              47,593
+   Woodside Petroleum Ltd. ........................      10,700              55,893
+                                                                           --------
+                                                                            360,235
+                                                                           --------
+
+  HONG KONG -- 7.2%
+   Cafe De Coral Holdings Ltd. ....................     130,000              40,685
+   Dairy Farm International Holdings Ltd. .........      35,000              37,100
+   IDT International Ltd. .........................     649,000              67,844
+   Johnson Electric Holdings Ltd. .................      27,000              51,223
+   Road King Infrastructure Ltd. ..................      61,000              33,458
+   Varitronix International Ltd. ..................      14,000              27,192
+                                                                            -------
+                                                                            257,502
+                                                                            -------
+
+  SOUTH KOREA -- 2.7%
+   Medison Co., Ltd. ..............................       2,870              28,478
+   Nong Shim Co., Ltd. ............................         900              35,592
+   Pohang Iron & Steel Co., Ltd. - ADR ............       2,400              33,150
+                                                                            -------
+                                                                             97,220
+                                                                            -------
+
+  THAILAND -- 2.5%
+   Advanced Info Service Public Co., Ltd. (Foreign)      10,700              61,174
+   National Finance Public Co., Ltd. (Foreign)** ..     284,100              28,748
+                                                                            -------
+                                                                             89,922
+                                                                            -------
+
+  SINGAPORE -- 1.6%
+   Natsteel Electronics Ltd. ......................      13,000              28,551
+   ST Computer Systems & Services Ltd. ............      37,500              27,379
+                                                                            -------
+                                                                             55,930
+                                                                            -------
+</TABLE>
+
+           Notes to Financial Statements are an integral part of this Schedule.
+
+                                                                               6
+
+<PAGE>   8
+
+================================================================================
+                        DRIEHAUS ASIA PACIFIC GROWTH FUND
+                             SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                           Number           Market
+                                                            of              Value
+                                                          Shares          (Note A)
+- --------------------------------------------------------------------------------
+<S>                                                    <C>              <C> 
+  PHILIPPINES -- 0.6%
+    SPI Technologies Inc. ..........................   54,660           $   21,239
+                                                                        ----------
+
+    Total Far East .................................                     2,680,267
+                                                                        ----------
+
+    Total Equity Securities (Cost $2,510,636) ......                     2,680,267
+                                                                        ----------
+- ----------------------------------------------------------------------------------
+RIGHTS ---- 0.0%
+- ----------------------------------------------------------------------------------
+
+  SOUTH KOREA -- 0.0%
+    Medison Co., Ltd.** ............................      266                  734
+                                                                        ----------
+
+    Total Rights (Cost $0) .........................                           734
+                                                                        ----------
+
+- ----------------------------------------------------------------------------------
+
+  TOTAL INVESTMENTS (COST $2,510,636) ..............     74.8%           2,681,001
+
+  Other Assets in Excess of Liabilities ............     25.2%             901,192
+                                                       ------           ----------
+
+  Net Assets........................................    100.0%          $3,582,193
+                                                                        ==========
+==================================================================================
+
+  The federal income tax basis and unrealized appreciation (depreciation) for
+all securities is as follows:
+
+
+Basis ............................................................      $2,510,636
+                                                                        ==========
+Gross Appreciation ...............................................      $  209,270
+Gross Depreciation ...............................................         (38,905)
+                                                                        ----------
+
+  Net Appreciation ...............................................      $  170,365
+                                                                        ==========
+</TABLE>
+
+** Non-income producing security.
+
+
+      Notes to Financial Statements are an integral part of this Schedule.
+
+
+                                                                             7
+<PAGE>   9
+================================================================================
+                       DRIEHAUS ASIA PACIFIC GROWTH FUND
+                      SCHEDULE OF INVESTMENTS BY INDUSTRY
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+        
+                                   PERCENT OF                                              PERCENT OF
+INDUSTRY                           NET ASSETS       INDUSTRY                               NET ASSETS
+- --------                           ----------       ========                               ----------
+<S>                                <C>            <C>                                        <C>
+Auto Parts Manufacturing.........     3.4%          Leisure & Tourism....................      2.1%
+                                      
+Automotive Manufacturing.........     3.4%          Machinery & Engineering..............      1.6%
+                                                                                                   
+Beverages & Tobacco..............     3.8%          Medical Supplies.....................      3.6%
+
+Computer Manufacturing...........     2.1%          Merchandising........................      1.8%
+                                                                                            
+Computer Software & EDP Services.     7.2%          Metals - Steel.......................      0.9%
+
+Cosmetics........................     3.6%          Office Products......................      1.1%
+                                                                            
+Drugs............................     2.1%          Photo - Optical Equipment............      3.2%
+                                                                                                 
+Electrical & Electronics.........     4.8%          Retailing - Foods....................      2.2%
+                                                                            
+Electronic Components............     2.3%          Retailing - Goods....................      4.0%
+                                                                             
+Electronic Systems/Devices.......     4.9%          Telecommunications...................      5.9%
+
+Energy Sources...................     2.3%          Transportation/Multi-Industry........      1.6%
+                                                                               
+Financial Services...............     4.9%          Transportation R & R.................      1.0%
+
+Food Processors..................     1.0%          Other Assets Less Liabilities........     25.2%
+                                                                                         ----------
+
+                                                    TOTAL................................    100.0%
+                                                                                         ==========
+</TABLE>
+
+      Notes to Financial Statements are an integral part of this Schedule.
+                                                                             8
+
+<PAGE>   10
+================================================================================
+                       DRIEHAUS ASIA PACIFIC GROWTH FUND
+                      STATEMENT OF ASSETS AND LIABILITIES
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+
+<S>                                                                           <C>
+ASSETS:
+ Investments, at market value  (Cost $2,510,636).............................. $   2,681,001
+ Foreign currency (Cost $30)..................................................            27
+ Cash.........................................................................       771,339
+ Receivables:                                                                   
+  Dividends...................................................................         6,068
+  Interest....................................................................           825
+  Investment securities sold..................................................       272,396
+  Due from advisor............................................................        22,207
+  Net unrealized appreciation on foreign currency forward contracts             
+   from transaction hedges....................................................           143
+ Deferred organizational costs................................................        24,911
+ Other assets.................................................................           674
+                                                                               -------------
+- --------------------------------------------------------------------------------------------
+   TOTAL ASSETS...............................................................     3,779,591
+                                                                               -------------
+- --------------------------------------------------------------------------------------------
+
+LIABILITIES:
+ Payables:
+  Investment securities purchased.............................................       138,331
+  Net unrealized depreciation on foreign currency forward contracts
+   from portfolio hedges......................................................        15,404
+  Accrued expenses............................................................        43,663
+                                                                               -------------
+- --------------------------------------------------------------------------------------------
+   TOTAL LIABILITIES..........................................................       197,398
+                                                                               -------------
+- --------------------------------------------------------------------------------------------
+NET ASSETS.................................................................... $   3,582,193
+                                                                               =============
+SHARES OUTSTANDING............................................................       431,617
+                                                                               =============
+NET ASSET VALUE PER SHARE..................................................... $        8.30
+                                                                               =============
+============================================================================================
+NET ASSETS CONSISTED OF THE FOLLOWING AT SEPTEMBER 30, 1998:
+ Paid-in capital.............................................................. $   4,221,749
+ Undistributed net investment loss............................................        (8,979)
+ Undistributed net realized loss from security transactions...................      (713,834)
+ Undistributed net realized foreign exchange loss.............................       (51,529)
+ Undistributed net realized foreign exchange loss on portfolio hedges.........       (20,494)
+ Unrealized foreign exchange gain.............................................           319
+ Unrealized foreign exchange loss on portfolio hedges.........................       (15,404)
+ Unrealized appreciation of investments.......................................       170,365
+                                                                               -------------
+   NET ASSETS................................................................. $   3,582,193
+                                                                               =============
+============================================================================================
+</TABLE>
+           Notes to Financial Statements are an integral part of this Statement.
+
+
+
+                                                                             9
+<PAGE>   11
+
+================================================================================
+                       DRIEHAUS ASIA PACIFIC GROWTH FUND
+                            STATEMENT OF OPERATIONS
+         For the period December 31, 1997 (commencement of operations)
+                           through September 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+<S>                                                                              <C>
+INVESTMENT INCOME (LOSS):
+  Income:
+    Dividends (net of non-reclaimable foreign taxes of $1,712).......            $  28,808
+    Interest ........................................................               21,558
+                                                                                 ---------
+
+- ------------------------------------------------------------------------------------------
+      Total income ..................................................               50,366
+                                                                                 ---------
+- ------------------------------------------------------------------------------------------
+
+
+  Expenses:
+    Investment advisory fee .........................................               30,175
+    Administration fee...............................................               85,500
+    Professional fees ...............................................               32,652
+    Federal and state registration fees .............................                5,041
+    Custodian fees ..................................................               27,796
+    Transfer agent fees .............................................               27,084
+    Trustees' fees ..................................................                3,702
+    Amortization of organization costs ..............................                4,379
+    Miscellaneous ...................................................               17,476
+- ------------------------------------------------------------------------------------------
+
+    Total expenses before fees waived and reimbursements.............              233,805
+                                                                                 ---------
+
+    Administration fee waived .......................................              (82,684)
+    Transfer agent fee waived .......................................              (23,400)
+    Expense reimbursement from advisor ..............................              (68,376)
+                                                                                 ---------
+      Total expenses net of fees waived and reimbursements...........               59,345
+                                                                                 ---------
+- ------------------------------------------------------------------------------------------
+
+        Net investment loss..........................................               (8,979)
+                                                                                 ---------
+- ------------------------------------------------------------------------------------------
+
+NET REALIZED AND UNREALIZED GAIN (LOSS) ON INVESTMENTS:
+
+    Net realized loss from security transactions ....................             (713,834)
+    Net realized foreign exchange loss ..............................              (51,529)
+    Net realized foreign exchange loss on porfolio hedges............              (20,494)
+    Net unrealized foreign exchange gain ............................                  319
+    Net unrealized foreign exchange loss on portfolio hedges.........              (15,404)
+    Change in unrealized appreciation of investments ................              170,365
+                                                                                 ---------
+- ------------------------------------------------------------------------------------------
+
+        Net realized and unrealized loss on investments .............             (630,577)
+                                                                                 ---------
+
+NET DECREASE IN NET ASSETS RESULTING FROM OPERATIONS ................            $(639,556)
+                                                                                 ========= 
+
+
+==========================================================================================
+</TABLE>
+
+     Notes to Financial Statements are an integral part of this Statement.
+
+                                                                              10
+<PAGE>   12
+
+================================================================================
+                       DRIEHAUS ASIA PACIFIC GROWTH FUND
+                       STATEMENT OF CHANGES IN NET ASSETS
+         For the period December 31, 1997 (commencement of operations)
+                           through September 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+INCREASE (DECREASE) IN NET ASSETS:
+<S>                                                                             <C> 
+  Operations:
+    Net investment loss .................................................       $     (8,979)
+    Net realized and unrealized loss on investments .....................           (630,577)
+                                                                                   ---------
+
+            Net decrease in net assets resulting from operations ........           (639,556)
+                                                                                   ---------
+
+- ---------------------------------------------------------------------------------------------
+  Capital share transactions:
+    Net increase in net assets derived
+      from capital share transactions* ..................................          4,221,749
+                                                                                   ---------
+
+      Total increase in net assets ......................................          3,582,193
+                                                                                   ---------
+
+- --------------------------------------------------------------------------------------------
+NET ASSETS:
+
+  Beginning of period ...................................................                  0
+                                                                                   ---------
+
+  End of period .........................................................         $3,582,193
+                                                                                  ==========
+============================================================================================
+<CAPTION>
+*Capital share transactions are as follows:
+                                                          SHARES                     VALUE
+                                                          ------                     -----
+<S>                                                      <C>                      <C> 
+For the period ended September 30, 1998
+Shares purchased ...............................         442,994                  $4,318,619
+Shares reinvested ..............................            ---                       ---
+Shares redeemed ................................         (11,377)                    (96,870)
+                                                        --------                   ---------
+     Net increase from capital share transactions        431,617                  $4,221,749
+                                                        ========                  ==========
+============================================================================================
+</TABLE>
+     Notes to Financial Statements are an integral part of this Statement.
+
+
+                                                                              11
+<PAGE>   13
+<TABLE>
+<CAPTION>
+
+===========================================================================================================
+                                      DRIEHAUS ASIA PACIFIC GROWTH FUND
+                                             FINANCIAL HIGHLIGHTS
+         FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH SEPTEMBER 30, 1998
+===========================================================================================================
+
+The table below sets forth financial data for a share of capital stock outstanding throughout the 
+period presented.
+
+<S>                                                                      <C>
+Net asset value, beginning of period.....................................  $  10.00
+
+
+           LOSS FROM INVESTMENT OPERATIONS:
+           Net investment loss...........................................     (0.02)
+           Net loss on securities (both realized and unrealized).........     (1.68)
+                                                                           --------
+             Total from investment operations............................     (1.70)
+                                                                           --------
+
+
+           LESS DISTRIBUTIONS:
+           Dividends from net investment income..........................      0.00
+           Distributions from capital gains..............................      0.00
+                                                                           --------
+             Total distributions.........................................      0.00
+                                                                           --------
+
+
+Net asset value, end of period...........................................  $   8.30
+                                                                           ========
+
+Total Return.............................................................    (17.00)  % **
+RATIOS/SUPPLEMENTAL DATA
+           Net assets, end of period (in 000's)..........................  $  3,582
+           Ratio of expenses to average net assets.......................      2.95  %*+
+           Ratio of net investment loss to average net assets............     (0.45) %*+
+           Portfolio turnover............................................    283.59  %**
+           Annualized portfolio turnover.................................    379.16  %*
+
+===========================================================================================================
+</TABLE>
+
+   * Annualized
+
+  ** Not Annualized
+
+   + Such ratios are after administrative agent and transfer agent waivers and
+Adviser expense reimbursements. PFPC Inc., the administrative agent and transfer
+agent, waived a portion of its fees. The Adviser agreed to reduce its fees and
+absorb other operating expenses to the extent necessary to ensure that the total
+fund operating expenses (other than interest, taxes, brokerage commissions and
+other portfolio transaction expenses, capital expenditures and extraordinary
+expense) will not exceed 2.95% of the net assets of the Driehaus Asia Pacific
+Growth Fund for the first twenty-four months of its operations.
+
+
+      Notes to Financial Statements are an integral part of this Schedule.
+
+
+
+                                                                            12
+<PAGE>   14
+- --------------------------------------------------------------------------------
+       PORTFOLIO MANAGER'S LETTER - DRIEHAUS EMERGING MARKETS GROWTH FUND
+- --------------------------------------------------------------------------------
+
+Dear Fellow Shareholders:
+
+For the period from December 31, 1997, the Fund's inception date, through
+September 30, 1998, the Fund's fiscal year end, the Driehaus Emerging Markets
+Growth Fund returned -24.40%.  This compares with the returns of the Fund's
+benchmark, -34.96% for the Morgan Stanley Capital International Emerging Markets
+Index, and a -36.69% return for the Lipper Emerging Market Fund Index.
+
+During the first nine months of 1998, economies around the world, including
+emerging markets, were characterized by extreme volatility.  The major cause for
+this volatility could be found in currency contagion effects, which spread from
+Southeast Asia to other continents, climaxing in the devaluation of the Russian
+ruble in August.  Subsequent concerns focused on Latin America, where the
+International Monetary Fund is coordinating a multibillion dollar package geared
+at preventing the region, in particular Brazil, from following Russia's lead.
+
+The Fund's outperformance relative to its benchmark indices over the first three
+quarters of 1998 can be attributed in part to the Fund's overweighting of
+countries with strong macroeconomic environments, including Poland, Hungary,
+Greece, Thailand, and Israel.  Over the past nine months, these countries have
+tended to display lower budget deficits, accelerating GDP growth, and low
+correlations with commodity prices.  Despite the severe problems in Eastern
+Europe following the Russian currency devaluation, Poland and Hungary produced
+continued growth and benefited from strong economic ties to Western Europe,
+enabling them to outperform other markets in their region.
+
+Over the first months of 1998, the Fund increased its positions in Thailand and
+South Korea.  These countries have experienced current account surpluses
+equivalent to approximately 14% of each country's GDP, leading to significant
+declines in interest rates.  These events, plus strengthening currencies, helped
+these Asian markets outperform other emerging sectors during the first three
+quarters of 1998 and contributed to Fund performance.  Despite some losses,
+during the period, South Africa remained an important area for the Fund, and we
+continued to allocate the majority of our weighting there to the technology
+sector.
+
+
+
+
+
+                                                                            13
+<PAGE>   15
+
+
+
+Overall, our stock selection during the period favored growth companies that
+exhibited and, in some cases, benefited from higher revenue and earnings
+resilience in the face of deteriorating country fundamentals.  Some examples of
+these portfolio holdings include Persetel Q Data Holdings (PQH) South Africa,
+Delta Informatics of Greece, and SPI Technologies in the Philippines.  The Fund
+also benefited from our substantial cash position over the period, as we
+maintained a minimum allocation of 10% in this category.
+
+The Fund's performance was also helped by our underweighting of Latin American
+markets, which produced some of the lowest returns in the emerging markets
+sector during this time.  This region's poor performance was due in part to a
+dependence on commodities prices at a time when slowing economic growth in Asia
+and third-world dumping combined to drive the CRB Commodity Index to a 21-year
+low.  Slumping oil and base metal prices played havoc with external and internal
+budgets in Mexico, Chile, Venezuela, and Peru.  Our decision to limit the Fund's
+exposure in commodity and cyclical stocks also helped in this area.
+
+The first reporting period for the Driehaus Emerging Markets Growth Fund has
+been a difficult time for emerging markets and for our investments.  We
+appreciate your support during this period.
+
+
+Sincerely,
+
+/s/ Emery R. Brewer
+- -------------------
+Emery R. Brewer
+Portfolio Manager
+November 24, 1998
+
+
+
+                                                                            14
+
+
+
+
+
+<PAGE>   16
+
+- --------------------------------------------------------------------------------
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+- --------------------------------------------------------------------------------
+
+
+                                 TOTAL RETURN
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------------------------------------
+                                                      DRIEHAUS        MSCI EMERGING        LIPPER EMERGING
+                                                                      MARKET INDEX        MARKET FUND INDEX
+- -------------------------------------------------------------------------------------------------------------
+<S>                                                <C>                <C>                 <C>
+For the Period 12/31/97 (since inception) 
+through 9/30/98                                       -24.40%           -34.96%               -36.69%
+- -------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Performance is historical and does not represent future results.  Investment
+returns and principal value vary, and you may have a gain or loss when you sell
+shares.
+
+<TABLE>
+<CAPTION>
+                                DRIEHAUS 
+                                EMERGING                            MSCI                                  LIPPER
+                                MARKETS                           EMERGING                               EMERGING
+                                 GROWTH                            MARKETS                                MARKETS
+                                  FUND                              INDEX                                  INDEX
+                              ------------                       ------------                          -------------
+  <S>            <C>           <C>            <C>           <C>        <C>         <C>           <C>      <C>         <C>   
+  12/31/97                                    $100,000                             $100,000                           $100,000  
+   3/31/98         5.50%          5.50%       $105,500        7.22%      7.22%     $107,222        5.12%    5.12%     $105,120  
+   6/30/98        -9.76%         -4.80%       $ 95,200      -23.68%    -18.17%     $ 81,832      -21.04%  -17.00%     $ 83,000  
+   9/30/98       -20.59%        -24.40%       $ 75,600      -20.52%    -34.96%     $ 65,043      -23.72%  -36.69%     $ 63,313  
+</TABLE>
+
+Performance data presented measures change in the value of an investment in the
+Fund, assuming reinvestment of all dividends and capital gains.  
+
+The Morgan Stanley Capital International Emerging Markets Index is a recognized
+benchmark of Emerging Markets stock markets.  It is an unmanaged index of a
+sample of companies representative of the market structure of 26 Emerging
+Markets countries.  Data is in U.S. dollars and includes reinvestment of
+dividends. Source: Morgan Stanley Capital International.
+
+Lipper Analytical Services Indices look at the investment objective of the funds
+as determined by both the language in the prospectus and a review of the fund's
+investment characteristics as shown in the Lipper-Equity Analysis Report on the
+Weighted Average Holdings of large Investment Companies.  The Lipper Emerging
+Markets Funds seek long-term capital appreciation by investing at least 65% of
+total assets in emerging market equity  securities, where "emerging market" is
+defined by a country's GNP per capita of other economic measures.  Source:
+Lipper Analytical Services.
+
+                                                                            15
+
+<PAGE>   17
+
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                            SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                     Number          Market
+                                                       of            Value
+                                                     Shares         (Note A)
+- --------------------------------------------------------------------------------
+EQUITY SECURITIES ---- 80.1%
+- --------------------------------------------------------------------------------
+<S>                                                 <C>            <C>  
+EUROPE --- 23.1%
+
+  GREECE -- 5.8%
+    Chipita International S. A. ....................  1,870        $ 49,249
+    Delta Informatics S. A. ........................  3,780          69,955
+    Hellenic Telecommunication Organization S. A. ..  4,600          55,103
+    Intrasoft S. A.  ...............................  1,600          29,111
+                                                                    -------
+                                                                    203,418
+                                                                    -------
+
+  POLAND -- 5.3%
+    Art Marketing Syndicate S. A.** ................  3,500          20,081
+    ComputerLand S. A.** ...........................  2,231          21,854
+    Elektrim Spolka Akcyjna S. A. ..................  4,150          42,046
+    Prokom Software - GDR ..........................  2,500          44,500
+    Softbank S. A. - GDR ...........................  3,000          55,950
+                                                                    -------
+                                                                    184,431
+                                                                    -------
+
+  PORTUGAL -- 4.3%
+    Corticeira Amorim SGPS S. A. ...................  2,000          25,824
+    Electricidade de Portugal S. A. ................  2,200          50,567
+    Portugal Telecom S. A. - ADR ...................    690          24,840
+    Telecel-Comunicacoes Pessoais S. A. ............    375          48,418
+                                                                    -------
+                                                                    149,649
+                                                                    -------
+
+  HUNGARY -- 2.8%
+    Magyar Tavkozlesi RT - ADR .....................  2,100          45,544
+    Mol Magyar Olaj-Es Gazipari RT - GDR ...........  2,710          52,167
+                                                                    -------
+                                                                     97,711
+                                                                    -------
+
+  TURKEY -- 2.6%
+    Carsi Buyuk Magazacilik A. S. ..................385,000          19,762
+    Efes Sinai Yatirim Holding A. S. - GDR**........ 30,450          25,882
+    Haci Omer Sabanci Holding A. S. -ADR............  8,250          31,103
+    Yapi Ve Kredi Bankasi A. S. - GDR ..............  1,185          13,331
+                                                                    -------
+                                                                     90,078
+                                                                    -------
+</TABLE>
+      Notes to Financial Statements are an integral part of this Schedule.
+                                                                              16
+
+
+<PAGE>   18
+
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                             SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                          Number                Market
+                                                            of                   Value
+                                                          Shares               (Note A)
+- ---------------------------------------------------------------------------------------
+<S>                                                      <C>                   <C> 
+  CZECH REPUBLIC -- 1.9%
+    Ceske Radiokomunikace- GDR** ...................       1,300               $ 33,573
+    SPT Telecom A. S. - GDR** ......................       2,500                 31,925
+                                                                                -------
+                                                                                 65,498
+                                                                                -------
+
+  RUSSIA -- 0.4%
+    Lukoil Holding - ADR ...........................         900                 10,105
+    Unified Energy Systems - GDR ...................       2,400                  4,478
+                                                                                -------
+                                                                                 14,583
+                                                                                -------
+
+    Total Europe ...................................                            805,368
+                                                                                -------
+FAR EAST --- 19.8%
+
+  HONG KONG -- 5.1%
+    China Telecom Ltd. - ADR** .....................         750                 22,500
+    HSBC Holdings PLC ..............................          13                    238
+    IDT International Ltd. .........................     460,000                 48,087
+    Shanghai Industrial Holdings Ltd. ..............      25,000                 50,010
+    VTech Holdings Ltd. ............................      14,000                 55,830
+                                                                                -------
+                                                                                176,665
+                                                                                -------
+
+  THAILAND -- 3.4%
+    Cogeneration Public Co., Ltd. (Foreign)** ......     139,000                 64,173
+    National Finance Public Co., Ltd. (Foreign)** ..     300,000                 30,357
+    Thai Storage Battery Public Co., Ltd. (Foreign)       26,000                 23,185
+                                                                                -------
+                                                                                117,715
+                                                                                ------- 
+
+  SINGAPORE -- 3.1%
+    Natsteel Electronics Ltd.  .....................      22,000                 48,317
+    ST Computer Systems & Services Ltd. ............      82,000                 59,868
+                                                                                -------
+                                                                                108,185
+                                                                                -------
+</TABLE>
+
+      Notes to Financial Statements are an integral part of this Schedule.
+
+                                                                              17
+<PAGE>   19
+
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                             SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                     Number          Market
+                                                       of            Value
+                                                     Shares         (Note A)
+- --------------------------------------------------------------------------------
+<S>                                                  <C>           <C> 
+  SOUTH KOREA -- 3.0%
+    Korea Electric Power Corp. - ADR................  3,300        $ 29,700
+    Medison Co., Ltd. ..............................  5,660          56,162
+    Samsung Heavy Industries** .....................  4,400          18,666
+                                                                    -------
+                                                                    104,528
+                                                                    -------
+
+  INDIA -- 3.0%
+    BSES Ltd. - GDR ................................  2,300          30,314
+    ITC Ltd. - GDR .................................  3,700          74,000
+                                                                    -------
+                                                                    104,314
+                                                                    -------
+
+  PHILIPPINES -- 1.2%
+    SPI Technologies Inc. ..........................112,000          43,520
+                                                                    -------
+
+
+  TAIWAN -- 1.0%
+    Asustek Computer Inc. - GDR** ..................  5,100          35,700
+                                                                    -------
+
+    Total Far East .................................                690,627
+                                                                    -------
+
+SOUTH AMERICA --- 12.0%
+
+  BRAZIL -- 7.0%
+    Compania de Minas Buenaventura S. A. - ADR......  3,000          34,875
+    Companhia Energetica de Minas Gerais - ADR .....  1,534          33,922
+    Petroleo Brasileiro S. A. - ADR ................  3,600          36,904
+    Telecomunicacoes Brasileiras S. A (Pref.) - ADR*    665          46,841
+    Telecomunicacoes de Sao Paulo S. A. (Pref.).....380,000          55,145
+    Telerj Celular S. A.** .........................720,000          15,794
+    Telesp Celular S. A.** .........................470,000          20,224
+                                                                    -------
+                                                                    243,705
+                                                                    -------
+</TABLE>
+
+      Notes to Financial Statements are an integral part of this Schedule.
+
+                                                                              18
+
+
+<PAGE>   20
+================================================================================
+                      DRIEHAUS EMERGING MARKETS GROWTH FUND
+                             SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                   Number        Market
+                                                     of          Value
+                                                   Shares       (Note A)
+- --------------------------------------------------------------------------------
+<S>                                                <C>          <C> 
+ ARGENTINA -- 3.2%
+  Telefonica de Argentina S. A. - ADR ............  1,910       $56,226
+  YPF S. A. - ADR ................................  2,130        55,380
+                                                                -------
+                                                                111,606
+                                                                -------
+
+ CHILE -- 1.3%
+  Sociedad Quimica y Minera de Chile S. A. - ADR .  1,480        43,105
+                                                                -------
+
+
+ PERU -- 0.5%
+  Grana y Montero S. A. .......................... 45,000        18,274
+                                                                -------
+
+
+  Total South America ............................              416,690
+                                                                -------
+
+
+MIDDLE EAST --- 10.4%
+
+ ISRAEL -- 10.4%
+  Bank Hapoalim Ltd. ............................. 33,000        80,584
+  Blue Square Israel Ltd. -ADR ...................  2,700        34,931
+  First International Bank of Israel Ltd. ........ 50,000        51,491
+  Formula Systems Ltd.** .........................  1,650        35,014
+  ForSoft Ltd.** .................................  2,750        31,625
+  Gilat Satellite Networks Ltd.** ................  1,960        88,199
+  Koor Industries Ltd. - ADR .....................  2,530        41,429
+                                                                -------
+                                                                363,273
+                                                                -------
+
+  Total Middle East ..............................              363,273
+                                                                -------
+</TABLE>
+
+
+      Notes to Financial Statements are an integral part of this Schedule.
+
+
+
+
+                                                                            19
+
+<PAGE>   21
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                            SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                       Number        Market
+                                                         of           Value
+                                                       Shares       (Note A)
+- --------------------------------------------------------------------------------
+<S>                                                     <C>         <C> 
+NORTH AMERICA --- 7.9%                                          
+                                                                
+ MEXICO -- 6.9%                                                 
+   Biper S. A. de C. V. - B ** ......................   45,055         $7,738
+   Coca-Cola Femsa S. A. - ADR ......................    3,000         36,563
+   Corporacion Interamericana de Entretenimiento                
+    S. A. - B**......................................   14,780         23,903
+   Desc S. A. de C. V.  - ADR .......................    2,400         33,000
+   Grupo Continental S. A. ..........................   21,000         54,818
+   Grupo Iusacell S. A. - L - ADR** .................    2,200         10,862
+   Grupo Televisa S. A. - GDR** .....................    1,070         20,664
+   Telefonos de Mexico S. A. - ADR ..................    1,210         53,542
+                                                                    ---------
+ .....................................................                 241,090
+                                                                    ---------
+                                                                
+ UNITED STATES -- 1.0%                                          
+   Apache Corp. .....................................    1,260         33,784
+                                                                    ---------
+                                                                
+   Total North America ..............................                 274,874
+                                                                    ---------
+                                                                
+AFRICA --- 6.9%                                                 
+                                                                
+ SOUTH AFRICA -- 6.9%                                           
+   Liberty Life Association of Africa Ltd. ..........    3,300         50,229
+   Persetel Q Data Holdings Ltd. ....................    7,500         61,671
+   Plessey Corp., Ltd. ..............................   24,500         35,000
+   Softline Ltd.** ..................................   44,000         40,408
+   South African Breweries Ltd. .....................    2,200         33,150
+   Tridelta Magnet Technology Holdings** ............   23,100         19,643
+                                                                    ---------
+                                                                      240,101
+                                                                    ---------
+                                                                
+   Total Africa .....................................                 240,101
+                                                                    ---------
+                                                                
+   Total Equity Securities (Cost  $3,314,510)........               2,790,933
+                                                                    ---------
+</TABLE>                                           
+
+- --------------------------------------------------------------------------------
+
+
+      Notes to Financial Statements are an integral part of this Schedule.
+
+                                                                          20
+
+<PAGE>   22
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                            SCHEDULE OF INVESTMENTS
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                                                    Number           Market
+                                                      of             Value
+                                                    Shares          (Note A)
+- --------------------------------------------------------------------------------
+RIGHTS ---- 0.0%
+- --------------------------------------------------------------------------------
+<S>                                                  <C>            <C> 
+ SOUTH KOREA -- 0.0%
+  Medison Co., Ltd.** .............................    526            $1,445
+                                                                   ---------
+
+ TAIWAN -- 0.0%
+  Asustek Computer Inc. - GDR** ...................     10                10
+                                                                   ---------
+
+  Total Rights (Cost $0)...........................                    1,455
+                                                                   ---------
+
+- --------------------------------------------------------------------------------
+ TOTAL INVESTMENTS (COST $3,314,510)...............   80.1%        2,792,388
+
+ Other Assets in Excess of Liabilities ............   19.9%          694,666
+                                                     -----         ---------
+
+ Net Assets .......................................  100.0%       $3,487,054
+
+================================================================================
+The federal income tax basis and unrealized apprecation (depreciation) for all
+securities is as follows:
+
+Basis  ........................................................   $3,314,510
+                                                                  ==========
+Gross Appreciation  ...........................................     $162,892
+Gross Depreciation  ...........................................     (685,014)
+                                                                  ----------
+
+ Net Depreciation .............................................    ($522,122)
+                                                                  ==========
+</TABLE>
+
+**  Non-income producing security.
+
+
+
+      Notes to Financial Statements are an integral part of this Schedule.
+
+
+
+                                                                            21
+
+<PAGE>   23
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                      SCHEDULE OF INVESTMENTS BY INDUSTRY
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+                              PERCENT OF                                  PERCENT OF
+INDUSTRY                      NET ASSETS    INDUSTRY                      NET ASSETS
+- --------                      ----------    --------                      ----------
+<S>                                <C>      <C>                               <C>
+Automobiles ..................      0.7%    Electronic Systems/Devices....    3.0%
+
+Auto Parts Manufacturing .....      0.9%    Energy Sources ...............    1.9%
+
+Banking ......................      2.7%    Financial Services ...........    2.3%
+
+Beverages & Tobacco ..........      6.4%    Foods & Household Products ...    2.8%
+
+Broadcast & Publishing .......      1.4%    Industrial Components ........    0.5%
+
+Capital Goods/Multi-Industry .      1.5%    Insurance ....................    1.4%
+
+Chemical .....................      1.2%    Leisure & Tourism ............    0.7%
+
+Communications Equipment .....      2.5%    Machinery & Engineering ......    1.2%
+
+Computer Manufacturing .......      2.3%    Oil ..........................    5.4%
+
+Computer Software & EDP Services    8.3%    Precious Metals...............    1.0%
+
+Construction .................      1.3%    Retailing - Goods.............    1.6%
+
+Data Processing ..............      1.2%    Technology/Multi-Industry.....    1.0%
+
+Electric Utilities ...........      4.3%    Telecommunications ...........    9.4%
+
+Electrical & Electronics .....      1.2%    Telephone Utilities ..........    5.5%
+
+Electronic Components ........      6.5%    Other Assets Less Liabilities.   19.9%
+                                                                            ------
+
+                                            TOTAL ........................  100.0%
+                                                                            ======
+
+
+</TABLE>
+      Notes to Financial Statements are an integral part of this Schedule.
+
+
+
+
+
+                                                                            22
+
+
+<PAGE>   24
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                      STATEMENT OF ASSETS AND LIABILITIES
+                               SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+ASSETS:
+<S>                                                                 <C>       
+  Investments, at market value (Cost $3,314,510).................   $2,792,388
+  Foreign Currency (Cost $50,609)................................       50,291
+  Cash ..........................................................      702,255
+  Receivables:
+    Dividends ...................................................        8,524
+    Interest ....................................................          683
+    Investment securities sold ..................................       64,006
+    Due from advisor ............................................       24,540
+  Deferred organizational costs .................................       24,948
+  Other assets ..................................................          743
+                                                                   -----------
+- --------------------------------------------------------------------------------
+
+
+      TOTAL ASSETS ..............................................    3,668,378
+                                                                   -----------
+- --------------------------------------------------------------------------------
+LIABILITIES:
+ Payables:
+  Investment securities purchased ...............................      137,964
+  Accrued expenses ..............................................       42,944
+  Net unrealized depreciation on foreign currency forward contracts
+    from transaction hedges......................................          416
+                                                                   -----------
+- --------------------------------------------------------------------------------
+
+
+      TOTAL LIABILITIES .........................................      181,324
+                                                                   -----------
+- --------------------------------------------------------------------------------
+
+NET ASSETS ......................................................   $3,487,054
+                                                                   ===========
+
+SHARES OUTSTANDING ..............................................      461,247
+                                                                   ===========
+
+NET ASSET VALUE PER SHARE .......................................        $7.56
+                                                                   ===========
+
+================================================================================
+
+NET ASSETS CONSISTED OF THE FOLLOWING AT SEPTEMBER 30, 1998:
+  Paid-in capital ...............................................   $4,727,772
+  Undistributed net investment loss..............................      (11,861)
+  Undistributed net realized loss from security transactions.....     (662,370)
+  Undistributed net realized foreign exchange loss ..............      (43,420)
+  Unrealized foreign exchange loss...............................         (945)
+  Unrealized depreciation of investments ........................     (522,122)
+                                                                   ------------ 
+       NET ASSETS ...............................................   $3,487,054
+                                                                   ===========
+
+================================================================================
+</TABLE>
+
+     Notes to Financial Statements are an integral part of this Statement.
+
+                                                                             23
+
+<PAGE>   25
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                            STATEMENT OF OPERATIONS
+     FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH
+     SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<CAPTION>
+
+INVESTMENT INCOME (LOSS):
+<S>                                                                      <C> 
+  Income:
+    Dividends (net of non-reclaimable foreign taxes $2,665)............   $37,001
+    Interest ..........................................................    17,822
+                                                                        ---------
+- ---------------------------------------------------------------------------------
+
+      Total income ....................................................    54,823
+                                                                        ---------
+- ---------------------------------------------------------------------------------
+
+  Expenses:
+    Investment advisory fee ...........................................    36,373
+    Administration fee ................................................    85,500
+    Professional fees .................................................    33,062
+    Federal and state registration fees ...............................     7,204
+    Custodian fees ....................................................    32,237
+    Transfer agent fees ...............................................    27,046
+    Trustees' fees ....................................................     3,702
+    Amortization of organization costs ................................     4,386
+    Miscellaneous .....................................................    17,131
+- ---------------------------------------------------------------------------------
+
+   Total expenses before fees waived and reimbursements................   246,641
+                                                                        ---------
+
+   Administration fee waived...........................................   (82,105)
+   Transfer agent fee waived...........................................   (23,400)
+   Expense reimbursement from advisor..................................   (74,452)
+                                                                        ---------
+      Total expenses net of fees waived and reimbursements.............    66,684
+                                                                        ---------
+- ---------------------------------------------------------------------------------
+
+        Net investment loss............................................   (11,861)
+                                                                        ---------
+- ---------------------------------------------------------------------------------
+
+
+NET REALIZED AND UNREALIZED GAIN (LOSS) ON INVESTMENTS:
+
+    Net realized loss from security transactions ......................  (662,370)
+    Net realized foreign exchange loss ................................   (43,420)
+    Net unrealized foreign exchange loss...............................      (945)
+    Change in unrealized depreciation of investments ..................  (522,122)
+                                                                        ---------
+- ---------------------------------------------------------------------------------
+
+        Net realized and unrealized loss on investments ...............(1,228,857)
+                                                                        ---------
+
+NET DECREASE IN NET ASSETS RESULTING FROM OPERATIONS .................$(1,240,718)
+                                                                     ============
+=================================================================================
+</TABLE>
+
+     Notes to Financial Statements are an integral part of this Statement.
+
+
+                                                                            24
+<PAGE>   26
+================================================================================
+                      DRIEHAUS EMERGING MARKETS GROWTH FUND
+                       STATEMENT OF CHANGES IN NET ASSETS
+FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH 
+SEPTEMBER 30, 1998
+================================================================================
+<TABLE>
+<S>                                                                  <C>
+INCREASE (DECREASE) IN NET ASSETS:
+  Operations:
+    Net investment loss .............................................$  (11,861)
+    Net realized and unrealized loss on investments .................(1,228,857)
+
+- --------------------------------------------------------------------------------
+            Net decrease in net assets resulting from operations ....(1,240,718)
+                                                                     -----------
+- --------------------------------------------------------------------------------
+
+  Capital share transactions:
+    Net increase in net assets derived
+      from capital share transactions* .............................. 4,727,772
+                                                                     -----------
+
+      Total increase in net assets .................................. 3,487,054
+                                                                     -----------
+- --------------------------------------------------------------------------------
+
+NET ASSETS:
+
+  Beginning of period ...............................................         0
+                                                                     -----------
+
+  End of period .....................................................$3,487,054
+                                                                     -----------
+================================================================================
+</TABLE>
+
+*Capital share transactions are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                     Shares             Value
+                                                    ---------        ----------
+<S>                                                  <C>             <C>
+For the period ended September 30, 1998
+Shares purchased ................................    462,301         $4,737,772
+Shares reinvested ...............................        ---                ---
+Shares redeemed .................................     (1,054)           (10,000)
+                                                    ---------        ----------
+     Net increase from capital share transactions    461,247         $4,727,772
+                                                    =========        ==========
+
+================================================================================
+</TABLE>
+     Notes to Financial Statements are an integral part of this Statement.
+
+                                                                             25
+
+
+
+<PAGE>   27
+================================================================================
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                              FINANCIAL HIGHLIGHTS
+     FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH
+     SEPTEMBER 30, 1998
+================================================================================
+
+The Table below sets forth financial data for a share of capital stock
+ outstanding throughout the period presented.
+
+<TABLE>
+<S>                                                             <C>   
+Net asset value, beginning of period ..........................  $10.00
+                                                                -------
+        LOSS FROM INVESTMENT OPERATIONS:
+        Net investment loss ...................................   (0.03)
+        Net loss on securities (both realized and unrealized)..   (2.41)
+                                                                -------
+           Total from investment operations ...................   (2.44)
+                                                                -------
+
+        LESS DISTRIBUTIONS:
+        Dividends from net investment income ..................    0.00
+        Distributions from capital gains ......................    0.00
+                                                                -------
+          Total distributions .................................    0.00
+                                                                -------
+
+Net asset value, end of.period ................................   $7.56
+                                                                =======
+Total Return ..................................................  (24.40)%**
+RATIOS/SUPPLEMENTAL DATA
+        Net assets, end of period (in 000's) ..................  $3,487
+        Ratio of expenses to average net assets ...............    2.75 %*+
+        Ratio of net investment loss to average net assets ....   (0.49)%*+
+        Portfolio turnover ....................................  261.21 %**
+        Annualized portfolio turnover .........................  349.24 %*
+
+================================================================================
+</TABLE>
+     * Annualized
+    ** Not Annualized
+
+     + Such ratios are after administrative agent and transfer agent waivers and
+Adviser expense reimbursements. PFPC Inc., the administrative agent and transfer
+agent, waived a portion of its fees. The Adviser agreed to reduce its fees and
+absorb other operating expenses to the extent necessary to ensure that the total
+fund operating expenses (other than interest, taxes, brokerage commissions and
+other portfolio transaction expenses, capital expenditures and extraordinary
+expense) will not exceed 2.75% of the net assets of the Driehaus Emerging
+Markets Growth Fund for the first twenty-four months of its operations.
+
+      Notes to Financial Statements are an integral part of this Schedule.
+
+
+
+
+
+                                                                             26
+<PAGE>   28
+                     DRIEHAUS ASIA PACIFIC GROWTH FUND AND
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                         NOTES TO FINANCIAL STATEMENTS
+     FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH
+                               SEPTEMBER 30, 1998
+
+
+
+
+A.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ORGANIZATION
+
+     The Driehaus Asia Pacific Growth Fund and the Driehaus Emerging Markets
+Growth Fund (collectively, the "Funds") are each a series of the Driehaus Mutual
+Funds (the "Trust"), a registered management investment company.  The Trust is a
+Delaware business trust organized under an Agreement and Declaration of Trust
+dated May 31, 1996 and may issue an unlimited number of full and fractional
+units of beneficial interest (shares) without par value. The Funds commenced
+operations and were initially offered on December 31, 1997.  The Funds are
+self-distributed.
+
+     The investment objective of the Driehaus Asia Pacific Growth Fund is to
+maximize capital appreciation by investing primarily in equity securities of
+companies in the Asia Pacific region using the growth style investment criteria.
+
+     The investment objective of the Driehaus Emerging Markets Growth Fund is to
+maximize capital appreciation by investing primarily in the equity securities of
+companies in emerging markets around the world using the growth style investment
+criteria.
+
+SECURITIES VALUATION AND TRANSACTIONS
+
+     Depending upon local convention or regulation, equity securities may be
+valued at the last sale price, last bid or asked price, or the mean between the
+last bid and asked prices as of, in each case, the close of the appropriate
+exchange or other designated time.  Securities for which market quotations are
+not readily available are valued at fair value as determined in good faith by or
+under the direction of the Trust's Board of Trustees. At September 30, 1998,
+there were no securities for which market quotations were not available.
+
+     Securities transactions are accounted for on trade date.  The cost of
+investments sold is determined by the use of specific identification method for
+both financial reporting and income tax purposes.  Interest income is recorded
+on an accrual basis.  Dividend income, net of non-reclaimable foreign taxes
+withheld, is recorded on the ex-dividend date.
+
+     The Funds determine income and expenses daily.  This change in net asset
+value is allocated daily.
+
+FEDERAL INCOME TAXES
+
+     No provision is made for Federal income taxes as it is the Funds' intention
+to qualify as regulated investment companies under Subchapter M of the Internal
+Revenue Code and to make all the required distributions to shareholders in
+amounts sufficient to relieve the Funds from all or substantially all Federal
+income and excise taxes.
+
+
+
+
+
+                                                                             27
+<PAGE>   29
+
+                     DRIEHAUS ASIA PACIFIC GROWTH FUND AND
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                         NOTES TO FINANCIAL STATEMENTS
+     FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH
+                               SEPTEMBER 30, 1998
+
+
+
+     The Funds intend to utilize provisions of the federal income tax laws,
+which allow them to carry a realized capital loss forward up to eight years
+following the year of the loss, and offset such losses against any future
+realized gains. At September 30, 1998, the Driehaus Asia Pacific Growth Fund and
+the Driehaus Emerging Markets Growth Fund had capital loss carryforwards of
+approximately $700,000 and $550,000, respectively, which expire in 2006.
+
+FOREIGN CURRENCY TRANSLATION
+
+     Foreign currency is translated into U.S. dollar values based upon the
+current rates of exchange on the date of the Funds' valuations.
+
+     Net realized foreign exchange gains or losses which are reported by the
+Funds result from  currency gains and losses on transaction hedges arising from
+changes in exchange rates between the trade and settlement dates on forward
+contracts underlying securities transactions, and the difference between the
+amounts accrued for dividends, interest, and reclaimable foreign withholding
+taxes and the amounts actually received or paid in U.S. dollars for these items.
+Net unrealized foreign exchange gains and losses result from changes in the U.S.
+dollar value of assets and liabilities (other than investments in securities
+which are denominated in foreign currencies), as a result of changes in exchange
+rates.
+
+     Net realized foreign exchange gains or losses on portfolio hedges result
+from the non-speculative use of forward contracts with respect to portfolio
+positions denominated or quoted in a particular currency in order to reduce or
+limit exposure in that currency.
+
+     The Funds do not isolate that portion of the results of operations which
+results from fluctuations in foreign exchange rates on investments held.  These
+fluctuations are included with the net realized and unrealized gains or losses
+which result from changes in the market prices of investments.
+
+DEFERRED ORGANIZATION COSTS
+
+     Organization costs incurred by the Funds have been deferred and are
+amortized over a period of 60 months from the date the Funds commenced
+operations.  The Funds' remaining amortization period for these costs is 51
+months.
+
+USE OF ESTIMATES
+
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amount of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of net increases or decreases in net assets
+from operations during the reporting period.  Actual results could differ from
+those estimates.
+
+
+
+
+
+
+                                                                            28
+<PAGE>   30
+
+                     DRIEHAUS ASIA PACIFIC GROWTH FUND AND
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                         NOTES TO FINANCIAL STATEMENTS
+     FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH
+                               SEPTEMBER 30, 1998
+
+
+B.   INVESTMENT ADVISORY FEES, TRANSACTIONS WITH AFFILIATES AND ADMINISTRATIVE
+     FEES
+
+     Richard H. Driehaus, the Chairman of the Board and President of the Trust
+is also the Chairman of the Board, sole director, and sole shareholder of
+Driehaus Capital Management, Inc., a registered investment adviser, and of
+Driehaus Securities Corporation, a registered broker-dealer.
+
+     Driehaus Capital Management, Inc. ("DCM") serves as the Funds' investment
+adviser.  In return for its services to the Funds, DCM receives a monthly fee,
+computed and accrued daily at an annual rate of 1.5% of average net assets.  The
+amount accrued to DCM for the period ended September 30, 1998 for the Driehaus
+Asia Pacific Growth Fund is $30,175.  The amount accrued to DCM for the period
+ended September 30, 1998 for the Driehaus Emerging Markets Growth Fund is
+$36,373.  DCM agreed to reduce its fee and absorb other operating expenses of
+the Funds to the extent necessary to ensure that the total Fund operating
+expenses (other than interest, taxes, brokerage commissions and other portfolio
+transaction expenses, capital expenditures and extraordinary expenses) will not
+exceed 2.95% and 2.75% of average net assets of the Driehaus Asia Pacific Growth
+Fund and the Driehaus Emerging Markets Growth Fund, respectively, on an annual
+basis for the first twenty-four months of the Funds' operations after the
+effective date of the Funds' registration statement.  As of September 30, 1998,
+DCM absorbed $68,376 and $74,452 of expenses for the Driehaus Asia Pacific
+Growth Fund and the Driehaus Emerging Markets Growth Fund, respectively.
+
+     DCM advanced certain organization costs to the Funds.  As of September 30,
+1998, DCM has been reimbursed for all organizational costs advanced to the
+Funds.
+
+     For the period ended September 30, 1998, Driehaus Asia Pacific Growth Fund
+and Driehaus Emerging Markets Growth Fund paid $72,825 and $58,159,
+respectively, in total commissions to all brokers.  Driehaus Securities
+Corporation ("DSC") acts as a broker for the Funds on certain domestically
+traded securities.  During the period, DSC traded 42,968 and 265,558 shares for
+the Driehaus Asia Pacific Growth Fund and the Driehaus Emerging Markets Growth
+Fund, respectively, and received $2,621 and $14,077, respectively, in
+commissions.  A portion of these commissions are, in turn, paid by DSC to third
+parties for clearing and floor brokerage services.
+
+     Certain officers of the Trust are also officers of the Adviser.  No such
+officers received compensation from the Funds.
+
+     PFPC Inc., a wholly owned, indirect subsidiary of PNC Bank, serves as the
+Funds' administrative and accounting agent.  PFPC has agreed to waive its
+minimum fees during the first two years of the Funds' operations.  For the
+period ended September 30, 1998, $82,684 and $82,105 of these fees have been
+waived by PFPC Inc. for the Driehaus Asia Pacific Growth Fund and the Driehaus
+Emerging Markets Growth Fund, respectively.
+
+     PFPC Inc. also acts as the transfer agent and dividend disbursing agent for
+both Funds.  PFPC Inc. has agreed to waive a portion of its monthly base fee for
+transfer agency service for the first two years 
+
+
+
+
+
+
+                                                                            29
+<PAGE>   31
+
+                     DRIEHAUS ASIA PACIFIC GROWTH FUND AND
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                         NOTES TO FINANCIAL STATEMENTS
+     FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH
+                               SEPTEMBER 30, 1998
+
+
+  of the Funds.  For the period ended September 30, 1998, $23,400 of these fees
+  have been waived by PFPC Inc. for the Driehaus Asia Pacific Growth Fund and
+  the Driehaus Emerging Markets Growth Fund.
+
+
+  C. FOREIGN CURRENCY FORWARD CONTRACTS
+
+     At September 30, 1998, the Funds had foreign currency forward contracts
+outstanding under which they are obligated to exchange currencies at specified
+future dates.  The Funds' currency transactions are limited to transaction
+hedging and portfolio hedging, when applicable, involving either specific
+transactions or portfolio positions. The Driehaus Emerging Markets Growth Fund
+engaged in no portfolio hedging during the fiscal year ended September 30, 1998.
+
+     The contractual amounts of foreign currency forward contracts do not
+necessarily represent the amounts potentially subject to risk.  The measurement
+of the risks associated with these instruments is meaningful only when all
+related and offsetting transactions are considered.  Risks arise from the
+possible inability of counter parties to meet the terms of their contracts and
+from movements in currency values.
+
+The Driehaus Asia Pacific Growth Fund had the following outstanding contracts at
+September 30, 1998:
+
+
+  Portfolio Hedges:
+  Foreign Currency Sold:
+
+                                                                 Unrealized
+                                                                Appreciation 
+  US Dollars                                                   (Depreciation)
+  Purchased    Foreign Currency Sold    Settlement Date     at September 30,1998
+- --------------------------------------------------------------------------------
+   $500,000   69,800,000 Japanese Yen    November 1998              $(15,404)
+            Net unrealized depreciation                             ---------
+            on foreign currency forward
+           contracts for portfolio hedges                           $(15,404)
+                                                                    =========
+                                                                          
+
+  Transaction Hedges:
+  Foreign Currency Purchases:
+
+                                                                 Unrealized
+                                                                Appreciation
+  US Dollars                                                   (Depreciation)
+    Sold      Foreign Currency Purchased  Settlement Date  at September 30, 1998
+- --------------------------------------------------------------------------------
+ $ 38,362    5,138,560 Japanese Yen        October 1998        $      (612)
+   33,430    4,534,400 Japanese Yen        October 1998               (118)
+   30,488       51,683 Australian Dollar   October 1998                121
+                                                               -----------
+                                                               $      (609)
+
+
+
+                                                                            30
+<PAGE>   32
+
+                     DRIEHAUS ASIA PACIFIC GROWTH FUND AND
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                         NOTES TO FINANCIAL STATEMENTS
+     FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH
+                               SEPTEMBER 30, 1998
+
+
+Transaction Hedges:
+Foreign Currency Sales:
+
+                                                                 Unrealized
+                                                                Appreciation
+  US Dollars                                                   (Depreciation)
+  Purchased     Foreign Currency Sold    Settlement Date   at September 30, 1998
+- --------------------------------------------------------------------------------
+$ 39,334        66,455 Singapore Dollar   October 1998        $     (112)
+ 121,866    16,529,840 Japanese Yen       October 1998               430
+   3,810       167,434 Philippine Peso    October 1998               (17)
+  63,220     8,544,168 Japanese Yen       October 1998               451
+                                                              -----------   
+                                                              $      752
+                                                              -----------
+
+        Net unrealized appreciation on foreign currency
+           forward contracts for transaction hedges           $      143
+                                                              ==========
+
+
+     The Driehaus Emerging Markets Growth Fund had the following outstanding
+contracts at September 30, 1998:
+
+Transaction Hedges:
+Foreign Currency Purchases:
+
+                                                                Unrealized     
+                                                               Appreciation 
+  US Dollars                                                  (Depreciation)
+    Sold     Foreign Currency Purchased  Settlement Date   at September 30,1998
+- -------------------------------------------------------------------------------
+$  37,860    220,104 South African Rand    October 1998         $    (427)
+
+
+Transaction Hedges:
+Foreign Currency Sales:
+                                                                Unrealized     
+                                                               Appreciation 
+  US Dollars                                                  (Depreciation)
+  Purchased     Foreign Currency Sold    Settlement Date   at September 30,1998
+- -------------------------------------------------------------------------------
+   $1,683     9,831  South African Rand   October 1998          $      11
+                                                                ---------
+            Net unrealized depreciation on foreign currency
+              forward contracts from transaction hedges         $    (416)
+                                                                =========
+
+  D. INVESTMENT TRANSACTIONS
+
+     The aggregate purchases and sales of investment securities, other than
+short-term obligations, for the period ended September 30, 1998, were as
+follows:
+
+
+
+
+
+
+                                                                            31
+<PAGE>   33
+
+
+                     DRIEHAUS ASIA PACIFIC GROWTH FUND AND
+                     DRIEHAUS EMERGING MARKETS GROWTH FUND
+                         NOTES TO FINANCIAL STATEMENTS
+     FOR THE PERIOD DECEMBER 31, 1997 (COMMENCEMENT OF OPERATIONS) THROUGH
+                               SEPTEMBER 30, 1998
+
+
+
+                         Asia Pacific Growth Fund   Emerging Markets Growth Fund
+                         ------------------------   ----------------------------
+
+   Purchases                 $     8,795,467          $       10,580,112
+   Sales                     $     5,570,997          $        6,603,232
+
+
+
+E.   RESTRICTED SECURITIES
+
+     The Fund may purchase securities that have been privately placed but that
+are eligible for purchase and sale under rule 144A under the Securities and
+Exchange Act of 1933.  At September 30, 1998, there were no such securities in
+the Funds' portfolios.
+
+
+F.   OFF BALANCE SHEET RISKS
+
+     The Funds' investments in foreign securities may entail risks due to the
+potential for political and economic instability in the countries where the
+issuers of these securities are located.  In addition, foreign exchange
+fluctuations could affect the value of positions held.  These risks are
+generally intensified in emerging markets.  It is DCM's policy to continuously
+monitor its exposure to these risks.
+
+
+
+
+                                                                            32
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

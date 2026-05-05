@@ -1,0 +1,1245 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ULzji9z9WuaPHpCbjZB3KdVBFfaZu+OywZmNZj1BI53SLCnBk2trdD5DhAr/tglK
+ YiBb/ni4WYtyrFJJAKf9lA==
+
+<SEC-DOCUMENT>0000948221-99-000085.txt : 19990225
+<SEC-HEADER>0000948221-99-000085.hdr.sgml : 19990225
+ACCESSION NUMBER:		0000948221-99-000085
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19981231
+FILED AS OF DATE:		19990224
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YACKTMAN FUND INC
+		CENTRAL INDEX KEY:			0000885980
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				363831621
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		
+		SEC FILE NUMBER:	811-06628
+		FILM NUMBER:		99548758
+
+	BUSINESS ADDRESS:	
+		STREET 1:		303 W MADISON ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3126412400
+
+	MAIL ADDRESS:	
+		STREET 1:		207 E BUFFALO ST
+		STREET 2:		STE 400
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<TEXT>
+
+
+(LOGO)
+THE YACKTMAN FUNDS
+
+                                       -----------------------------------------
+                                                                   ANNUAL REPORT
+                                       -----------------------------------------
+                                                               December 31, 1998
+
+<PAGE>
+
+This report is submitted for the general information of shareholders of The
+Yacktman Funds.  It is not authorized for distribution to prospective investors
+unless accompanied or preceded by an effective Prospectus for the Funds, which
+contains more information concerning the Funds' investment policies, as well as
+fees and expenses and other pertinent information.  Read the Prospectus
+carefully.
+
+<PAGE>
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+MESSAGE TO SHAREHOLDERS
+- ----------------------------------------
+
+Dear Fellow Shareholder:
+
+  For investors who purchased shares at THE YACKTMAN FUND'S inception in July,
+1992 at $10.00 per share, your initial investment, adjusted for dividends and
+capital gains, would have grown to $20.82 by the end of the fourth quarter of
+1998 - representing an average annual return of about 12%.
+
+  For investors who purchased shares at THE YACKTMAN FOCUSED FUND'S inception on
+May 1, 1997 at $10.00 per share, your initial investment, adjusted for dividends
+and capital gains, would have grown to $12.07 by the end of the fourth quarter
+of 1998 - representing an average annual return of about 11.9%.
+
+  1998 was an eventful year. For the first time in history the S&P 500 rose over
+20% for the fourth year in a row. However, the increase was very unbalanced with
+the very large, marketable, growth stocks rising dramatically while many stocks
+actually declined. The median stock of the S&P 500 was only up 3.5%.
+
+  An example of the unbalanced nature of the current stock market is to compare
+Franklin Covey with Amazon.com. While they are close in size as measured by
+revenues, Amazon.com is valued at about $25 billion and Franklin Covey about
+$500 million. Yet Franklin Covey has much better margins and makes an excellent
+return on tangible assets. Amazon.com is losing money.
+
+  The total rise in the S&P 500 was caused by a rise in the multiplier or
+price/earnings (P/E) ratio. (Price is a function of earnings X price/earnings.)
+The improvement in estimated earnings of the businesses in the Funds from the
+beginning of 1998 to the beginning of 1999 was better than those of the S&P 500.
+However, the P/E ratio of the S&P went from 19.0 to 26.4 while the P/E ratios of
+the companies in the Funds, on average, went down. Thus, our Funds are now
+selling at 48% and 50% discounts to the S&P.
+
+<PAGE>
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+- ----------------------------------------
+
+- ---------------------------------------------------------------------------
+                                         DISCOUNT                 DISCOUNT
+                              12/97      FROM THE      12/98      FROM THE
+                             P/E<F1>     S&P 500      P/E<F1>     S&P 500
+                             RATIOS      P/E<F1>      RATIOS      P/E<F1>
+- ---------------------------------------------------------------------------
+The Yacktman Fund             14.9         22%         13.7         48%
+The Yacktman Focused Fund     14.2         25%         13.1         50%
+S&P 500                       19.0          -          26.4          -
+<F1>P/E is Price/Earnings
+- --------------------------------------------------------------------------------
+12/97 P/E ratios are based on estimates for 1998 and 12/98 P/E ratios are based
+on estimates for 1999. The estimated earnings for the above P/E ratios are
+provided by Zacks Investment Research, if available, or by internal estimates.
+- --------------------------------------------------------------------------------
+
+  We feel such discounts are simply not sustainable since the businesses we own
+are both more profitable than and are growing faster than the S&P 500. To put
+this gap in valuations in perspective, had our Funds' P/E ratios discount to the
+S&P merely remained steady at 22% and 25%, the Funds' net asset values would be
+more than 40% higher today. If our Funds' P/E ratios went to parity with the S&P
+500, their net asset values would be about 100% higher. Thus, we remain highly
+confident in our investment strategy of buying very profitable, unpopular
+businesses which have excellent long-term potential.
+
+  I want to apologize for the many mailings we had to send out to complete the
+recent proxy solicitation. Having about twelve accounts in our household, I know
+what our mailbox looked like. We also got calls at dinnertime like you probably
+did. We want to thank you for your support in selecting new directors for the
+Funds. I have known each of these men for at least twenty years and can vouch
+for their integrity. They are outstanding men and will serve us all well.
+
+Sincerely,
+
+/s/Donald A. Yacktman
+
+
+Donald A. Yacktman
+President
+
+- --------------------------------------------------------------------------------
+<PAGE>
+
+
+THE YACKTMAN FUND AVERAGE ANNUAL RETURNS
+- ----------------------------------------
+ One Year (1/1/98 - 12/31/98)       0.6%
+ Three Years (1/1/96 - 12/31/98)   14.5%
+ Five Years (1/1/94 - 12/31/98)    16.3%
+ Since Inception (7/6/92)          12.0%
+
+
+                   The Yacktman            S&P 500 Stock
+                       Fund                  Index <F1>
+                   ------------            -------------
+
+7/6/92                10,000                   10,000
+12/31/92              10,472                   10,679
+12/31/93              9,783                    11,756
+12/31/94              10,644                   11,911
+12/31/95              13,881                   16,387
+12/31/96              17,493                   20,150
+12/31/97              20,691                   26,873
+12/31/98              20,822                   34,552
+
+
+
+THE YACKTMAN FOCUSED FUND AVERAGE ANNUAL RETURNS
+- ------------------------------------------------
+ One Year (1/1/98 - 12/31/98)             4.6%
+ Since Inception (5/1/97)                11.9%
+
+                   The Yacktman            S&P 500 Stock
+                   Focused Fund              Index <F1>
+                   ------------            -------------
+
+5/1/97                10,000                   10,000
+12/31/97              11,538                   12,256
+12/31/98              12,067                   15,759
+
+
+<F1> The S&P 500 is an unmanaged but commonly used measure of common stock total
+     return performance.
+
+Returns shown include the reinvestment of all dividends. The above past
+performance is not predictive of future results. The investment return and
+principal value of the Funds will fluctuate so that your shares, when redeemed,
+may be worth more or less than their original cost.
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+THE YACKTMAN FUND
+- ----------------------------------------
+- ----------------------------------------
+TOP TWELVE EQUITY HOLDINGS
+December 31, 1998
+
+- --------------------------------------------------------------------------------
+                               PERCENTAGE OF
+                                NET ASSETS
+- --------------------------------------------------------------------------------
+Philip Morris Cos., Inc.           11.0%
+First Data Corp.                   10.9%
+Department 56, Inc.                10.6%
+Dentsply International, Inc.        9.0%
+Franklin Covey Co.                  7.8%
+First Health Group Corp.            5.0%
+United Asset Management Corp.       4.9%
+Reebok International Ltd.           4.5%
+Intimate Brands, Inc.               4.3%
+Jostens, Inc.                       4.3%
+Bandag, Inc., Class A               3.9%
+Block H&R, Inc.                     3.4%
+                                   -----
+TOTAL                              79.6%
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+- ----------------------------------------
+- ----------------------------------------
+PURCHASES & SALES
+For the Quarter Ended December 31, 1998
+- --------------------------------------------------------------------------------
+                                         NET SHARES                CURRENT
+PURCHASES                                PURCHASED               SHARES HELD
+- --------------------------------------------------------------------------------
+Luxottica Group ADR                         91,000                  400,000
+- --------------------------------------------------------------------------------
+                                         NET SHARES                CURRENT
+SALES                                       SOLD                 SHARES HELD
+- --------------------------------------------------------------------------------
+American Media, Inc., Class A              203,200                  996,800
+Bandag, Inc., Class A                      380,100                  347,700
+Block H&R, Inc.                            170,000                  230,000
+Clorox Co.                                 150,000                   50,000
+Dentsply International, Inc.               681,700                1,070,000
+Department 56, Inc.                        540,000                  870,000
+First Data Corp.                         1,590,000                1,060,000
+First Health Group Corp.                    80,000                  920,000
+Franklin Covey Co.                         670,500                1,429,500
+Fruit of the Loom, Inc.                    250,000                  650,000
+Intimate Brands, Inc.                      711,800                  445,200
+Jenny Craig, Inc.                           93,800                  750,000
+Jostens, Inc.                              400,000                  500,000
+King World Productions, Inc.                50,000                  200,000
+Nielsen Media Research                      57,900                        -
+Philip Morris Cos., Inc.                   870,000                  630,000
+Reebok International Ltd.                  527,500                  922,500
+Reuters Holdings ADS                       100,000                        -
+Rollins, Inc.                              490,700                  450,000
+Selective Insurance Group                  570,000                        -
+Tupperware Corp.                           480,000                  300,000
+United Asset Management Corp.              412,900                  580,000
+Valassis Communications, Inc.              146,400                  189,000
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+THE YACKTMAN FUND
+- ----------------------------------------
+- ----------------------------------------
+PORTFOLIO OF INVESTMENTS
+December 31, 1998
+- --------------------------------------------------------------------------------
+                                           NUMBER
+                                         OF SHARES                VALUE
+- --------------------------------------------------------------------------------
+COMMON STOCKS - 98.4%
+
+APPAREL/SHOES - 7.4%
+Fruit of the Loom, Inc.<F1>                650,000             $  8,978,125
+Reebok International Ltd.<F1>              922,500               13,722,187
+                                                               ------------
+                                                                 22,700,312
+                                                               ------------
+
+CONSUMER GOODS - 1.6%
+Luxottica Group ADR                        400,000                4,800,000
+                                                               ------------
+
+EDUCATIONAL SERVICES - 12.0%
+Franklin Covey Co.<F1><F2>               1,429,500               23,944,125
+Jostens, Inc.                              500,000               13,093,750
+                                                               ------------
+                                                                 37,037,875
+                                                               ------------
+
+FINANCIAL SERVICES - 15.8%
+First Data Corp.                         1,060,000               33,588,750
+United Asset Management Corp.              580,000               15,080,000
+                                                               ------------
+                                                                 48,668,750
+                                                               ------------
+
+FOOD/TOBACCO - 11.0%
+Philip Morris Cos., Inc.                   630,000               33,705,000
+                                                               ------------
+
+HOME FURNISHINGS - 10.6%
+Department 56, Inc.<F1><F2>                870,000               32,679,375
+                                                               ------------
+
+HOUSEHOLD PRODUCTS - 3.5%
+Clorox Co.                                  50,000                5,840,625
+Tupperware Corp.                           300,000                4,931,250
+                                                               ------------
+                                                                 10,771,875
+                                                               ------------
+
+MEDIA - 3.7%
+American Media, Inc., Class A<F1><F2>      996,800                5,544,700
+King World Productions, Inc.<F1>           200,000                5,887,500
+                                                               ------------
+                                                                 11,432,200
+                                                               ------------
+
+MEDICAL SERVICES - 5.0%
+First Health Group Corp.<F1>               920,000               15,237,500
+                                                               ------------
+
+<PAGE>
+
+- --------------------------------------------------------------------------------
+                                           NUMBER
+                                         OF SHARES                VALUE
+- --------------------------------------------------------------------------------
+
+MEDICAL SUPPLIES - 9.0%
+Dentsply International, Inc.             1,070,000              $27,552,500
+                                                               ------------
+
+RETAILING - 4.3%
+Intimate Brands, Inc.                      445,200               13,300,350
+                                                               ------------
+
+SERVICES - 10.6%
+Block H&R, Inc.                            230,000               10,350,000
+Jenny Craig, Inc.<F1>                      750,000                4,500,000
+Rollins, Inc.                              450,000                7,875,000
+Valassis Communications, Inc.<F1>          189,000                9,757,125
+                                                               ------------
+                                                                 32,482,125
+                                                               ------------
+
+TIRES AND RUBBER - 3.9%
+Bandag, Inc., Class A<F2>                  347,700               12,126,038
+                                                               ------------
+
+Total Common Stocks
+  (cost $255,894,079)                                           302,493,900
+                                                               ------------
+
+Other Assets less Liabilities - 1.6%                              4,936,440
+                                                               ------------
+
+Net Assets - 100% (equivalent
+  to $11.61 per share based on
+  26,489,936 shares outstanding)                               $307,430,340
+                                                               ============
+
+<F1> Non-income producing
+<F2> Affiliated company - See Note 7
+
+See notes to financial statements
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+THE YACKTMAN FOCUSED FUND
+- ----------------------------------------
+- ----------------------------------------
+PURCHASES & SALES
+For the Quarter Ended December 31, 1998
+- --------------------------------------------------------------------------------
+                                         NET SHARES                CURRENT
+PURCHASES                                PURCHASED               SHARES HELD
+- --------------------------------------------------------------------------------
+No equity securities were purchased during the quarter ended December 31, 1998.
+- --------------------------------------------------------------------------------
+                                         NET SHARES                CURRENT
+SALES                                       SOLD                 SHARES HELD
+- --------------------------------------------------------------------------------
+Dentsply International, Inc.                60,000                   50,000
+Department 56, Inc.                        190,000                  160,000
+First Data Corp.                           135,000                   75,000
+First Health Group Corp.                    24,000                   81,000
+Franklin Covey Co.                          90,000                  130,000
+Fruit of the Loom, Inc.                     28,000                   72,000
+Intimate Brands, Inc.                       55,200                   44,800
+Jostens, Inc.                               55,000                   45,000
+Philip Morris Cos., Inc.                   115,000                   50,000
+Reebok International Ltd.                   12,500                   87,500
+Rollins, Inc.                               90,000                   50,000
+United Asset Management Corp.               60,000                   50,000
+- --------------------------------------------------------------------------------
+
+<PAGE>
+- ----------------------------------------
+- ----------------------------------------
+PORTFOLIO OF INVESTMENTS
+December 31, 1998
+- --------------------------------------------------------------------------------
+                                           NUMBER
+                                         OF SHARES                VALUE
+- --------------------------------------------------------------------------------
+COMMON STOCKS - 83.4%
+
+APPAREL/SHOES - 8.4%
+Fruit of the Loom, Inc.<F1>                 72,000             $    994,500
+Reebok International Ltd.<F1>               87,500                1,301,563
+                                                               ------------
+                                                                  2,296,063
+                                                               ------------
+
+EDUCATIONAL SERVICES - 12.2%
+Franklin Covey Co.<F1>                     130,000                2,177,500
+Jostens, Inc.                               45,000                1,178,437
+                                                               ------------
+                                                                  3,355,937
+                                                               ------------
+
+FINANCIAL SERVICES - 13.4%
+First Data Corp.                            75,000                2,376,562
+United Asset Management Corp.               50,000                1,300,000
+                                                               ------------
+                                                                  3,676,562
+                                                               ------------
+
+FOOD/TOBACCO - 9.8%
+Philip Morris Cos., Inc.                    50,000                2,675,000
+                                                               ------------
+
+HOME FURNISHINGS - 21.9%
+Department 56, Inc.<F1>                    160,000                6,010,000
+                                                               ------------
+
+MEDICAL SERVICES - 4.9%
+First Health Group Corp.<F1>                81,000                1,341,563
+                                                               ------------
+
+MEDICAL SUPPLIES - 4.7%
+Dentsply International, Inc.                50,000                1,287,500
+                                                               ------------
+
+RETAILING - 4.9%
+Intimate Brands, Inc.                       44,800                1,338,400
+                                                               ------------
+
+SERVICES - 3.2%
+Rollins, Inc.                               50,000                  875,000
+                                                               ------------
+
+Total Common Stocks
+  (cost $22,476,539)                                             22,856,025
+                                                               ------------
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+THE YACKTMAN FOCUSED FUND
+- ----------------------------------------
+- ----------------------------------------
+PORTFOLIO OF INVESTMENTS (Cont'd.)
+December 31, 1998
+- --------------------------------------------------------------------------------
+                                         PRINCIPAL
+                                           AMOUNT                 VALUE
+- --------------------------------------------------------------------------------
+DEMAND NOTES
+(VARIABLE RATE) - 13.8%
+
+American Family Financial Services        $313,463              $   313,463
+General Mills, Inc.                        593,596                  593,596
+Pitney Bowes Credit Corp.                  765,816                  765,816
+Sara Lee Corp.                             700,058                  700,058
+Warner-Lambert, Inc.                       549,533                  549,533
+Wisconsin Corp. Central Credit Union       194,452                  194,452
+Wisconsin Electric Power Co.               676,611                  676,611
+                                                               ------------
+
+Total Demand Notes
+  (cost $3,793,529)                                               3,793,529
+                                                               ------------
+
+- --------------------------------------------------------------------------------
+                                           NUMBER
+                                        OF CONTRACTS              VALUE
+- --------------------------------------------------------------------------------
+PUT OPTIONS PURCHASED - 0.2%
+
+Philip Morris Cos., Inc.
+  Expiring Jan. 1999 @ $33.375                 600                   15,000
+  Expiring Jan. 2000 @ $30.00                  200                   10,000
+  Expiring Jan. 2000 @ $35.00                  200                   16,250
+                                                               ------------
+
+Total Put Options Purchased
+   (cost $228,912)                                                   41,250
+                                                               ------------
+
+Total Investments - 97.4%
+   (cost $26,498,980)                                            26,690,804
+
+Other Assets less Liabilities  - 2.6%                               716,522
+                                                               ------------
+
+Net Assets - 100% (equivalent
+  to $11.62 per share based on
+  2,359,438 shares outstanding)                                 $27,407,326
+                                                               ============
+
+<F1> Non-income producing
+
+See notes to financial statements
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+
+
+                      This page intentionally left blank.
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+- ----------------------------------------
+STATEMENTS OF ASSETS & LIABILITIES
+December 31, 1998
+- --------------------------------------------------------------------------------
+                                        THE YACKTMAN           THE YACKTMAN
+                                            FUND               FOCUSED FUND
+- --------------------------------------------------------------------------------
+ASSETS:
+  Investments at value
+  Nonaffiliated issuers
+  (cost $189,681,991, and
+       $26,498,980, respectively)     $228,199,662              $26,690,804
+     Affiliated issuers
+       (cost $66,212,088, and
+       $0, respectively)                74,294,238                        -
+  Receivable for securities sold         4,542,080                  605,789
+  Receivable for fund shares issued      1,249,610                   20,659
+  Dividends and interest receivable        742,506                   52,441
+  Other assets                              36,868                   22,933
+  Due from adviser                               -                  205,023
+                                      ------------             ------------
+       Total Assets                    309,064,964               27,597,649
+                                      ------------             ------------
+
+LIABILITIES:
+  Payable for fund shares redeemed         543,682                   31,863
+  Accrued printing expense                 434,425                   45,048
+  Accrued professional fees                289,315                   64,164
+  Accrued investment
+     advisory fees                         182,362                        -
+  Other accrued expenses                   184,840                   49,248
+                                      ------------             ------------
+       Total Liabilities                 1,634,624                  190,323
+                                      ------------             ------------
+NET ASSETS                            $307,430,340              $27,407,326
+                                      ============             ============
+
+NET ASSETS CONSIST OF:
+  Capital stock                       $260,020,640              $27,913,701
+  Undistributed net
+     investment income                           -                    4,341
+  Undistributed net realized
+     gains (losses)                        809,879                (702,540)
+  Net unrealized appreciation
+     on investments                     46,599,821                  191,824
+                                      ------------             ------------
+       Total Net Assets               $307,430,340              $27,407,326
+                                      ============             ============
+
+CAPITAL STOCK, $.0001 par value
+  Authorized                           500,000,000              500,000,000
+  Issued and outstanding                26,489,936                2,359,438
+
+NET ASSET VALUE,
+REDEMPTION PRICE AND
+OFFERING PRICE PER SHARE                    $11.61                   $11.62
+                                            ======                   ======
+
+See notes to financial statements
+
+- -------------------------------------------------------------------------------
+
+<PAGE>
+
+
+- ----------------------------------------
+- ----------------------------------------
+STATEMENTS OF OPERATIONS
+For the Year Ended December 31, 1998
+- --------------------------------------------------------------------------------
+                                        THE YACKTMAN           THE YACKTMAN
+                                            FUND               FOCUSED FUND
+- --------------------------------------------------------------------------------
+INVESTMENT INCOME:
+  Dividend income (See Note 7)   $  13,494,477<F1>              $   587,313
+  Interest income                        1,275,882                  424,897
+                                     -------------             ------------
+                                        14,770,359                1,012,210
+                                     -------------             ------------
+
+EXPENSES:
+  Investment advisory fees               4,644,643                  584,540
+  Professional fees                      1,077,715                  173,328
+  Shareholder servicing fees             1,015,908                  111,855
+  Reports to shareholders                  786,114                   84,434
+  12b-1 plan distribution fees             405,796                        -
+  Administration and
+     accounting fees                       314,789                   50,000
+  Custody fees                             137,915                   16,822
+  Federal and state
+     registration fees                      39,795                   27,193
+  Directors' fees and expenses              35,941                    3,244
+  Miscellaneous costs                       70,627                    7,803
+                                     -------------             ------------
+  Total expenses before reductions
+     and reimbursements                  8,529,243                1,059,219
+  Expense reductions (See Note 6)        (144,424)                        -
+  Expense reimbursements
+     (See Note 4)                                -                (328,543)
+                                     -------------             ------------
+
+  Net expenses                           8,384,819                  730,676
+                                     -------------             ------------
+
+NET INVESTMENT INCOME                    6,385,540                  281,534
+                                     -------------             ------------
+
+REALIZED AND UNREALIZED GAIN
+(LOSS):
+  Net realized gain (loss) on:
+     Investments (See Note 7)          117,189,782                (468,328)
+     Written put options                         -                   14,957
+  Change in unrealized
+     appreciation on
+     investments                     (140,832,711)                (150,767)
+                                     -------------             ------------
+
+  Net loss                            (23,642,929)                (604,138)
+                                     -------------             ------------
+
+NET DECREASE IN NET ASSETS
+RESULTING FROM OPERATIONS            $(17,257,389)             $  (322,604)
+                                     =============             ============
+
+<F1> Net of $62,527 in foreign withholding taxes
+
+See notes to financial statements
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+- ----------------------------------------
+STATEMENTS OF CHANGES IN NET ASSETS
+
+<TABLE>
+<CAPTION>
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+                                                                                                        THE YACKTMAN
+                                                            THE YACKTMAN FUND                           FOCUSED FUND
+- ---------------------------------------------      -------------------------------------  ---------------------------------------
+                                                          YEAR                YEAR                YEAR          MAY 1, 1997 <F1>
+                                                         ENDED               ENDED               ENDED              THROUGH
+                                                     DEC. 31, 1998       DEC. 31, 1997       DEC. 31, 1998       DEC. 31, 1997
+- ---------------------------------------------      -------------------------------------  -----------------------------------------
+                                                   <C>                 <C>                 <C>                 <C>
+OPERATIONS:
+  Net investment income                             $   6,385,540       $  15,666,225       $     281,534       $     223,785
+  Net realized gain (loss) on investments
+     and written put options                          117,189,782         105,107,464           (453,371)           1,325,551
+  Change in net unrealized appreciation
+     on investments and written put options         (140,832,711)          43,289,598           (150,767)             342,591
+                                                   --------------      --------------      --------------      --------------
+  Net increase (decrease) in net assets
+     resulting from operations                       (17,257,389)         164,063,287           (322,604)           1,891,927
+                                                   --------------      --------------      --------------      --------------
+
+CAPITAL SHARE TRANSACTIONS:
+  Proceeds from shares sold                            86,130,974         519,726,430          32,292,848          62,749,613
+  Proceeds from reinvestment of dividends              56,952,842         111,934,459             326,022           1,425,206
+                                                   --------------      --------------      --------------      --------------
+                                                      143,083,816         631,660,889          32,618,870          64,174,819
+
+  Payments for shares redeemed                      (839,635,901)       (348,444,175)        (62,964,728)         (6,062,180)
+                                                   --------------      --------------      --------------      --------------
+  Net increase (decrease)                           (696,552,085)         283,216,714        (30,345,858)          58,112,639
+                                                   --------------      --------------      --------------      --------------
+
+DIVIDENDS PAID FROM:
+  Net investment income                               (6,409,477)        (15,657,189)           (249,256)           (243,505)
+  Net realized gains                                 (54,490,030)       (105,100,153)           (121,017)         (1,315,000)
+                                                   --------------      --------------      --------------      --------------
+                                                     (60,899,507)       (120,757,342)           (370,273)         (1,558,505)
+                                                   --------------      --------------      --------------      --------------
+
+TOTAL INCREASE (DECREASE) IN NET ASSETS             (774,708,981)         326,522,659        (31,038,735)          58,446,061
+
+NET ASSETS:
+  Beginning of period                               1,082,139,321         755,616,662          58,446,061                   -
+                                                   --------------      --------------      --------------      --------------
+
+  End of period (including undistributed
+     net investment income of $0, $23,937,
+     $4,341 and $1,476, respectively)              $  307,430,340      $1,082,139,321         $27,407,326         $58,446,061
+                                                   ==============      ==============      ==============      ==============
+
+TRANSACTIONS IN SHARES:
+  Shares sold                                           6,142,954          35,997,446           2,782,296           5,618,285
+  Issued in reinvestment of dividends                   4,821,905           7,895,132              28,033             125,719
+  Shares redeemed                                    (61,477,171)        (23,525,455)         (5,663,019)           (531,876)
+                                                   --------------      --------------      --------------      --------------
+  Net increase (decrease)                            (50,512,312)          20,367,123         (2,852,690)           5,212,128
+                                                   ==============      ==============      ==============      ==============
+
+<F1> Commencement of operations
+
+See notes to financial statements
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+
+<PAGE>
+
+
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+- ----------------------------------------
+FINANCIAL HIGHLIGHTS
+For a fund share outstanding throughout each period.
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                                              THE YACKTMAN FUND
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                           YEAR                YEAR                YEAR                YEAR                YEAR
+                                          ENDED               ENDED               ENDED               ENDED               ENDED
+                                      DEC. 31, 1998       DEC. 31, 1997       DEC. 31, 1996       DEC. 31, 1995       DEC. 31, 1994
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                      <C>                 <C>                 <C>                 <C>                 <C>
+
+Net asset value, beginning
+  of period                              $14.05              $13.34              $12.09              $10.05               $9.56
+
+Income from investment
+  operations:
+  Net investment income                    0.11                0.22                0.24                0.22                0.22
+  Net realized and unrealized
+     gain (loss) on investments          (0.04)                2.21                2.90                2.81                0.61
+                                     ----------          ----------          ----------          ----------          ----------
+  Total from investment
+     operations                            0.07                2.43                3.14                3.03                0.83
+                                     ----------          ----------          ----------          ----------          ----------
+
+Less distributions:
+  Dividends from net
+     investment income                   (0.11)              (0.22)              (0.24)              (0.22)              (0.22)
+  Distributions from net
+     realized gains                      (2.40)              (1.50)              (1.65)              (0.77)              (0.12)
+                                     ----------          ----------          ----------          ----------          ----------
+  Total distributions                    (2.51)              (1.72)              (1.89)              (0.99)              (0.34)
+                                     ----------          ----------          ----------          ----------          ----------
+Net asset value, end of
+  period                                 $11.61              $14.05              $13.34              $12.09              $10.05
+                                     ==========          ==========          ==========          ==========          ==========
+
+Total Return                              0.64%              18.28%              26.02%              30.42%               8.80%
+                                     ==========          ==========          ==========          ==========          ==========
+
+Supplemental data and ratios:
+  Net assets, end of period (000s)     $307,430          $1,082,139            $755,617            $566,723            $295,133
+                                     ==========          ==========          ==========          ==========          ==========
+  Ratio of expenses before expense
+     reductions to average net assets
+     (See Note 6)                         1.16%               0.90%               0.96%               0.99%               1.07%
+                                     ==========          ==========          ==========          ==========          ==========
+  Ratio of net expenses to average
+     net assets                           1.14%               0.86%               0.90%               0.91%               1.07%
+                                     ==========          ==========          ==========          ==========          ==========
+  Ratio of net investment income
+     to average net assets                0.87%               1.54%               1.80%               2.02%               2.49%
+                                     ==========          ==========          ==========          ==========          ==========
+
+  Portfolio turnover rate                14.32%              69.13%              58.54%              55.37%              49.44%
+                                     ==========          ==========          ==========          ==========          ==========
+
+See notes to financial statements
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+<PAGE>
+
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+- ----------------------------------------
+FINANCIAL HIGHLIGHTS (Cont'd.)
+For a fund share outstanding throughout each period.
+
+                                                      THE YACKTMAN
+                                                      FOCUSED FUND
+- -------------------------------------------------------------------------------
+                                                YEAR          MAY 1, 1997 <F1>
+                                                ENDED              THROUGH
+                                            DEC. 31, 1998       DEC. 31, 1997
+- --------------------------------------------------------------------------------
+Net asset value, beginning
+  of period                                      $11.21              $10.00
+
+Income from investment
+  operations:
+  Net investment income                            0.05                0.07
+  Net realized and unrealized
+     gains on investments                          0.46                1.47
+                                             ----------          ----------
+  Total from investment
+     operations                                    0.51                1.54
+                                             ----------          ----------
+
+Less distributions:
+  Dividends from net
+     investment income                           (0.05)              (0.07)
+  Distributions from net
+     realized gains                              (0.05)              (0.26)
+                                             ----------          ----------
+  Total distributions                            (0.10)              (0.33)
+                                             ----------          ----------
+Net asset value, end of
+  period                                         $11.62              $11.21
+                                             ==========          ==========
+
+Total Return                                      4.58%          15.38%<F2>
+                                             ==========          ==========
+
+Supplemental data and ratios:
+  Net assets, end of period (000s)              $27,407             $58,446
+                                             ==========          ==========
+  Ratio of expenses before expense
+     reimbursements to average net
+     assets (See Note 4)                          1.81%               1.71%
+                                             ==========          ==========
+  Ratio of net expenses to average
+     net assets                                   1.25%           1.25%<F3>
+                                             ==========          ==========
+  Ratio of net investment income
+     to average net assets                        0.48%           1.02%<F3>
+                                             ==========          ==========
+
+  Portfolio turnover rate                        49.26%              60.43%
+                                             ==========          ==========
+
+<F1> Commencement of operations
+<F2> Not annualized
+<F3> Annualized
+See notes to financial statements
+
+<PAGE>
+
+- ----------------------------------------
+- ----------------------------------------
+NOTES TO THE FINANCIAL STATEMENTS
+December 31, 1998
+- --------------------------------------------------------------------------------
+1.  ORGANIZATION
+The Yacktman Funds, Inc. (the "Funds") is registered as an open-end management
+investment company under the Investment Company Act of 1940 (the "1940 Act").
+The Funds consist of two investment portfolios:  The Yacktman Fund is a
+diversified fund and commenced operations July 6, 1992 and The Yacktman Focused
+Fund is a non-diversified fund that commenced operations May 1, 1997.  The
+objective of each of the Funds is to produce long-term growth of capital with
+current income as a secondary objective.  Yacktman Asset Manage ment Co. is the
+Funds' investment adviser (the "Adviser").
+
+2.  SIGNIFICANT ACCOUNTING POLICIES
+The following is a summary of significant accounting policies consistently
+followed by the Funds in the preparation of their financial statements.  The
+financial statements have been prepared in conformity with generally accepted
+accounting principles which require management to make certain estimates and
+assumptions at the date of the financial statements.  Actual results could
+differ from those estimates.
+
+A)  INVESTMENT VALUATION - Securities which are traded on a recognized stock
+exchange are valued at the last sale price on the securities exchange on which
+such securities are primarily traded or at the last sale price on the national
+securities market.  Exchange-traded securities for which there were no
+transactions are valued at the current bid prices.  Securities traded on only
+over-the-counter markets are valued on the basis of closing over-the-counter bid
+prices.  Short-term debt instruments maturing within 60 days are valued by the
+amortized cost method.  Variable rate demand notes are valued at cost which
+approximates market value.  Put options written or purchased by The Yacktman
+Focused Fund are valued at the last sales price if such last sales price is
+between the current bid and asked prices.  Otherwise, put options are valued at
+the mean between the current bid and asked prices.  Any securities for which
+market quotations are not readily available are valued at their fair value as
+determined in good faith by the Board of Directors.
+
+<PAGE>
+
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+- ----------------------------------------
+NOTES TO THE FINANCIAL STATEMENTS (Cont'd.)
+December 31, 1998
+- --------------------------------------------------------------------------------
+B)  PUT OPTIONS - Premiums received by The Yacktman Focused Fund upon writing
+put options are recorded as an asset with a corresponding liability which is
+subsequently adjusted to the current market value of the option.  When an option
+expires or is closed, the Fund realizes a gain or loss, and the liability is
+eliminated.  When an option is exercised, the premium originally received
+decreases the cost basis of the security acquired. The Fund continues to bear
+the risk of adverse movements in the price of the underlying asset during the
+period of the option, although any potential loss, which is limited to the
+strike price of the option, would be reduced by the amount of the option premium
+received.  The Yacktman Focused Fund's activity in written put options for the
+year ended December 31, 1998 was as follows:
+
+                                        NUMBER OF
+                                        CONTRACTS            PREMIUMS
+Options outstanding at 12/31/97             1,250           $296,864
+Options written                               800            122,371
+Options closed                            (1,350)          (272,241)
+Options exercised                           (450)          (111,683)
+Options expired                             (250)           (35,311)
+                                       ----------         ----------
+Options outstanding at 12/31/98                 -         $        -
+                                       ==========         ==========
+
+C)  FEDERAL INCOME TAXES - It is each Fund's policy to meet the requirements of
+the Internal Revenue Code applicable to regulated investment companies and to
+distribute substantially all investment company net taxable income and net
+capital gains to its shareholders in a manner which results in no tax cost to
+the Fund.  Therefore, no federal income tax provision is required.
+
+D)  DISTRIBUTIONS TO SHAREHOLDERS - Dividends from net investment income are
+declared and paid quarterly.  Distributions of net realized capital gains, if
+any, are declared and paid at least annually.  Distributions to shareholders are
+recorded on the ex-dividend date.  The Funds periodically make reclassifications
+among certain of its capital accounts as a result of the recognition and
+characterization of certain income and capital gain distributions determined
+annually in accordance with federal tax regulations which may differ from
+generally accepted accounting principles.  The Funds also utilize earn-
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+- --------------------------------------------------------------------------------
+ings and profits distributed to shareholders on redemption of shares as a part
+of the dividends paid deduction for income tax purposes.  Accordingly, at
+December 31, 1998 reclassifications were recorded to decrease undistributed net
+investment income by $0 and $29,413, decrease undistributed net realized gains
+by $61,443,982 and $138,703 and increase capital stock by $61,443,982 and
+$168,116 for The Yacktman Fund and The Yacktman Focused Fund, respectively. For
+the year ended December 31, 1998, The Yacktman Fund designated $116,622,514 as
+capital gain distributions for purposes of the dividends paid deduction.
+
+E)  OTHER - Investment transactions are accounted for on the trade date.  The
+Funds determine gain or loss realized from investment transactions by comparing
+the original cost of the security lot sold with the net sale proceeds.  Dividend
+income is recognized on the ex-dividend date and interest income is recognized
+on an accrual basis.
+
+3.  INVESTMENT TRANSACTIONS
+The aggregate purchases and sales of securities, excluding short-term
+securities, for the Funds for the year ended December 31, 1998 were as follows:
+
+                                       THE YACKTMAN      THE YACKTMAN
+                                           FUND          FOCUSED FUND
+Purchases
+  U.S. Government                               -                  -
+  Other                              $100,694,119        $24,365,326
+Sales
+  U.S. Government                       4,500,000                  -
+  Other                               780,686,766         48,190,108
+
+At December 31, 1998 gross unrealized appreciation and depreciation on
+investments on a tax basis were as follows:
+
+                                       THE YACKTMAN     THE YACKTMAN
+                                           FUND         FOCUSED FUND
+
+Appreciation                          $78,943,387         $4,198,297
+Depreciation                         (32,377,287)        (4,100,071)
+                                     ------------       ------------
+  Net appreciation on investments     $46,566,100        $    98,226
+                                     ============       ============
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+- ----------------------------------------
+NOTES TO THE FINANCIAL STATEMENTS (Cont'd.)
+December 31, 1998
+- --------------------------------------------------------------------------------
+The cost of investments for federal income tax purposes was $255,927,800 and
+$26,592,578 for The Yacktman Fund and The Yacktman Focused Fund, respectively.
+For the year ended December 31, 1998, 100% of dividends paid from net investment
+income, excluding short-term capital gains, for The Yacktman Fund and The
+Yacktman Focused Fund qualify for the dividends received deduction available to
+corporate shareholders (unaudited).
+
+4.  INVESTMENT ADVISORY AGREEMENT
+The Funds have agreements with the Adviser, with whom certain officers and
+directors of the Funds are affiliated, to furnish investment advisory services
+to the Funds.  Under the terms of these agreements, The Yacktman Fund will pay
+the Adviser a monthly fee at the annual rate of 0.65% on the first $500,000,000
+of average daily net assets, 0.60% on the next $500,000,000 of average daily net
+assets and 0.55% on average daily net assets in excess of $1,000,000,000, and
+The Yacktman Focused Fund will pay the Adviser a monthly fee at the annual rate
+of 1% of its average daily net assets.  The agreements further stipulate that
+the Adviser will reimburse the Funds for annual expenses exceeding certain
+specified levels.  In addition to the reimbursements required under the
+agreements, the Adviser has voluntarily agreed to reimburse The Yacktman Focused
+Fund for all expenses exceeding 1.25% of its average daily net assets.
+
+5.  DISTRIBUTION PLAN
+The Yacktman Fund has adopted a Distribution Plan (the "Plan") pursuant to Rule
+12b-1 under the 1940 Act.  The Plan, however, was terminated November 24, 1998,
+as a result of a special meeting of shareholders. For the year ended December
+31, 1998, payments under the Plan represented 0.06% per annum of the Fund's
+total average net assets.  Such payments may not exceed 0.25% of the average
+daily net assets of the Fund.  Payments were made only to distributors employed
+by the Fund with respect to shares beneficially owned by each such distributor's
+brokerage clients who established their Fund accounts PRIOR TO December 31,
+1992.
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+- --------------------------------------------------------------------------------
+6.  EXPENSE REDUCTIONS
+The Adviser has directed certain of The Yacktman Fund portfolio trades to
+brokers at best price and execution and has generated directed brokerage credits
+to be used against sub-transfer agency fees.  Shareholders benefit under this
+arrangement as the net expenses of The Yacktman Fund do not include such sub-
+transfer agency fees.  For the year ended December 31, 1998, The Yacktman Fund's
+expenses were reduced $144,424 by utilizing directed brokerage credits resulting
+in an expense ratio of 1.14% being charged to shareholders.  In accordance with
+Securities and Exchange Commission requirements, such amount is required to be
+shown as an expense and has been included in shareholder servicing fees in the
+Statement of Operations.
+
+7.  TRANSACTIONS WITH AFFILIATES
+The following is an analysis of transactions for the period ended December 31,
+1998 for The Yacktman Fund with "affiliated companies" (an affiliated company is
+defined by the 1940 Act as a company in which a Fund owns 5% or more of that
+company's outstanding voting shares):
+
+<TABLE>
+<CAPTION>
+                                                                                                                Amount of
+                                                                                                                  Gain
+                                                                                              Amount of          (Loss)
+                                                                                              Dividends         Realized
+                                                  Share Activity                               Credited         on Sale
+                         --------------------------------------------------------------       to Income        of Shares
+                           Balance                                             Balance        in Fiscal        in Fiscal
+Security Name             12/31/97          Purchases           Sales          12/31/98          1998             1998
+- ------------------       -----------       -----------       -----------     -----------     -----------      -----------
+<C>                      <C>               <C>               <C>             <C>             <C>              <C>
+American Media,
+   Inc., Class A          1,200,000               --           203,200          996,800                --    $  (479,812)
+Bandag, Inc.,
+   Class A                  734,700               --           387,000          347,700          $705,222     (6,858,696)
+Department 56, Inc.       1,790,000           70,000           990,000          870,000                --       9,924,193
+Franklin Covey Co.        2,270,000           86,400           926,900        1,429,500                --     (2,938,276)
+International Dairy
+   Queen, Inc.              795,000               --           795,000               --                --       6,105,751
+                                                                                             ------------    ------------
+                                                                                                 $705,222      $5,753,160
+                                                                                             ============    ============
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+<PAGE>
+
+
+THE YACKTMAN FUNDS, INC.
+- ----------------------------------------
+- ----------------------------------------
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+- --------------------------------------------------------------------------------
+TO THE BOARD OF DIRECTORS AND SHAREHOLDERS OF
+THE YACKTMAN FUNDS, INC.
+
+In our opinion, the accompanying statements of assets and liabilities, including
+the portfolios of investments, and the related statements of operations and of
+changes in net assets and the financial highlights present fairly, in all
+material respects, the financial position of The Yacktman Fund and The Yacktman
+Focused Fund (constituting The Yacktman Funds, Inc., hereafter referred to as
+the "Funds") at December 31, 1998, the results of each of their operations, the
+changes in each of their net assets and the financial highlights for each of the
+periods indicated, in conformity with generally accepted accounting principles.
+These financial statements and financial highlights (hereafter referred to as
+"financial statements") are the responsibility of the Funds' management; our
+responsibility is to express an opinion on these financial statements based on
+our audits.  We conducted our audits of these financial statements in accordance
+with generally accepted auditing standards which require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation.
+We believe that our audits, which included confirmation of securities at
+December 31, 1998 by correspondence with the custodian, provide a reasonable
+basis for the opinion expressed above.
+
+
+PRICEWATERHOUSECOOPERS LLP
+
+
+Milwaukee, Wisconsin
+January 28, 1999
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+- ----------------------------------------
+- ----------------------------------------
+RESULTS OF A SPECIAL
+MEETING OF SHAREHOLDERS
+- --------------------------------------------------------------------------------
+A special meeting of the shareholders of the Funds was held on November 24,
+1998.
+
+The matters voted on by the shareholders of record as of October 12, 1998 and
+the results of the vote at the shareholder meeting held November 24, 1998 were
+as follows:
+
+1. PROPOSAL TO REMOVE ALL CURRENT DIRECTORS OF THE FUNDS OTHER THAN RONALD BALL
+   AND DONALD YACKTMAN
+                                 For          Against        Abstain
+                              ----------     ----------     ----------
+                              21,391,378     2,717,048       180,877
+                              
+2. PROPOSAL TO AMEND THE FUNDS' BYLAWS TO REDUCE THE NUMBER OF DIRECTORS OF THE
+   FUNDS FROM SIX TO FIVE
+                                 For          Against        Abstain
+                              ----------     ----------     ----------
+                              21,210,980     2,821,739       256,586
+
+3. ELECTION OF DIRECTORS<F1>
+                                                For          Withheld
+                                             ----------     ----------
+   Bruce B. Bingham                          21,279,348     3,009,957
+   Albert J. Malwitz                         21,279,348     3,009,957
+   George J. Stevenson III                   21,277,946     3,011,359
+
+<F1> The term of office as Directors of Donald A. Yacktman and Ronald W. Ball
+     continued after the meeting.
+
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+                      This page intentionally left blank.
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+
+                      This page intentionally left blank.
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+                      This page intentionally left blank.
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+
+
+          FOR FUND INFORMATION AND
+          SHAREHOLDER SERVICES, CALL
+          1-800-525-8258
+          WEB SITE: WWW.YACKTMAN.COM
+
+
+
+          THE YACKTMAN FUNDS, INC.
+          Shareholder Services Center
+          615 East Michigan Street, 3rd Floor
+          Milwaukee, Wisconsin 53201-5207
+
+          ----------------------------------------------------------------------
+          YA-408-0299
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1925 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WU36+eO2zEmviCXcIprfOjbU2lKviJgnCioh5Gcb2kHA0Bynekx6YbxuEXxUVTNb
+ YGpgwVx+i7/W9MP4bepGAA==
+
+<SEC-DOCUMENT>0000950116-97-001742.txt : 19970927
+<SEC-HEADER>0000950116-97-001742.hdr.sgml : 19970927
+ACCESSION NUMBER:		0000950116-97-001742
+CONFORMED SUBMISSION TYPE:	N-30D
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19970630
+FILED AS OF DATE:		19970919
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARON ASSET FUND
+		CENTRAL INDEX KEY:			0000810902
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				136891420
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		N-30D
+		SEC ACT:		
+		SEC FILE NUMBER:	811-05032
+		FILM NUMBER:		97682723
+
+	BUSINESS ADDRESS:	
+		STREET 1:		767 FIFTH AVENUE
+		STREET 2:		24TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+		BUSINESS PHONE:		2125832000
+
+	MAIL ADDRESS:	
+		STREET 1:		767 FIFTH AVE
+		STREET 2:		24TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-30D
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>
+
+[GRAPHIC OMITTED]
+
+1 BARON ASSET
+  FUND HIGHLIGHTS
+
+PERFORMANCE  ..........................................1
+
+INVESTMENT THEMES  ....................................2
+
+NEWS BRIEFS  ..........................................3
+
+PORTFOLIO HOLDINGS.....................................4
+
+OTHER BARON FUNDS
+DEVELOPMENTS...........................................5
+
+  BARON GROWTH
+2 & INCOME FUND
+  HIGHLIGHTS
+
+PERFORMANCE  ..........................................7
+
+REAL ESTATE INVESTMENT
+TRUSTS.................................................8
+
+OTHER DEVELOPMENTS.....................................9
+
+
+767 Fifth Avenue
+NY, NY 10153
+212-583-2100
+1-800-99-BARON
+<PAGE>
+
+                                                              QUARTERLY REPORT
+                                                                JUNE 30, 1997
+
+                                                THIS QUARTERLY REPORT CONTAINS
+                                                     INFORMATION FOR TWO FUNDS
+
+BARON ASSET FUND
+
+BARON GROWTH & INCOME FUND
+
+Dear Baron Asset &
+Fund Shareholder:
+- --------------------------------------------------------------------------------
+
+PERFORMANCE
+
+Baron Asset Fund was founded June 12, 1987, a little more than ten years ago.
+Since that date the Fund's performance has been satisfactory. Baron Asset
+Fund's long term performance, more than five fold appreciation since its
+inception, has met our stated objective of doubling our shareholders' money
+every three to five years. That we have achieved this goal can be seen easily
+from the long-term performance chart at the bottom of this page. Table III,
+"Historical Information" on page 14 also shows these results.
+
+Baron Asset Fund's share price appreciation reflects the revenue and income
+growth of the businesses in which the Fund has been a long term investor, e.g.,
+Charles Schwab, Robert Half, Mirage Resorts, DeVry and Manor Care. These "core"
+business investments have increased in value so far several fold since our
+initial share purchases five to ten years ago.
+
+- --------------------------------------------------------------------------------
+
+The performance of these stocks is in accord with our belief that, although in
+the short term stock prices may fluctuate greatly, over the long term, stock
+prices closely mirror the value and growth of underlying businesses.
+
+We remain committed to our investment objectives and performance goals. We will
+continue to make new investments in fast growing, well managed, small and
+mid-sized businesses that, in our opinion, offer our shareholders, over the
+long term, the potential to double the value of their investment in Baron Asset
+Fund every three to five years. Of course, there can be no assurance that the
+businesses in which we have long held significant investments, our "core"
+portfolio holdings, will continue to grow rapidly. There is no guarantee that
+our newer "farm team" investments, which include businesses like Choice Hotels,
+Vail Resorts, CCA Prison REIT, Heftel Broadcasting, Sylvan Learning, Dollar
+Tree and Stein Mart, will develop into "core" investment holdings. As a result,
+there can be no guarantee that our Fund's past performance will be duplicated.
+
+- --------------------------------------------------------------------------------
+ 
+BAF: 
+                              BAF             S&P 500          Russell 2000
+                              ---             -------          ------------
+1 Year                       14.0%             34.7%               16.3%
+
+Cumulative                    443%              288%                189%
+<PAGE>
+
+- --------------------------------------------------------------------------------
+  B A R O N    A S S E T    F U N D
+- --------------------------------------------------------------------------------
+
+The businesses in which Baron Asset Fund has invested are continuing to grow
+both steadily and strongly. In most cases, the businesses in which we are
+partial owners are at least 20% larger at present than they were twelve months
+ago. Despite this, the performance of Baron Asset Fund for the sixteen months
+ended April 1997 did not consistently reflect the growth of the businesses in
+which we are shareholders. The performance of Baron Asset Fund has been more
+consistent and has improved significantly since spring.
+
+Table I.
+                Four months          Four months
+              ended April 1997     ended August 1997
+              ------------------   ------------------
+   BAF               (2.8%)             24.4%
+   S&P500             8.8%              12.9%
+   R2000             (5.4%)             23.5%
+- --------------------------------------------------------------------------------
+
+Small cap stocks begin to outperform large cap stocks.
+
+Large cap stocks outperformed small cap stocks from early 1994 until very
+recently. In August the Bank Credit Analyst attributed this to disparate
+profitability growth of small and large businesses. The Bank Credit Analyst
+found that profit margins of the largest publicly owned businesses ranked by
+market cap more than doubled from 7% in 1993 to 15% in the first quarter of
+1997. Larger businesses have recently benefitted from improved worker
+productivity due to both very significant technology investments and corporate
+restructurings, e.g., layoffs and downsizing. These restructurings and massive
+technology investments have occurred within the framework of an improving
+economy. Smaller businesses, which according to the Census Bureau generated
+virtually all net new jobs in our economy in recent years, saw their profit
+margins expand only about 30%. Smaller companies were able to keep up with
+larger companies' profits gains, since sales growth of smaller companies was
+significantly faster than that of larger companies.
+
+Investors, led by index funds, during the past three years, have accorded
+increased p/e multiples to the currently high profit margined earnings of
+larger businesses. Unlike smaller companies, many of these businesses have
+relied upon international sales for a significant portion of their growth. Weak
+foreign economies, currency turmoil in Asia and the very strong dollar argue
+against further near term significant sales and earning gains for many larger,
+internationally focused businesses. Small cap stocks, with favorable domestic
+sales and profits outlooks and favorable valuations compared to larger
+businesses, since spring have outperformed larger companies' stocks.
+
+Although Baron Asset Fund has the vast majority of its capital invested in
+small and mid sized businesses, our Fund's share price performance has
+nevertheless modestly exceeded that of the large cap S&P 500 index from the
+beginning of 1994 through the 
+
+<PAGE>
+
+present. This is despite the fact that the small cap Russell 2000 index lagged
+the S & P 500 significantly during that period. Baron Asset Fund is well
+positioned if small cap stocks continue to outperform.
+
+Table II. Relative performance of small caps improves.
+
+                                        S&P 500      R2000
+                                        ---------   -------
+    Forty months through April 1997      +80.2%     +28.7%
+    Four months through August 1997      +12.9%     +23.5%
+
+- --------------------------------------------------------------------------------
+
+Baron Asset Fund's long term performance ranks highly.
+
+In June, Baron Asset Fund was one of only three small cap funds to receive
+Morningstar's coveted top five star rating. Baron Asset Fund was then ranked by
+Morningstar number one of the 69 small cap funds at ten years old. Baron Asset
+Fund is currently the top performing mutual fund on Charles Schwab's Select
+List based upon our Fund's ten-year performance. The Fund is ranked the number
+one small company fund by Fortune magazine based on our performance, net of
+fees, over the five years ended June. Fortune includes in its comparison only
+those funds that had the same portfolio manager for the entire five years.
+Baron Asset Fund is accorded an A+ rating by Investors Business Daily for its
+performance over the past three years.
+
+- --------------------------------------------------------------------------------
+INVESTMENT THEMES
+
+We learned about investment themes from George Soros.
+
+For nearly seven years during the 1980s I managed money for the now well known,
+but then not so famous, investor George Soros. George is one of the most
+brilliant men I have ever known, but was only average as a stockpicker of
+individual companies. His success as an investor in stocks, I am convinced,
+came not from his analysis of individual businesses, but rather from his
+ability to decide whether a macro theme supporting an investment was long lived
+and offered significant opportunity. From George I learned about investment
+themes.
+
+Baron Funds focuses its investments in well managed, fast growing, very
+profitable businesses that we believe will benefit from "mega-trends."
+Mega-trends are long lasting economic trends resulting from societal,
+demographic or political changes. Mega-trends create extended period demand for
+products and services and offer businesses opportunities over the long term to
+produce products and provide services profitably. Baron Funds' "investment
+themes" focus upon job creating industries that are beneficiaries of
+mega-trends. We label these job-creating industries "sunrise" industries,
+industries such as healthcare, education, communications, media and
+entertainment, government privatizations, financial services and outsourcing.
+Sunrise industries are those in which your children will be employed, not those
+in which your parents and grandparents worked.
+
+                                       2
+<PAGE>
+
+- --------------------------------------------------------------------------------
+  B A R O N    A S S E T    F U N D
+- --------------------------------------------------------------------------------
+
+Query: "But, why do you think it's important to invest in "sunrise," job
+creating businesses?"
+
+We want to invest in job-creating industries for two principal reasons: it's
+good business, and we find it more interesting and more satisfying. We believe
+it's more enjoyable for employees to work in an environment where existing
+workers are receiving raises and new employees are being hired, not fired.
+These are the businesses likely to attract the best, most ambitious, motivated,
+savvy, intelligent, entrepreneurial employees, creating, in the process, what
+Max Messmer, Robert Half's chairman, labels a positive "spiral effect." Great
+employees likely will attract other great employees, helping a business grow
+stronger and stronger. Since we believe investing in people is integral to
+investment success, these are the businesses we're looking for and in which we
+want to invest.
+
+Our "mega-trends" and resultant investment themes keep us focused on the long
+term.
+
+Most investors focus on their favorite analysts' next quarter's sales and
+earnings forecasts; whether the government's next employment report will show
+that "too many" jobs have been created; whether the Federal Reserve will next
+lower or raise short term interest rates; whether the prices of oil and gold
+are rising or falling; and, finally, how "the market" will react to all this
+news. They focus on unpredictable short term events. Former Magellan portfolio
+manager Peter Lynch, the best mutual fund portfolio manager of his time, and
+perhaps of all time, in his quest for "ten-baggers," stocks that increased in
+price ten times after he had purchased them, had a longer term perspective.
+Peter said that he often didn't make a lot of money in his investments until he
+owned them three or four years.
+
+Baron Funds' focus on mega-trends that affect long term business profitability
+allows us to identify businesses and, as importantly, executives in which we
+would like to invest; carefully value those businesses; take advantage of stock
+market volatility to purchase shares in those businesses at attractive prices;
+and then, hold on for the long term. To us, long term means years. Baron Asset
+Fund's turnover rate is currently in the mid-teens. That means we currently
+hold stocks for an average of six to seven years.
+
+- --------------------------------------------------------------------------------
+NEWS BRIEFS
+
+Education
+
+Learning Tree's Power Seminars development expense impacts current earnings.
+Company's revenue growth remains strong.
+
+Learning Tree is the leading provider of instructor-led information technology
+courses. Despite a record 58% increase in quarterly revenues, Learning Tree's
+stock price fell 40% in August after the company announced that one of its two
+recently launched 
+
+
+<PAGE>
+
+divisions, Power Seminars, failed to generate expected revenues in the most
+recent quarter. Power Seminars offers to seasoned information technology
+professionals short, focused seminars on various "hot" topics. Power Seminars
+could prove a valuable addition to Learning Tree's comprehensive,
+instructor-led, multi-day, computer based courses. When Power Seminars'
+anticipated attendance disappointed, the company was already committed to
+increased marketing and administration expense. We believe that Learning Tree
+will soon be able to adjust its marketing efforts and program offerings or
+better match expenses to slower program revenue increases.
+
+Learning Tree's other new division, Learning Solutions, provides custom,
+enterprise-wide training for large corporate clients. Learning Solutions is
+meeting revenue expectations. Enrollment should exceed the initial 20,000
+General Motors' employees Learning Tree was contracted to train in a six-month
+period. An extension of the contract, which should generate $5 million revenues
+in the next quarter, is likely. Customer satisfaction is high.
+
+Expansion of Learning Tree's computer based training (CBT) library will enable
+the company to pursue significant multi-year contracts with larger
+corporations. CBT could be 10% of sales in fiscal 1998. Learning Tree's
+significant classroom expansion will help next year's results. Baron Asset Fund
+currently owns 1,140,000 shares of Learning Tree purchased for about $18.95 per
+share. Included in this total are 693,500 shares purchased during August for
+about $26.40 per share.
+
+Media and Entertainment
+
+American Radio to "maximize shareholder value."
+
+On August 20, American Radio Systems announced it was considering steps "to
+maximize shareholder value" which may include the possible sale of the company.
+Following this announcement, the price of American Radio's shares jumped $6.50
+to $45.625. American Radio's share price has since advanced to about $50. Baron
+Funds has made significant and very profitable investments in several radio
+stocks during the past three years. Baron Funds is the largest institutional
+shareholder of several radio businesses, including American Radio. Steve Dodge,
+American Radio's chairman, was a guest speaker at our annual investment
+conference last year.
+
+We have written frequently about our radio investments, especially with regard
+to the consistent, long term growth of radio ad revenues and the opportunities
+presented by passage of the Telecommunications Act of 1996. That landmark act,
+essentially government deregulation of the radio industry, has allowed radio
+stations to consolidate and realize significant economic advantages. The
+announcement of American Radio's impending sale at this time is somewhat
+surprising since the company has a very rapidly growing and still immature
+communications towers business; a significant amount of assets invested in
+underdeveloped "stick" radio stations; and its "same store" station ad revenues
+                                       3
+<PAGE>
+
+- --------------------------------------------------------------------------------
+  B A R O N    A S S E T    F U N D
+- --------------------------------------------------------------------------------
+
+continue to grow at double-digit rates. Speculation abounds that interested
+purchasers include Westinghouse-CBS, Clear Channel, Jacor and Chancellor. It is
+unlikely that a transaction resulting in the sale of American Radio could be
+consummated before spring 1998. Baron Asset Fund owns 1,355,000 shares of
+American Radio common stock purchased for an average cost of $29.21 per share
+and 200,000 shares of its 7% convertible preferred purchased for $50 per share.
+
+- --------------------------------------------------------------------------------
+PORTFOLIO HOLDINGS: "FARM TEAM"
+
+Query: "So just where do you get all these ideas?"
+Answer: "We get lots of help."
+
+While it is very flattering as Baron Asset Fund's portfolio manager and chief
+investment officer to be singled out for accolades due to our Fund's long term
+success, I do not work alone. The contributions from others' investment ideas
+are significant. Our sources of investment ideas are wide-ranging. Executives
+of companies in which we are shareholders are but one example (see page 9,
+Baron Growth & Income Fund report, "Real Estate Investment Trusts," Spieker
+Properties). Our firm's research analysts and my long time investment friends
+provide important help to me as well.
+
+During 1997, Susan Robbins, our firm's longest tenured research analyst who has
+worked with me for more than twenty years, so long I'm sure she can scarcely
+remember life before me, boosted our performance significantly through her
+expertise in education, business services, health care and government
+privatization services. Susan's expertise and experience have become
+increasingly valuable as businesses she follows, especially healthcare, have
+become ever more complex.
+
+Mitch Rubin, a Harvard trained lawyer and the point guard and captain of our
+firm's remarkable championship basketball team this past summer, also
+contributed importantly to our results through his research. Mitch follows
+REITs, leisure and gaming, retail and hotels. Although Mitch has only been an
+analyst for four years, we believe he has the same star potential in business
+that he has already demonstrated on basketball courts and ball fields.
+
+The cerebral, Harvard educated Matt Ervin, like Morty Schaja a physicist by
+training, contributed to our performance this year with his work on radio
+businesses. Matt, in addition to studying financial reports, prepares for
+meetings with communications executives by reading treatises about how
+satellites work. His research on satellites and other communications businesses
+is beginning to pay off. Although Matt has also been an analyst for only about
+four years, he has already demonstrated strong potential.
+
+Cliff Greenberg has been my friend for almost fourteen years, a period that
+encompasses nearly his entire professional career as an analyst and portfolio
+manager. Cliff, like Mitch, is a lawyer by 
+
+
+<PAGE>
+
+training. I obviously believe legal training is a good background for securities
+analysis. Business executives rarely describe the prospects for their companies
+in anything but a very favorable light. Legal education teaches you to listen
+closely for what is not said as well as to pay attention to what is. After
+Cliff's graduation from Columbia Law School, he worked as an analyst, portfolio
+manager and general partner for almost fourteen years for a private investment
+partnership. Cliff joined us in January, will manage the new Baron Small Cap
+Fund and has already made an important contribution to Baron Asset Fund's
+results this year with his work across a broad spectrum of companies operating
+within the investment themes in which we are interested.
+
+Finally, last but not least, Morty Schaja. Morty is our firm's chief operating
+officer but still manages to spend almost a quarter of his time on special
+project investment research. Morty has worked with me for almost seven years
+and continues to make an important contribution to our research effort, despite
+the seemingly overwhelming requirements of our business operations.
+
+The impetus for us to research three of our current "farm team" investments
+came, however, not from a corporate executive, one of our own analysts or
+myself. It was provided instead by a business friend of at least fifteen years,
+one of the best and most successful investors I know, Bob Jaffee. Bob is one of
+two general partners of Charter Oak Partners, L.P., an investment partnership
+based in Westport, Connecticut. Bob convinced Susan and me to study Delta &
+Pine Land Company, the leading producer of genetically engineered cotton seed,
+about three years ago. We have about quadrupled our money over the past three
+years by investing in Delta & Pine Land. I have written on more than one
+occasion about this investment. Roger Malkin, Delta & Pine's chairman and ceo,
+born and bred above a candy store in Brooklyn and now residing in the
+Mississippi delta cotton country, was a guest speaker at the Fourth Annual
+Baron Investment Conference in October 1995.
+
+During the past year, Bob provided us with the impetus to study and
+subsequently invest in two businesses, Libbey and OM Group. Libbey and OM Group
+both are unusually well managed, very profitable, steadily growing, niche
+businesses. Libbey I researched by myself, OM Group with Mitch.
+
+Our "farm team" investments overall are performing well. We invest in smaller
+companies not because they are small, but rather because they have the
+opportunity to become BIG! Our small company investments are fast growing, well
+managed businesses that we believe have sustainable, competitive advantages
+over the long term.
+
+Chemical
+
+As an undergraduate, I studied chemistry. I was good enough at predicting the
+color of reaction solutions and whether or not they would explode to receive a
+one year biochemistry teaching fellowship at Georgetown University in 1965 upon
+graduating
+                                       4
+<PAGE>
+
+- --------------------------------------------------------------------------------
+  B A R O N    A S S E T    F U N D
+- --------------------------------------------------------------------------------
+
+college. The next year I obtained a "critical skills" job in the U.S. Patent
+Office as a chemical coatings patent examiner...and a scholarship to attend law
+school in the evenings. I left Washington, D.C. in 1970 for New York City to
+seek my fortune as a securities analyst. But, invest in the chemical industry?
+Before Bob suggested that we meet the management of OM Group, I had never
+considered it. But, OM Group certainly was growing. And, the company certainly
+had created new jobs.
+
+OM Group is a leading, vertically integrated producer of value added,
+metal-based specialty chemicals and concentrates. The company is the world's
+leading producer of cobalt and nickel based products. The engineered solutions
+OM Group sells to its industrial customers are incorporated in their toys,
+rechargeable batteries, catalytic converters, tires, etc.
+
+The cost for OM Group's specialty chemicals represent a very small portion of
+its customers' manufactured goods' costs, usually significantly less than 1% of
+costs of goods sold. Despite their low cost, OM Group's products are very
+important to the performance of its customers' end products. Firestone several
+years ago chose to replace OM Group's cobalt stabilizers in its tires.
+Firestone's profits had recently fallen and it ordered its managers to accept
+"no supplier price increases." When OM Group's costs increased, Firestone
+refused to allow OM Group to pass through these increased costs. OM Group, as a
+result, stopped supplying cobalt to the tire company. OM Group's proposed price
+increase represented fractions of pennies for each dollar of Firestone's sales.
+When Firestone's reformulated tires began to pop when used on racing cars and
+airplanes, liability suits resulted. Firestone and other tire companies now use
+cobalt in their tire formulations.
+
+OM Group is the low cost producer of cobalt. This is partly the result of its
+long term, and unusual, raw material supply contract with Zaire. This agreement
+allows the company to earn a consistent spread per pound and insulates it from
+raw material price fluctuations. Probably as important is OM Group's ability to
+process slag mined in Zaire at OM's very expensive and difficult to replace
+processing plant in Finland. Due to its low cost feed material and efficient
+manufacturing capability, OM Group is a supplier of cobalt to virtually all its
+competitors.
+
+OM Group has significant growth opportunities. Secular demand for OM Group's
+products has been increasing about 10-11% per year in units. Upgrading OM
+Group's product sales from lower valued, commodity salts to higher priced,
+higher margined, engineered powders and salts offers opportunity. Also offering
+potential are the company's increasing international sales. Niche acquisitions
+able to utilize OM Group's manufacturing technology, low raw material costs and
+distribution advantages provide opportunities as well. About 10% of OM Group's
+revenues each year come from new products. 15-25 people have an impact on new
+product introductions. Last year, projects that could have added $350 million
+in annual sales, nearly equal to current annual revenues, were considered.
+
+<PAGE>
+
+Two recently introduced OM Group products should encounter significant demand.
+Engineered powders for rechargeable batteries have increased from $2 million
+annual revenues two years ago to $35 million in 1997. Potential is for $100
+million annual sales in three years to five years. Recently acquired SCM has
+the opportunity to increase sales of engineered stainless steel powders used to
+prevent corrosion of catalytic converters. Revenues from stainless steel
+powders could jump from $9 million to $90 million within three to four years.
+
+There are significant barriers to prevent others from encroaching on OM Group's
+very profitable, 15-20% annual growth business. OM Group's raw material cost
+advantages, strong customer relations, engineering support for its customers
+and reputation for low cost, quality products are important. Also a significant
+barrier is the long lead time, usually three to five years, to receive
+approvals for inclusion of OM Group's materials in others' manufactured
+products.
+
+OM Group is well managed. The company's management is entrepreneurial, its
+labor force largely non-union. Annual sales per employee approximate $850,000
+compared to a $286,000 average for other niche specialty chemical businesses.
+OM Group's employees' benefits are attractive and annual employee turnover is
+only 2%, a shockingly low and favorable figure. OM Group has been the recipient
+of many quality supplier awards. Baron Asset Fund owns 1,090,000 shares of OM
+Group purchased for about $24.38 per share.
+
+- --------------------------------------------------------------------------------
+OTHER BARON FUNDS DEVELOPMENTS
+
+401(k) plans increase investments in Baron Asset Fund.
+
+Nearly two years ago, Northern Telecom became the first large corporation to
+offer its employees the opportunity to invest a portion of their 401(k)
+retirement assets in Baron Asset Fund. Northern Telecom's employees have since
+invested more than $100 million in Baron Asset Fund. Northern Telecom's 401(k)
+plan is now Baron Asset Fund's single largest individual shareholder. In
+September 1997, Bechtel Corporation will become the second large corporation to
+make a significant investment in Baron Asset Fund on behalf of its employees'
+401(k) retirement plan. The Bechtel investment will be made through a company
+fund of funds. During the next six months four other large corporations will
+offer Baron Asset Fund as an option for their employees' 401(k) plans.
+
+Baron Asset Fund is now also an available small cap option to 401(k) plan
+sponsors through programs at Charles Schwab & Company, Fidelity Investments,
+T.Rowe Price, Vanguard, American Express, Scudder Stevens & Clark and SunGard.
+By September 30, we expect about 11% of Baron Asset Fund's shares to be owned
+by employee retirement plans, including 401(k)s.
+
+Sixth Annual Baron Investment Conference: October 24,1997, Essex House, New
+York City
+
+The Sixth Annual Baron Investment Conference will take place on Friday,
+breakfast through lunch, October 24, 1997, at the
+
+                                       5
+<PAGE>
+
+- --------------------------------------------------------------------------------
+  B A R O N    A S S E T    F U N D
+- --------------------------------------------------------------------------------
+
+Essex House, 160 Central Park South, New York City. Our meeting will begin
+promptly at 8:00 AM for breakfast and end following my speech after lunch.
+Shareholders of Baron Funds are invited to attend, as are financial advisors,
+plan sponsors, pension consultants and clients of our affiliate, Baron Capital
+Management, Inc.
+
+Chief executives of five businesses in which Baron Funds is a shareholder will
+each make formal 30 minute presentations, usually with slide shows, regarding
+their businesses' prospects and strategies. Each will then take 15 minutes to
+answer questions from our shareholders. I will be the final speaker. Following
+my presentation, I will also try to answer shareholders' questions, with no
+time constraints, until you tire of asking them.
+
+Before we invest in a business on behalf of our shareholders, in addition to
+studying publicly available financial information, we visit company facilities
+and interview its management, employees, competitors, customers and suppliers.
+Our shareholders are usually unable to do this. In addition to providing you
+access to meet and question managements of companies in which you are
+indirectly a shareholder, we believe it is helpful that annually you are able
+to ask the portfolio manager who has chosen to invest in these businesses, me,
+why. Or any other questions about our mutual funds, their prospects and our
+investment strategy you would care to know about. Our annual conferences are
+intended to allow you to do due diligence to better understand and judge the
+prospects for your investments in Baron Funds, to "kick the tires" of your
+investment. We hope you will be able to attend. There will be no charge, of
+course.
+
+Please RSVP at 1-800-99-BARON or 212-583-2100 if you plan to attend. Please
+call if you have any further questions or if you need help with hotel
+reservations.
+
+The following executives are scheduled speakers in the order listed.
+
+Adam Aaron, Chairman and CEO, Vail Resorts, Inc., Avon, Colorado. Vail Resorts
+is the largest and most profitable publicly owned American ski resort. Vail has
+significant opportunities to increase the number of annual destination ski
+visits to its mountains, increase the amount of money received by Vail Resorts
+per skier, further develop its properties, and acquire other currently
+privately owned ski resorts.
+
+Jay Stein, Chairman and CEO, Stein Mart, Jacksonville, Florida. Stein Mart is a
+rapidly growing, 130 store, chain retailer of upscale, current season
+merchandise. Retail prices charged by this department store-type business are
+25-60% below prices typically found in competitive department stores. Stein
+Mart could more than double its stores within the next five years.
+
+McHenry Tichenor, Jr., Chairman, President and CEO, Heftel Broadcasting,
+Dallas, Texas. Heftel is the country's largest, Spanish language, radio
+broadcasting business. Heftel's listener ratings
+
+
+<PAGE>
+
+should benefit from the very rapid growth of the U.S. Hispanic populace. Its
+advertising rates per listener are currently far below levels justified by its
+existing audience, offering further opportunity. Finally, Heftel could make
+additional Hispanic media acquisitions.
+
+Douglas Becker, President and Co-CEO, Sylvan Learning Systems, Baltimore,
+Maryland. Sylvan Learning is an important provider of educational services in
+the United States. The company is the leading provider of computerized testing
+services, instruction and tutoring for K through 12th grade students and
+contract educational services in public and parochial schools. In addition to
+important growth opportunities in its core businesses, Sylvan's new joint
+venture with MCI offers significant growth potential in distance learning.
+
+Stewart Bainum, Jr., Chairman, President and CEO, Manor Care, Gaithersburg,
+Maryland. Manor Care is America's leading and most profitable, private pay,
+skilled nursing home business. The company has significant expansion
+opportunities in lower acuity, assisted living facilities. Manor Care has been
+reorganized during the past year by giving its shareholders a dividend of the
+now publicly traded Choice Hotels.
+
+Thank you for investing in Baron Asset Fund
+
+We recognize it cannot be an easy decision for most individuals and their
+families when choosing mutual funds in which to invest. Especially since there
+are now even more mutual funds than there are stocks. Investing to save for
+your children's education, for a new home or for your retirement certainly
+makes this task even more daunting. We hope Baron Funds' quarterly reports,
+annual investment conferences, published interviews and articles written about
+our Funds have made it easier for you to decide whether Baron Funds is an
+appropriate investment for you and your family.
+
+Thank you for the confidence you have shown in us by joining us as fellow
+shareholders in Baron Funds. We will continue to work hard to justify your
+confidence.
+
+Sincerely,
+
+
+/s/ Ronald Baron
+- ----------------------------
+Ronald Baron
+President
+ 
+September 12, 1997
+                                       6
+<PAGE>
+
+[GRAPHIC OMITTED]
+
+   BARON GROWTH
+2  & INCOME FUND
+   HIGHLIGHTS
+
+
+PERFORMANCE  .........................................7
+
+REAL ESTATE INVESTMENT
+TRUSTS................................................8
+
+OTHER DEVELOPMENTS....................................9
+
+
+                                                                QUARTERLY REPORT
+                                                                   JUNE 30, 1997
+
+BARON GROWTH & INCOME FUND
+
+Dear Baron Growth
+Income Shareholder:
+
+- --------------------------------------------------------------------------------
+PERFORMANCE
+ 
+Baron Growth & Income Fund was founded on January 3, 1995, a little less than
+three years ago. Baron Growth & Income Fund's performance, from inception, an
+approximate 140% gain, has met our stated objection of doubling our
+shareholders' money every three to five years.
+The performance of Baron Growth & Income Fund for the June 1997 quarter as well
+as for the summer months has been strong. These results can be seen in Table I.
+The Fund's volatility earlier this year mirrored the performance of the small
+cap stock index, the Russell
+- --------------------------------------------------------------------------------
+ 
+2000. Unlike most growth and income funds that invest in high yielding large
+cap stocks, Baron Growth & Income Fund invests in small and mid-sized
+companies.
+
+In recent months smaller companies have out-performed larger cap companies.
+(Please see discussion of small cap companies in Baron Asset Fund's performance
+section.) Baron Growth & Income Fund is well positioned if small cap companies
+continue to out-perform large caps.
+
+Table I.
+             Four months          Four months
+           ended April 1997    ended August 1997
+           ----------------    -----------------
+BGI              (1.9%)             22.7%
+S&P500            8.8%              12.9%
+R2000            (5.4%)             23.5%
+
+- --------------------------------------------------------------------------------
+
+BGI: 
+                              BGI             S&P 500          Russell 2000
+                              ---             -------          ------------
+1 Year                       21.5%             34.7%               16.3%
+
+Cumulative                    123%              104%                 64% 
+ 
+                                
+
+
+                                       7
+<PAGE>
+
+- --------------------------------------------------------------------------------
+ B A R O N   G R O W T H   &   I N C O M E   F U N D
+- --------------------------------------------------------------------------------
+
+Lipper Analytical ranks Baron Growth & Income Fund as the number one performing
+growth & income fund for the 32 months from the Fund's inception through August
+31, 1997. Lipper includes 404 funds in this ranking. In the quarter ending June
+30, 1997 Lipper ranked the Fund in the top ten percent of the 655 growth &
+income funds that it monitors.
+
+As we have already noted, most growth and income funds, unlike Baron Growth &
+Income Fund, concentrate their investments in S&P 500 stocks, large, mature,
+slower growing, economically sensitive companies with substantial dividends.
+S&P 500 companies usually have less attractive opportunities to invest capital
+in their own businesses to earn high rates of return and choose, instead, to
+return a significant portion of their profits to their shareholders as
+dividends. We expect that, over the long term, Baron Growth & Income Fund's
+investments in fast growing, very profitable, small and mid-sized businesses,
+well managed by entrepreneurs, will outperform the larger, slower growing,
+ponderous, less profitable S&P 500 businesses.
+
+Morningstar classifies Baron Growth & Income Fund as a small cap growth fund.
+That firm eliminated its growth and income category last year. In Morningstar's
+small cap growth category, Baron Growth & Income is top-ranked from its
+inception. Morningstar does not give star rankings to mutual funds less than
+three years old. Baron Growth & Income will be star ranked by Morningstar in
+four months.
+
+Baron Growth & Income Fund is more conservatively managed than most small cap
+funds. This is readily apparant since nearly 30% of our Fund's assets are
+invested in income producing securities. Regardless, Baron Growth & Income Fund
+would be ranked in the top one percent of small cap funds by Lipper Analytical
+since its inception were it considered by Lipper a small cap growth fund. Of
+course, the Fund's past performance is no guarantee of future results.
+
+- --------------------------------------------------------------------------------
+REAL ESTATE INVESTMENT TRUSTS
+
+News Brief
+
+Starwood Lodging announced on September 8, 1997 that it would acquire a leading
+upscale hotel chain, Westin Hotels & Resorts. This announcement followed months
+of speculation that Starwood would do exactly that. Westin has dramatically
+improved its profitability during the past two years. This follows its
+approximate $500 million cost renovation program. Also helping to boost
+Westin's profits were its revamped marketing and quality assurance programs.
+Westin's domestic and international physical expansion opportunities are
+strong. Westin is currently adding about two to three new hotels a month to its
+108 unit chain. These additions, worldwide, are primarily through management
+contracts. About twenty of Starwood's well located, domestic, urban properties
+could also soon be reflagged as Westin Hotels. Reflagging will result in annual
+savings of about $10 million franchise fees Starwood currently pays to others.
+
+<PAGE>
+
+Westin could acquire many of its existing franchisees and managed hotels at
+attractive prices. Starwood's management has been terrific at acquiring hotel
+properties at very favorable prices; this expertise should help the combined
+company. Westin's management is well regarded for its operations expertise;
+they should help improve Starwood's operations. Westin could also add
+international acquisition opportunities to Starwood. Starwood will be renamed
+Westin Hotels & Resorts. The combined company could double its 1998 estimated
+$4.00 per share operations cash flow within the next four years. Baron Growth &
+Income Fund owns 165,000 shares of Starwood purchased for about $22.11 per
+share.
+
+Portfolio Addition
+
+Pierce Leahy is the United States' largest archives records management company.
+Pierce Leahy outsources businesses' file rooms. Nearly all businesses must
+maintain records and files for long periods due to business, fiduciary or legal
+regulations. Financial, accounting, legal and healthcare companies have
+especially stringent requirements. Records management is a core competency for
+few businesses. Most companies have poor document retention systems, they store
+records in expensive real estate, and they employ non-expert employees to
+manage file rooms. By outsourcing records management to third parties such as
+Pierce Leahy, companies can generally reduce their records management costs
+30-50% per year.
+
+Over the past 40 years, Pierce Leahy has grown from a small, family business to
+become the preeminent provider of records management and retrieval services in
+the country. Peter Pierce, the current ceo, is the third generation of his
+family to run the business. Pierce Leahy operates 160 facilities throughout the
+United States. The most important negative? Won't the proliferation of
+computers cause the storage of paper records to diminish? So far, apparently
+not. The company stores all forms of records including paper, computer tapes
+and microfilm. Comparable customers' record storage demands have continued to
+increase 6-7% per year. The company has also developed an on-line proprietary
+data retrieval system, PLUS, that provides customers direct access to their
+records. Because of PLUS, Pierce's customers can keep nearly all their
+documents off site and retrieve them within hours.
+
+Pierce Leahy receives annual records storage rent of about $2.17 per cu. foot
+per year. Pierce Leahy's capital costs, including shelving, sales and move in
+expense to obtain this business approximate $4.00 per cu. foot. Annual
+warehouse rent approximates $.35 per cu. ft. Documents often remain in Pierce's
+storage 10 to 15 years or more. Pierce also charges customers to retrieve or
+remove records. Pierce Leahy's first customer in 1957 remains a customer. Baron
+Capital has been a Pierce customer for nearly ten years. Pierce expects its
+business to grow at least 25% per year for the next several years by adding new
+accounts and by acquiring smaller, local records management businesses. An
+estimated
+                                       8
+<PAGE>
+
+- --------------------------------------------------------------------------------
+ B A R O N   G R O W T H   &   I N C O M E   F U N D
+- --------------------------------------------------------------------------------
+
+75% of all U.S. businesses still manage their records in house. Baron Growth &
+Income Fund purchased 200,000 shares of Pierce Leahy for about $20.73 per
+share.
+
+Portfolio Holding
+
+When I was reviewing my Robert Half International conversation notes before a
+recent visit to its Menlo Park, CA. offices, I noticed that during a July 23,
+1996 meeting in San Francisco with Max Messmer, Half's Chairman, and Keith
+Waddell, Half's Chief Financial Officer, Max suggested I consider investing in
+Spieker Properties. "It could be a good investment for the real estate
+portfolio of your Baron Growth & Income Fund," Max said. "Ned Spieker is your
+kind of guy. He runs a really neat business. He doesn't just own a portfolio of
+buildings. And, with Spieker Properties' concentration in and domination of
+several California markets, it should soon do a lot better." Max concluded,
+"Ned's been my friend a long time and I'm on his board."
+
+That should have been enough to either make me extend my stay in California or
+to come back as quickly as I could. Max is one of my heroes. I have known him
+since 1985. Our Funds and partnerships have been among Robert Half's largest
+shareholders since 1991. In addition to being a really neat guy himself, Max is
+one of the greatest executives I have known. Robert Half's stock has increased
+in price about thirty times since our original investment in 1991! It's been
+the most successful investment we've ever made. Half's growth prospects remain
+favorable and very strong. Finally, Max is also a shareholder of Baron Asset
+Fund, an investment, although modest by his standards, which gives him a vested
+interest in our continuing to do well. Last year we had research priorities I
+deemed of more immediate interest than another real estate trust. Mitch Rubin,
+our real estate analyst, and I finally got around to meeting Ned Spieker in
+February of this year. We began to invest in Spieker Properties almost
+immediately thereafter. This seven month delay made Spieker about 25% more
+expensive to purchase. I'm certain there's a lesson to be learned here.
+
+Unlike many real estate investment trusts, Spieker Properties is not just a
+portfolio of undervalued, well located, office and industrial buildings
+positioned for significant rent growth. To be fair, Spieker does have these
+qualities. But, Spieker is more. Spieker is a fast growing, well managed,
+operating business with well considered, carefully crafted strategic goals and
+initiatives. Many of Spieker's highly regarded managers have worked together
+for nearly 25 years, initially as the west coast office for Trammel Crow. There
+has been virtually no turnover among its top managers. Spieker's managers work
+together with their assistants in egalitarian office space without walls. This
+to facilitate open communication and make any potential opportunities or
+operating problems immediately visible. The experienced Spieker team,
+entrepreneurial owner-operators of their business, has an unusual regional real
+estate operating structure. Property management, leasing and development are
+provided by each region, 
+
+
+<PAGE>
+
+not centrally. This localized operating structure provides better tenant
+services and generally results in improved tenant retention. This structure also
+offers Spieker operating leverage in individual markets and market intelligence
+not available to others. Among Spieker Properties' strategic goals are dominance
+of attractive individual markets to better control rental rates. Spieker is
+focused on small tenants, average 5000 square foot space users. Spieker's
+attractive, high quality buildings provide highly flexible space with lots of
+windows relative to their building footprints to make them attractive to small
+space users.
+
+Spieker Properties concentrates its investments in West Coast markets,
+principally in northern and southern California, Seattle and Portland. The
+company is expanding rapidly. In the current year, it has already acquired
+about $600 million office and industrial buildings and begun to build about
+$200 million additional projects. Most Spieker acquisitions have been through
+negotiated transactions, not auctions. Spieker has a current market
+capitalization, including debt, of about $3 billion, moderately below the
+company's replacement cost. Recent space acquisitions have been below
+replacement cost with rents in place about 25% below current market rents.
+During the three previous years, Spieker acquired $385.6 million, $196.6
+million and $149.7 million buildings respectively. There seem to be further
+significant acquisition opportunities, as well. There is little new office
+construction in Spieker's markets.
+
+All newly acquired Spieker properties offer significant embedded opportunities
+for rent growth. This is especially so in southern California where vacancy
+rates should soon fall to single digits, indicating significant landlord rent
+increase opportunities. About 20% of Spieker's rented space reprices annually.
+Spieker's rents are beginning to escalate sharply. In the second quarter of
+1997, new leases signed on expiring Spieker space rose a staggering 33.8% over
+previous rents. Two years ago, Ned Spieker helped Max Messmer negotiate a lease
+for 60,000 square feet office space for Robert Half in northern California from
+another owner. The lease rate was $.90 per foot per month. Comparable space now
+rents for $2.00 per foot per month. Baron Growth & Income Fund owns 120,000
+shares of Spieker purchased for about $35.88 per share.
+
+- --------------------------------------------------------------------------------
+OTHER DEVELOPMENTS
+
+Sections of the preceding Baron Asset Fund quarterly report are relevant to
+your investment in Baron Growth & Income Fund.
+
+Please see the discussion titled "Investment Themes", which is applicable to
+both mutual funds.
+
+Sixth Annual Baron Investment Conference: October 24, 1997 Essex House, New
+York City
+
+The Sixth Annual Baron Investment Conference will take place Friday, breakfast
+through lunch, October 24, 1997, at the Essex
+
+                                       9
+<PAGE>
+- --------------------------------------------------------------------------------
+ B A R O N   G R O W T H   &   I N C O M E   F U N D
+- --------------------------------------------------------------------------------
+
+House in New York City. Please save the date. Please see the discussion in the
+Baron Asset Fund letter for all of the conference details. We strongly believe
+in "kicking the tires" of our investments. Our annual conferences provide our
+shareholders with the opportunity to "kick the tires" of their investment in
+Baron Funds. We hope you will be able to attend. There will be no charge, of
+course.
+
+Thank you for investing in Baron Growth & Income Fund
+
+We recognize it cannot be an easy decision for most individuals and their
+families when choosing mutual funds in which to invest. Especially since there
+are now even more mutual funds than there are stocks. Investing to save for
+your children's education, for a new home or for your retirement certainly
+makes this task even more daunting. We hope Baron Funds' quarterly reports,
+annual investment conferences, published interviews and articles written about
+our Funds have made it easier for you to decide whether Baron Funds is an
+appropriate investment for you and your family.
+
+Thank you for the confidence you have shown in us by joining us as fellow
+shareholders in Baron Funds. We will continue to work hard to justify your
+confidence.
+
+
+Sincerely,
+
+
+
+
+
+/s/ Ronald Baron
+- -------------------------------
+Ronald Baron
+President
+ 
+September 12, 1997
+ 
+
+[GRAPHIC OMITTED]
+                                       10
+<PAGE>
+
+- --------------------------------------------------------------------------------
+          B A R O N    F U N D S
+- --------------------------------------------------------------------------------
+
+Table I
+- --------------------------------------------------------------------------------
+Portfolio Market Capitalization
+- --------------------------------------------------------------------------------
+
+ 
+The Funds invest primarily in small and medium size companies. Table I ranks
+the Funds' investments by market capitalization and displays the percentage of
+the Funds' portfolios invested in each market capitalization category. At times
+the Funds will invest in companies with market capitalizations greater than $2
+billion. These larger cap companies have increased in value since the Funds
+first invested in them and still offer attractive opportunities for further
+appreciation.
+ 
+Baron Asset Fund
+- --------------------------------------------------------------------------------
+                                                         Equity        % of
+Company                                                 Market Cap   Portfolio
+- --------------------------------------------------------------------------------
+                                                         ('000s)
+              Large Capitalization
+- --------------------------------------------------------------------------------
+Charles Schwab Corp. .............................     7,147,295       6.1%
+Mirage Resorts, Inc. .............................     4,510,584       1.8
+Corrections Corp. of America .....................     3,053,970       2.2
+Public Storage, Inc. .............................     3,011,639       0.3
+Robert Half Intl., Inc. ..........................     2,833,470       3.0
+Starwood Lodging Trust ...........................     2,492,793       0.7
+Circus Circus Enterprises, Inc. ..................     2,335,978       1.7
+Ucar International, Inc. .........................     2,095,487       0.1
+Manor Care, Inc. .................................     2,068,730       7.4
+Outdoor Systems, Inc. ............................     2,057,850       0.4
+                                                                    ------
+                                                                     23.7%
+                                Medium Capitalization
+- --------------------------------------------------------------------------------
+Promus Hotel Corp. ...............................     1,993,035       0.7%
+Vornado Realty Trust .............................     1,914,751       0.3
+Stewart Enterprises, Inc. CL A ...................     1,779,611       2.3
+Quorom Health Group, Inc. ........................     1,763,721       1.9
+La Quinta Inns, Inc. .............................     1,697,850       0.2
+Univision Communications, Inc. ...................     1,667,202       0.3
+Industrie Natuzzi SPA ............................     1,457,499       0.1
+Nine West Group, Inc. ............................     1,368,078       0.4
+Dollar Tree Stores, Inc ..........................     1,310,313       2.8
+Proffitt's Inc. ..................................     1,237,348       0.3
+Heftel Broadcasting Corp. ........................     1,219,235       3.9
+Sun Intl. Hotels, Inc. ...........................     1,208,132       1.5
+Genesis Health Ventures, Inc .....................     1,188,493       1.5
+American Radio Systems Corp. CL A ................     1,172,122       2.8
+Kimco Realty Corp. ...............................     1,150,718       0.4
+Williams-Sonoma, Inc. ............................     1,093,051       0.2
+Choice Hotels Intl. Inc. .........................     1,063,675       5.3
+Storage USA, Inc. ................................     1,041,032       0.2
+Budget Group, Inc. (Formerly Team
+Rental Group, Inc.) ..............................     1,035,921       0.7
+Delta and Pine Land Co. ..........................     1,004,102       1.2
+                                                                    ------
+                                                                      27.0%
+Small Capitalization
+- -------------------------------------------------------------------------------
+Learning Tree Intl., Inc. ........................       976,028       1.0%
+DeVry, Inc. ......................................       948,041       1.4
+Sylvan Learning Systems, Inc. ....................       880,430       0.5
+Vail Resorts, Inc. ...............................       843,493       4.1
+<PAGE>
+
+- --------------------------------------------------------------------------------
+                                                         Equity        % of
+Company                                                 Market Cap   Portfolio
+- --------------------------------------------------------------------------------
+                                                         ('000s)
+
+           Small Capitalization (Continued)
+- --------------------------------------------------------------------------------
+NTL, Inc. ........................................       798,405       2.7%
+Redwood Trust, Inc. ..............................       734,817       0.5
+Seacor Smit, Inc. ................................       728,548       1.0
+Cox Radio, Inc. ..................................       725,563       0.8
+OM Group, Inc. ...................................       724,927       1.6
+Stein Mart, Inc. .................................       692,102       1.0
+Premier Parks, Inc. ..............................       674,837       1.0
+The Registry, Inc. ...............................       649,520       1.0
+Bristol Hotel Co. ................................       637,791       3.0
+Central European Media ...........................       620,923       0.2
+Sun Communities, Inc. ............................       610,838       0.5
+PMT Services, Inc. ...............................       581,025       0.2
+PETCO Animal Supplies ............................       558,570       0.2
+Smart and Final, Inc. ............................       543,524       2.3
+Libbey, Inc. .....................................       528,953       0.8
+Cross Timbers Oil Co. ............................       516,283       2.2
+Marcus Corp. .....................................       504,231       0.5
+Equity Corp. Intl ................................       500,632       0.3
+American Freightways Corp. .......................       488,541       0.1
+Vitalink Pharmacy Svcs., Inc. ....................       485,113       0.6
+Young Broadcasting, Inc. .........................       449,280       1.2
+Metro Networks, Inc. .............................       401,346       1.3
+Education Management Corp. .......................       373,932       0.7
+Flextronics Intl. Ltd. ...........................       371,312       1.7
+American Homepatient, Inc. .......................       369,527       0.3
+Alexander's, Inc. ................................       351,935       0.4
+Avatar Holding, Inc. .............................       304,686       1.1
+Columbus Realty Trust ............................       301,320       0.3
+American Mobile Satellite Corp. ..................       257,480       1.6
+Profit Recovery Group Intl .......................       251,897       0.1
+Telemundo Group, Inc. ............................       243,976       0.4
+Corecomm, Inc. ...................................       225,527       1.0
+Kenneth Cole Productions, Inc. ...................       214,499       0.4
+Shaw Group, Inc. .................................       201,322       0.4
+Saga Communications, Inc. ........................       186,850       1.7
+Chartwell Leisure, Inc. ..........................       179,088       0.5
+DVI, Inc. ........................................       170,449       0.9
+Pediatric Services of America, Inc. ..............       126,148       0.8
+Youth Services Intl., Inc. .......................       120,917       0.6
+USA Truck, Inc. ..................................       105,287       0.2
+Summit Care Corp. ................................        91,433       0.3
+                                                                    ------
+                                                                      43.4%
+
+                                       11
+<PAGE>
+
+- --------------------------------------------------------------------------------
+          B A R O N    F U N D S
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+                                                         Equity        % of
+Company                                                 Market Cap   Portfolio
+- --------------------------------------------------------------------------------
+                                                         ('000s)
+
+Baron Growth & Income Fund
+- --------------------------------------------------------------------------------
+
+                 Large Capitalization
+- --------------------------------------------------------------------------------
+Franklin Resources, Inc. .........................     9,148,607       1.2%
+Charles Schwab Corp. .............................     7,147,295       6.6
+Mirage Resorts, Inc. .............................     4,510,584       1.3
+Crescent Real Estate Equities, Co. ...............     3,241,421       0.4
+Corrections Corp. of America .....................     3,053,970       2.9
+Public Storage, Inc. .............................     3,011,639       1.6
+Robert Half Intl., Inc. ..........................     2,833,470       2.6
+Starwood Lodging Trust ...........................     2,492,793       2.2
+Circus Circus Enterprises, Inc. ..................     2,335,978       1.1
+Manor Care, Inc. .................................     2,068,730       7.4
+                                                                    -------
+                                                                      27.3%
+          Medium Capitalization
+- --------------------------------------------------------------------------------
+Vornado Realty Trust .............................     1,914,751       1.3%
+Beacon Propeties Corp. ...........................     1,840,449       0.4
+Stewart Enterprises, Inc. CL A ...................     1,779,611       1.5
+Quorom Health Group, Inc. ........................     1,763,721       1.4
+Spieker Properties, Inc. .........................     1,602,157       1.0
+Highwoods Properties, Inc. .......................     1,386,798       0.6
+Dollar Tree Stores, Inc ..........................     1,310,313       2.2
+Heftel Broadcasting Corp. ........................     1,219,235       3.5
+Sun Intl. Hotels, Inc. ...........................     1,208,132       2.1
+American Radio Systems Corp. CL A ................     1,172,122       4.3
+Kimco Realty Corp. ...............................     1,150,718       1.2
+Choice Hotels Intl. Inc. .........................     1,063,675      12.5
+Storage USA, Inc. ................................     1,041,032       1.8
+Delta and Pine Land Co. ..........................     1,004,102       1.5
+                                                                    ------
+                                                                      35.2%
+             Small Capitalization
+- ------------------------------------------------------------------------------
+Learning Tree Intl., Inc. ........................       976,028       0.7%
+DeVry, Inc. ......................................       948,041       1.5
+Boston Properties, Inc. ..........................       926,064       1.0
+Vail Resorts, Inc. ...............................       843,493       1.4
+NTL, Inc. ........................................       798,413       2.6
+Reckson Realty Associates Corp. ..................       788,624       0.4
+Redwood Trust, Inc. ..............................       734,817       2.1
+Seacor Smit, Inc. ................................       728,548       0.6
+OM Group, Inc. ...................................       724,927       1.5
+Stein Mart, Inc. .................................       692,102       0.9
+Sun Communities, Inc. ............................       610,838       2.0
+CBL & Associates, Inc. ...........................       575,520       0.7
+Smart and Final, Inc. ............................       543,524       2.6
+Healthcare Realty ................................       535,981       1.0
+Cross Timbers Oil Co. ............................       516,283       0.3
+Marcus Corp. .....................................       504,231       0.6
+Metro Networks, Inc. .............................       401,346       0.8
+Southern Union Co. ...............................       391,597       1.9
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                                                         Equity        % of
+Company                                                 Market Cap   Portfolio
+- --------------------------------------------------------------------------------
+                                                         ('000s)
+
+          Small Capitalization (Continued)
+- ------------------------------------------------------------------------------
+Counsel Corp. ....................................       380,800       1.8%
+Education Management Corp. .......................       373,932       0.5
+Flextronics Intl. Ltd. ...........................       371,312       1.6
+Alexander's, Inc. ................................       351,935       0.4
+Pierce Leahy Corp. ...............................       327,285       0.6
+Avatar Holding, Inc. .............................       304,686       0.4
+Columbus Realty Trust ............................       301,320       1.7
+American Mobile Satellite Corp. ..................       257,480       2.1
+Medallion Financial Corp. ........................       246,254       1.5
+Corecomm, Inc. ...................................       225,527       0.1
+Saga Communications, Inc. ........................       186,850       1.6
+DVI, Inc. ........................................       170,449       1.0
+Pediatric Services of America, Inc. ..............       126,148       1.1
+Youth Services Intl., Inc. .......................       120,917       0.2
+Childrens Comprehensive Services, Inc. ...........       100,655       0.6
+                                                                    ------
+                                                                      37.4%
+
+                                       12
+<PAGE>
+
+- --------------------------------------------------------------------------------
+          B A R O N    F U N D S
+- --------------------------------------------------------------------------------
+
+Table II
+- --------------------------------------------------------------------------------
+Portfolio Risk Characteristics
+- --------------------------------------------------------------------------------
+ 
+The Funds are diversified not only by industry, but also by external risk
+factors that might impact the companies in which the Funds invest. Table II
+displays some of the risk factors that are currently monitored and the
+percentage of each portfolio considered exposed to these factors. The Funds use
+this tool to avoid concentration of risk within the portfolios.
+
+                                                     Baron Asset    Baron Growth
+                                                        Fund       & Income Fund
+                                                   -------------  --------------
+                                                         % of           % of
+                                                     Portfolio       Portfolio
+                                                   -------------  --------------
+Oil Price Sensitivity ............................     24.4           25.3%
+Leverage (Debt greater than 40% of
+Market Cap) ......................................     19.0           21.1
+Foreign Sales Dependent
+(Sales greater than 10%) .........................     11.7           12.8
+Volatility (Beta greater than 1.2) ...............     15.6           18.6
+Over-the-Counter Securities ......................     31.4           25.5
+Unseasoned Securities
+(Publicly owned for less than 3 years) ...........     32.1           33.3
+(Publicly owned for less than 1 year) ............     12.5           16.8
+Turnarounds ......................................      0.5            0.0
+Development Companies ............................      5.2            4.6
+
+ 
+
+                                       13
+<PAGE>
+
+- --------------------------------------------------------------------------------
+          B A R O N    F U N D S
+- --------------------------------------------------------------------------------
+
+Table III
+- --------------------------------------------------------------------------------
+Historical Information
+- --------------------------------------------------------------------------------
+ 
+Table III displays on a quarterly basis the Funds' closing net assets and net
+asset value per share, dividend distributions and the value of $10,000 invested
+in a Fund at the time of its inception.
+ 
+- --------------------------------------------------------------------------------
+Baron Asset Fund
+- --------------------------------------------------------------------------------
+                                Net Asset                   Value of Shares
+                                  Value                    Owned, if Initial
+ Date       Fund Net Assets     Per Share    Dividends   Investment was $10,000*
+- --------------------------------------------------------------------------------
+06/12/87       $      108,728     $ 10.00                            $10,000
+- --------------------------------------------------------------------------------
+06/30/87            1,437,521       10.71                             10,710
+- --------------------------------------------------------------------------------
+09/30/87            3,905,221       11.95                             11,950
+- --------------------------------------------------------------------------------
+12/31/87            4,406,972       10.10       $ 0.197               10,298
+- --------------------------------------------------------------------------------
+03/31/88            6,939,435       11.56                             11,786
+- --------------------------------------------------------------------------------
+06/30/88            9,801,677       12.68                             12,928
+- --------------------------------------------------------------------------------
+09/30/88           11,734,509       12.98                             13,234
+- --------------------------------------------------------------------------------
+12/31/88           15,112,031       12.87         0.701               13,843
+- --------------------------------------------------------------------------------
+03/31/89           22,269,578       14.75                             15,864
+- --------------------------------------------------------------------------------
+06/30/89           31,397,929       16.06                             17,273
+- --------------------------------------------------------------------------------
+09/30/89           47,658,616       17.22                             18,521
+- --------------------------------------------------------------------------------
+12/31/89           49,007,084       14.66         1.409               17,299
+- --------------------------------------------------------------------------------
+03/31/90           50,837,946       13.87                             16,367
+- --------------------------------------------------------------------------------
+06/30/90           54,413,786       14.32                             16,898
+- --------------------------------------------------------------------------------
+09/30/90           40,002,612       10.88                             12,838
+- --------------------------------------------------------------------------------
+12/31/90           42,376,625       11.75         0.198               14,100
+- --------------------------------------------------------------------------------
+03/31/91           47,104,889       13.88                             16,656
+- --------------------------------------------------------------------------------
+06/30/91           45,600,730       13.81                             16,572
+- --------------------------------------------------------------------------------
+09/30/91           47,409,180       14.80                             17,760
+- --------------------------------------------------------------------------------
+12/31/91           46,305,042       15.71         0.035               18,895
+- --------------------------------------------------------------------------------
+03/31/92           48,011,634       16.72                             20,109
+- --------------------------------------------------------------------------------
+06/30/92           42,289,409       15.28                             18,377
+- --------------------------------------------------------------------------------
+09/30/92           43,816,305       16.20                             19,484
+- --------------------------------------------------------------------------------
+12/31/92           47,955,530       17.73         0.162               21,522
+- --------------------------------------------------------------------------------
+03/31/93           50,015,244       18.82                             22,845
+- --------------------------------------------------------------------------------
+06/30/93           52,432,090       19.70                             23,912
+- --------------------------------------------------------------------------------
+09/30/93           59,916,570       21.91                             26,595
+- --------------------------------------------------------------------------------
+12/31/93           64,069,114       21.11         0.774               26,576
+- --------------------------------------------------------------------------------
+03/31/94           63,099,109       20.69                             26,047
+- --------------------------------------------------------------------------------
+06/30/94           68,880,300       20.40                             25,682
+- --------------------------------------------------------------------------------
+09/30/94           80,258,542       22.82                             28,728
+- --------------------------------------------------------------------------------
+12/31/94           87,058,228       22.01         0.656               28,547
+- --------------------------------------------------------------------------------
+03/31/95          160,603,528       24.29                             31,505
+- --------------------------------------------------------------------------------
+06/30/95          202,259,502       25.79                             33,450
+- --------------------------------------------------------------------------------
+09/30/95          289,973,331       29.30                             38,003
+- --------------------------------------------------------------------------------
+12/31/95          353,095,409       29.74         0.034               38,618
+- --------------------------------------------------------------------------------
+03/31/96          638,297,904       34.14                             44,332
+- --------------------------------------------------------------------------------
+06/30/96        1,124,647,802       36.65                             47,591
+- --------------------------------------------------------------------------------
+09/30/96        1,166,057,654       35.50                             46,098
+- --------------------------------------------------------------------------------
+12/31/96        1,326,321,785       36.23         0.039               47,097
+- --------------------------------------------------------------------------------
+03/31/97        1,663,347,667       34.98                             45,472
+- --------------------------------------------------------------------------------
+06/30/97        2,306,228,855       41.74                             54,260
+- --------------------------------------------------------------------------------
+* Assumes all dividends were reinvested and no shares were
+redeemed.
+
+- --------------------------------------------------------------------------------
+Baron Growth & Income Fund
+- --------------------------------------------------------------------------------
+                                Net Asset                   Value of Shares
+                                  Value                    Owned, if Initial
+ Date       Fund Net Assets     Per Share    Dividends   Investment was $10,000*
+- --------------------------------------------------------------------------------
+  01/03/95     $    741,000      $ 10.00                          $10,000
+- --------------------------------------------------------------------------------
+  03/31/95        3,425,507        11.78                           11,780
+- --------------------------------------------------------------------------------
+  06/30/95        7,231,619        13.18                           13,180
+- --------------------------------------------------------------------------------
+  09/30/95       28,632,467        14.77                           14,770
+- --------------------------------------------------------------------------------
+  12/31/95       41,043,705        15.11       0.142               15,254
+- --------------------------------------------------------------------------------
+  03/31/96       77,337,831        16.90                           17,061
+- --------------------------------------------------------------------------------
+  06/30/96      172,070,435        18.20                           18,373
+- --------------------------------------------------------------------------------
+  09/30/96      207,234,494        18.40                           18,575
+- --------------------------------------------------------------------------------
+  12/31/96      243,983,507        19.04       0.255               19,483
+- --------------------------------------------------------------------------------
+  03/31/97      273,907,177        18.57                           19,002
+- --------------------------------------------------------------------------------
+  06/30/97      316,981,759        21.82                           22,328
+- --------------------------------------------------------------------------------
+
+* Assumes all dividends were reinvested and no shares were redeemed.
+
+- --------------------------------------------------------------------------------
+Performance Information
+- --------------------------------------------------------------------------------
+
+BARON ASSET FUND'S
+AVERAGE ANNUAL RETURN
+
+                          Period ended June 30, 1997
+
+One year                                                              14.0%
+- --------------------------------------------------------------------------------
+Two years                                                             27.4%
+- --------------------------------------------------------------------------------
+Three years                                                           28.3%
+- --------------------------------------------------------------------------------
+Four years                                                            22.7%
+- --------------------------------------------------------------------------------
+Five years                                                            24.2%
+- --------------------------------------------------------------------------------
+Ten years                                                             17.6%
+- --------------------------------------------------------------------------------
+Since inception June 12, 1987                                         18.3%
+- --------------------------------------------------------------------------------
+
+BARON GROWTH & INCOME FUND'S
+AVERAGE ANNUAL RETURN
+
+                          Period ended June 30, 1997
+
+One year                                                              21.5%
+- --------------------------------------------------------------------------------
+Two years                                                             30.2%
+- --------------------------------------------------------------------------------
+Since inception January 3, 1995                                       37.9%
+- --------------------------------    -----
+
+The performance data represents past performance. Investment returns and
+principle value will fluctuate so that an investor's shares, when redeemed, may
+be worth more or less than their cost. For more complete information about
+Baron Funds including charges and expenses, call or write for a prospectus.
+Read it carefully before you invest or send money. This report is not
+authorized for use as an offer of sale or a solicitation of an offer to buy
+shares of Baron Funds unless accompanied or preceded by the Funds' current
+prospectus.
+
+                                       14
+<PAGE>
+
+- --------------------------------------------------------------------------------
+  B A R O N    A S S E T    F U N D
+- --------------------------------------------------------------------------------
+
+STATEMENT OF NET ASSETS
+- --------------------------------------------------------------------------------
+June 30, 1997 (Unaudited)   
+                                                                      Market
+        Shares                                                         Value
+- --------------------------------------------------------------------------------
+Common Stocks (94.72%)
+- --------------------------------------------------------------------------------
+                   Amusement and Recreation Services (20.22%)
+      1,780,000    Bristol Hotel Co.*#                          $    68,530,000
+        783,000    Chartwell Leisure, Inc.*                          10,472,625
+      7,220,000    Choice Hotels Intl. Inc.*#                       122,288,750
+      1,580,000    Circus Circus Enterprises, Inc.*                  38,907,500
+        250,000    La Quinta Inns, Inc.                               5,468,750
+        445,000    Marcus Corp.                                      10,958,125
+      1,655,000    Mirage Resorts, Inc.*                             41,788,750
+        625,000    Premier Parks, Inc.*                              23,046,875
+        405,000    Promus Hotel Corp.*                               15,693,750
+        937,900    Sun Intl. Hotels, Ltd*                            34,643,681
+      3,745,000    Vail Resorts, Inc.*#                              94,561,250
+                                                                ---------------
+                                                                    466,360,056
+                   Business Services (7.63%)
+        450,000    Budget Group, Inc. (Formerly Team                 15,525,000
+                     Rental Group, Inc.)*
+        240,000    Equity Corp. Intl.*                                5,805,000
+        360,000    PMT Services, Inc.*                                5,490,000
+        180,000    Profit Recovery Group Intl. *                      2,497,500
+        517,500    The Registry, Inc.*                               23,805,000
+      1,465,000    Robert Half Intl., Inc.*                          68,946,563
+      1,281,000    Stewart Enterprises, Inc. CL A                    53,802,000
+                                                                ---------------
+                                                                    175,871,063
+
+                   Chemical (1.58%)
+      1,100,000    OM Group, Inc. #                                  36,437,500
+
+                   Communications (3.71%)
+      3,500,000    American Mobile Satellite Corp.*#                 35,875,000
+      1,270,500    CoreComm, Inc.*#                                  21,916,125
+      1,115,000    NTL, Inc.*                                        27,735,625
+                                                                ---------------
+                                                                     85,526,750
+
+                   Education (3.70%)
+      1,225,000    DeVry, Inc.*                                      33,075,000
+        635,000    Education Management Corp.*                       16,510,000
+        526,500    Learning Tree Intl., Inc.*                        23,363,437
+        366,000    Sylvan Learning Systems, Inc.*                    12,444,000
+                                                                ---------------
+                                                                     85,392,437
+                   Energy (3.15%)
+      2,620,000    Cross Timbers Oil Co.#                            50,435,000
+        423,000    Seacor Smit, Inc.*                                22,128,188
+                                                                ---------------
+                                                                     72,563,188
+                   Financial (6.97%)
+      3,455,000    Charles Schwab Corp.                             140,575,313
+      1,393,200    DVI, Inc.*#                                       20,201,400
+                                                                ---------------
+                                                                    160,776,713
+                   Food and Agriculture (1.19%)
+        770,000    Delta and Pine Land Co.                           27,431,286
+
+                   Government Services (2.53%)
+      1,250,000    Corrections Corp. of America*                     49,687,500
+        710,000    Youth Services Intl., Inc.*#                       8,608,750
+                                                                ---------------
+                                                                     58,296,250
+                   Health Services (12.86%)
+        294,000    American HomePatient, Inc.*                        7,350,000
+      1,031,000    Genesis Health Ventures, Inc.*                    34,796,250
+      5,250,000    Manor Care, Inc.#                                171,281,250
+        935,000    Pediatric Services of America, Inc.*#             18,816,875
+
+<PAGE>
+- --------------------------------------------------------------------------------
+June 30, 1997 (Unaudited)   
+                                                                      Market
+        Shares                                                         Value
+- --------------------------------------------------------------------------------
+Common Stocks (94.72%)
+- --------------------------------------------------------------------------------
+      1,230,000    Quorum Health Group, Inc.*                   $    43,972,500
+        446,500    Summit Care Corp.*#                                6,027,750
+        754,300    Vitalink Pharmacy Svcs., Inc.*                    14,425,987
+                                                                ---------------
+                                                                    296,670,612
+
+                   Machinery & Electronics (.10%)
+         50,000    Ucar International, Inc.*                          2,287,500
+      1,485,000    Flextronics Intl. Ltd.*#                          40,095,000
+
+                   Manufacturing (2.10%)
+        515,000    Shaw Group, Inc.*                                  8,368,750
+                                                                ---------------
+                                                                     48,463,750
+
+                   Media and Entertainment (12.35%)
+      1,325,000    American Radio Systems Corp. CL A*#               52,834,375
+        159,000    Central European Media*                            4,134,000
+        675,000    Cox Radio, Inc.*#                                 17,296,875
+      1,635,000    Heftel Broadcasting Corp.*#                       90,333,750
+      1,230,000    Metro Networks, Inc.*#                            29,827,500
+        220,000    Outdoor Systems, Inc.*                             8,415,000
+      2,100,000    Saga Communications, Inc.*#                       38,850,000
+        335,000    Telemundo Group, Inc.*                             8,040,000
+        180,000    Univision Communication, Inc.*                     7,042,500
+        860,000    Young Broadcasting, Inc.*#                        27,950,000
+                                                                ---------------
+                                                                    284,724,000
+
+                   Real Estate & REIT's (4.57%)
+        145,000    Alexander's, Inc.*                                10,204,375
+        732,800    Avatar Holdings, Inc.*#                           24,548,800
+        280,000    Columbus Realty Trust                              6,370,000
+        270,000    Kimco Realty Corp.                                 8,572,500
+        212,000    Public Storage, Inc.                               6,201,000
+        265,000    Redwood Trust, Inc.                               12,388,750
+        360,000    Starwood Lodging Trust                            15,367,500
+        140,000    Storage USA, Inc.                                  5,355,000
+        315,000    Sun Communities, Inc.                             10,572,188
+         80,000    Vornado Realty Trust                               5,770,000
+                                                                ---------------
+                                                                    105,350,113
+
+                   Retail Trade & Restaurants (7.56%)
+      1,260,000    Dollar Tree Stores, Inc.*                         63,472,500
+        496,000    Kenneth Cole Productions, Inc. *#                  8,091,000
+        260,000    Nine West Group, Inc.*                             9,928,750
+        170,000    Petco Animal Supplies, Inc.*                       5,100,000
+        140,000    Proffitt's Inc.*                                   6,142,500
+      2,185,000    Smart and Final, Inc.#                            53,532,500
+        760,000    Stein Mart, Inc.*                                 22,800,000
+        125,000    Williams-Sonoma, Inc.*                             5,343,750
+                                                                ---------------
+                                                                    174,411,000
+                   Transportation (0.34%)
+        200,000    American Freightways Corp.*                        3,125,000
+        420,000    USA Truck, Inc.*                                   4,725,000
+                                                                ---------------
+                                                                      7,850,000
+
+                   Wholesale Trade (0.90%)
+         70,000    Industrie Natuzzi SPA                              1,793,750
+        540,000    Libbey, Inc.                                      18,900,000
+                                                                ---------------
+                                                                     20,693,750
+ 
+                                       15
+<PAGE>
+
+- --------------------------------------------------------------------------------
+  B A R O N    A S S E T    F U N D
+- --------------------------------------------------------------------------------
+STATEMENT OF NET ASSETS
+- --------------------------------------------------------------------------------
+June 30, 1997 (Unaudited)
+Shares or                                                            Market
+Principal Amount                                                      Value
+- --------------------------------------------------------------------------------
+Miscellaneous (3.26%)                                            $   75,261,147
+                                                                ---------------
+Total Common Stocks
+ (Cost $1,670,787,541)                                            2,184,367,115
+                                                                ---------------
+- --------------------------------------------------------------------------------
+Convertible Preferred (0.48%)
+- --------------------------------------------------------------------------------
+
+                   Media and Entertainment (0.49%)
+    200,000        American Radio Systems
+                   Corp. 7% Conv. +
+                   (Cost $10,000,000)                                11,200,000
+
+- --------------------------------------------------------------------------------
+Corporate Bonds (1.81%)
+- --------------------------------------------------------------------------------
+                   Communications (1.54%)
+$20,500,000        Intl. CableTel, Inc. 7.25%
+                   Conv. Sub. Notes 04/15/2005+                      22,345,000
+ 14,000,000        Intl. CableTel, Inc. 7.0%
+                   Conv. Sub. Notes 06/15/2008                       13,230,000
+                                                                ---------------
+                                                                     35,575,000
+                   Government Services (0.27%)
+  5,450,000        Youth Services Intl. Inc. 7.00%
+                   Conv. Sub. Deb. 02/01/2006                         6,104,000
+                                                                ---------------
+Total Corporate Bonds
+(Cost $41,352,215)                                                   41,679,000
+                                                                ---------------
+<PAGE>
+June 30, 1997 (Unaudited)
+                                                                     Market
+Principal Amount                                                      Value
+- --------------------------------------------------------------------------------
+ Short Term Money Market Instruments (4.07%)
+- --------------------------------------------------------------------------------
+$93,786,000        Associates Corp. 6.16%
+                   Due 07/01/97                                  $   93,786,000
+                                                                 --------------
+Total Short Term Money Market
+  Instruments (Cost $93,786,000)                                     93,786,000
+                                                                 --------------
+Total Investments
+  (Cost $1,815,925,756**)                                         2,331,032,115
+                                                                 --------------
+Liabilities Less
+   Cash and Other Assets                                            (24,803,260)
+                                                                 --------------
+Net Assets (Equivalent to $41.74 per
+  share based on 55,248,765 shares of
+  beneficial interest outstanding)                               $2,306,228,855
+                                                                 ==============
+- ----------
+  % Represents percentage of Net Assets
+  + Restricted Securities
+  # Affiliated Issuers
+  * Non-income producing securities
+ ** For Federal income tax purposes the cost basis is  $1,815,802,780.
+    Aggregate unrealized appreciation and depreciation  of investments are
+    $561,447,008 and $46,217,673,  respectively.
+
+
+                                       16
+<PAGE>
+
+- --------------------------------------------------------------------------------
+ B A R O N   G R O W T H   &   I N C O M E   F U N D
+- --------------------------------------------------------------------------------
+STATEMENT OF NET ASSETS
+- --------------------------------------------------------------------------------
+June 30, 1997 (Unaudited)                
+                                                                    Market
+Shares                                                               Value
+- --------------------------------------------------------------------------------
+Common Stocks (96.51%)
+- --------------------------------------------------------------------------------
+                   Amusement and Recreation Services (18.91%)
+      2,335,000    Choice Hotels Intl., Inc.*                   $    39,549,063
+        140,000    Circus Circus Enterprises, Inc.*                   3,447,500
+         80,000    Marcus Corp.                                       1,970,000
+        160,000    Mirage Resorts, Inc.*                              4,040,000
+        180,000    Sun Intl. Hotels, Ltd.*                            6,648,750
+        170,000    Vail Resorts, Inc.*                                4,292,500
+                                                                ---------------
+                                                                     59,947,813
+                   Business Services (4.09%)
+        175,000    Robert Half Intl., Inc.*                           8,235,938
+        112,500    Stewart Enterprises, Inc. CL A                     4,725,000
+                                                                ---------------
+                                                                     12,960,938
+                   Chemical (1.46%)
+        140,000    OM Group, Inc.                                     4,637,500
+
+                   Communications (3.44%)
+        640,000    American Mobile Satellite Corp.*                   6,560,000
+         20,000    CoreComm, Inc.*                                      345,000
+        160,000    NTL, Inc.*                                         3,980,000
+                                                                ---------------
+                                                                     10,885,000
+                   Education (3.30%)
+        140,000    Children's Comprehensive Services,
+                     Inc.*                                            1,977,500
+        175,000    DeVry, Inc.*                                       4,725,000
+         58,000    Education Management Corp.*                        1,508,000
+         51,000    Learning Tree Intl., Inc.*                         2,263,125
+                                                                ---------------
+                                                                     10,473,625
+                   Energy (0.30%)
+         50,000    Cross Timbers Oil Co.                                962,500
+                                                    
+                   Financial (10.18%)
+        513,000    Charles Schwab Corp.                              20,872,687
+        220,000    DVI, Inc.*                                         3,190,000
+         50,000    Franklin Resources, Inc.                           3,628,125
+        240,000    Medallion Financial Corp.                          4,590,000
+                                                                ---------------
+                                                                     32,280,812
+                   Food and Agriculture (1.46%)
+        130,000    Delta and Pine Land Co.                            4,631,250
+
+                   Government Services (3.08%)
+        230,000    Corrections Corp. of America*                      9,142,500
+         50,000    Youth Services Intl., Inc.*                          606,250
+                                                                ---------------
+                                                                      9,748,750
+                   Health Services (11.64%)
+        375,000    Counsel Corp.*                                     5,578,125
+        720,000    Manor Care, Inc.                                  23,490,000
+        167,500    Pediatric Services of America, Inc.*               3,370,938
+        125,000    Quorum Health Group, Inc.*                         4,468,750
+                                                                ---------------
+                                                                     36,907,813
+                   Manufacturing (1.62%)
+        190,000    Flextronics Intl. Ltd.*                            5,130,000
+
+<PAGE>
+- --------------------------------------------------------------------------------
+June 30, 1997 (Unaudited)                
+                                                                    Market
+Shares                                                               Value
+- --------------------------------------------------------------------------------
+                   Media & Entertainment (8.79%)
+        230,000    American Radio Systems Corp. CL A*           $     9,171,250
+        200,000    Heftel Broadcasting Corp.*                        11,050,000
+        110,000    Metro Networks, Inc.*                              2,667,500
+        268,750    Saga Communications, Inc.*                         4,971,875
+                                                                ---------------
+                                                                     27,860,625
+                   Real Estate & REIT's (20.65%) 
+         16,000    Alexander's, Inc.*                                 1,126,000
+         35,000    Avatar Holdings, Inc.*                            1,172,,500
+         40,000    Beacon Properties Corp.                            1,332,500
+        120,000    Boston Properties, Inc.*                           3,300,000
+         90,000    CBL & Associates, Inc.                             2,160,000
+        230,000    Columbus Realty Trust                              5,232,500
+         35,000    Crescent Real Estate Equities, Co.                 1,111,250
+        110,000    Healthcare Realty Trust, Inc.                      3,066,250
+         60,000    Highwoods Properties, Inc.                         1,931,250
+        120,000    Kimco Realty Corp.                                 3,810,000
+        100,000    Pierce Leahy Corp.*                                1,800,000
+        170,000    Public Storage, Inc.                               4,972,500
+         60,000    Reckson Associates Realty Corp.                    1,380,000
+        145,000    Redwood Trust, Inc.                                6,778,750
+         90,000    Spieker Properties, Inc.                           3,166,875
+        165,000    Starwood Lodging Trust                             7,043,437
+        150,000    Storage USA, Inc.                                  5,737,500
+        190,000    Sun Communities, Inc.                              6,376,875
+         55,000    Vornado Realty Trust                               3,966,875
+                                                                ---------------
+                                                                     65,465,062
+                   Retail Trade & Restaurants (5.71%)
+        140,000    Dollar Tree Stores, Inc.*                          7,052,500
+        340,000    Smart and Final, Inc.                              8,330,000
+         90,000    Stein Mart, Inc.*                                  2,700,000
+                                                                ---------------
+                                                                     18,082,500
+                   Utility Services (1.88%)
+        260,000    Southern Union Co.*                                5,947,500
+                                                                ---------------
+Total Common Stocks
+(Cost $238,883,807)                                                 305,921,688
+                                                                  -------------
+
+- --------------------------------------------------------------------------------
+Convertible Preferred (1.41%)
+- --------------------------------------------------------------------------------
+                   Media and Entertainment
+         80,000    American Radio Systems 7% Conv.
+                   Corp.+
+                   (Cost $3,890,000)                                  4,480,000
+                                        
+
+                                       17
+<PAGE>
+
+- --------------------------------------------------------------------------------
+ B A R O N   G R O W T H   &   I N C O M E   F U N D
+- --------------------------------------------------------------------------------
+STATEMENT OF NET ASSETS
+- --------------------------------------------------------------------------------
+June 30, 1997 (Unaudited)                
+                                                                    Market
+Principal Amount                                                     Value
+- --------------------------------------------------------------------------------
+Corporate Bonds (1.86%)
+- --------------------------------------------------------------------------------
+                   Communications (1.28%)
+     $2,000,000    Intl. CableTel. Inc. 7.25% Conv. Sub.
+                   Notes 4/15/2005+                                  $2,180,000
+      2,000,000    Intl. CableTel, Inc. 7.00% Conv. Sub.
+                   Notes 6/15/2008                                    1,890,000
+                                                                    -----------
+                                                                      4,070,000
+                   Energy (0.57%)
+       1,700,000   Seacor Holdings 5.375% Conv. Due
+                   11/15/2006+                                        1,793,500
+
+                   Real Estate & REITs (0.01%)
+         36,800    Avatar Holdings, Inc. 8.0% Sr Deb
+                   10/01/2000                                            33,212
+                                                                    -----------
+Total Corporate Bonds
+(Cost $5,829,938)                                                    $5,896,712
+                                                                    -----------
+<PAGE>
+- --------------------------------------------------------------------------------
+June 30, 1997 (Unaudited)                
+                                                                    Market
+                                                                     Value
+- --------------------------------------------------------------------------------
+Total Investments
+(Cost $248,603,745**)                                               316,298,400
+                                                                  -------------
+Cash and Other Assets
+Less Liabilities                                                        683,359
+                                                                  -------------
+Net Assets (Equivalent to $21.82
+  per share based on 14,525,575
+  shares of beneficial interest
+  outstanding)                                                     $316,981,759
+                                                                  =============
+- ----------
+ % Represents percentage of Net Assets
+ * Non-Income producing securities
+ + Restricted Securities
+** For Federal income tax purposes the cost basis is  $248,329,944. Aggregate
+   unrealized appreciation and depreciation  of investments are $74,206,935 and
+   $6,238,479, respectively.
+
+- --------------------------------------------------------------------------------
+NOTE
+ 
+Morningstar proprietary ratings reflect historical risk-adjusted performance as
+of June 30, 1996 and are subject to change every month. Past performance is not
+guarantee of future results. The Morningstar 5 star rating is for the overall
+three-, five, and ten-year period ended June 30, 1997. Baron Asset Fund is
+ranked in the small-growth category. Morningstar ratings are calculated from
+the Fund s three-, five- and ten-year average annual returns in excess of
+90-day Treasury bill returns with appropriate fee adjustments, and a risk
+factor that reflects fund performance below 90-day T-bill returns. Ten percent
+of the funds in an investment category receive five stars, 22.5% receive four
+stars, 35% receive three stars, 22.5% receive two stars, and 10% receive one
+star. Baron Asset Fund received 4 stars for a 3-year period, 5 stars for a
+5-year period and 5 stars for a 10-year period.
+
+Baron Growth & Income Fund's ranking is according to Lipper Analytical
+Services. Lipper ranks funds on net total return. Ranking from inception on
+January 3, 1995 through June 30, 1997 Baron Growth & Income Fund is number 1
+out of 408 growth & income funds.
+
+Investors Business Daily' s rankings are based on 36 month performance versus
+all other mutual funds and recalculates each month on a total return basis,
+including dividends and capital gains. The top 5% of funds are rated A+, the
+top 10% are A, the top 15% are A-, the top 20% are B+, the top 25% are B, the
+top 30% are B-, the top 35% are C+, the top 40% are C, the top 45% are C-, the
+top 50% are D+, the top 60% are D, the top 70% are D-, and below 70% are E.
+
+Fortune ranked Baron Asset Fund number 1 of small cap funds for a five years
+period ending June 30, 1997, net of annual expenses, brokerage costs and sales
+loads. The returns were provided by Morningstar (see above). Fortune used only
+diversified funds in existence for at least five years with the same manager
+for the full five year period. The funds had to be open to new investors, be
+available in at least 25 states, have a minimum investment of less than
+$25,000, and hold at least $25 million in net assets. The total number of funds
+used in all the categories was 225.
+
+
+                                       18
+<PAGE>
+
+                                                                           3QR97
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
