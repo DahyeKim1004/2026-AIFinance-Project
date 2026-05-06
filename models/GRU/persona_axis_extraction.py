@@ -26,6 +26,7 @@ import pandas as pd
 # torchvision. This pipeline is text-only, and some pyenv builds lack _lzma,
 # which torchvision imports indirectly.
 os.environ.setdefault("TRANSFORMERS_NO_TORCHVISION", "1")
+os.environ.setdefault("DISABLE_SAFETENSORS_CONVERSION", "1")
 
 try:
     from scipy.special import expit   # sigmoid
@@ -44,27 +45,8 @@ except ImportError:
 
 DEFAULT_INPUT_DIR = Path("finbert_embedding/results")
 DEFAULT_OUTPUT_DIR = Path("models/GRU/persona_scores")
-DEFAULT_AXIS_PATH = Path("models/GRU/axis_vectors_auto_v2.npy")
+DEFAULT_AXIS_PATH = Path("models/GRU/axis_vectors_seed.npy")
 DEFAULT_COMBINED_OUTPUT = DEFAULT_OUTPUT_DIR / "persona_scores_all_investors.csv"
-
-INVESTOR_PROTOTYPE_POLES = {
-    "risk_tolerance": {
-        "high": ["INV_BARON", "INV_DRIEHAUS"],
-        "low": ["INV_BUFFETT", "INV_HAWKINS"],
-    },
-    "time_horizon": {
-        "high": ["INV_BUFFETT", "INV_YACKTMAN"],
-        "low": ["INV_DRIEHAUS", "INV_GRANTHAM"],
-    },
-    "loss_aversion": {
-        "high": ["INV_HAWKINS", "INV_YACKTMAN"],
-        "low": ["INV_BARON", "INV_DRIEHAUS"],
-    },
-    "macro_sensitivity": {
-        "high": ["INV_GRANTHAM"],
-        "low": ["INV_BUFFETT", "INV_YACKTMAN"],
-    },
-}
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -308,6 +290,13 @@ def load_finbert():
     if not TORCH_AVAILABLE:
         raise ImportError("torch and transformers are required to encode seeds. "
                           "Install with: pip install torch transformers")
+    # This script is text-only. Some local Python builds can fail when
+    # Transformers tries to inspect optional torchvision components.
+    import transformers.utils as transformers_utils
+    import transformers.utils.import_utils as import_utils
+    transformers_utils.is_torchvision_available = lambda: False
+    import_utils.is_torchvision_available = lambda: False
+
     tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
     model = AutoModel.from_pretrained("ProsusAI/finbert")
     model.eval()
@@ -344,42 +333,6 @@ def build_axis_vectors(axis_seeds, tokenizer, model):
         direction = direction / np.linalg.norm(direction)
         axis_vectors[axis] = direction
         print(f"    high seeds: {len(poles['high'])}  |  low seeds: {len(poles['low'])}")
-    return axis_vectors
-
-
-def build_axis_vectors_from_investor_prototypes(df, prototype_poles=None):
-    """
-    Build axis vectors directly from the six investor embedding files.
-
-    This is a practical fallback when the environment cannot re-encode seed
-    sentences with FinBERT. It contrasts mean document embeddings for investors
-    chosen as high/low prototypes for each axis.
-    """
-    prototype_poles = prototype_poles or INVESTOR_PROTOTYPE_POLES
-    if "investor_id" not in df.columns:
-        raise ValueError("investor_id column is required for investor_prototype axes.")
-
-    dim_cols = embedding_columns(df)
-    work = df[["investor_id"] + dim_cols].dropna(subset=["investor_id"]).copy()
-    investor_means = work.groupby("investor_id")[dim_cols].mean()
-
-    axis_vectors = {}
-    available = set(investor_means.index)
-    for axis, poles in prototype_poles.items():
-        high = [inv for inv in poles["high"] if inv in available]
-        low = [inv for inv in poles["low"] if inv in available]
-        if not high or not low:
-            raise ValueError(
-                f"Cannot build {axis}: high={high}, low={low}, "
-                f"available={sorted(available)}"
-            )
-        high_vec = investor_means.loc[high].mean(axis=0).to_numpy(dtype=np.float32)
-        low_vec = investor_means.loc[low].mean(axis=0).to_numpy(dtype=np.float32)
-        direction = high_vec - low_vec
-        direction = direction / max(np.linalg.norm(direction), 1e-12)
-        axis_vectors[axis] = direction
-        print(f"  Prototype axis {axis}: high={high} | low={low}")
-
     return axis_vectors
 
 
@@ -462,22 +415,11 @@ def sanity_check(df):
 # 5. MAIN
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def read_embedding_files(input_files):
-    frames = []
-    for path in input_files:
-        frame = pd.read_csv(path)
-        frame["embedding_source_file"] = Path(path).name
-        frames.append(frame)
-    return pd.concat(frames, ignore_index=True)
-
-
 def load_or_build_axis_vectors(
     axes_npy=None,
     reload_axes=False,
-    axis_method="auto",
-    reference_df=None,
 ):
-    """Load cached axis vectors or encode seed sentences and cache them."""
+    """Load cached seed-defined axis vectors or encode seed sentences and cache them."""
     axes_path = Path(axes_npy) if axes_npy else None
     axis_vectors = None
 
@@ -487,24 +429,9 @@ def load_or_build_axis_vectors(
         print(f"  Axes loaded: {list(axis_vectors.keys())}")
 
     if axis_vectors is None:
-        if axis_method in ("seed", "seeds", "auto"):
-            try:
-                print("Encoding seed sentences with FinBERT ...")
-                tokenizer, model = load_finbert()
-                axis_vectors = build_axis_vectors(AXIS_SEEDS, tokenizer, model)
-            except Exception as exc:
-                if axis_method in ("seed", "seeds"):
-                    raise
-                print("\nSeed-sentence axis build failed; falling back to investor prototypes.")
-                print(f"  Reason: {type(exc).__name__}: {exc}")
-
-        if axis_vectors is None:
-            if reference_df is None:
-                raise ValueError(
-                    "reference_df is required for investor_prototype axis method."
-                )
-            print("Building axis vectors from investor prototype embeddings ...")
-            axis_vectors = build_axis_vectors_from_investor_prototypes(reference_df)
+        print("Encoding seed sentences with FinBERT ...")
+        tokenizer, model = load_finbert()
+        axis_vectors = build_axis_vectors(AXIS_SEEDS, tokenizer, model)
 
         if axes_path:
             axes_path.parent.mkdir(parents=True, exist_ok=True)
@@ -565,15 +492,11 @@ def main(
     axes_npy=DEFAULT_AXIS_PATH,
     reload_axes=False,
     pattern="finbert_embeddings_*.csv",
-    axis_method="auto",
 ):
     if input_csv:
-        reference_df = pd.read_csv(input_csv)
         axis_vectors = load_or_build_axis_vectors(
             axes_npy=axes_npy,
             reload_axes=reload_axes,
-            axis_method=axis_method,
-            reference_df=reference_df,
         )
         out = output_csv or output_path_for(input_csv, output_dir)
         df = score_file(input_csv, out, axis_vectors)
@@ -589,12 +512,9 @@ def main(
     for path in input_files:
         print(f"  - {path}")
 
-    reference_df = read_embedding_files(input_files)
     axis_vectors = load_or_build_axis_vectors(
         axes_npy=axes_npy,
         reload_axes=reload_axes,
-        axis_method=axis_method,
-        reference_df=reference_df,
     )
 
     scored = []
@@ -655,16 +575,6 @@ if __name__ == "__main__":
         help="Path to save or load axis direction vectors (.npy).",
     )
     parser.add_argument(
-        "--axis_method",
-        choices=["auto", "seed", "seeds", "investor_prototype"],
-        default="auto",
-        help=(
-            "Axis construction method. auto tries FinBERT seed sentences, then "
-            "falls back to investor prototype embeddings if the local environment "
-            "cannot load FinBERT."
-        ),
-    )
-    parser.add_argument(
         "--reload_axes",
         action="store_true",
         help="Force re-encoding of seed sentences even if .npy exists.",
@@ -680,5 +590,4 @@ if __name__ == "__main__":
         axes_npy=args.save_axes,
         reload_axes=args.reload_axes,
         pattern=args.pattern,
-        axis_method=args.axis_method,
     )

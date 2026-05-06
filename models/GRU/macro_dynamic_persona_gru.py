@@ -425,15 +425,52 @@ def plot_investor_trajectories(predictions: pd.DataFrame, output_dir: Path) -> N
 def plot_macro_state_heatmap(modeling: pd.DataFrame, output_dir: Path) -> None:
     heat = modeling.groupby("macro_state_label")[PERSONA_COLS].mean().sort_index()
     fig, ax = plt.subplots(figsize=(9, max(3.5, 0.45 * len(heat))))
-    image = ax.imshow(heat.to_numpy(), aspect="auto", cmap="viridis", vmin=0, vmax=1)
+    values = heat.to_numpy()
+    value_min = float(np.nanmin(values))
+    value_max = float(np.nanmax(values))
+    padding = max((value_max - value_min) * 0.08, 1e-4)
+    image = ax.imshow(
+        values,
+        aspect="auto",
+        cmap="viridis",
+        vmin=value_min - padding,
+        vmax=value_max + padding,
+    )
     ax.set_xticks(np.arange(len(PERSONA_COLS)))
     ax.set_xticklabels([col.replace("persona_", "").replace("_", " ").title() for col in PERSONA_COLS], rotation=25, ha="right")
     ax.set_yticks(np.arange(len(heat.index)))
     ax.set_yticklabels(heat.index)
     ax.set_title("Average Persona Score by Macro State")
+    for row_idx in range(values.shape[0]):
+        for col_idx in range(values.shape[1]):
+            ax.text(col_idx, row_idx, f"{values[row_idx, col_idx]:.4f}", ha="center", va="center", color="white", fontsize=8)
     fig.colorbar(image, ax=ax, label="Persona score")
     fig.tight_layout()
     fig.savefig(output_dir / "macro_state_persona_heatmap.png", dpi=180)
+    plt.close(fig)
+
+    delta = heat - modeling[PERSONA_COLS].mean()
+    delta_values = delta.to_numpy()
+    max_abs_delta = max(float(np.nanmax(np.abs(delta_values))), 1e-4)
+    fig, ax = plt.subplots(figsize=(9, max(3.5, 0.45 * len(delta))))
+    image = ax.imshow(
+        delta_values,
+        aspect="auto",
+        cmap="coolwarm",
+        vmin=-max_abs_delta,
+        vmax=max_abs_delta,
+    )
+    ax.set_xticks(np.arange(len(PERSONA_COLS)))
+    ax.set_xticklabels([col.replace("persona_", "").replace("_", " ").title() for col in PERSONA_COLS], rotation=25, ha="right")
+    ax.set_yticks(np.arange(len(delta.index)))
+    ax.set_yticklabels(delta.index)
+    ax.set_title("Macro-State Persona Deviation from Overall Mean")
+    for row_idx in range(delta_values.shape[0]):
+        for col_idx in range(delta_values.shape[1]):
+            ax.text(col_idx, row_idx, f"{delta_values[row_idx, col_idx]:+.4f}", ha="center", va="center", color="black", fontsize=8)
+    fig.colorbar(image, ax=ax, label="Deviation from overall mean")
+    fig.tight_layout()
+    fig.savefig(output_dir / "macro_state_persona_delta_heatmap.png", dpi=180)
     plt.close(fig)
 
 
